@@ -2,32 +2,61 @@
 <channels>
 <channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] === ADDON TWOADDONS BR ===[/COLOR][/B]</name>
-<thumbnail>https://0.0.0.0</thumbnail>
-<fanart>https://0.0.0.0</fanart>
+<thumbnail>https://ia601507.us.archive.org/4/items/two-addons-bm-vindos/two%20addons%20BM%20VINDOS.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue] Bem vindo ao addon TWOADDONS BR. [/COLOR]</info>
 <externallink>https://0.0.0.0</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]TV AO VIVO [/COLOR][/B]</name>
-<thumbnail>https://0.0.0.0</thumbnail>
-<fanart>https://0.0.0.0</fanart>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
+<thumbnail>https://ia601501.us.archive.org/9/items/two-addons-filmes/two%20addonsFILMES.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]LANÇAMENTOS [/COLOR][/B]</name>
-<thumbnail>https://0.0.0.0</thumbnail>
-<fanart>https://0.0.0.0</fanart>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] SÉRIES [/COLOR][/B]</name>
+<thumbnail>https://ia601402.us.archive.org/12/items/two-addons-series/two%20addons%20SERIES.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] DESENHOS [/COLOR][/B]</name>
+<thumbnail>https://ia601402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
+</channel>
 
+<channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TOKUSATSU [/COLOR][/B]</name>
+<thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu/two%20addonsTOKUSATSU.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
+</channel>
 
-
-
-
+<channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] GOSPEL [/COLOR][/B]</name>
+<thumbnail>https://0.0.0.0</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<externallink></externallink>
+</channel>
+  
+  <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] CANAL RICOS [/COLOR][/B]</name>
+<thumbnail>https://ia804608.us.archive.org/6/items/logo-canal-ricos-fundo-branco/LOGO%20CANAL%20RICOS%20FUNDO%20BRANCO.png</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>CANAL RICOS perus/SP, Maiores informações, Dúvidas e custos, por favor entrar em contato conosco.
+F: (11) 3918-8581 / (11) 98870-0735</info>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CANAL-RICOS-TV-WEB/main/README.md</externallink>
+</channel>
+  
+  
 
 </channels>
