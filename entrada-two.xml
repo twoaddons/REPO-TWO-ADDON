@@ -12,7 +12,7 @@
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/9/items/two-addons-filmes/two%20addonsFILMES.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<info>[COLOR blue]*[COLOR blue]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/filmes.xml</externallink>
 </channel>
 
@@ -28,27 +28,33 @@
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] DESENHOS [/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
+<info>[COLOR blue]*[COLOR blue]DESENHOS, ANIMES [/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TOKUSATSU [/COLOR][/B]</name>
 <thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu/two%20addonsTOKUSATSU.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<info>[COLOR blue]*[COLOR blue]SERIES JAPONESAS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] GOSPEL [/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
+<externallink></externallink>
 </channel>
   
- 
+ <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] CANAL RICOS [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<externallink></externallink>
+</channel>
   
   
 
