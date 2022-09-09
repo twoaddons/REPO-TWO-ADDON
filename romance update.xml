@@ -7,38 +7,26 @@
 <fanart></fanart>
 <info>A história é descrita como um olhar comovente sobre a difícil entrada de um jovem na idade adulta. Com Diane Kruger e Hero Fiennes Tiffin. Neste intenso retrato do primeiro amor, um casal de adolescentes enfrenta as emoções da paixão e do descontrole emocional: a dor do rompimento, a cura e os encontros.</info>
 </item> 
-
+   
+    <item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
   
- <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item> 
-   
   
- <item>
+   <item>
 <title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item> 
-   
-   
- <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item> 
-   
-   
-   
   
- <item>
+  
+   <item>
 <title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
@@ -48,7 +36,7 @@
    
    
    
- <item>
+    <item>
 <title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
@@ -56,21 +44,13 @@
 <info></info>
 </item> 
    
-     
- <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item> 
-     
-     
-     
-     
-     
-     
-     
-     
-     
+   
+   
+   
+   
+   
+   
+   
+   
+   
 </items>
