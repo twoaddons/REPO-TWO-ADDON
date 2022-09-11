@@ -55,7 +55,7 @@
 </item> 
   
   <item>
-<title>[COLOR silver][B] LA BREA - A TERRA PERDIDA [/COLOR]</title>
+<title>[COLOR silver][B] LA BREA - A TERRA PERDIDA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIMBKSXEQELEIPWHQM2L355QPRVZC7NF</link>
 <thumbnail>https://baixakifilmes.net/uploads/46/140057152763108d7aade1c.jpg</thumbnail>
 <fanart></fanart>
@@ -104,11 +104,13 @@
 </item> 
    
  <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<title>[COLOR silver][B] BRITANNIA 1° TEMPORADA [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F19E35CC4826B8EB76217C0A2134A111B2E561B$$lsname=BRITANNIA T1</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjdXymXAas9NSehc6GCOHQcEM05.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info> TEMPORADA 2 E 3 SOMENTE LEGENDADAS AGUARDANDO SAIR DUBLADO E ASSIM ADD </info>
 </item> 
    
  
