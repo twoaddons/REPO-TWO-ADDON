@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
 <item>
-<title>[COLOR silver][B]ALF O ETeimoso [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B]ALF O ETeimoso [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:804EDD8C1379AFED46AC7536D751636FECD5F2C8</link>
 <thumbnail>https://baixakifilmes.net/uploads/22/814984540630f7ca78ef19.jpg</thumbnail>
 <fanart></fanart>
@@ -13,7 +13,7 @@
 </item> 
    
    <item>
-<title>[COLOR silver][B] A Família Dinossauros [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A Família Dinossauros [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbb2874dbea8d98b00a88ae8fd15556a2bc8897</link>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9RmA8MCNqRaxAG0GYD4wea5H1C13JDXS3ZV-uBXJTlOiiIpIO</thumbnail>
 <fanart></fanart>
@@ -32,9 +32,42 @@
 <info></info>
 </item> 
    
+<item>
+<title>[COLOR silver][B]   CHAVES  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg</thumbnail>
+<fanart>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info> A série conta a história de um garoto órfão e muito humilde, que é conhecido simplesmente como "Chaves". O garoto vive na periferia de uma grande cidade, e seu esconderijo é um barril localizado no pátio principal da vila onde reside. Lá, ele deve conviver com os particulares moradores e vizinhos, com os quais sempre está envolvido em divertidas situações. Emissora: Canal 8 • Episódios: 221 • Duração: 21 min.</info>
+</item> 
    
-   
-   
+  <item>
+<title>[COLOR silver][B]   CHAVES  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+  
+  <item>
+<title>[COLOR silver][B]   CHAVES  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+  
+  
+  <item>
+<title>[COLOR silver][B]   CHAVES  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+  
+  
+  
+  
    
    
    
