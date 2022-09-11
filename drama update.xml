@@ -10,7 +10,16 @@
 
    
     <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B]   A GESTORA  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a5c2ac94cabf3c7623ad957abbeb3355108d7c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem ambiciosa faz um acordo inusitado com a chefe. Mas quando começam a surgir dúvidas, pode ser tarde demais para voltar atrás.</info>
+</item> 
+  
+  
+   <item>
+<title>[COLOR silver][B] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -19,16 +28,7 @@
   
   
    <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item> 
-  
-  
-   <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -38,7 +38,7 @@
    
    
     <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
