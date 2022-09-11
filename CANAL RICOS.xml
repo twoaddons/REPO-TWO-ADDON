@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,canal ricos
+#EXTINF:-1 tvg-id="CANAL RICOS" tvg-name="CANAL RICOS" tvg-logo="https://ia801509.us.archive.org/3/items/canal-rico/canal%20rico.png" group-title="WEB TV",CANAL RICOS
 https://5d82644094cc0.streamlock.net:443/ricostv/ricostv/playlist.m3u8
