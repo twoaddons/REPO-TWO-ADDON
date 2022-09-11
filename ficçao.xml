@@ -15,15 +15,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-  
-  
- <items>
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+ </items>
   
  <items>
 <item>
@@ -32,7 +24,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
+ </items>
+ <items>
   
+  
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</items>
  <items>
 <item>
 <title>[COLOR silver][B]  [/COLOR][/B]</title>
@@ -40,8 +42,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-  
-  
+ </items>
   
   
   
