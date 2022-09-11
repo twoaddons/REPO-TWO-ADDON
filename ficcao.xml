@@ -1,71 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
 <item>
-<title>[COLOR silver][B] NÃO! NÃO OLHE! LEGENDADO  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B]  NÃO! NÃO OLHE! LEGENDADO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b17728bfc507ead62cd75e15b5d13b6bca589a3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://ia801506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>Os moradores de uma solitária ravina no interior da Califórnia testemunham uma descoberta misteriosa e misteriosa.</info>
 </item> 
   
-  
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
+   
+    <item>
+<title>[COLOR silver][B] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-</items>
+</item> 
   
- <items>
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
+  
+   <item>
+<title>[COLOR silver][B] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
- </items>
- <items>
+</item> 
   
   
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
+ <item>
+<title>[COLOR silver][B] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-</items>
-  
- <items>
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
+</item> 
+   
+   
+   
+  <item>
+<title>[COLOR silver][B] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
- </items>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+</item> 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 </items>
