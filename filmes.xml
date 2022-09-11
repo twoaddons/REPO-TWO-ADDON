@@ -35,13 +35,39 @@
 
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]ROMANCE [/COLOR][/B]</name>
-<thumbnail>https://archive.org/details/two-addons-romance</thumbnail>
+<thumbnail>https://ia601400.us.archive.org/0/items/two-addons-romance/two%20addons%20ROMANCE.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<info>[COLOR blue]*[COLOR blue]FILMES ROMANCE, ATUALIZAÇÃO EM ANDAMENTO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/romance%20update.xml</externallink>
 </channel>
   
  
+<channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]TERROR [/COLOR][/B]</name>
+<thumbnail>https://ia601402.us.archive.org/12/items/two-addons-terror/two%20addons%20TERROR.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/terror.xml</externallink>
+</channel>
+  
+  
+ <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]FICÇÃO[/COLOR][/B]</name>
+<thumbnail>https://ia601505.us.archive.org/32/items/two-addons-ficca-o/two%20addons%20FIC%C3%87%C3%83O.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES DE FICÇÃO, ATUALIZAÇÃO UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/fic%C3%A7ao.xml</externallink>
+</channel>
+  
+ <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
+<externallink></externallink>
+</channel>
+  
+  
   
   
 </channels>
