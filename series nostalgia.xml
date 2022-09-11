@@ -67,22 +67,10 @@
 <fanart></fanart>
 <info>Sabrina, a Aprendiz de Feiticeira (Sabrina the Teenage Witch) todos os episódios e temporadas. A série gira em torno de Sabrina, uma adolescente que foi morar com suas tias Hilda e Zelda e Salem, o gato preto de estimação. Em seu aniversário de 16 anos, suas tias a contaram que era uma meia-bruxa, já que sua mãe era uma mortal e seu pai um bruxo. Foi alertada que estava proibida de ver a própria mãe no princípio, caso contrário sua mãe se transformaria em uma bola de cera. Ela então desenvolveu poderes mágicos, usando-os para ajudar aqueles que amavam e a si própria, mas seus feitiços quase sempre terminavam em desastre e confusão. Aos poucos e com o passar do tempo ela foi aprendendo a domá-los, e sempre lutando para guardar seu segredo.</info>
 </item> 
-*************************************
-
-
-   
-  
-  <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item> 
-*************************************
+************************************
    
    
-    <item>
+ <item>
 <title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
