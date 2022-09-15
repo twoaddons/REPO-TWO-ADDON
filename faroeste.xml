@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR silver][B] TERRA SEM LEI [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd7ae7118ca27158a17ccb6c0977f11242ad1d18</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dYBWgaJwQ5RXk9I4S6gN0LGq0P9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dYBWgaJwQ5RXk9I4S6gN0LGq0P9.jpg</fanart>
+<info>Um empresário irlandês lucra quando bandidos assumem uma cidade fronteiriça americana pacífica, mas sua família está ameaçada quando o número de mortos aumenta.</info>
 </item>
    
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR silver][B] ATAQUE DOS CÃES [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQETY3U5SMJIB25TXCA7ISTVVGPEEEU4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n6QPFpMPLi82lHcpjzPrpyKmZi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n6QPFpMPLi82lHcpjzPrpyKmZi.jpg</fanart>
+<info> Ataque dos Cães acompanha os irmãos Phil (Benedict Cumberbatch) e George (Jesse Plemons), que são ricos proprietários da maior fazenda de Montana. Enquanto o primeiro é brilhante, mas cruel, o segundo é a gentileza em pessoa. Quando George secretamente se casa com a viúva local Rose (Kirsten Dunst), o invejoso Phil faz tudo para atrapalhá-los.</info>
 </item>   
   
    
@@ -26,5 +26,9 @@
    
    
    
+  
+  
+  
+  
    
  </items> 
