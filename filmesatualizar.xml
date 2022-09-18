@@ -46,7 +46,6 @@
  
 
    
- <item>
 <item>
 <title>[COLOR silver][B] HONOR SOCIETY [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GTYAKD3MHWS2QAYKENERWF3AK2NHXVNR</link>
@@ -56,7 +55,6 @@
 </item> 
      
    
- <item>
 <item>
 <title>[COLOR silver][B] VALENTINO - PODE SER SEU PRÓPIO HERÓI OU VILÃO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:945fd6a2bd7188f40522e4d3508dbf19e0738770</link>
@@ -66,7 +64,6 @@
 </item> 
 
   
-    <item>
 <item>
 <title>[COLOR silver][B] TUDO SOBRE SEXO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1847d5045fb0a997c6da9a4bd576fc5d38d21293</link>
@@ -152,7 +149,7 @@
 </item> 
 
   
-  <item>
+<item>
 <title>[COLOR silver][B]   PASSEI POR AQUI [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc5d08e8f53c535331b466d02de4938998e6d47f</link>
 <thumbnail>https://baixakifilmes.net/uploads/04/940271772631091be496f8.jpg</thumbnail>
@@ -161,7 +158,7 @@
 </item> 
 
   
-  <item>
+ <item>
 <title>[COLOR silver][B] NAS PROFUNDEZAS [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F7BQXT5MEZCSOWB5Z4YJPE5W7T5NKHP</link>
 <thumbnail>https://baixakifilmes.net/uploads/04/451699291631091c5c6b30.jpg</thumbnail>
@@ -170,7 +167,7 @@
 </item> 
 
   
-  <item>
+ <item>
 <title>[COLOR silver][B]  ARMADILHA EXPLOSIVA [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7G36YISD5DXTKKFXFNEGO5MZZWHMQ6HV</link>
 <thumbnail>https://baixakifilmes.net/uploads/03/16156204436310918c3af8e.jpg</thumbnail>
@@ -180,7 +177,7 @@
 
   
   
-   <item>
+<item>
 <title>[COLOR silver][B]  COMO PÉTALAS QUE CAEM [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7585e583659c791769df7eb56495116dd1312eea</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lwWRZkq4cfS5U77yoXVKrQbOFct.jpg</thumbnail>
@@ -189,7 +186,7 @@
 </item> 
   
    
-  <item>
+<item>
 <title>[COLOR silver][B] JURASSIC WORLD - DOMINIO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F24791347953D9CBD9724D9D63DB8025F070C67</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg</thumbnail>
@@ -206,7 +203,7 @@
 <info>Em 365 Dias: Finais, após o ocorrido no filme anterior, os melhores médicos lutam pela vida de Laura. Seu marido, Massimo, terá que tomar uma das decisões mais difíceis de sua vida: salvar Laura ou seu filho. Que decisão ele irá tomar? Ele saberá viver sem a mulher que ama? Será capaz de criar um filho sozinho?</info>
 </item> 
   
-  <item>
+ <item>
 <title>[COLOR silver][B] GUARDIÕES DO TEMPO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9e52039cadd7bf47d04e9f8e8b58a230456c558</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iYkzHd81ZsLQHa12oUhBVIS7ToY.jpg</thumbnail>
@@ -277,4 +274,7 @@
 <info>Um ex-fuzileiro naval deve lutar contra sua consciência e seu código de honra quando é forçado a fazer serviços para a máfia.</info>
 </item>
 
+ *****
+ 
+ 
 </items>
