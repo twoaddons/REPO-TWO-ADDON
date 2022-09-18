@@ -46,7 +46,7 @@
  
 
    
- <items>
+ <item>
 <item>
 <title>[COLOR silver][B] HONOR SOCIETY [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GTYAKD3MHWS2QAYKENERWF3AK2NHXVNR</link>
@@ -56,7 +56,7 @@
 </item> 
      
    
- <items>
+ <item>
 <item>
 <title>[COLOR silver][B] VALENTINO - PODE SER SEU PRÓPIO HERÓI OU VILÃO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:945fd6a2bd7188f40522e4d3508dbf19e0738770</link>
@@ -66,7 +66,7 @@
 </item> 
 
   
-    <items>
+    <item>
 <item>
 <title>[COLOR silver][B] TUDO SOBRE SEXO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1847d5045fb0a997c6da9a4bd576fc5d38d21293</link>
@@ -275,10 +275,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg</fanart>
 <info>Um ex-fuzileiro naval deve lutar contra sua consciência e seu código de honra quando é forçado a fazer serviços para a máfia.</info>
-</item> 
-
-     
-     
-     
+</item>
 
 </items>
