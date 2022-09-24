@@ -25,6 +25,16 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/anima%C3%A7%C3%A3o%20update.xml</externallink>
 </channel>
 
+ <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]COMEDIA [/COLOR][/B]</name>
+<thumbnail>https://ia801403.us.archive.org/34/items/two-addons-comedia/two%20addons%20COMEDIA.jpg</thumbnail>
+<fanart>https://ia801403.us.archive.org/34/items/two-addons-comedia/two%20addons%20COMEDIA.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/comedia.xml</externallink>
+</channel>  
+  
+  
+  
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]DRAMA [/COLOR][/B]</name>
 <thumbnail>https://ia601505.us.archive.org/15/items/two-addons-drama/two%20addons%20DRAMA.jpg</thumbnail>
@@ -66,6 +76,8 @@
 <info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/faroeste.xml</externallink>
 </channel>
+  
+  
   
   
   
