@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="SBT Br" tvg-name="SBT FHD H265" tvg-logo="" group-title=" Canais | H.265",SBT SP FHD H265
+#EXTINF:-1,tvg-id="SBT Br" tvg-name="SBT FHD H265" tvg-logo="" group-title=" Canais | ABERTO",SBT SP 
 http://lmtv.me/live/4719wil/452540/90297.m3u8
  
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/tKp9QWD.png" group-title=" Canais | H.265",GLOBO SP FHD H265
 http://dns.cdnfc.xyz:80/Ronald/102030/86936
  
  
-#EXTINF:-1,GLOBO
+#EXTINF:-1,GLOBOtvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="" group-title=" Canais | ABERTOS",GLOBO FHD H265
 http://lmtv.me/live/4719wil/452540/90060.m3u8
  
-#EXTINF:-1, RECORD HD
+#EXTINF:-1,tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="" group-title=" Canais | ABERTOS",RECORD HD
 http://lmtv.me/live/4719wil/452540/90267.m3u8
  
-#EXTINF:-1, RECORD SD
+#EXTINF:-1,tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="" group-title=" Canais | ABERTOS",RECORD HD
 http://lmtv.me/live/4719wil/452540/90268.m3u8
  
-#EXTINF:-1, REDE TV
+#EXTINF:-1,tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="" group-title=" Canais | ABERTOS",REDE TV
 http://lmtv.me/live/4719wil/452540/90282.m3u8
  
-#EXTINF:-1,TELECINE PIPOCA
+#EXTINF:-1,tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="Canais | TeleCine",TELECINE PIPOCA HD
 http://lmtv.me/live/4719wil/452540/90376.m3u8
  
-#EXTINF:-1,TELECINE cult
+#EXTINF:-1,tvg-id="telecine.CULT.br" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="Canais | TeleCine",TELECINE CUL HD
 http://lmtv.me/live/4719wil/452540/90368.m3u8
  
-#EXTINF:-1, TELECINE FUN
+#EXTINF:-1, tvg-id="telecine.FUN.br" tvg-name="TELECINE FUN HD" tvg-logo="" group-title="Canais | TeleCine",TELECINE FUN HD
 http://lmtv.me/live/4719wil/452540/90371.m3u8
  
  
@@ -32,13 +32,13 @@ http://lmtv.me/live/4719wil/452540/90371.m3u8
 http://lmtv.me/live/4719wil/452540/90379.m3u8
  
  
-#EXTINF:-1, AXN HD
+#EXTINF:-1, tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title=" Canais | FILMES E SERIES",AXN HD 
 http://lmtv.me/live/4719wil/452540/89813.m3u8
  
-#EXTINF:-1, HBO FAMILY
+#EXTINF:-1,tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title=" Canais | HBO",HBO FAMILY HD
 http://lmtv.me/live/4719wil/452540/90097.m3u8
  
-#EXTINF:-1, HBO max
+#EXTINF:-1, tvg-id="hbo." tvg-name="HBO HD" tvg-logo="" group-title=" Canais | HBO",HBO 
 http://lmtv.me/live/4719wil/452540/90104.m3u8
  
 #EXTINF:-1, FX hd
@@ -60,37 +60,37 @@ http://lmtv.me/live/4719wil/452540/90329.m3u8
 #EXTINF:-1, HBO hd
 http://lmtv.me/live/4719wil/452540/90101.m3u8
  
-#EXTINF:-1, HBO2
+#EXTINF:-1, tvg-id="hbo.2" tvg-name="HBO 2" tvg-logo="" group-title=" Canais | HBO",HBO 2
 http://lmtv.me/live/4719wil/452540/90093.m3u8
  
-#EXTINF:-1, MEGAPIX HD
+#EXTINF:-1, tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="" group-title=" Canais | FILMES E SERIES",MEGAPIX
 http://lmtv.me/live/4719wil/452540/90158.m3u8
  
-#EXTINF:-1, SPACE HD
+#EXTINF:-1, tvg-id="SPACE" tvg-name="SPACE" tvg-logo="" group-title=" Canais | FILMES E SERIES",SPACE
 http://lmtv.me/live/4719wil/452540/90317.m3u8
  
-#EXTINF:-1,DISCOVERY H&H
+#EXTINF:-1,tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/mrLyn2i.png" group-title="Canais | Documentários ",DISCOVERY HOME & HEALTH HD
 http://lmtv.me/live/4719wil/452540/89918.m3u8
  
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1,tvg-id="discovery.TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="Canais | Documentários ",DISCOVERY TURBO HD
 http://lmtv.me/live/4719wil/452540/89934.m3u8
  
-#EXTINF:-1,DISCOVERY CHANNEL
-http://lmtv.me/live/4719wil/452540/89914.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | ",
+http://lmtv.me/live/4719wil/452540/89914.m3u8 
  
-#EXTINF:-1,DISCOVERY science
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | ",
 http://lmtv.me/live/4719wil/452540/89926.m3u8
  
-#EXTINF:-1, HISTORY
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | ",
 http://lmtv.me/live/4719wil/452540/90132.m3u8
  
-#EXTINF:-1, COMEDY CENTRAL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | ",
 http://lmtv.me/live/4719wil/452540/89882.m3u8
  
-#EXTINF:-1,VIVA
+#EXTINF:-1,tvg-id="VIVA" tvg-name="" tvg-logo="" group-title="Canais | ABERTO ",
 http://lmtv.me/live/4719wil/452540/90441.m3u8
  
-#EXTINF:-1, TV NOVO TEMPO
+#EXTINF:-1,tvg-id="TV NOVO TEMPO" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="Canais | RELIGIOSO ", TV NOVO TEMPO
 http://lmtv.me/live/4719wil/452540/90419.m3u8
  
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" Canais | Premiere",PREMIERE CLUBES FHD²
