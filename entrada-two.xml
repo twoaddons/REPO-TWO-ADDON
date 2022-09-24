@@ -7,6 +7,14 @@
 <info>[COLOR blue]* [COLOR blue] Bem vindo ao addon TWOADDONS BR. [/COLOR]</info>
 <externallink>https://0.0.0</externallink>
 </channel>
+  
+  <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TV AO VIVO - TESTES [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/servidores.xml</externallink>
+</channel>
 
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
@@ -48,13 +56,7 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/gospel.xml</externallink>
 </channel>
   
- <channel>
-<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TV EM TESTES [/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/servidores.xml</externallink>
-</channel>
+ 
   
   <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] CANAL RICOS TV WEB  [/COLOR][/B]</name>
