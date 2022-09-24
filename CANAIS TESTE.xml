@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,SBT HD
+#EXTINF:-1,tvg-id="SBT Br" tvg-name="SBT FHD H265" tvg-logo="" group-title=" Canais | H.265",SBT SP FHD H265
 http://lmtv.me/live/4719wil/452540/90297.m3u8
  
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/tKp9QWD.png" group-title=" Canais | H.265",GLOBO SP FHD H265
