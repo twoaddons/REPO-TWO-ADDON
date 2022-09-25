@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="A FAZENDA  2022" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA  2022
+http://axr.life:80/00005730/MF159357C/1038260
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 1" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 1
+http://axr.life:80/00005730/MF159357C/1038261
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 2" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 2
+http://axr.life:80/00005730/MF159357C/1038262
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 3" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 3
+http://axr.life:80/00005730/MF159357C/1038263
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 4" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 4
+http://axr.life:80/00005730/MF159357C/1038264
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 5" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 5
+http://axr.life:80/00005730/MF159357C/1038265
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 6" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 6
+http://axr.life:80/00005730/MF159357C/1038266
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 7" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 7
+http://axr.life:80/00005730/MF159357C/1038267
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 8" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 8
+http://axr.life:80/00005730/MF159357C/1038268
+
 #EXTINF:-1,tvg-id="SBT Br" tvg-name="SBT FHD H265" tvg-logo="" group-title=" Canais | ABERTOS",SBT SP HD
 http://lmtv.me/live/4719wil/452540/90297.m3u8
  
