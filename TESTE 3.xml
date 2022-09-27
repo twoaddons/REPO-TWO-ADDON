@@ -1,0 +1,174 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="A FAZENDA  2022" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA  2022
+http://axr.life:80/00005730/MF159357C/1038260
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 1" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 1
+http://axr.life:80/00005730/MF159357C/1038261
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 2" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 2
+http://axr.life:80/00005730/MF159357C/1038262
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 3" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 3
+http://axr.life:80/00005730/MF159357C/1038263
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 4" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 4
+http://axr.life:80/00005730/MF159357C/1038264
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 5" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 5
+http://axr.life:80/00005730/MF159357C/1038265
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 6" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 6
+http://axr.life:80/00005730/MF159357C/1038266
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 7" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 7
+http://axr.life:80/00005730/MF159357C/1038267
+#EXTINF:-1 tvg-name="A FAZENDA CAMERA 8" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 8
+http://axr.life:80/00005730/MF159357C/1038268
+
+#EXTINF:-1,tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90297.m3u8
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/tKp9QWD.png" group-title=" Canais | ABERTOS",GLOBO SP FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/86936
+
+#EXTINF:-1,tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/tKp9QWD.png" group-title=" Canais | ABERTOS",GLOBO SP FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90060.m3u8
+
+#EXTINF:-1,  tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FHD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP FHD  
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90267.m3u8
+
+#EXTINF:-1,tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FHD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP FHD  
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90268.m3u8
+
+#EXTINF:-1, tvg-id="redetv.br" tvg-name="REDE TV FHD " tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS",REDE TV FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90282.m3u8
+
+#EXTINF:-1,tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD " tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90376.m3u8
+
+#EXTINF:-1,tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90368.m3u8
+
+#EXTINF:-1,tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90371.m3u8
+
+
+#EXTINF:-1, tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90379.m3u8
+
+
+#EXTINF:-1,tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89813.m3u8
+
+#EXTINF:-1,tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title="CANAIS | REDE HBO",HBO FAMILY FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90097.m3u8
+
+#EXTINF:-1,tvg-id="hbo.br" tvg-name="HBO MAX 1 HD" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS |REDE HBO",HBO MAX 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90104.m3u8
+
+#EXTINF:-1, FX hd
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90007.m3u8
+
+#EXTINF:-1,tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN SD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89963.m3u8
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://i.imgur.com/ymD1Kpy.png" group-title="Canais | Esportes",BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277034
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/ymD1Kpy.png" group-title="Canais | Esportes",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277035
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORT 2 FHD²" tvg-logo="http://dns.cdnfc.xyz:80/images/e3d819a68effeb02fe07ef9ef4bf0380.png" group-title="Canais | Esportes",FOX SPORT 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277045
+
+
+#EXTINF:-1, tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90329.m3u8
+#EXTINF:-1, HBO hd
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90101.m3u8
+
+#EXTINF:-1, tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS | REDE HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90093.m3u8
+
+#EXTINF:-1,tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90158.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK FHD (JAPONES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="CANAIS | ESPORTES",NHK FHD (JAPONES)
+http://axr.life:80/00005730/MF159357C/923383
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD (JAPONES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="CANAIS | ESPORTES",NHK HD (JAPONES)
+http://axr.life:80/00005730/MF159357C/923382
+#EXTINF:-1 tvg-id="" tvg-name="NHK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="CANAIS | ESPORTES",NHK SD
+http://axr.life:80/00005730/MF159357C/923473
+
+#EXTINF:-1,tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="CANAIS | FILMES & SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90317.m3u8
+
+#EXTINF:-1,tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89918.m3u8
+
+#EXTINF:-1,tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89934.m3u8
+
+#EXTINF:-1,tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89914.m3u8
+
+#EXTINF:-1,tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89926.m3u8
+
+#EXTINF:-1,  tvg-id="history.br" tvg-name="HISTORY HD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90132.m3u8
+
+#EXTINF:-1,tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89882.m3u8
+
+#EXTINF:-1,tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90441.m3u8
+
+#EXTINF:-1,tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90419.m3u8
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" Canais | Premiere",PREMIERE CLUBES FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277084
+
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" Canais | Premiere",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277089
+
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" Canais | Premiere",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277097
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/gULDKB3.png" group-title="Canais | SporTV",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277053
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/uQnMRtt.png" group-title="Canais | SporTV",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/277057
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/mrLyn2i.png" group-title="Canais | Documentários ",DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/259590
+
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="Canais | Filmes e Séries",PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/87113
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/30eQIBh.png" group-title="Canais | Filmes e Séries",SONY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/87254
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://2.bp.blogspot.com/-fOTJe1eLQu8/XmRL8F5zoiI/AAAAAAAACT4/jtwEeYduL-Eduk2F_RswbLvxRrKl6jgsQCK4BGAYYCw/s400/FX.png" group-title="Canais | Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/86870
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/cEmW9yV.png" group-title="Canais | Filmes e Séries",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/87292
+
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://dns.cdnfc.xyz:80/images/9c6af5c3ff24dac5945c7397daa43466.png" group-title=" Canais | Noticia",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/86658
+
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://dns.cdnfc.xyz:80/images/f0703a2da7ddcb681772b1780c7601ff.png" group-title=" Canais | Noticia",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/86725
+
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://dns.cdnfc.xyz:80/images/67430e342bdacf60aa10602b5967ec85.png" group-title=" Canais | Noticia",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/86907
+
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="http://dns.cdnfc.xyz:80/images/b42c43a34aa12f292e470108265ddb3b.png" group-title=" Canais | Noticia",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/87178
+
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JP NEWS HD" tvg-logo="http://dns.cdnfc.xyz:80/images/246203778e19a29296dc594a84de9948.png" group-title=" Canais | Noticia",JP NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/87531
+
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="Canais | TeleCine",TELECINE PIPOCA HD
+http://dns.cdnfc.xyz:80/Ronald/102030/235953
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/FpddICg.png" group-title="Canais | TeleCine",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/235956
+
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/a1MplP5.png" group-title="Canais | TeleCine",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/235944
+
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/YbyynJv.png" group-title="Canais | TeleCine",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/235947
+
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title=" Canais | HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/86969
+
