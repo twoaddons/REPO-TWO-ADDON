@@ -18,66 +18,6 @@ http://axr.life:80/00005730/MF159357C/1038267
 #EXTINF:-1 tvg-name="A FAZENDA CAMERA 8" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="CANAIS | A FAZENDA 2022",A FAZENDA CAMERA 8
 http://axr.life:80/00005730/MF159357C/1038268
 
-#EXTINF:-1,tvg-id="SBT Br" tvg-name="SBT FHD H265" tvg-logo="" group-title=" Canais | ABERTOS",SBT SP HD
-http://lmtv.me/live/4719wil/452540/90297.m3u8
- 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/tKp9QWD.png" group-title=" Canais | ABERTOS",GLOBO SP FHD H265
-http://dns.cdnfc.xyz:80/Ronald/102030/86936
- 
- 
-#EXTINF:-1,GLOBOtvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="" group-title=" Canais | ABERTOS",GLOBO FHD H265
-http://lmtv.me/live/4719wil/452540/90060.m3u8
- 
-#EXTINF:-1,tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="" group-title=" Canais | ABERTOS",RECORD HD
-http://lmtv.me/live/4719wil/452540/90267.m3u8
- 
-#EXTINF:-1,tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="" group-title=" Canais | ABERTOS",RECORD HD
-http://lmtv.me/live/4719wil/452540/90268.m3u8
- 
-#EXTINF:-1,tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="" group-title=" Canais | ABERTOS",REDE TV
-http://lmtv.me/live/4719wil/452540/90282.m3u8
- 
-#EXTINF:-1,tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="Canais | TeleCine",TELECINE PIPOCA HD
-http://lmtv.me/live/4719wil/452540/90376.m3u8
- 
-#EXTINF:-1,tvg-id="telecine.CULT.br" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="Canais | TeleCine",TELECINE CUL HD
-http://lmtv.me/live/4719wil/452540/90368.m3u8
- 
-#EXTINF:-1, tvg-id="telecine.FUN.br" tvg-name="TELECINE FUN HD" tvg-logo="" group-title="Canais | TeleCine",TELECINE FUN HD
-http://lmtv.me/live/4719wil/452540/90371.m3u8
- 
- 
-#EXTINF:-1, TELECINE PREMIUM
-http://lmtv.me/live/4719wil/452540/90379.m3u8
- 
- 
-#EXTINF:-1, tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title=" Canais |filmes e series",AXN HD 
-http://lmtv.me/live/4719wil/452540/89813.m3u8
- 
-#EXTINF:-1,tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title=" Canais | HBO",HBO FAMILY HD
-http://lmtv.me/live/4719wil/452540/90097.m3u8
- 
-#EXTINF:-1, tvg-id="hbo." tvg-name="HBO HD" tvg-logo="" group-title=" Canais | HBO",HBO 
-http://lmtv.me/live/4719wil/452540/90104.m3u8
- 
-#EXTINF:-1, FX hd
-http://lmtv.me/live/4719wil/452540/90007.m3u8
- 
-#EXTINF:-1, ESPN BRASIL
-http://lmtv.me/live/4719wil/452540/89963.m3u8
- 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://i.imgur.com/ymD1Kpy.png" group-title="Canais | Esportes",BAND SPORTS FHD
-http://dns.cdnfc.xyz:80/Ronald/102030/277034
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/ymD1Kpy.png" group-title="Canais | Esportes",BAND SPORTS HD
-http://dns.cdnfc.xyz:80/Ronald/102030/277035
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORT 2 FHD²" tvg-logo="http://dns.cdnfc.xyz:80/images/e3d819a68effeb02fe07ef9ef4bf0380.png" group-title="Canais | Esportes",FOX SPORT 2 FHD²
-http://dns.cdnfc.xyz:80/Ronald/102030/277045
- 
- 
-#EXTINF:-1, SPORTV
-http://lmtv.me/live/4719wil/452540/90329.m3u8
-#EXTINF:-1, HBO hd
-http://lmtv.me/live/4719wil/452540/90101.m3u8
  
 #EXTINF:-1, tvg-id="hbo.2" tvg-name="HBO 2" tvg-logo="" group-title=" Canais | HBO",HBO 2
 http://lmtv.me/live/4719wil/452540/90093.m3u8
