@@ -19,62 +19,62 @@ http://axr.life:80/00005730/MF159357C/1038267
 http://axr.life:80/00005730/MF159357C/1038268
 
  
-#EXTINF:-1, tvg-id="hbo.2" tvg-name="HBO 2" tvg-logo="" group-title=" Canais | HBO",HBO 2
+#EXTINF:-1, tvg-id="hbo.2" tvg-name="HBO 2" tvg-logo="" group-title=" CANAIS | HBO",HBO 2
 http://lmtv.me/live/4719wil/452540/90093.m3u8
  
-#EXTINF:-1, tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="" group-title=" Canais |Filmes e Séries",MEGAPIX
+#EXTINF:-1, tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="" group-title="CANAIS | FILMES & SERIES",MEGAPIX
 http://lmtv.me/live/4719wil/452540/90158.m3u8
  
-#EXTINF:-1, tvg-id="SPACE" tvg-name="SPACE" tvg-logo="" group-title=" Canais |Filmes e Séries",SPACE
+#EXTINF:-1, tvg-id="SPACE" tvg-name="SPACE" tvg-logo="" group-title=" CANAIS | FILMES & SERIES",SPACE
 http://lmtv.me/live/4719wil/452540/90317.m3u8
  
-#EXTINF:-1,tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/mrLyn2i.png" group-title="Canais | Documentários ",DISCOVERY HOME & HEALTH HD
+#EXTINF:-1,tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/mrLyn2i.png" group-title="CANAIS | DOCUMENTÁRIOS ",DISCOVERY HOME & HEALTH HD
 http://lmtv.me/live/4719wil/452540/89918.m3u8
  
-#EXTINF:-1,tvg-id="discovery.TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="Canais | Documentários ",DISCOVERY TURBO HD
+#EXTINF:-1,tvg-id="discovery.TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="CANAIS | DOCUMENTÁRIOS ",DISCOVERY TURBO HD
 http://lmtv.me/live/4719wil/452540/89934.m3u8
  
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | ",
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS| ",
 http://lmtv.me/live/4719wil/452540/89914.m3u8 
  
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | ",
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | ",
 http://lmtv.me/live/4719wil/452540/89926.m3u8
  
-#EXTINF:-1, tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="" group-title="Canais |DOCUMENTARIOS ",
+#EXTINF:-1, tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="" group-title="CANAIS | DOCUMENTÁRIOS ",
 http://lmtv.me/live/4719wil/452540/90132.m3u8
  
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | ",
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | ",
 http://lmtv.me/live/4719wil/452540/89882.m3u8
  
 #EXTINF:-1,tvg-id="VIVA" tvg-name="VIVA" tvg-logo="" group-title="Canais | VIVA ",VIVA
 http://lmtv.me/live/4719wil/452540/90441.m3u8
  
-#EXTINF:-1,tvg-id="TV NOVO TEMPO" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="Canais | RELIGIOSO ", TV NOVO TEMPO
+#EXTINF:-1,tvg-id="TV NOVO TEMPO" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="CANAIS | RELIGIOSO ", TV NOVO TEMPO
 http://lmtv.me/live/4719wil/452540/90419.m3u8
  
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" Canais | Premiere",PREMIERE CLUBES FHD²
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" CANAIS| PREMIERE",PREMIERE CLUBES FHD²
 http://dns.cdnfc.xyz:80/Ronald/102030/277084
  
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" Canais | Premiere",PREMIERE 2 HD
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" CANAIS| PREMIERE",PREMIERE 2 HD
 http://dns.cdnfc.xyz:80/Ronald/102030/277089
  
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" Canais | Premiere",PREMIERE 4 HD
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/72lbnaK.png" group-title=" CANAIS| PREMIERE",PREMIERE 4 HD
 http://dns.cdnfc.xyz:80/Ronald/102030/277097
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/gULDKB3.png" group-title="Canais | SporTV",SPORTV HD
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/gULDKB3.png" group-title="CANAIS | SPORTV",SPORTV HD
 http://dns.cdnfc.xyz:80/Ronald/102030/277053
  
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/uQnMRtt.png" group-title="Canais | SporTV",SPORTV 2 HD
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/uQnMRtt.png" group-title="CANAIS | SPORTV",SPORTV 2 HD
 http://dns.cdnfc.xyz:80/Ronald/102030/277057
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/mrLyn2i.png" group-title="Canais | Documentários ",DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/mrLyn2i.png" group-title="CANAIS | DOCUMENTÁRIOS ",DISCOVERY HOME & HEALTH HD
 http://dns.cdnfc.xyz:80/Ronald/102030/259590
  
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="Canais | Filmes e Séries",PARAMOUNT CHANNEL HD
 http://dns.cdnfc.xyz:80/Ronald/102030/87113
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/30eQIBh.png" group-title="Canais | Filmes e Séries",SONY HD
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/30eQIBh.png" group-title="CANAIS | FILMES & SERIES",SONY HD
 http://dns.cdnfc.xyz:80/Ronald/102030/87254
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://2.bp.blogspot.com/-fOTJe1eLQu8/XmRL8F5zoiI/AAAAAAAACT4/jtwEeYduL-Eduk2F_RswbLvxRrKl6jgsQCK4BGAYYCw/s400/FX.png" group-title="Canais | Filmes e Séries",FX HD
 http://dns.cdnfc.xyz:80/Ronald/102030/86870
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/cEmW9yV.png" group-title="Canais | Filmes e Séries",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/cEmW9yV.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL HD
 http://dns.cdnfc.xyz:80/Ronald/102030/87292
  
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://dns.cdnfc.xyz:80/images/9c6af5c3ff24dac5945c7397daa43466.png" group-title=" Canais | Noticia",BAND NEWS HD
@@ -92,18 +92,18 @@ http://dns.cdnfc.xyz:80/Ronald/102030/87178
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JP NEWS HD" tvg-logo="http://dns.cdnfc.xyz:80/images/246203778e19a29296dc594a84de9948.png" group-title=" Canais | Noticia",JP NEWS HD
 http://dns.cdnfc.xyz:80/Ronald/102030/87531
  
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="Canais | TeleCine",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
 http://dns.cdnfc.xyz:80/Ronald/102030/235953
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/FpddICg.png" group-title="Canais | TeleCine",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/FpddICg.png" group-title="CANAIS | CANAIS",TELECINE PREMIUM HD
 http://dns.cdnfc.xyz:80/Ronald/102030/235956
  
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/a1MplP5.png" group-title="Canais | TeleCine",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/a1MplP5.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
 http://dns.cdnfc.xyz:80/Ronald/102030/235944
  
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/YbyynJv.png" group-title="Canais | TeleCine",TELECINE CULT HD
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/YbyynJv.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
 http://dns.cdnfc.xyz:80/Ronald/102030/235947
  
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title=" Canais | HBO",HBO FAMILY HD
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title="CANAIS| HBO",HBO FAMILY HD
 http://dns.cdnfc.xyz:80/Ronald/102030/86969
 #EXTINF:-1 tvg-name="[24H] - 3 Palavrinhas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - 3 Palavrinhas
 http://axr.life:80/00005730/MF159357C/766529
