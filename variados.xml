@@ -1,35 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- <items>
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item> 
-
-   
- <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>   
-   
- <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>   
-   
-   
-   
-   
-   
-   
-   
-   
-</items> 
+#EXTM3U
+#EXTINF:-1 01-Um gênio pousou em minha vida
+http://uploading.com/files/86fm1e96/...1X01.avi,279.4
+ 
+#EXTINF:-1 02-Mercado persa
+http://uploading.com/files/d3148646/...1X02.avi,279.2
+ 
+#EXTINF:-1 03-Como viver num mundo da lua
+http://uploading.com/files/488ecdmb/...1X03.avi,279.7
+ 
+#EXTINF:-1 04-Banquete núpcial
+http://uploading.com/files/c5971986/...1X04.avi,279.7
+ 
+#EXTINF:-1 05-Secretária genial
+http://uploading.com/files/efc2c48m/...1X05.avi,279.3
+ 
+#EXTINF:-1 06-Desaparece , mas não para sempre
+http://uploading.com/files/71cc5449/...1X06.avi,279.4
+ 
+#EXTINF:-1 07-O gênio incompreendido
+http://uploading.com/files/4bc825ab/...1X07.avi,279.3
+ 
+#EXTINF:-1 08-A muher ideal não pode ser um gênio
+http://uploading.com/files/27133c9c/...1X08.avi,279.1
+ 
+#EXTINF:-1 09-Foto – gênia
+http://uploading.com/files/1531cf5a/...1X09.avi,279.6
+ 
+#EXTINF:-1 10- O filtro mágico
+http://uploading.com/files/c6bmf4d8/...1X10.avi,279.5
+ 
+#EXTINF:-1 11-Procura-se uma odalisca
+http://uploading.com/files/ebf52c83/...1X11.avi,279.4
+ 
+#EXTINF:-1 12-Tentação a solta
+http://uploading.com/files/dm81amc5/...1X12.avi,279.4
+ 
+#EXTINF:-1 13-Camaradagem para a camarada
+http://uploading.com/files/m4f3c9f7/...1X13.avi,174.8
+ 
+#EXTINF:-1 14-Casa ou não casa
+http://uploading.com/files/1f3cfm61/...1X14.avi,279.5
+ 
+#EXTINF:-1 15-Como deveria ser, se fosse
+http://uploading.com/files/4a6936m1/...1X15.avi,255.3
+ 
+#EXTINF:-1 16-Mecca, cidade encantada
+http://uploading.com/files/a1cd1a86/...1X16.avi,254.7
+ 
+#EXTINF:-1 17-Um astronauta rico demais
+http://uploading.com/files/2m8641d5/...1X17.avi,211.5
+ 
+#EXTINF:-1 18-Existe uma extra Jeannie em casa?
+http://uploading.com/files/be29ea35/...1X18.avi,195.7
+ 
+#EXTINF:-1 19-Nunca tente ser mais esperto que um Gênio
+http://uploading.com/files/fa97fbm6/...1X19.avi,289.4
+ 
+#EXTINF:-1 20-Sempre desejei ser médico
+http://uploading.com/files/36c3b726/...1X20.avi,240.6
+ 
+#EXTINF:- 21-Um Gênio em breve
+http://uploading.com/files/7a89a816/...1X21.avi,192.7
+ 
+#EXTINF:-1 22-Em jogos de azar é preciso sorte
+http://uploading.com/files/dm8mefb8/...1X22.avi,186.5
+ 
+#EXTINF:-1 23-Com a bola branca
+http://uploading.com/files/d1a8a64m/...1X23.avi,186.6
+ 
+#EXTINF:-1 24-Hóspede permanente
+http://uploading.com/files/bc9e9a41/...1X24.avi,222.1
+ 
+#EXTINF:-1 25-Gênio sob medida
+http://uploading.com/files/9453d9cm/...1X25.avi,202.4
+ 
+#EXTINF:-1 26-O mestre dos mestres
+http://uploading.com/files/f1a7d28m/...1X26.avi,233.7
