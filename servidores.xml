@@ -9,7 +9,7 @@
 </channel>
   
   <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 2 - LINK DIRETO[/COLOR][/B]</name>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 2 - LISTA SIMPLES[/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
@@ -17,27 +17,27 @@
 </channel>
   
   <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 3 - LINK DIRETO[/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 3 - OFF[/COLOR][/B]</name>
+<thumbnail></thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%203.xml</externallink>
+<externallink></externallink>
 </channel>
   
  <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 4  - LINK DIRETO[/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 4  -OFF[/COLOR][/B]</name>
+<thumbnail></thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%204%20.xml</externallink>
+<externallink></externallink>
 </channel> 
   
   <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 5 - LISTA SIMPLES[/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 5 - OFF[/COLOR][/B]</name>
+<thumbnail></thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%205%20.xml</externallink>
+<externallink></externallink>
 </channel>
   
   
