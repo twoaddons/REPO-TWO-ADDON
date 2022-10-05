@@ -1,23 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="A FAZENDA  2022" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA  2022
-http://axr.life:80/00005730/MF159357C/1038260
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 1" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 1
-http://axr.life:80/00005730/MF159357C/1038261
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 2" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 2
-http://axr.life:80/00005730/MF159357C/1038262
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 3" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 3
-http://axr.life:80/00005730/MF159357C/1038263
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 4" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 4
-http://axr.life:80/00005730/MF159357C/1038264
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 5" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 5
-http://axr.life:80/00005730/MF159357C/1038265
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 6" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 6
-http://axr.life:80/00005730/MF159357C/1038266
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 7" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 7
-http://axr.life:80/00005730/MF159357C/1038267
-#EXTINF:-1 tvg-name="A FAZENDA CAMERA 8" tvg-logo="https://static1.purepeople.com.br/articles/6/35/92/96/@/4115869-lista-oficial-a-fazenda-2022-confira-950x0-2.jpg" group-title="TWO BR | A FAZENDA 2022",A FAZENDA CAMERA 8
-http://axr.life:80/00005730/MF159357C/1038268
-
 #EXTINF:-1,tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="TWO BR | ABERTOS",SBT SP HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90297.m3u8
 
@@ -56,9 +37,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_ad
 #EXTINF:-1,tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title="TWO BR | REDE HBO",HBO FAMILY FHD 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90097.m3u8
 
-#EXTINF:-1,tvg-id="hbo.br" tvg-name="HBO MAX 1 HD" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="TWO BR |REDE HBO",HBO MAX 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90104.m3u8
-
 #EXTINF:-1, FX hd
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90007.m3u8
 
@@ -83,13 +61,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_ad
 
 #EXTINF:-1,tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="TWO BR | FILMES & SERIES",MEGAPIX HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90158.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NHK FHD (JAPONES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="TWO BR | VARIEDADES",NHK FHD (JAPONES)
-http://axr.life:80/00005730/MF159357C/923383
-#EXTINF:-1 tvg-id="" tvg-name="NHK HD (JAPONES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="TWO BR | VARIEDADEDS",NHK HD (JAPONES)
-http://axr.life:80/00005730/MF159357C/923382
-#EXTINF:-1 tvg-id="" tvg-name="NHK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="TWO BR | VARIEDADES",NHK SD
-http://axr.life:80/00005730/MF159357C/923473
 
 #EXTINF:-1,tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="TWO BR | FILMES & SERIES",SPACE HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90317.m3u8
@@ -171,4 +142,3 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_ad
 
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title=" TWO BR | HBO",HBO FAMILY HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_two_addon[/COLOR]&maxbitrate=0&Buffer=20191129153332&url=http://dns.cdnfc.xyz:80/Ronald/102030/86969
-
