@@ -103,152 +103,123 @@ http://axr.life:80/00005821/MF159357C/923497
 http://axr.life:80/00005821/MF159357C/923525
 
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E FHD
-http://axr.life:80/00005821/MF159357C/5189
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E HD
-http://axr.life:80/00005821/MF159357C/5040
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E SD
-http://axr.life:80/00005821/MF159357C/5394
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC FHD
-http://axr.life:80/00005821/MF159357C/5190
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC HD
-http://axr.life:80/00005821/MF159357C/5041
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC SD
-http://axr.life:80/00005821/MF159357C/5395
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 FHD
-http://axr.life:80/00005821/MF159357C/38424
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 FHD 
-http://axr.life:80/00005821/MF159357C/923900
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 HD
-http://axr.life:80/00005821/MF159357C/17923
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 SD
-http://axr.life:80/00005821/MF159357C/923561
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN FHD
-http://axr.life:80/00005821/MF159357C/5192
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN HD
-http://axr.life:80/00005821/MF159357C/5043
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN SD
-http://axr.life:80/00005821/MF159357C/5397
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL FHD
-http://axr.life:80/00005821/MF159357C/5197
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD " tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL FHD 
-http://axr.life:80/00005821/MF159357C/923907
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL HD
-http://axr.life:80/00005821/MF159357C/68534
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL SD
-http://axr.life:80/00005821/MF159357C/923415
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY FHD
-http://axr.life:80/00005821/MF159357C/373238
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY HD
-http://axr.life:80/00005821/MF159357C/5046
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY SD
-http://axr.life:80/00005821/MF159357C/5407
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE CANAL HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",CINE CANAL HD
-http://axr.life:80/00005821/MF159357C/923563
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS | FILMES & SERIES",CINEMAX FHD
-http://axr.life:80/00005821/MF159357C/5200
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS | FILMES & SERIES",CINEMAX HD
-http://axr.life:80/00005821/MF159357C/5048
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS | FILMES & SERIES",CINEMAX SD
-http://axr.life:80/00005821/MF159357C/5410
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png" group-title="CANAIS | FILMES & SERIES",FX FHD
-http://axr.life:80/00005821/MF159357C/5225
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png" group-title="CANAIS | FILMES & SERIES",FX HD
-http://axr.life:80/00005821/MF159357C/5073
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png" group-title="CANAIS | FILMES & SERIES",FX SD
-http://axr.life:80/00005821/MF159357C/5436
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/100.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/283.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/555.ts
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/amc.png" group-title="CANAIS FILMES E SERIES",AMC HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/550.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CANAIS FILMES E SERIES",AXN HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/9.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/axnb.png" group-title="CANAIS FILMES E SERIES",AXN UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/285.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/axnb.png" group-title="CANAIS FILMES E SERIES",AXN SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/557.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canalbrasilb.png" group-title="CANAIS FILMES E SERIES",CANAL BRASIL HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/71.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canalbrasilb.png" group-title="CANAIS FILMES E SERIES",CANAL BRASIL UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/401.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canalbrasilb.png" group-title="CANAIS FILMES E SERIES",CANAL BRASIL SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/564.ts
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="CINE CANAL HD" tvg-logo="https://uploaddeimagens.com.br/images/003/819/492/thumb/CINECANAL.png" group-title="CANAIS FILMES E SERIES",CINE CANAL HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/32.ts
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="CINE CANAL UHD" tvg-logo="https://uploaddeimagens.com.br/images/003/819/492/thumb/CINECANAL.png" group-title="CANAIS FILMES E SERIES",CINE CANAL UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/311.ts
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="CINE CANAL SD" tvg-logo="https://uploaddeimagens.com.br/images/003/819/492/thumb/CINECANAL.png" group-title="CANAIS FILMES E SERIES",CINE CANAL SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/585.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cinemax.png" group-title="CANAIS FILMES E SERIES",CINEMAX HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/15.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cinemax.png" group-title="CANAIS FILMES E SERIES",CINEMAX UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/293.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cinemax.png" group-title="CANAIS FILMES E SERIES",CINEMAX SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/566.ts
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fxb.png" group-title="CANAIS FILMES E SERIES",FX HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/76.ts
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fxb.png" group-title="CANAIS FILMES E SERIES",FX UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/314.ts
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fxb.png" group-title="CANAIS FILMES E SERIES",FX SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/589.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/lifetime.png" group-title="CANAIS FILMES E SERIES",LIFETIME UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/324.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/lifetime.png" group-title="CANAIS FILMES E SERIES",LIFETIME SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/609.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="CANAIS FILMES E SERIES",MEGAPIX HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/47.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="CANAIS FILMES E SERIES",MEGAPIX UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/328.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="CANAIS FILMES E SERIES",MEGAPIX SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/614.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/53.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/336.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/624.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS FILMES E SERIES",SONY HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/55.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS FILMES E SERIES",SONY UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/344.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS FILMES E SERIES",SONY SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/636.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="CANAIS FILMES E SERIES",SPACE HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/56.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="CANAIS FILMES E SERIES",SPACE UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/345.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="CANAIS FILMES E SERIES",SPACE SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/637.ts
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starchannelb.png" group-title="CANAIS FILMES E SERIES",STAR HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/31.ts
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starchannelb.png" group-title="CANAIS FILMES E SERIES",STAR SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/588.ts
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starchannelb.png" group-title="CANAIS FILMES E SERIES",STAR UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/310.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/studiouniversalb.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/60.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/641.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/studiouniversalb.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/348.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/syfy2018.png" group-title="CANAIS FILMES E SERIES",SYFY HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/61.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/syfy2018.png" group-title="CANAIS FILMES E SERIES",SYFY UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/349.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/syfy2018.png" group-title="CANAIS FILMES E SERIES",SYFY SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/642.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tbsb.png" group-title="CANAIS FILMES E SERIES",TBS UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/383.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcm.png" group-title="CANAIS FILMES E SERIES",TCM HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/88.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcm.png" group-title="CANAIS FILMES E SERIES",TCM UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/378.ts
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcm.png" group-title="CANAIS FILMES E SERIES",TCM SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/650.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tnt.png" group-title="CANAIS FILMES E SERIES",TNT HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/20945.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tnt.png" group-title="CANAIS FILMES E SERIES",TNT UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/357.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tnt.png" group-title="CANAIS FILMES E SERIES",TNT SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/654.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS FILMES E SERIES",TNT SERIES HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/68.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS FILMES E SERIES",TNT SERIES UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/358.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS FILMES E SERIES",TNT SERIES SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/653.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/69.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/359.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/658.ts
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/70.ts
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/361.ts
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/661.ts
 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX FHD
-http://axr.life:80/00005821/MF159357C/5242
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX HD
-http://axr.life:80/00005821/MF159357C/5090
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX SD
-http://axr.life:80/00005821/MF159357C/5458
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT FHD
-http://axr.life:80/00005821/MF159357C/5251
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT HD
-http://axr.life:80/00005821/MF159357C/5099
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT SD
-http://axr.life:80/00005821/MF159357C/5469
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="CANAIS | FILMES & SERIES",SPACE FHD
-http://axr.life:80/00005821/MF159357C/5261
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="CANAIS | FILMES & SERIES",SPACE HD
-http://axr.life:80/00005821/MF159357C/5109
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="CANAIS | FILMES & SERIES",SPACE SD
-http://axr.life:80/00005821/MF159357C/49321
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL FHD
-http://axr.life:80/00005821/MF159357C/5220
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL HD
-http://axr.life:80/00005821/MF159357C/5067
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL SD
-http://axr.life:80/00005821/MF159357C/5817
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL FHD
-http://axr.life:80/00005821/MF159357C/5265
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL HD
-http://axr.life:80/00005821/MF159357C/5113
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL SD
-http://axr.life:80/00005821/MF159357C/5497
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY FHD
-http://axr.life:80/00005821/MF159357C/5266
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY FHD
-http://axr.life:80/00005821/MF159357C/923881
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY HD
-http://axr.life:80/00005821/MF159357C/5114
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY SD
-http://axr.life:80/00005821/MF159357C/5498
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS FHD
-http://axr.life:80/00005821/MF159357C/5267
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD " tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS FHD 
-http://axr.life:80/00005821/MF159357C/923880
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS HD
-http://axr.life:80/00005821/MF159357C/5115
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS SD
-http://axr.life:80/00005821/MF159357C/923506
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SERIES",TCM FHD
-http://axr.life:80/00005821/MF159357C/923901
-
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SERIES",TCM SD
-http://axr.life:80/00005821/MF159357C/923507
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC FHD
-http://axr.life:80/00005821/MF159357C/923835
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TLC HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC HD
-http://axr.life:80/00005821/MF159357C/354854
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD " tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC HD 
-http://axr.life:80/00005821/MF159357C/923056
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TLC SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC SD
-http://axr.life:80/00005821/MF159357C/5500
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT FHD
-http://axr.life:80/00005821/MF159357C/5275
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT HD
-http://axr.life:80/00005821/MF159357C/5123
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT HD 
-http://axr.life:80/00005821/MF159357C/923057
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT SD
-http://axr.life:80/00005821/MF159357C/5509
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES FHD
-http://axr.life:80/00005821/MF159357C/5276
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES FHD
-http://axr.life:80/00005821/MF159357C/923873
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES HD
-http://axr.life:80/00005821/MF159357C/5124
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES SD
-http://axr.life:80/00005821/MF159357C/5510
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV FHD
-http://axr.life:80/00005821/MF159357C/5280
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV HD
-http://axr.life:80/00005821/MF159357C/5129
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV SD
-http://axr.life:80/00005821/MF159357C/5535
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL FHD
-http://axr.life:80/00005821/MF159357C/5282
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL HD
-http://axr.life:80/00005821/MF159357C/5132
-#EXTINF:-1 tvg-name="Warner Channel HD " tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",Warner Channel HD 
-http://axr.life:80/00005821/MF159357C/994818
-#EXTINF:-1 tvg-name="WARNER CHANNEL HD (ALT 2)" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL HD (ALT 2)
-http://axr.life:80/00005821/MF159357C/994819
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL SD
-http://axr.life:80/00005821/MF159357C/5531
 
 
 
@@ -531,103 +502,106 @@ http://connecttvapp.xyz:80/mgf2820/mgf239161/508.ts
 
 
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandsports.png" group-title="CANAIS ESPORTES",BAND SPORTS HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/10.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/10.ts
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandsports.png" group-title="CANAIS ESPORTES",BAND SPORTS UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/289.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/289.ts
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandsports.png" group-title="CANAIS ESPORTES",BAND SPORTS SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/690.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/690.ts
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS ESPORTES",COMBATE HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/16.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/16.ts
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS ESPORTES",COMBATE UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/294.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/294.ts
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS ESPORTES",COMBATE SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/569.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/569.ts
 #EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL LIBERTADORES 1 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 1 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20402.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/20402.ts
 #EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL LIBERTADORES 1 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 1 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20410.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/20410.ts
 #EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL LIBERTADORES 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 2 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20411.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/20411.ts
 #EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL LIBERTADORES 2 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 2 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20403.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/20403.ts
 #EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL LIBERTADORES 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 3 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20412.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/20412.ts
 #EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL LIBERTADORES 3 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 3 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20404.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/20404.ts
 #EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL LIBERTADORES 4 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 4 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/23029.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/23029.ts
 #EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL LIBERTADORES 4 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 4 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20405.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/20405.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="CANAIS ESPORTES",ESPN HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/29.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/29.ts
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="CANAIS ESPORTES",ESPN UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/307.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/307.ts
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="CANAIS ESPORTES",ESPN SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/580.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/580.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="CANAIS ESPORTES",ESPN 2 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/27.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/27.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="CANAIS ESPORTES",ESPN 2 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/308.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/308.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="CANAIS ESPORTES",ESPN 2 SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/582.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/582.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 HD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/554/thumb/ESPN3.png" group-title="CANAIS ESPORTES",ESPN 3 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/28.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/28.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 UHD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/554/thumb/ESPN3.png" group-title="CANAIS ESPORTES",ESPN 3 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/306.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/306.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 SD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/554/thumb/ESPN3.png" group-title="CANAIS ESPORTES",ESPN 3 SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/689.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/689.ts
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/542/thumb/logo-canal-espn4-252x252.png" group-title="CANAIS ESPORTES",ESPN 4 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/33.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/33.ts
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 4 UHD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/542/thumb/logo-canal-espn4-252x252.png" group-title="CANAIS ESPORTES",ESPN 4 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/313.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/313.ts
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/542/thumb/logo-canal-espn4-252x252.png" group-title="CANAIS ESPORTES",ESPN 4 SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/587.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/587.ts
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espnextra.png" group-title="CANAIS ESPORTES",ESPN EXTRA HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/74.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/74.ts
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espnextra.png" group-title="CANAIS ESPORTES",ESPN EXTRA SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/581.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/581.ts
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fishtv.png" group-title="CANAIS ESPORTES",FISH TV HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/118.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/118.ts
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fishtv.png" group-title="CANAIS ESPORTES",FISH TV UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/391.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/391.ts
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fishtv.png" group-title="CANAIS ESPORTES",FISH TV SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/583.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/583.ts
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://uploaddeimagens.com.br/images/003/462/588/thumb/fox_sports__2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/34.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/34.ts
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/foxsports2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/586.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/586.ts
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canaloffb.png" group-title="CANAIS ESPORTES",OFF HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/83.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/83.ts
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canaloffb.png" group-title="CANAIS ESPORTES",OFF UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/375.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/375.ts
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canaloffb.png" group-title="CANAIS ESPORTES",OFF SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/623.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/623.ts
 #EXTINF:-1 tvg-name="RED BULL UHD" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.redbull.tv/icon/icon.png?itok=cQFdOh3J" group-title="CANAIS ESPORTES",RED BULL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/482.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/482.ts
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="CANAIS ESPORTES",SPORTV HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/57.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/57.ts
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="CANAIS ESPORTES",SPORTV UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/347.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/347.ts
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="CANAIS ESPORTES",SPORTV SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/640.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/640.ts
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/58.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/58.ts
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/312.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/312.ts
 #EXTINF:-1 tvg-id="sportv.2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/638.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/638.ts
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/59.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/59.ts
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/346.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/346.ts
 #EXTINF:-1 tvg-id="sportv.3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/639.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/639.ts
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/woohoo.png" group-title="CANAIS ESPORTES",WOOHOO UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/410.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/410.ts
 #EXTINF:-1 tvg-name="WOOHOO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/woohoo.png" group-title="CANAIS ESPORTES",WOOHOO HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/503.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/503.ts
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/woohoo.png" group-title="CANAIS ESPORTES",WOOHOO SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/740.ts
+http://connecttvapp.xyz:80/mgf1750/mgf239161/740.ts
+
+
+
 
 #EXTINF:-1 tvg-name="Band 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/81876971d5f3a7ad4c9a60340ca7d50e.png" group-title="CANAIS | 4K",Band 4K
 http://dns.jslinkdns.xyz:80/teteu15/36422003t/588345
@@ -679,6 +653,7 @@ http://dns.jslinkdns.xyz:80/teteu15/36422003t/588367
 http://dns.jslinkdns.xyz:80/teteu15/36422003t/588368
 #EXTINF:-1 tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/79f906bf19f885372715280ab6229319.png" group-title="CANAIS | 4K",TELECINE PIPOCA 4K
 http://dns.jslinkdns.xyz:80/teteu15/36422003t/588369
+
 
 #EXTINF:-1,A&E FHD (H265)
 http://dns.jslinkdns.xyz:80/teteu15/36422003t/825581
