@@ -101,10 +101,7 @@ http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31931.ts
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/18068.ts
 
 
- 
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="TWOADDONS BR @ Filmes e Séries",AMC FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31468.ts
+
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d6fcd247ac34f4000534371fe6378a25.png" group-title="TWOADDONS BR @ Filmes e Séries",AMC FHD (H265)
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/474.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d6fcd247ac34f4000534371fe6378a25.png" group-title="TWOADDONS BR @ Filmes e Séries",AMC HD
@@ -157,6 +154,12 @@ http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/182.ts
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/184.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b2b19c9aea7806b0e08a08c7de9f6c45.png" group-title="TWOADDONS BR @ Filmes e Séries",Megapix FHD (H265)
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/303.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="TWOADDONS BR @ Filmes e Séries",MEGAPIX HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/47.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="TWOADDONS BR @ Filmes e Séries",MEGAPIX UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/328.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="TWOADDONS BR @ Filmes e Séries",MEGAPIX SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/614.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2ba82afe7e7db8a92facf275db974b06.png" group-title="TWOADDONS BR @ Filmes e Séries",Paramount Channel FHD (H265)
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/333.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/59a2215ec7a298b931e0c820b9566327.png" group-title="TWOADDONS BR @ Filmes e Séries",Sony FHD
@@ -215,7 +218,7 @@ http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/461.ts
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/463.ts
 
  
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aa3b36122c073f1a3a44cf93f62f4075.png" group-title="TWOADDONS BR @ Documentários",Animal Planet FHD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31873.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aa3b36122c073f1a3a44cf93f62f4075.png" group-title="TWOADDONS BR @ Documentários",Animal Planet FHD (H265)
