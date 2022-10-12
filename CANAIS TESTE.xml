@@ -100,6 +100,9 @@ http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31931.ts
 #EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ Abertos",TV Camara SD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/18068.ts
 
+
+ 
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="TWOADDONS BR @ Filmes e Séries",AMC FHD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31468.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d6fcd247ac34f4000534371fe6378a25.png" group-title="TWOADDONS BR @ Filmes e Séries",AMC FHD (H265)
@@ -126,16 +129,12 @@ http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/57.ts
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/58.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/6jo" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 1 HD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31465.ts
-#EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 1O HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/32037.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/6jo" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 3 HD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31462.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/6jo" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 5 HD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31464.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/6jo" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 6 HD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/32026.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6jo" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 7 HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/32027.ts
 #EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 8 HD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/32035.ts
 #EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ Filmes e Séries",Cine SKY 9 HD
@@ -148,40 +147,22 @@ http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/82857.ts
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/82858.ts
 #EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ Filmes e Séries",Cinecanal SD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/82859.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ea23b6efb6ae97a9a5350c2a4833270e.png" group-title="TWOADDONS BR @ Filmes e Séries",Cinemax FHD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31472.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ea23b6efb6ae97a9a5350c2a4833270e.png" group-title="TWOADDONS BR @ Filmes e Séries",Cinemax FHD (H265)
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/67.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ea23b6efb6ae97a9a5350c2a4833270e.png" group-title="TWOADDONS BR @ Filmes e Séries",Cinemax HD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/68.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ea23b6efb6ae97a9a5350c2a4833270e.png" group-title="TWOADDONS BR @ Filmes e Séries",Cinemax SD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/69.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/994830c6a00a692f50889d22911e6137.png" group-title="TWOADDONS BR @ Filmes e Séries",FX FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31890.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/994830c6a00a692f50889d22911e6137.png" group-title="TWOADDONS BR @ Filmes e Séries",FX FHD (H265)
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/182.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/994830c6a00a692f50889d22911e6137.png" group-title="TWOADDONS BR @ Filmes e Séries",FX HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/183.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/994830c6a00a692f50889d22911e6137.png" group-title="TWOADDONS BR @ Filmes e Séries",FX SD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/184.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b2b19c9aea7806b0e08a08c7de9f6c45.png" group-title="TWOADDONS BR @ Filmes e Séries",Megapix FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31497.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b2b19c9aea7806b0e08a08c7de9f6c45.png" group-title="TWOADDONS BR @ Filmes e Séries",Megapix FHD (H265)
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/303.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b2b19c9aea7806b0e08a08c7de9f6c45.png" group-title="TWOADDONS BR @ Filmes e Séries",Megapix HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/304.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b2b19c9aea7806b0e08a08c7de9f6c45.png" group-title="TWOADDONS BR @ Filmes e Séries",Megapix SD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/305.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2ba82afe7e7db8a92facf275db974b06.png" group-title="TWOADDONS BR @ Filmes e Séries",Paramount Channel FHD (H265)
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/333.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/2ba82afe7e7db8a92facf275db974b06.png" group-title="TWOADDONS BR @ Filmes e Séries",Paramount Channel SD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/335.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/59a2215ec7a298b931e0c820b9566327.png" group-title="TWOADDONS BR @ Filmes e Séries",Sony FHD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31894.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/59a2215ec7a298b931e0c820b9566327.png" group-title="TWOADDONS BR @ Filmes e Séries",Sony FHD (H265)
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/386.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/59a2215ec7a298b931e0c820b9566327.png" group-title="TWOADDONS BR @ Filmes e Séries",Sony HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/387.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/59a2215ec7a298b931e0c820b9566327.png" group-title="TWOADDONS BR @ Filmes e Séries",Sony SD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/388.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f8e3b0bbeb7a8f19433e3c5732dab7ab.png" group-title="TWOADDONS BR @ Filmes e Séries",Space FHD
@@ -198,67 +179,43 @@ http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31886.ts
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/161.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="TWOADDONS BR @ Filmes e Séries",Star Channel HD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/162.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="TWOADDONS BR @ Filmes e Séries",Star Channel SD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/175.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b4285792aae5e85c4d230daa65d8ffd9.png" group-title="TWOADDONS BR @ Filmes e Séries",Studio Universal FHD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31895.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b4285792aae5e85c4d230daa65d8ffd9.png" group-title="TWOADDONS BR @ Filmes e Séries",Studio Universal FHD (H265)
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/401.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b4285792aae5e85c4d230daa65d8ffd9.png" group-title="TWOADDONS BR @ Filmes e Séries",Studio Universal HD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/402.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b4285792aae5e85c4d230daa65d8ffd9.png" group-title="TWOADDONS BR @ Filmes e Séries",Studio Universal SD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/403.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/43b23f67f0ac59842f93a444cae69c55.png" group-title="TWOADDONS BR @ Filmes e Séries",Syfy FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31896.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/43b23f67f0ac59842f93a444cae69c55.png" group-title="TWOADDONS BR @ Filmes e Séries",Syfy FHD (H265)
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/404.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/43b23f67f0ac59842f93a444cae69c55.png" group-title="TWOADDONS BR @ Filmes e Séries",Syfy HD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/405.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/43b23f67f0ac59842f93a444cae69c55.png" group-title="TWOADDONS BR @ Filmes e Séries",Syfy SD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/406.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd5f03a33d2aa81f91906114dfba0a97.png" group-title="TWOADDONS BR @ Filmes e Séries",TBS FHD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31505.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd5f03a33d2aa81f91906114dfba0a97.png" group-title="TWOADDONS BR @ Filmes e Séries",TBS FHD (H265)
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/407.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd5f03a33d2aa81f91906114dfba0a97.png" group-title="TWOADDONS BR @ Filmes e Séries",TBS HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/408.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd5f03a33d2aa81f91906114dfba0a97.png" group-title="TWOADDONS BR @ Filmes e Séries",TBS SD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/409.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/52ab0dde7197bee85937d58a6fc302a2.png" group-title="TWOADDONS BR @ Filmes e Séries",TCM HD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/411.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/52ab0dde7197bee85937d58a6fc302a2.png" group-title="TWOADDONS BR @ Filmes e Séries",TCM SD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/412.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d59ec2022675b2cc68f07b738fbfda2e.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT FHD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31509.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d59ec2022675b2cc68f07b738fbfda2e.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT FHD (H265)
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/434.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d59ec2022675b2cc68f07b738fbfda2e.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT HD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/435.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/d59ec2022675b2cc68f07b738fbfda2e.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT SD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/436.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6294c711a84098c96fef8316d3b23bf0.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT Series FHD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31510.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6294c711a84098c96fef8316d3b23bf0.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT Series FHD (H265)
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/437.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6294c711a84098c96fef8316d3b23bf0.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT Series HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/438.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6294c711a84098c96fef8316d3b23bf0.png" group-title="TWOADDONS BR @ Filmes e Séries",TNT Series SD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/439.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/22214e8419772eaec5aa7ba602c8afc4.png" group-title="TWOADDONS BR @ Filmes e Séries",Universal Channel FHD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31906.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/22214e8419772eaec5aa7ba602c8afc4.png" group-title="TWOADDONS BR @ Filmes e Séries",Universal Channel FHD (H265)
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/452.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/22214e8419772eaec5aa7ba602c8afc4.png" group-title="TWOADDONS BR @ Filmes e Séries",Universal Channel HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/453.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/22214e8419772eaec5aa7ba602c8afc4.png" group-title="TWOADDONS BR @ Filmes e Séries",Universal Channel SD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/454.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6cd405fa3bf97811554f7e2da2bdc4c7.png" group-title="TWOADDONS BR @ Filmes e Séries",Warner Channel FHD (H265)
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/461.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6cd405fa3bf97811554f7e2da2bdc4c7.png" group-title="TWOADDONS BR @ Filmes e Séries",Warner Channel HD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/462.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6cd405fa3bf97811554f7e2da2bdc4c7.png" group-title="TWOADDONS BR @ Filmes e Séries",Warner Channel SD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/463.ts
 
+ 
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aa3b36122c073f1a3a44cf93f62f4075.png" group-title="TWOADDONS BR @ Documentários",Animal Planet FHD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31873.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/aa3b36122c073f1a3a44cf93f62f4075.png" group-title="TWOADDONS BR @ Documentários",Animal Planet FHD (H265)
@@ -293,16 +250,12 @@ http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/96.ts
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/97.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/0ba72c2e99c01188a08b5aed5c1126c0.png" group-title="TWOADDONS BR @ Documentários",Discovery Science FHD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31476.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/0ba72c2e99c01188a08b5aed5c1126c0.png" group-title="TWOADDONS BR @ Documentários",Discovery Science FHD (H265)
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/107.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/0ba72c2e99c01188a08b5aed5c1126c0.png" group-title="TWOADDONS BR @ Documentários",Discovery Science HD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/108.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/0ba72c2e99c01188a08b5aed5c1126c0.png" group-title="TWOADDONS BR @ Documentários",Discovery Science SD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/109.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/87aaf693702e95ac295ff433483588cf.png" group-title="TWOADDONS BR @ Documentários",Discovery Theater FHD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31477.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/87aaf693702e95ac295ff433483588cf.png" group-title="TWOADDONS BR @ Documentários",Discovery Theater FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/110.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/87aaf693702e95ac295ff433483588cf.png" group-title="TWOADDONS BR @ Documentários",Discovery Theater HD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/111.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/87aaf693702e95ac295ff433483588cf.png" group-title="TWOADDONS BR @ Documentários",Discovery Theater SD
@@ -325,43 +278,33 @@ http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/262.ts
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/263.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="TWOADDONS BR @ Documentários",HGTV FHD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31494.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5533fd99f9f9ef90388f576e2a30c991.png" group-title="TWOADDONS BR @ Documentários",HGTV FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/98.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5533fd99f9f9ef90388f576e2a30c991.png" group-title="TWOADDONS BR @ Documentários",HGTV HD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/99.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5533fd99f9f9ef90388f576e2a30c991.png" group-title="TWOADDONS BR @ Documentários",HGTV SD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/100.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/228efe90ce842c9b5600b2ef03052bfa.png" group-title="TWOADDONS BR @ Documentários",History FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31878.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/228efe90ce842c9b5600b2ef03052bfa.png" group-title="TWOADDONS BR @ Documentários",History FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/288.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/228efe90ce842c9b5600b2ef03052bfa.png" group-title="TWOADDONS BR @ Documentários",History HD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/289.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/228efe90ce842c9b5600b2ef03052bfa.png" group-title="TWOADDONS BR @ Documentários",History SD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/290.ts
-#EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ Documentários",Love Nature FHD (H265)
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/2551.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7712e244d8ddd3728605369a8163e9eb.png" group-title="TWOADDONS BR @ Documentários",National Geographic FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31881.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7712e244d8ddd3728605369a8163e9eb.png" group-title="TWOADDONS BR @ Documentários",National Geographic FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/315.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7712e244d8ddd3728605369a8163e9eb.png" group-title="TWOADDONS BR @ Documentários",National Geographic HD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/316.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7712e244d8ddd3728605369a8163e9eb.png" group-title="TWOADDONS BR @ Documentários",National Geographic SD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/320.ts
 #EXTINF:-1 tvg-logo="http://iv.pe/Rm0" group-title="TWOADDONS BR @ Documentários",Smithsonian Channel HD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/27197.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="TWOADDONS BR @ Documentários",Smithsonian FHD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31502.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="TWOADDONS BR @ Documentários",Smithsonian FHD (H265)
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31924.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="TWOADDONS BR @ Documentários",Smithsonian HD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31925.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="TWOADDONS BR @ Documentários",Smithsonian SD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31926.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/29280fccf1d725dd92fefaaabd009d89.png" group-title="TWOADDONS BR @ Documentários",Tru TV SD
 http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/445.ts
+ 
 
+ 
+ 
+
+ 
+ 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6db6341dac567c227c2ee199116ceac6.png" group-title="TWOADDONS BR @ Telecine",Telecine Action FHD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31900.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/6db6341dac567c227c2ee199116ceac6.png" group-title="TWOADDONS BR @ Telecine",Telecine Action FHD (H265)
@@ -411,67 +354,78 @@ http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/429.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/03676e75fa66873571a14c81efac4263.png" group-title="TWOADDONS BR @ Telecine",Telecine Touch SD
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/430.ts
 
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/00333fbb82a7f6ccd4bc51cdc6bbfa0a.png" group-title="TWOADDONS BR @ HBO",HBO 2 HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/265.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/00333fbb82a7f6ccd4bc51cdc6bbfa0a.png" group-title="TWOADDONS BR @ HBO",HBO 2 SD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/266.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7248573e11832f869b3719d2ba67d3d1.png" group-title="TWOADDONS BR @ HBO",HBO Family FHD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31487.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7248573e11832f869b3719d2ba67d3d1.png" group-title="TWOADDONS BR @ HBO",HBO Family FHD (H265)
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/267.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7248573e11832f869b3719d2ba67d3d1.png" group-title="TWOADDONS BR @ HBO",HBO Family HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/268.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7248573e11832f869b3719d2ba67d3d1.png" group-title="TWOADDONS BR @ HBO",HBO Family SD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/269.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eb73e102ca00a259d07b1cf7ce8735e9.png" group-title="TWOADDONS BR @ HBO",HBO FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31488.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eb73e102ca00a259d07b1cf7ce8735e9.png" group-title="TWOADDONS BR @ HBO",HBO FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/270.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eb73e102ca00a259d07b1cf7ce8735e9.png" group-title="TWOADDONS BR @ HBO",HBO HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/271.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3d69f484bdcca6071289f04b5e442a55.png" group-title="TWOADDONS BR @ HBO",HBO Mundi FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31489.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3d69f484bdcca6071289f04b5e442a55.png" group-title="TWOADDONS BR @ HBO",HBO Mundi FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/272.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3d69f484bdcca6071289f04b5e442a55.png" group-title="TWOADDONS BR @ HBO",HBO Mundi HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/273.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3d69f484bdcca6071289f04b5e442a55.png" group-title="TWOADDONS BR @ HBO",HBO Mundi SD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/274.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f69710b249ec51f1929455055010a48c.png" group-title="TWOADDONS BR @ HBO",HBO Plus FHD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31490.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f69710b249ec51f1929455055010a48c.png" group-title="TWOADDONS BR @ HBO",HBO Plus FHD (H265)
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/275.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f69710b249ec51f1929455055010a48c.png" group-title="TWOADDONS BR @ HBO",HBO Plus HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/276.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f69710b249ec51f1929455055010a48c.png" group-title="TWOADDONS BR @ HBO",HBO Plus SD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/277.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f55350f9aeb3e50c5b636477cff4f3a3.png" group-title="TWOADDONS BR @ HBO",HBO Pop FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31491.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f55350f9aeb3e50c5b636477cff4f3a3.png" group-title="TWOADDONS BR @ HBO",HBO Pop FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/278.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f55350f9aeb3e50c5b636477cff4f3a3.png" group-title="TWOADDONS BR @ HBO",HBO Pop HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/279.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f55350f9aeb3e50c5b636477cff4f3a3.png" group-title="TWOADDONS BR @ HBO",HBO Pop SD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/280.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eb73e102ca00a259d07b1cf7ce8735e9.png" group-title="TWOADDONS BR @ HBO",HBO SD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/281.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bfc0ccbe6b6e79889a088682ce3fd546.png" group-title="TWOADDONS BR @ HBO",HBO Signature FHD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/31492.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bfc0ccbe6b6e79889a088682ce3fd546.png" group-title="TWOADDONS BR @ HBO",HBO Signature FHD (H265)
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/282.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bfc0ccbe6b6e79889a088682ce3fd546.png" group-title="TWOADDONS BR @ HBO",HBO Signature HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/283.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/bfc0ccbe6b6e79889a088682ce3fd546.png" group-title="TWOADDONS BR @ HBO",HBO Signature SD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/284.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/27ca0682bd0b592eb59d07c0c5b50533.png" group-title="TWOADDONS BR @ HBO",HBO Xtreme FHD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/31493.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/27ca0682bd0b592eb59d07c0c5b50533.png" group-title="TWOADDONS BR @ HBO",HBO Xtreme FHD (H265)
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/285.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/27ca0682bd0b592eb59d07c0c5b50533.png" group-title="TWOADDONS BR @ HBO",HBO Xtreme HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/286.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/27ca0682bd0b592eb59d07c0c5b50533.png" group-title="TWOADDONS BR @ HBO",HBO Xtreme SD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/287.ts
-
+ 
+ 
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/babytv.png" group-title="TWOADDONS BR INFANTIL",BABY HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/286.ts
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/babytv.png" group-title="TWOADDONS BR INFANTIL",BABY UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/390.ts
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/babytv.png" group-title="TWOADDONS BR INFANTIL",BABY SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/558.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonito.png" group-title="TWOADDONS BR INFANTIL",CARTOONITO HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/13.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonito.png" group-title="TWOADDONS BR INFANTIL",CARTOONITO UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/291.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonito.png" group-title="TWOADDONS BR INFANTIL",CARTOONITO SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/563.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="TWOADDONS BR INFANTIL",CARTOON NETWORK HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/14.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="TWOADDONS BR INFANTIL",CARTOON NETWORK UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/292.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="TWOADDONS BR INFANTIL",CARTOON NETWORK SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/565.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykids.png" group-title="TWOADDONS BR INFANTIL",DISCOVERY KIDS HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/112.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykids.png" group-title="TWOADDONS BR INFANTIL",DISCOVERY KIDS UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/299.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykids.png" group-title="TWOADDONS BR INFANTIL",DISCOVERY KIDS SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/574.ts
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disney.png" group-title="TWOADDONS BR INFANTIL",DISNEY CHANNEL HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/25.ts
+#EXTINF:-1 tvg-id="disney.3.br" tvg-name="DISNEY CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disney.png" group-title="TWOADDONS BR INFANTIL",DISNEY CHANNEL UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/304.ts
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disney.png" group-title="TWOADDONS BR INFANTIL",DISNEY CHANNEL SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/576.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloob.png" group-title="TWOADDONS BR INFANTIL",GLOOB HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/79.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloob.png" group-title="TWOADDONS BR INFANTIL",GLOOB UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/386.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloob.png" group-title="TWOADDONS BR INFANTIL",GLOOB SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/598.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://ngt.com.br/wp-content/uploads/2019/10/canal-infantil-gloobinho.png" group-title="TWOADDONS BR INFANTIL",GLOOBINHO HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/35.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO UHD" tvg-logo="https://ngt.com.br/wp-content/uploads/2019/10/canal-infantil-gloobinho.png" group-title="TWOADDONS BR INFANTIL",GLOOBINHO UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/317.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://ngt.com.br/wp-content/uploads/2019/10/canal-infantil-gloobinho.png" group-title="TWOADDONS BR INFANTIL",GLOOBINHO SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/730.ts
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="TWOADDONS BR INFANTIL",NICK JR HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/109.ts
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="TWOADDONS BR INFANTIL",NICK JR SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/621.ts
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="TWOADDONS BR INFANTIL",NICK JR UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/335.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickelodeon.png" group-title="TWOADDONS BR INFANTIL",NICKELODEON HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/52.ts
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickelodeon.png" group-title="TWOADDONS BR INFANTIL",NICKELODEON UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/334.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NICKELODEON SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickelodeon.png" group-title="TWOADDONS BR INFANTIL",NICKELODEON SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/622.ts
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="RA-TIM-BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="TWOADDONS BR INFANTIL",RA-TIM-BUM HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/91.ts
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="RA-TIM-BUM UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="TWOADDONS BR INFANTIL",RA-TIM-BUM UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/388.ts
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="RA-TIM-BUM SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="TWOADDONS BR INFANTIL",RA-TIM-BUM SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/656.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tooncast.png" group-title="TWOADDONS BR INFANTIL",TOONCAST HD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/90.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tooncast.png" group-title="TWOADDONS BR INFANTIL",TOONCAST UHD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/389.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tooncast.png" group-title="TWOADDONS BR INFANTIL",TOONCAST SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/655.ts
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/zoomoo.png" group-title="TWOADDONS BR INFANTIL",ZOOMOO SD
+http://connecttvapp.xyz:80/mgf2820/mgf239161/508.ts
+ 
+ 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/68be0a41288165bb1d55d61d0c93853c.png" group-title="TWOADDONS BR @ Esportes",BandSports FHD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/31816.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/68be0a41288165bb1d55d61d0c93853c.png" group-title="TWOADDONS BR @ Esportes",BandSports FHD (H265)
@@ -521,19 +475,224 @@ http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/399.ts
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/97fe07f1feeb2f8104f01506d75a45ff.png" group-title="TWOADDONS BR @ Esportes",SporTV SD
 http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/400.ts
 
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="TWOADDONS BR @ Globo",Globo SP FHD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/222.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="TWOADDONS BR @ Globo",Globo SP HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/223.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="TWOADDONS BR @ Globo",Globo SP SD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/224.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="TWOADDONS BR @ Globo",Globo TV Anhanguera FHD
-http://esrv.cc:80/cliente1_Julio_00n/userJuly_0A/225.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="TWOADDONS BR @ Globo",Globo TV Anhanguera HD
-http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/226.ts
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="TWOADDONS BR @ Globo",Globo TV Anhanguera SD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/227.ts
-
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-name="Band 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/81876971d5f3a7ad4c9a60340ca7d50e.png" group-title="TWOADDONS BR | 4K",Band 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588345
+#EXTINF:-1 tvg-name="Record 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/24b5f5814d3d6f2b71fd04256e637962.png" group-title="TWOADDONS BR | 4K",Record 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588346
+#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="TWOADDONS BR | 4K",Premiere Clubes 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588347
+#EXTINF:-1 tvg-name="Telecine Premium 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/a2cde6cb05b9fc063c5e9188a9e8fc15.png" group-title="TWOADDONS BR | 4K",Telecine Premium 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588348
+#EXTINF:-1 tvg-name="TNT 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/91fca362fec5700d4a3c7bde1830cdd9.png" group-title="TWOADDONS BR | 4K",TNT 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588349
+#EXTINF:-1 tvg-name="TNT Series 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="TWOADDONS BR | 4K",TNT Series 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588350
+#EXTINF:-1 tvg-name="Animal Planet 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/bbcd5964fca4148865aa4e5ef679b4dd.png" group-title="TWOADDONS BR | 4K",Animal Planet 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588351
+#EXTINF:-1 tvg-name="Cartoon Network 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/62db5079d90a61f0de6d60b7976fbe4b.png" group-title="TWOADDONS BR | 4K",Cartoon Network 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588352
+#EXTINF:-1 tvg-name="Combate 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/434f95d374e2134d175129891d902575.png" group-title="TWOADDONS BR | 4K",Combate 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588353
+#EXTINF:-1 tvg-name="Discovery Channel 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/8f49928ed56edf8cf7d15a14eda63ea0.png" group-title="TWOADDONS BR | 4K",Discovery Channel 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588354
+#EXTINF:-1 tvg-name="STAR CHANNEL 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/fe62598b7d670aa0349d5f70814d25e4.png" group-title="TWOADDONS BR | 4K",STAR CHANNEL 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588355
+#EXTINF:-1 tvg-name="ESPN 4 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/219f308780a5cddea4154a5f46d4279b.png" group-title="TWOADDONS BR | 4K",ESPN 4 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588356
+#EXTINF:-1 tvg-name="Globo 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/efb56cdbd0648a9b81fea0a9aa940aae.png" group-title="TWOADDONS BR | 4K",Globo 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588357
+#EXTINF:-1 tvg-name="HBO 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="TWOADDONS BR | 4K",HBO 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588358
+#EXTINF:-1 tvg-name="Megapix 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/e430766410874bf506f174001596cf72.png" group-title="TWOADDONS BR | 4K",Megapix 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588359
+#EXTINF:-1 tvg-name="Multishow 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/30ec54ae12d8ea1e4976d67bd1ae54af.png" group-title="TWOADDONS BR | 4K",Multishow 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588360
+#EXTINF:-1 tvg-name="SBT 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/99e72a30088584b01a7e727a72ba53e9.png" group-title="TWOADDONS BR | 4K",SBT 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588361
+#EXTINF:-1 tvg-name="Space 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/20b6e2dafee7b5bd64cf3a09f8a6d6d1.png" group-title="TWOADDONS BR | 4K",Space 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588362
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/0786f8c4dd07d103fc30ebbc3ac10ee6.png" group-title="TWOADDONS BR | 4K",SporTV 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588363
+#EXTINF:-1 tvg-name="HBO XTREME 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7f1a6ba36f51359f52e009f6bbb696e0.png" group-title="TWOADDONS BR | 4K",HBO XTREME 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588364
+#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="TWOADDONS BR | 4K",ESPN 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588365
+#EXTINF:-1 tvg-name="NATGEO 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7a6062cfe3e011a27e0a047300f4eac1.png" group-title="TWOADDONS BR | 4K",NATGEO 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588366
+#EXTINF:-1 tvg-name="FOX SPORTS 2 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/d39181270476d6626950ef31e702170f.png" group-title="TWOADDONS BR | 4K",FOX SPORTS 2 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588367
+#EXTINF:-1 tvg-name="REDETV 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/f7974c06fcd421259b07597ca4a4b26f.png" group-title="TWOADDONS BR | 4K",REDETV 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588368
+#EXTINF:-1 tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/79f906bf19f885372715280ab6229319.png" group-title="TWOADDONS BR | 4K",TELECINE PIPOCA 4K
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/588369
+ 
+ 
+#EXTINF:-1,A&E FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825581
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/aa3b36122c073f1a3a44cf93f62f4075.png" group-title="TWOADDONS BR @ Documentários",ANIMAL PLANET FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825583
+#EXTINF:-1,ARTE 1 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825584
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/68be0a41288165bb1d55d61d0c93853c.png" group-title="TWOADDONS BR @ Esportes",BAND SPORTS FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825588
+#EXTINF:-1,BAND TV GOIANIA FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825589
+#EXTINF:-1,BIS FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825590
+#EXTINF:-1,CANAL BRASIL FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825591
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/59a2215ec7a298b931e0c820b9566327.png" group-title="TWOADDONS BR @ Filmes e Séries",CANAL SONY FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825592
+#EXTINF:-1,CARTOON NETWORK FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825593
+#EXTINF:-1,tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="TWOADDONS BR INFANTIL",CARTOONITO FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825594
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/ea23b6efb6ae97a9a5350c2a4833270e.png" group-title="TWOADDONS BR @ Filmes e Séries",CINEMAX FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825595
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/d3dcecfe8062d430ffb1e7f2868146d5.png" group-title="TWOADDONS BR @ Esportes",COMBATE FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825596
+#EXTINF:-1,COMEDY CENTRAL FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825597
+#EXTINF:-1,CURTA! FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825598
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários",DISCOVERY CHANNEL FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825599
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários",DISCOVERY H&H FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825600
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários',DISCOVERY KIDS FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825601
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários",DISCOVERY SCIENCE FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825602
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários",DISCOVERY THEATER FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825603
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários",DISCOVERY TURBO FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825604
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários",DISCOVERY WORLD FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825605
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="TWOADDONS BR @ Documentários",DISNEY CHANNEL FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825606
+#EXTINF:-1,E! FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825607
+#EXTINF:-1,tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="TWOADDONS BR ,ESPN 2 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825608
+#EXTINF:-1,tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="TWOADDONS BR ,ESPN 3 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825609
+#EXTINF:-1,tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="TWOADDONS BR ,ESPN 4 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825610
+#EXTINF:-1,tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="TWOADDONS BR ,ESPN EXTRA FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825611
+#EXTINF:-1,tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="TWOADDONS BR ,ESPN FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825612
+#EXTINF:-1,FOOD NETWORK FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825613
+#EXTINF:-1,tvg-name="FOX SPORTS 2 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/d39181270476d6626950ef31e702170f.png" group-title="TWOADDONS BR |FOX SPORTS 2 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825614
+#EXTINF:-1,GLOBO MINAS FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825617
+#EXTINF:-1,GLOBO NEWS FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825618
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825619
+#EXTINF:-1,GLOOB FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825623
+#EXTINF:-1,GNT FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825624
+#EXTINF:-1,tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="TWOADDONS BR |HBO 2 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825625
+#EXTINF:-1,tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="TWOADDONS BR |HBO Familly FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825626
+#EXTINF:-1,tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="TWOADDONS BR |HBO POP FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825630
+#EXTINF:-1,tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="TWOADDONS BR |HBO SIGNATURE FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825631
+#EXTINF:-1,tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="TWOADDONS BR |HBO XTREME FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825632
+#EXTINF:-1,HGTV FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825633
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/228efe90ce842c9b5600b2ef03052bfa.png" group-title="TWOADDONS BR @ Documentários",HISTORY 2 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825634
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/228efe90ce842c9b5600b2ef03052bfa.png" group-title="TWOADDONS BR @ Documentários",HISTORY FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825635
+#EXTINF:-1,ID DISCOVERY FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825636
+#EXTINF:-1,JOVEM PAN NEWS FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825637
+#EXTINF:-1,LIFETIME FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825638
+#EXTINF:-1,LOVE NATURE FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825639
+#EXTINF:-1,tvg-name="Megapix 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/e430766410874bf506f174001596cf72.png" group-title="TWOADDONS BR |MEGAPIX FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825640
+#EXTINF:-1,MODO VIAGEM FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825641
+#EXTINF:-1,MTV FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825642
+#EXTINF:-1,MULTISHOW FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825643
+#EXTINF:-1,NATGEO FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825644
+#EXTINF:-1,NICK JR FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825645
+#EXTINF:-1,NICKELODEON FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825646
+#EXTINF:-1,OFF FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825647
+#EXTINF:-1,PARAMOUNT FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825648
+#EXTINF:-1,tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="TWOADDONS BR |PREMIERE 2 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825649
+#EXTINF:-1,tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="TWOADDONS BR |PREMIERE 3 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825650
+#EXTINF:-1,tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="TWOADDONS BR |PREMIERE 4 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825651
+#EXTINF:-1,tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="TWOADDONS BR |PREMIERE 5 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825652
+#EXTINF:-1,tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="TWOADDONS BR |PREMIERE 6 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825653
+#EXTINF:-1,REDE TV FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825657
+#EXTINF:-1,SBT SERRA DOURADA FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825658
+#EXTINF:-1,SBT SP FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825659
+#EXTINF:-1,SPACE FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825660
+#EXTINF:-1,SPORTV 2 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825661
+#EXTINF:-1,SPORTV 3 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825662
+#EXTINF:-1,SPORTV FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825663
+#EXTINF:-1,STAR CHANNEL FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825664
+#EXTINF:-1,STUDIO UNIVERSAL FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825665
+#EXTINF:-1,SYFY FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825666
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/6db6341dac567c227c2ee199116ceac6.png" group-title="TWOADDONS BR @ Telecine"TELECINE FUN FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825670
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/6db6341dac567c227c2ee199116ceac6.png" group-title="TWOADDONS BR @ Telecine"TELECINE PIPOCA FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825671
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/6db6341dac567c227c2ee199116ceac6.png" group-title="TWOADDONS BR @ Telecine"TELECINE PREMIUM FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825672
+#EXTINF:-1,tvg-logo="http://esrv.cc:80/images/6db6341dac567c227c2ee199116ceac6.png" group-title="TWOADDONS BR @ Telecine"TELECINE TOUCH FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825673
+#EXTINF:-1,TLC FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825674
+#EXTINF:-1,TNT FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825675
+#EXTINF:-1,VH1 FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825678
+#EXTINF:-1,WARNER CHANNEL FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825679
+#EXTINF:-1,WOOHOO FHD (H265)
+http://dns.jslinkdns.xyz:80/teteu15/36422003t/825680
+ 
+ 
 #EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ 24 Horas",Deseho - 3 Palavrinhas - 24H
 http://esrv.cc:80/cliente2_Julio_00n/userJuly_0B/39454.ts
 #EXTINF:-1 tvg-logo="" group-title="TWOADDONS BR @ 24 Horas",Desenho - 101 Dalmatas - 24H
