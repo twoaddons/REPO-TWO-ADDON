@@ -1,892 +1,465 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO + FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS | ABERTOS",AGRO + FHD
-http://axr.life:80/00005821/MF159357C/373934
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO + HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS | ABERTOS",AGRO + HD
-http://axr.life:80/00005821/MF159357C/373933
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BAHIA HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND BAHIA HD 
-http://axr.life:80/00005821/MF159357C/32955
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS FHD 
-http://axr.life:80/00005821/MF159357C/453189
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD
-http://axr.life:80/00005821/MF159357C/923302
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD 
-http://axr.life:80/00005821/MF159357C/453182
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND ES HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png " group-title="CANAIS | ABERTOS",BAND ES HD 
-http://axr.life:80/00005821/MF159357C/453194
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND FHD 
-http://axr.life:80/00005821/MF159357C/5289
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND HD 
-http://axr.life:80/00005821/MF159357C/68519
-#EXTINF:-1 tvg-id="band.porto.alegre.br" tvg-name="BAND PR HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND PR HD 
-http://axr.life:80/00005821/MF159357C/453190
-#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RJ FHD 
-http://axr.life:80/00005821/MF159357C/453180
-#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RJ HD 
-http://axr.life:80/00005821/MF159357C/453183
-#EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="BAND RS HD 1" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RS HD 1
-http://axr.life:80/00005821/MF159357C/892776
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND RS HD 2" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RS HD 2
-http://axr.life:80/00005821/MF159357C/1008937
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND SP FHD
-http://axr.life:80/00005821/MF159357C/453195
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND SP HD 
-http://axr.life:80/00005821/MF159357C/453186
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/9FKnAq.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
-http://axr.life:80/00005821/MF159357C/45307
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dPo0pf.png" group-title="CANAIS | ABERTOS",CANAL RURAL HD
-http://axr.life:80/00005821/MF159357C/373935
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA - ITAPOAN HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record BA - ITAPOAN HD  
-http://axr.life:80/00005821/MF159357C/70990
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record BA HD  
-http://axr.life:80/00005821/MF159357C/389104
-#EXTINF:-1 tvg-id="cnt.br" tvg-name="RECORD CAMPINAS HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD CAMPINAS HD  
-http://axr.life:80/00005821/MF159357C/373936
-#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record DF - HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record DF - HD  
-http://axr.life:80/00005821/MF159357C/766215
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record ES - HD " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record ES - HD 
-http://axr.life:80/00005821/MF159357C/766216
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GO HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD GO HD  
-http://axr.life:80/00005821/MF159357C/70996
-#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MG HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD MG HD  
-http://axr.life:80/00005821/MF159357C/5179
-#EXTINF:-1 tvg-id="record.porto.alegre.br" tvg-name="Record PR Maringá HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record PR Maringá HD  
-http://axr.life:80/00005821/MF159357C/5319
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ HD " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RJ HD 
-http://axr.life:80/00005821/MF159357C/5320
-#EXTINF:-1 tvg-id="record.rs.br" tvg-name="Record RS HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record RS HD  
-http://axr.life:80/00005821/MF159357C/35165
-#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FHD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP FHD  
-http://axr.life:80/00005821/MF159357C/57255
-#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP HD  
-http://axr.life:80/00005821/MF159357C/5316
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP SD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP SD
-http://axr.life:80/00005821/MF159357C/923324
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL HD" tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="CANAIS | ABERTOS",REDE BRASIL HD
-http://axr.life:80/00005821/MF159357C/374283
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD " tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS",REDE TV FHD 
-http://axr.life:80/00005821/MF159357C/354855
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD " tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS",REDE TV! HD 
-http://axr.life:80/00005821/MF159357C/5108
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ES HD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT ES HD 
-http://axr.life:80/00005821/MF159357C/475650
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PR HD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT PR HD 
-http://axr.life:80/00005821/MF159357C/68527
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ CAPITAL HD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT RJ CAPITAL HD 
-http://axr.life:80/00005821/MF159357C/68529
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RS HD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT RS HD
-http://axr.life:80/00005821/MF159357C/1002415
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP FHD 
-http://axr.life:80/00005821/MF159357C/68532
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP HD
-http://axr.life:80/00005821/MF159357C/923395
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP HD 
-http://axr.life:80/00005821/MF159357C/68531
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BBdTfu.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
-http://axr.life:80/00005821/MF159357C/374284
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
-http://axr.life:80/00005821/MF159357C/374285
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="CANAIS | ABERTOS",TV Cultura HD
-http://axr.life:80/00005821/MF159357C/374286
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD " tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS",REDE TV! SD 
-http://axr.life:80/00005821/MF159357C/5487
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP SD 
-http://axr.life:80/00005821/MF159357C/475649
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dPo0pf.png" group-title="CANAIS | ABERTOS",CANAL RURAL SD
-http://axr.life:80/00005821/MF159357C/923168
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD TV SD
-http://axr.life:80/00005821/MF159357C/923491
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
-http://axr.life:80/00005821/MF159357C/923493
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SD
-http://axr.life:80/00005821/MF159357C/923497
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="CANAIS | ABERTOS",TV CULTURA SD
-http://axr.life:80/00005821/MF159357C/923525
-
-
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/100.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/283.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/555.ts
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/amc.png" group-title="CANAIS FILMES E SERIES",AMC HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/550.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CANAIS FILMES E SERIES",AXN HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/9.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/axnb.png" group-title="CANAIS FILMES E SERIES",AXN UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/285.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/axnb.png" group-title="CANAIS FILMES E SERIES",AXN SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/557.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canalbrasilb.png" group-title="CANAIS FILMES E SERIES",CANAL BRASIL HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/71.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canalbrasilb.png" group-title="CANAIS FILMES E SERIES",CANAL BRASIL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/401.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canalbrasilb.png" group-title="CANAIS FILMES E SERIES",CANAL BRASIL SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/564.ts
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="CINE CANAL HD" tvg-logo="https://uploaddeimagens.com.br/images/003/819/492/thumb/CINECANAL.png" group-title="CANAIS FILMES E SERIES",CINE CANAL HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/32.ts
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="CINE CANAL UHD" tvg-logo="https://uploaddeimagens.com.br/images/003/819/492/thumb/CINECANAL.png" group-title="CANAIS FILMES E SERIES",CINE CANAL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/311.ts
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="CINE CANAL SD" tvg-logo="https://uploaddeimagens.com.br/images/003/819/492/thumb/CINECANAL.png" group-title="CANAIS FILMES E SERIES",CINE CANAL SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/585.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cinemax.png" group-title="CANAIS FILMES E SERIES",CINEMAX HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/15.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cinemax.png" group-title="CANAIS FILMES E SERIES",CINEMAX UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/293.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cinemax.png" group-title="CANAIS FILMES E SERIES",CINEMAX SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/566.ts
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fxb.png" group-title="CANAIS FILMES E SERIES",FX HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/76.ts
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fxb.png" group-title="CANAIS FILMES E SERIES",FX UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/314.ts
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fxb.png" group-title="CANAIS FILMES E SERIES",FX SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/589.ts
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/lifetime.png" group-title="CANAIS FILMES E SERIES",LIFETIME UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/324.ts
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/lifetime.png" group-title="CANAIS FILMES E SERIES",LIFETIME SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/609.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="CANAIS FILMES E SERIES",MEGAPIX HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/47.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="CANAIS FILMES E SERIES",MEGAPIX UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/328.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="CANAIS FILMES E SERIES",MEGAPIX SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/614.ts
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/53.ts
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/336.ts
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/624.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS FILMES E SERIES",SONY HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/55.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS FILMES E SERIES",SONY UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/344.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS FILMES E SERIES",SONY SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/636.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="CANAIS FILMES E SERIES",SPACE HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/56.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="CANAIS FILMES E SERIES",SPACE UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/345.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="CANAIS FILMES E SERIES",SPACE SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/637.ts
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starchannelb.png" group-title="CANAIS FILMES E SERIES",STAR HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/31.ts
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starchannelb.png" group-title="CANAIS FILMES E SERIES",STAR SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/588.ts
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starchannelb.png" group-title="CANAIS FILMES E SERIES",STAR UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/310.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/studiouniversalb.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/60.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/641.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/studiouniversalb.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/348.ts
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/syfy2018.png" group-title="CANAIS FILMES E SERIES",SYFY HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/61.ts
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/syfy2018.png" group-title="CANAIS FILMES E SERIES",SYFY UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/349.ts
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/syfy2018.png" group-title="CANAIS FILMES E SERIES",SYFY SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/642.ts
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tbsb.png" group-title="CANAIS FILMES E SERIES",TBS UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/383.ts
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcm.png" group-title="CANAIS FILMES E SERIES",TCM HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/88.ts
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcm.png" group-title="CANAIS FILMES E SERIES",TCM UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/378.ts
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcm.png" group-title="CANAIS FILMES E SERIES",TCM SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/650.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tnt.png" group-title="CANAIS FILMES E SERIES",TNT HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/20945.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tnt.png" group-title="CANAIS FILMES E SERIES",TNT UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/357.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tnt.png" group-title="CANAIS FILMES E SERIES",TNT SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/654.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS FILMES E SERIES",TNT SERIES HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/68.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS FILMES E SERIES",TNT SERIES UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/358.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS FILMES E SERIES",TNT SERIES SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/653.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/69.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/359.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/658.ts
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/70.ts
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/361.ts
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/661.ts
-
-
-
-
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://axr.life:80/00005821/MF159357C/5191
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://axr.life:80/00005821/MF159357C/5042
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-http://axr.life:80/00005821/MF159357C/5396
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
-http://axr.life:80/00005821/MF159357C/5203
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://axr.life:80/00005821/MF159357C/5051
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
-http://axr.life:80/00005821/MF159357C/5414
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD
-http://axr.life:80/00005821/MF159357C/5205
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
-http://axr.life:80/00005821/MF159357C/5053
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H SD
-http://axr.life:80/00005821/MF159357C/5415
-#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
-http://axr.life:80/00005821/MF159357C/5207
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://axr.life:80/00005821/MF159357C/5055
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD
-http://axr.life:80/00005821/MF159357C/5208
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://axr.life:80/00005821/MF159357C/5056
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD
-http://axr.life:80/00005821/MF159357C/5209
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://axr.life:80/00005821/MF159357C/5057
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD
-http://axr.life:80/00005821/MF159357C/5210
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://axr.life:80/00005821/MF159357C/5058
-#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS | DOCUMENTÁRIOS",FISH TV FHD
-http://axr.life:80/00005821/MF159357C/373196
-#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS | DOCUMENTÁRIOS",FISH TV HD
-http://axr.life:80/00005821/MF159357C/17925
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS | DOCUMENTÁRIOS",FISH TV SD
-http://axr.life:80/00005821/MF159357C/5429
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="CANAIS | DOCUMENTÁRIOS",FISH TV SD
-http://axr.life:80/00005821/MF159357C/923437
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",Futura FHD
-http://axr.life:80/00005821/MF159357C/477014
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",Futura HD
-http://axr.life:80/00005821/MF159357C/477013
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",FUTURA SD
-http://axr.life:80/00005821/MF159357C/373197
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",FUTURA SD 
-http://axr.life:80/00005821/MF159357C/923443
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD
-http://axr.life:80/00005821/MF159357C/5235
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD 
-http://axr.life:80/00005821/MF159357C/923832
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD
-http://axr.life:80/00005821/MF159357C/5083
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD 
-http://axr.life:80/00005821/MF159357C/923017
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD 
-http://axr.life:80/00005821/MF159357C/923458
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD 
-http://axr.life:80/00005821/MF159357C/5450
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL HD
-http://axr.life:80/00005821/MF159357C/5084
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD
-http://axr.life:80/00005821/MF159357C/5534
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD
-http://axr.life:80/00005821/MF159357C/5234
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD 
-http://axr.life:80/00005821/MF159357C/923807
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD 
-http://axr.life:80/00005821/MF159357C/923018
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY SD 
-http://axr.life:80/00005821/MF159357C/923541
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGATION DISCOVERY FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY FHD
-http://axr.life:80/00005821/MF159357C/5236
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGATION DISCOVERY HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY HD
-http://axr.life:80/00005821/MF159357C/5085
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGATION DISCOVERY SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SD
-http://axr.life:80/00005821/MF159357C/5451
-#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD FHD
-http://axr.life:80/00005821/MF159357C/923829
-#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD HD
-http://axr.life:80/00005821/MF159357C/923029
-#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD SD
-http://axr.life:80/00005821/MF159357C/923471
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
-http://axr.life:80/00005821/MF159357C/104677
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
-http://axr.life:80/00005821/MF159357C/104678
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
-http://axr.life:80/00005821/MF159357C/104679
-
-
-
-
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
-http://axr.life:80/00005821/MF159357C/5202
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-http://axr.life:80/00005821/MF159357C/5050
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
-http://axr.life:80/00005821/MF159357C/5412
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS | VARIEDADES",CURTA! SD
-http://axr.life:80/00005821/MF159357C/5413
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! FHD
-http://axr.life:80/00005821/MF159357C/5213
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! FHD
-http://axr.life:80/00005821/MF159357C/923888
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! HD
-http://axr.life:80/00005821/MF159357C/45328
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! SD
-http://axr.life:80/00005821/MF159357C/5421
-#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD
-http://axr.life:80/00005821/MF159357C/923898
-#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
-http://axr.life:80/00005821/MF159357C/923100
-#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="CANAIS | VARIEDADES",FILM & ARTS SD
-http://axr.life:80/00005821/MF159357C/923436
-#EXTINF:-1 tvg-id="food.network.brasil.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
-http://axr.life:80/00005821/MF159357C/5219
-#EXTINF:-1 tvg-id="food.network.brasil.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-http://axr.life:80/00005821/MF159357C/5066
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
-http://axr.life:80/00005821/MF159357C/5430
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="CANAIS | VARIEDADES",GNT FHD
-http://axr.life:80/00005821/MF159357C/5228
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="CANAIS | VARIEDADES",GNT HD
-http://axr.life:80/00005821/MF159357C/5077
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="CANAIS | VARIEDADES",GNT SD
-http://axr.life:80/00005821/MF159357C/5444
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="CANAIS | VARIEDADES",HGTV FHD 
-http://axr.life:80/00005821/MF159357C/5204
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="CANAIS | VARIEDADES",HGTV HD
-http://axr.life:80/00005821/MF159357C/5052
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
-http://axr.life:80/00005821/MF159357C/5237
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
-http://axr.life:80/00005821/MF159357C/5086
-#EXTINF:-1 tvg-id="lifetime.brazil.br" tvg-name="LIFETIME SD" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
-http://axr.life:80/00005821/MF159357C/5453
-#EXTINF:-1 tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT SD
-http://axr.life:80/00005821/MF159357C/923462
-#EXTINF:-1 tvg-name="Modo Viagem FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="CANAIS | VARIEDADES",Modo Viagem FHD
-http://axr.life:80/00005821/MF159357C/475671
-#EXTINF:-1 tvg-name="Modo Viagem HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="CANAIS | VARIEDADES",Modo Viagem HD
-http://axr.life:80/00005821/MF159357C/766444
-#EXTINF:-1 tvg-name="Modo Viagem SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="CANAIS | VARIEDADES",Modo Viagem SD
-http://axr.life:80/00005821/MF159357C/766445
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
-http://axr.life:80/00005821/MF159357C/5244
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
-http://axr.life:80/00005821/MF159357C/5092
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
-http://axr.life:80/00005821/MF159357C/5460
-#EXTINF:-1 tvg-id="play.br" tvg-name="PLAYTV SD" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0b606803130fe8917f3_Playtv.png" group-title="CANAIS | VARIEDADES",PLAYTV SD
-http://axr.life:80/00005821/MF159357C/923479
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANAIS | VARIEDADES",STAR LIFE SD
-http://axr.life:80/00005821/MF159357C/923440
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | VARIEDADES",TLC FHD
-http://axr.life:80/00005821/MF159357C/5274
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_trutv-1_m.png" group-title="CANAIS | VARIEDADES",TRUTV SD
-http://axr.life:80/00005821/MF159357C/923519
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA FHD
-http://axr.life:80/00005821/MF159357C/30742
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA HD
-http://axr.life:80/00005821/MF159357C/5131
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA SD
-http://axr.life:80/00005821/MF159357C/5530
-
-
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD
-http://axr.life:80/00005821/MF159357C/5268
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION HD
-http://axr.life:80/00005821/MF159357C/5116
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION SD
-http://axr.life:80/00005821/MF159357C/5501
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT FHD
-http://axr.life:80/00005821/MF159357C/5269
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT HD
-http://axr.life:80/00005821/MF159357C/5117
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT SD
-http://axr.life:80/00005821/MF159357C/5502
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN FHD
-http://axr.life:80/00005821/MF159357C/5270
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN HD
-http://axr.life:80/00005821/MF159357C/5118
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN SD
-http://axr.life:80/00005821/MF159357C/5503
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD " tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD 
-http://axr.life:80/00005821/MF159357C/5271
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA HD
-http://axr.life:80/00005821/MF159357C/5119
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA SD
-http://axr.life:80/00005821/MF159357C/5504
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD
-http://axr.life:80/00005821/MF159357C/5272
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM HD
-http://axr.life:80/00005821/MF159357C/5120
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM SD
-http://axr.life:80/00005821/MF159357C/5505
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD
-http://axr.life:80/00005821/MF159357C/5273
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH HD
-http://axr.life:80/00005821/MF159357C/5121
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH SD
-http://axr.life:80/00005821/MF159357C/5506
-
-
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/babytv.png" group-title="CANAIS INFANTIL",BABY HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/286.ts
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/babytv.png" group-title="CANAIS INFANTIL",BABY UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/390.ts
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/babytv.png" group-title="CANAIS INFANTIL",BABY SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/558.ts
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonito.png" group-title="CANAIS INFANTIL",CARTOONITO HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/13.ts
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonito.png" group-title="CANAIS INFANTIL",CARTOONITO UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/291.ts
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonito.png" group-title="CANAIS INFANTIL",CARTOONITO SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/563.ts
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/14.ts
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="CANAIS INFANTIL",CARTOON NETWORK UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/292.ts
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/565.ts
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykids.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/112.ts
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykids.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/299.ts
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykids.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/574.ts
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disney.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/25.ts
-#EXTINF:-1 tvg-id="disney.3.br" tvg-name="DISNEY CHANNEL UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disney.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/304.ts
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disney.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/576.ts
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloob.png" group-title="CANAIS INFANTIL",GLOOB HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/79.ts
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloob.png" group-title="CANAIS INFANTIL",GLOOB UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/386.ts
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloob.png" group-title="CANAIS INFANTIL",GLOOB SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/598.ts
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://ngt.com.br/wp-content/uploads/2019/10/canal-infantil-gloobinho.png" group-title="CANAIS INFANTIL",GLOOBINHO HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/35.ts
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO UHD" tvg-logo="https://ngt.com.br/wp-content/uploads/2019/10/canal-infantil-gloobinho.png" group-title="CANAIS INFANTIL",GLOOBINHO UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/317.ts
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://ngt.com.br/wp-content/uploads/2019/10/canal-infantil-gloobinho.png" group-title="CANAIS INFANTIL",GLOOBINHO SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/730.ts
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="CANAIS INFANTIL",NICK JR HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/109.ts
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="CANAIS INFANTIL",NICK JR SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/621.ts
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="CANAIS INFANTIL",NICK JR UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/335.ts
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickelodeon.png" group-title="CANAIS INFANTIL",NICKELODEON HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/52.ts
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickelodeon.png" group-title="CANAIS INFANTIL",NICKELODEON UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/334.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NICKELODEON SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickelodeon.png" group-title="CANAIS INFANTIL",NICKELODEON SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/622.ts
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="RA-TIM-BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="CANAIS INFANTIL",RA-TIM-BUM HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/91.ts
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="RA-TIM-BUM UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="CANAIS INFANTIL",RA-TIM-BUM UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/388.ts
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="RA-TIM-BUM SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="CANAIS INFANTIL",RA-TIM-BUM SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/656.ts
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tooncast.png" group-title="CANAIS INFANTIL",TOONCAST HD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/90.ts
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tooncast.png" group-title="CANAIS INFANTIL",TOONCAST UHD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/389.ts
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/655.ts
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/zoomoo.png" group-title="CANAIS INFANTIL",ZOOMOO SD
-http://connecttvapp.xyz:80/mgf2820/mgf239161/508.ts
-
-
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandsports.png" group-title="CANAIS ESPORTES",BAND SPORTS HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/10.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandsports.png" group-title="CANAIS ESPORTES",BAND SPORTS UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/289.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandsports.png" group-title="CANAIS ESPORTES",BAND SPORTS SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/690.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS ESPORTES",COMBATE HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/16.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS ESPORTES",COMBATE UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/294.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS ESPORTES",COMBATE SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/569.ts
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL LIBERTADORES 1 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 1 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/20402.ts
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL LIBERTADORES 1 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 1 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/20410.ts
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL LIBERTADORES 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 2 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/20411.ts
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL LIBERTADORES 2 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 2 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/20403.ts
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL LIBERTADORES 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 3 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/20412.ts
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL LIBERTADORES 3 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 3 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/20404.ts
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL LIBERTADORES 4 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 4 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/23029.ts
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL LIBERTADORES 4 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/conmebol.png" group-title="CANAIS ESPORTES",CONMEBOL LIBERTADORES 4 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/20405.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="CANAIS ESPORTES",ESPN HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/29.ts
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="CANAIS ESPORTES",ESPN UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/307.ts
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="CANAIS ESPORTES",ESPN SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/580.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="CANAIS ESPORTES",ESPN 2 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/27.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="CANAIS ESPORTES",ESPN 2 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/308.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="CANAIS ESPORTES",ESPN 2 SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/582.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 HD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/554/thumb/ESPN3.png" group-title="CANAIS ESPORTES",ESPN 3 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/28.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 UHD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/554/thumb/ESPN3.png" group-title="CANAIS ESPORTES",ESPN 3 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/306.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 SD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/554/thumb/ESPN3.png" group-title="CANAIS ESPORTES",ESPN 3 SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/689.ts
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/542/thumb/logo-canal-espn4-252x252.png" group-title="CANAIS ESPORTES",ESPN 4 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/33.ts
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 4 UHD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/542/thumb/logo-canal-espn4-252x252.png" group-title="CANAIS ESPORTES",ESPN 4 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/313.ts
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="https://uploaddeimagens.com.br/images/003/746/542/thumb/logo-canal-espn4-252x252.png" group-title="CANAIS ESPORTES",ESPN 4 SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/587.ts
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espnextra.png" group-title="CANAIS ESPORTES",ESPN EXTRA HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/74.ts
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espnextra.png" group-title="CANAIS ESPORTES",ESPN EXTRA SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/581.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fishtv.png" group-title="CANAIS ESPORTES",FISH TV HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/118.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fishtv.png" group-title="CANAIS ESPORTES",FISH TV UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/391.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fishtv.png" group-title="CANAIS ESPORTES",FISH TV SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/583.ts
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://uploaddeimagens.com.br/images/003/462/588/thumb/fox_sports__2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/34.ts
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/foxsports2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/586.ts
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canaloffb.png" group-title="CANAIS ESPORTES",OFF HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/83.ts
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canaloffb.png" group-title="CANAIS ESPORTES",OFF UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/375.ts
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canaloffb.png" group-title="CANAIS ESPORTES",OFF SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/623.ts
-#EXTINF:-1 tvg-name="RED BULL UHD" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.redbull.tv/icon/icon.png?itok=cQFdOh3J" group-title="CANAIS ESPORTES",RED BULL UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/482.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="CANAIS ESPORTES",SPORTV HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/57.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="CANAIS ESPORTES",SPORTV UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/347.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="CANAIS ESPORTES",SPORTV SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/640.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/58.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/312.ts
-#EXTINF:-1 tvg-id="sportv.2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/638.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/59.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/346.ts
-#EXTINF:-1 tvg-id="sportv.3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/639.ts
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/woohoo.png" group-title="CANAIS ESPORTES",WOOHOO UHD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/410.ts
-#EXTINF:-1 tvg-name="WOOHOO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/woohoo.png" group-title="CANAIS ESPORTES",WOOHOO HD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/503.ts
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/woohoo.png" group-title="CANAIS ESPORTES",WOOHOO SD
-http://connecttvapp.xyz:80/mgf1750/mgf239161/740.ts
-
-
-
-
-#EXTINF:-1 tvg-name="Band 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/81876971d5f3a7ad4c9a60340ca7d50e.png" group-title="CANAIS | 4K",Band 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588345
-#EXTINF:-1 tvg-name="Record 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/24b5f5814d3d6f2b71fd04256e637962.png" group-title="CANAIS | 4K",Record 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588346
-#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7d6ee2cc06af2582c277bfa73e14a034.png" group-title="CANAIS | 4K",Premiere Clubes 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588347
-#EXTINF:-1 tvg-name="Telecine Premium 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/a2cde6cb05b9fc063c5e9188a9e8fc15.png" group-title="CANAIS | 4K",Telecine Premium 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588348
-#EXTINF:-1 tvg-name="TNT 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/91fca362fec5700d4a3c7bde1830cdd9.png" group-title="CANAIS | 4K",TNT 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588349
-#EXTINF:-1 tvg-name="TNT Series 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="CANAIS | 4K",TNT Series 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588350
-#EXTINF:-1 tvg-name="Animal Planet 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/bbcd5964fca4148865aa4e5ef679b4dd.png" group-title="CANAIS | 4K",Animal Planet 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588351
-#EXTINF:-1 tvg-name="Cartoon Network 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/62db5079d90a61f0de6d60b7976fbe4b.png" group-title="CANAIS | 4K",Cartoon Network 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588352
-#EXTINF:-1 tvg-name="Combate 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/434f95d374e2134d175129891d902575.png" group-title="CANAIS | 4K",Combate 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588353
-#EXTINF:-1 tvg-name="Discovery Channel 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/8f49928ed56edf8cf7d15a14eda63ea0.png" group-title="CANAIS | 4K",Discovery Channel 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588354
-#EXTINF:-1 tvg-name="STAR CHANNEL 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/fe62598b7d670aa0349d5f70814d25e4.png" group-title="CANAIS | 4K",STAR CHANNEL 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588355
-#EXTINF:-1 tvg-name="ESPN 4 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/219f308780a5cddea4154a5f46d4279b.png" group-title="CANAIS | 4K",ESPN 4 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588356
-#EXTINF:-1 tvg-name="Globo 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/efb56cdbd0648a9b81fea0a9aa940aae.png" group-title="CANAIS | 4K",Globo 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588357
-#EXTINF:-1 tvg-name="HBO 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/c954d28bc1d08e496e5c6eaf3ac4f4ef.png" group-title="CANAIS | 4K",HBO 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588358
-#EXTINF:-1 tvg-name="Megapix 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/e430766410874bf506f174001596cf72.png" group-title="CANAIS | 4K",Megapix 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588359
-#EXTINF:-1 tvg-name="Multishow 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/30ec54ae12d8ea1e4976d67bd1ae54af.png" group-title="CANAIS | 4K",Multishow 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588360
-#EXTINF:-1 tvg-name="SBT 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/99e72a30088584b01a7e727a72ba53e9.png" group-title="CANAIS | 4K",SBT 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588361
-#EXTINF:-1 tvg-name="Space 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/20b6e2dafee7b5bd64cf3a09f8a6d6d1.png" group-title="CANAIS | 4K",Space 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588362
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/0786f8c4dd07d103fc30ebbc3ac10ee6.png" group-title="CANAIS | 4K",SporTV 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588363
-#EXTINF:-1 tvg-name="HBO XTREME 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7f1a6ba36f51359f52e009f6bbb696e0.png" group-title="CANAIS | 4K",HBO XTREME 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588364
-#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="CANAIS | 4K",ESPN 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588365
-#EXTINF:-1 tvg-name="NATGEO 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/7a6062cfe3e011a27e0a047300f4eac1.png" group-title="CANAIS | 4K",NATGEO 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588366
-#EXTINF:-1 tvg-name="FOX SPORTS 2 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/d39181270476d6626950ef31e702170f.png" group-title="CANAIS | 4K",FOX SPORTS 2 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588367
-#EXTINF:-1 tvg-name="REDETV 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/f7974c06fcd421259b07597ca4a4b26f.png" group-title="CANAIS | 4K",REDETV 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588368
-#EXTINF:-1 tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://dns.jslinkdns.xyz:80/images/79f906bf19f885372715280ab6229319.png" group-title="CANAIS | 4K",TELECINE PIPOCA 4K
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/588369
-
-
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/100.ts
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/555.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/550.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/9.ts
+#EXTINF:-1,AXN UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/285.ts
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/557.ts
+#EXTINF:-1,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/71.ts
+#EXTINF:-1,CANAL BRASIL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/401.ts
+#EXTINF:-1,CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/564.ts
+#EXTINF:-1,CINE CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/32.ts
+#EXTINF:-1,CINE CANAL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/311.ts
+#EXTINF:-1,CINE CANAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/585.ts
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/15.ts
+#EXTINF:-1,CINEMAX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/293.ts
+#EXTINF:-1,CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/566.ts
+#EXTINF:-1,FX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/314.ts
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/589.ts
+#EXTINF:-1,LIFETIME UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/324.ts
+#EXTINF:-1,LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/609.ts
+#EXTINF:-1,MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/47.ts
+#EXTINF:-1,MEGAPIX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/328.ts
+#EXTINF:-1,MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/614.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/53.ts
+#EXTINF:-1,PARAMOUNT CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/336.ts
+#EXTINF:-1,SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/55.ts
+#EXTINF:-1,SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/636.ts
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/56.ts
+#EXTINF:-1,SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/637.ts
+#EXTINF:-1,STAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/31.ts
+#EXTINF:-1,STAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/588.ts
+#EXTINF:-1,STAR UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/310.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/60.ts
+#EXTINF:-1,SYFY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/349.ts
+#EXTINF:-1,SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/642.ts
+#EXTINF:-1,TBS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/383.ts
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/88.ts
+#EXTINF:-1,TCM UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/378.ts
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/20945.ts
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/68.ts
+#EXTINF:-1,TNT SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/653.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/69.ts
+#EXTINF:-1,UNIVERSAL CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/359.ts
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/658.ts
+#EXTINF:-1,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/70.ts
+#EXTINF:-1,WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/661.ts
+#EXTINF:-1,BABY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/286.ts
+#EXTINF:-1,BABY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/390.ts
+#EXTINF:-1,BABY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/558.ts
+#EXTINF:-1,CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/13.ts
+#EXTINF:-1,CARTOONITO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/291.ts
+#EXTINF:-1,CARTOONITO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/563.ts
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/14.ts
+#EXTINF:-1,CARTOON NETWORK UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/292.ts
+#EXTINF:-1,CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/565.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/112.ts
+#EXTINF:-1,DISCOVERY KIDS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/299.ts
+#EXTINF:-1,DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/574.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/25.ts
+#EXTINF:-1,DISNEY CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/304.ts
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/576.ts
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/79.ts
+#EXTINF:-1,GLOOB UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/386.ts
+#EXTINF:-1,GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/598.ts
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/35.ts
+#EXTINF:-1,GLOOBINHO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/317.ts
+#EXTINF:-1,GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/730.ts
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/109.ts
+#EXTINF:-1,NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/621.ts
+#EXTINF:-1,NICK JR UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/335.ts
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/52.ts
+#EXTINF:-1,NICKELODEON UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/334.ts
+#EXTINF:-1,NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/622.ts
+#EXTINF:-1,RA-TIM-BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/91.ts
+#EXTINF:-1,RA-TIM-BUM UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/388.ts
+#EXTINF:-1,RA-TIM-BUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/656.ts
+#EXTINF:-1,TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/90.ts
+#EXTINF:-1,TOONCAST UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/389.ts
+#EXTINF:-1,TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/655.ts
+#EXTINF:-1,ZOOMOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/508.ts
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/10.ts
+#EXTINF:-1,BAND SPORTS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/289.ts
+#EXTINF:-1,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/690.ts
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/16.ts
+#EXTINF:-1,COMBATE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/294.ts
+#EXTINF:-1,COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/569.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/20402.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/20410.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/20411.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/20403.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/20412.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/20404.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/23029.ts
+#EXTINF:-1,CONMEBOL LIBERTADORES 4 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/20405.ts
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/29.ts
+#EXTINF:-1,ESPN UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/307.ts
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/580.ts
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/27.ts
+#EXTINF:-1,ESPN 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/308.ts
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/582.ts
+#EXTINF:-1,ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/28.ts
+#EXTINF:-1,ESPN 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/306.ts
+#EXTINF:-1,ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/689.ts
+#EXTINF:-1,ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/33.ts
+#EXTINF:-1,ESPN 4 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/313.ts
+#EXTINF:-1,ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/587.ts
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/74.ts
+#EXTINF:-1,ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/581.ts
+#EXTINF:-1,FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/118.ts
+#EXTINF:-1,FISH TV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/391.ts
+#EXTINF:-1,FISH TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/583.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/34.ts
+#EXTINF:-1,FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/586.ts
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/83.ts
+#EXTINF:-1,OFF UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/375.ts
+#EXTINF:-1,OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/623.ts
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/57.ts
+#EXTINF:-1,SPORTV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/347.ts
+#EXTINF:-1,SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/640.ts
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/58.ts
+#EXTINF:-1,SPORTV 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/312.ts
+#EXTINF:-1,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/638.ts
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/59.ts
+#EXTINF:-1,SPORTV 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/346.ts
+#EXTINF:-1,SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/639.ts
+#EXTINF:-1,WOOHOO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/410.ts
+#EXTINF:-1,WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/503.ts
+#EXTINF:-1,WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/740.ts
+#EXTINF:-1,Band 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588345
+#EXTINF:-1,Record 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588346
+#EXTINF:-1,Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588347
+#EXTINF:-1,Telecine Premium 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588348
+#EXTINF:-1,TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588349
+#EXTINF:-1,TNT Series 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588350
+#EXTINF:-1,Animal Planet 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588351
+#EXTINF:-1,Cartoon Network 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588352
+#EXTINF:-1,Combate 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588353
+#EXTINF:-1,Discovery Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588354
+#EXTINF:-1,STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588355
+#EXTINF:-1,ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588356
+#EXTINF:-1,Globo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588357
+#EXTINF:-1,HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588358
+#EXTINF:-1,Megapix 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588359
+#EXTINF:-1,Multishow 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588360
+#EXTINF:-1,SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588361
+#EXTINF:-1,Space 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588362
+#EXTINF:-1,SporTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588363
+#EXTINF:-1,HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588364
+#EXTINF:-1,ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588365
+#EXTINF:-1,NATGEO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588366
+#EXTINF:-1,FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588367
+#EXTINF:-1,REDETV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588368
+#EXTINF:-1,TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/588369
 #EXTINF:-1,A&E FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825581
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825581
 #EXTINF:-1,ANIMAL PLANET FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825583
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825583
 #EXTINF:-1,ARTE 1 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825584
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825584
 #EXTINF:-1,BAND SPORTS FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825588
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825588
 #EXTINF:-1,BAND TV GOIANIA FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825589
 #EXTINF:-1,BIS FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825590
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825590
 #EXTINF:-1,CANAL BRASIL FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825591
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825591
 #EXTINF:-1,CANAL SONY FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825592
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825592
 #EXTINF:-1,CARTOON NETWORK FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825593
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825593
 #EXTINF:-1,CARTOONITO FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825594
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825594
 #EXTINF:-1,CINEMAX FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825595
 #EXTINF:-1,COMBATE FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825596
 #EXTINF:-1,COMEDY CENTRAL FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825597
 #EXTINF:-1,CURTA! FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825598
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825598
 #EXTINF:-1,DISCOVERY CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825599
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825599
 #EXTINF:-1,DISCOVERY H&H FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825600
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825600
 #EXTINF:-1,DISCOVERY KIDS FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825601
 #EXTINF:-1,DISCOVERY SCIENCE FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825602
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825602
 #EXTINF:-1,DISCOVERY THEATER FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825603
 #EXTINF:-1,DISCOVERY TURBO FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825604
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825604
 #EXTINF:-1,DISCOVERY WORLD FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825605
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825605
 #EXTINF:-1,DISNEY CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825606
 #EXTINF:-1,E! FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825607
 #EXTINF:-1,ESPN 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825608
 #EXTINF:-1,ESPN 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825609
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825609
 #EXTINF:-1,ESPN 4 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825610
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825610
 #EXTINF:-1,ESPN EXTRA FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825611
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825611
 #EXTINF:-1,ESPN FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825612
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825612
 #EXTINF:-1,FOOD NETWORK FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825613
 #EXTINF:-1,FOX SPORTS 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825614
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825614
 #EXTINF:-1,GLOBO MINAS FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825617
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825617
 #EXTINF:-1,GLOBO NEWS FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825618
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825618
 #EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825619
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825619
 #EXTINF:-1,GLOOB FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825623
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825623
 #EXTINF:-1,GNT FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825624
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825624
 #EXTINF:-1,HBO 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825625
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825625
 #EXTINF:-1,HBO Familly FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825626
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825626
 #EXTINF:-1,HBO POP FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825630
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825630
 #EXTINF:-1,HBO SIGNATURE FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825631
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825631
 #EXTINF:-1,HBO XTREME FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825632
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825632
 #EXTINF:-1,HGTV FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825633
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825633
 #EXTINF:-1,HISTORY 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825634
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825634
 #EXTINF:-1,HISTORY FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825635
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825635
 #EXTINF:-1,ID DISCOVERY FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825636
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825636
 #EXTINF:-1,JOVEM PAN NEWS FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825637
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825637
 #EXTINF:-1,LIFETIME FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825638
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825638
 #EXTINF:-1,LOVE NATURE FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825639
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825639
 #EXTINF:-1,MEGAPIX FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825640
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825640
 #EXTINF:-1,MODO VIAGEM FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825641
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825641
 #EXTINF:-1,MTV FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825642
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825642
 #EXTINF:-1,MULTISHOW FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825643
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825643
 #EXTINF:-1,NATGEO FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825644
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825644
 #EXTINF:-1,NICK JR FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825645
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825645
 #EXTINF:-1,NICKELODEON FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825646
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825646
 #EXTINF:-1,OFF FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825647
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825647
 #EXTINF:-1,PARAMOUNT FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825648
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825648
 #EXTINF:-1,PREMIERE 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825649
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825649
 #EXTINF:-1,PREMIERE 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825650
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825650
 #EXTINF:-1,PREMIERE 4 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825651
 #EXTINF:-1,PREMIERE 5 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825652
 #EXTINF:-1,PREMIERE 6 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825653
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825653
 #EXTINF:-1,REDE TV FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825657
 #EXTINF:-1,SBT SERRA DOURADA FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825658
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825658
 #EXTINF:-1,SBT SP FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825659
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825659
 #EXTINF:-1,SPACE FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825660
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825660
 #EXTINF:-1,SPORTV 2 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825661
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825661
 #EXTINF:-1,SPORTV 3 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825662
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825662
 #EXTINF:-1,SPORTV FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825663
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825663
 #EXTINF:-1,STAR CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825664
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825664
 #EXTINF:-1,STUDIO UNIVERSAL FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825665
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825665
 #EXTINF:-1,SYFY FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825666
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825666
 #EXTINF:-1,TELECINE FUN FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825670
 #EXTINF:-1,TELECINE PIPOCA FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825671
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825671
 #EXTINF:-1,TELECINE PREMIUM FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825672
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825672
 #EXTINF:-1,TELECINE TOUCH FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825673
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825673
 #EXTINF:-1,TLC FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825674
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825674
 #EXTINF:-1,TNT FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825675
 #EXTINF:-1,VH1 FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825678
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825678
 #EXTINF:-1,WARNER CHANNEL FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825679
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825679
 #EXTINF:-1,WOOHOO FHD (H265)
-http://dns.jslinkdns.xyz:80/teteu15/36422003t/825680
-
-
-#EXTINF:-1 tvg-name="[24H] - 3 Palavrinhas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - 3 Palavrinhas
-http://axr.life:80/00005821/MF159357C/766529
-#EXTINF:-1 tvg-name="[24H] - A Vaca e o Frango Temp 1" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 1
-http://axr.life:80/00005821/MF159357C/766539
-#EXTINF:-1 tvg-name="[24H] - A Vaca e o Frango Temp 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 2
-http://axr.life:80/00005821/MF159357C/766540
-#EXTINF:-1 tvg-name="[24H] - A Vaca e o Frango Temp 3" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 3
-http://axr.life:80/00005821/MF159357C/766541
-#EXTINF:-1 tvg-name="[24H] - A Vaca e o Frango Temp 4" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 4
-http://axr.life:80/00005821/MF159357C/766542
-#EXTINF:-1 tvg-name="[24H] - Aladin" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Aladin
-http://axr.life:80/00005821/MF159357C/766543
-#EXTINF:-1 tvg-name="[24H] - As Meninas Superpoderosas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - As Meninas Superpoderosas
-http://axr.life:80/00005821/MF159357C/766545
-#EXTINF:-1 tvg-name="[24H] - Ben 10" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Ben 10
-http://axr.life:80/00005821/MF159357C/766549
-#EXTINF:-1 tvg-name="[24H] - Bluey" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Bluey
-http://axr.life:80/00005821/MF159357C/766663
-#EXTINF:-1 tvg-name="[24H] - Bob Esponja" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Bob Esponja
-http://axr.life:80/00005821/MF159357C/766553
-#EXTINF:-1 tvg-name="[24H] - Caverna do Dragão" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Caverna do Dragão
-http://axr.life:80/00005821/MF159357C/766565
-#EXTINF:-1 tvg-name="[24H] - Chaves Desenho" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Chaves Desenho
-http://axr.life:80/00005821/MF159357C/766567
-#EXTINF:-1 tvg-name="[24H] - Cupom Mania - T01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T01
-http://axr.life:80/00005821/MF159357C/766569
-#EXTINF:-1 tvg-name="[24H] - Cupom Mania - T02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T02
-http://axr.life:80/00005821/MF159357C/766570
-#EXTINF:-1 tvg-name="[24H] - Cupom Mania - T03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T03
-http://axr.life:80/00005821/MF159357C/766571
-#EXTINF:-1 tvg-name="[24H] - Cão Coragem" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cão Coragem
-http://axr.life:80/00005821/MF159357C/766572
-#EXTINF:-1 tvg-name="[24H] - Denis o Pimentinha" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Denis o Pimentinha
-http://axr.life:80/00005821/MF159357C/766574
-#EXTINF:-1 tvg-name="[24H] - Desenhos Biblicos" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Desenhos Biblicos
-http://axr.life:80/00005821/MF159357C/766575
-#EXTINF:-1 tvg-name="[24H] - Desenhos Disney" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Desenhos Disney
-http://axr.life:80/00005821/MF159357C/766577
-#EXTINF:-1 tvg-name="[24H] - Digimon" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Digimon
-http://axr.life:80/00005821/MF159357C/766579
-#EXTINF:-1 tvg-name="[24H] - Doug" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Doug
-http://axr.life:80/00005821/MF159357C/766580
-#EXTINF:-1 tvg-name="[24H] - Dragon Ball" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Dragon Ball
-http://axr.life:80/00005821/MF159357C/766582
-#EXTINF:-1 tvg-name="[24H] - DRAGON BALL 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - DRAGON BALL 02
-http://axr.life:80/00005821/MF159357C/766584
-#EXTINF:-1 tvg-name="[24H] - Dragon Ball Z Saga Freeza" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Dragon Ball Z Saga Freeza
-http://axr.life:80/00005821/MF159357C/766586
-#EXTINF:-1 tvg-name="[24H] - Galinha Pintadinha" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Galinha Pintadinha
-http://axr.life:80/00005821/MF159357C/766587
-#EXTINF:-1 tvg-name="[24H] - Guardiões da Galaxia" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Guardiões da Galaxia
-http://axr.life:80/00005821/MF159357C/766589
-#EXTINF:-1 tvg-name="[24H] - He-Man" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - He-Man
-http://axr.life:80/00005821/MF159357C/766592
-#EXTINF:-1 tvg-name="[24H] - Historias Disney" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Historias Disney
-http://axr.life:80/00005821/MF159357C/766593
-#EXTINF:-1 tvg-name="[24H] - Inspetor Bugiganga" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Inspetor Bugiganga
-http://axr.life:80/00005821/MF159357C/766595
-#EXTINF:-1 tvg-name="[24H] - Masha e o Urso 1T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 1T
-http://axr.life:80/00005821/MF159357C/766660
-#EXTINF:-1 tvg-name="[24H] - Masha e o Urso 2T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 2T
-http://axr.life:80/00005821/MF159357C/766661
-#EXTINF:-1 tvg-name="[24H] - Masha e o Urso 3T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 3T
-http://axr.life:80/00005821/MF159357C/766662
-#EXTINF:-1 tvg-name="[24h] - Missão Harpa" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24h] - Missão Harpa
-http://axr.life:80/00005821/MF159357C/766612
-#EXTINF:-1 tvg-name="[24H] - Peppa Pig" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Peppa Pig
-http://axr.life:80/00005821/MF159357C/766625
-#EXTINF:-1 tvg-name="[24H] - Peppa Pig Curtas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Peppa Pig Curtas
-http://axr.life:80/00005821/MF159357C/766626
-#EXTINF:-1 tvg-name="[24H] - Pica Pau" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Pica Pau
-http://axr.life:80/00005821/MF159357C/766627
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825680
