@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,A&E FHD [H265]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71761.ts
 #EXTINF:-1,A&E HD
@@ -291,8 +290,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71913.ts
 #EXTINF:-1,ESPN SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71914.ts
-#EXTINF:-1,Estádio TNT Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/76671.ts
 #EXTINF:-1,Globo SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131212.ts
 #EXTINF:-1,GNT FHD
@@ -895,8 +892,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72396.ts
 #EXTINF:-1,TV Aparecida SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72397.ts
-#EXTINF:-1,TV Aratu SBT Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73260.ts
 #EXTINF:-1,TV Brasil 4K FHDR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103463.ts
 #EXTINF:-1,TV Brasil FHD
@@ -1003,161 +998,3 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104935.ts
 #EXTINF:-1,Zoomoo SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104936.ts
-#EXTINF:-1,A&E FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825581
-#EXTINF:-1,ANIMAL PLANET FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825583
-#EXTINF:-1,ARTE 1 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825584
-#EXTINF:-1,BAND SPORTS FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825588
-#EXTINF:-1,BAND TV GOIANIA FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825589
-#EXTINF:-1,BIS FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825590
-#EXTINF:-1,CANAL BRASIL FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825591
-#EXTINF:-1,CANAL SONY FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825592
-#EXTINF:-1,CARTOON NETWORK FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825593
-#EXTINF:-1,CARTOONITO FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825594
-#EXTINF:-1,CINEMAX FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825595
-#EXTINF:-1,COMBATE FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825596
-#EXTINF:-1,COMEDY CENTRAL FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825597
-#EXTINF:-1,CURTA! FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825598
-#EXTINF:-1,DISCOVERY CHANNEL FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825599
-#EXTINF:-1,DISCOVERY H&H FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825600
-#EXTINF:-1,DISCOVERY KIDS FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825601
-#EXTINF:-1,DISCOVERY SCIENCE FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825602
-#EXTINF:-1,DISCOVERY THEATER FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825603
-#EXTINF:-1,DISCOVERY TURBO FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825604
-#EXTINF:-1,DISCOVERY WORLD FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825605
-#EXTINF:-1,DISNEY CHANNEL FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825606
-#EXTINF:-1,E! FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825607
-#EXTINF:-1,ESPN 2 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825608
-#EXTINF:-1,ESPN 3 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825609
-#EXTINF:-1,ESPN 4 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825610
-#EXTINF:-1,ESPN EXTRA FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825611
-#EXTINF:-1,ESPN FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825612
-#EXTINF:-1,FOOD NETWORK FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825613
-#EXTINF:-1,FOX SPORTS 2 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825614
-#EXTINF:-1,GLOBO MINAS FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825617
-#EXTINF:-1,GLOBO NEWS FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825618
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825619
-#EXTINF:-1,GLOOB FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825623
-#EXTINF:-1,GNT FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825624
-#EXTINF:-1,HBO 2 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825625
-#EXTINF:-1,HBO POP FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825630
-#EXTINF:-1,HBO SIGNATURE FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825631
-#EXTINF:-1,HBO XTREME FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825632
-#EXTINF:-1,HGTV FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825633
-#EXTINF:-1,HISTORY 2 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825634
-#EXTINF:-1,HISTORY FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825635
-#EXTINF:-1,ID DISCOVERY FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825636
-#EXTINF:-1,JOVEM PAN NEWS FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825637
-#EXTINF:-1,LIFETIME FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825638
-#EXTINF:-1,LOVE NATURE FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825639
-#EXTINF:-1,MEGAPIX FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825640
-#EXTINF:-1,MODO VIAGEM FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825641
-#EXTINF:-1,MTV FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825642
-#EXTINF:-1,MULTISHOW FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825643
-#EXTINF:-1,NATGEO FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825644
-#EXTINF:-1,NICK JR FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825645
-#EXTINF:-1,NICKELODEON FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825646
-#EXTINF:-1,OFF FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825647
-#EXTINF:-1,PARAMOUNT FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825648
-#EXTINF:-1,PREMIERE 2 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825649
-#EXTINF:-1,PREMIERE 3 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825650
-#EXTINF:-1,PREMIERE 4 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825651
-#EXTINF:-1,PREMIERE 5 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825652
-#EXTINF:-1,PREMIERE 6 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825653
-#EXTINF:-1,REDE TV FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825657
-#EXTINF:-1,SBT SERRA DOURADA FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825658
-#EXTINF:-1,SBT SP FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825659
-#EXTINF:-1,SPACE FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825660
-#EXTINF:-1,SPORTV 2 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825661
-#EXTINF:-1,SPORTV 3 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825662
-#EXTINF:-1,SPORTV FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825663
-#EXTINF:-1,STAR CHANNEL FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825664
-#EXTINF:-1,STUDIO UNIVERSAL FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825665
-#EXTINF:-1,SYFY FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825666
-#EXTINF:-1,TELECINE FUN FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825670
-#EXTINF:-1,TELECINE PIPOCA FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825671
-#EXTINF:-1,TELECINE PREMIUM FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825672
-#EXTINF:-1,TELECINE TOUCH FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825673
-#EXTINF:-1,TLC FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825674
-#EXTINF:-1,TNT FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825675
-#EXTINF:-1,VH1 FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825678
-#EXTINF:-1,WARNER CHANNEL FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825679
-#EXTINF:-1,WOOHOO FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.jslinkdns.xyz:80/teteu15/36422003t/825680
