@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,A&E FHD [H265]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71761.ts
 #EXTINF:-1,A&E HD
