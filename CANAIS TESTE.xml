@@ -32,6 +32,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 #EXTINF:-1,AXN FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71781.ts
 #EXTINF:-1,AXN FHD [H265]
+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71782.ts
 #EXTINF:-1,AXN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71783.ts
