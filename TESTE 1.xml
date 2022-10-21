@@ -1,0 +1,1177 @@
+#EXTM3U
+#EXTINF:-1,A&E 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90647.ts
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71760.ts
+#EXTINF:-1,A&E FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71761.ts
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71762.ts
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71763.ts
+#EXTINF:-1,AgroMais 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103532.ts
+#EXTINF:-1,AgroMais FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71764.ts
+#EXTINF:-1,AgroMais FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71765.ts
+#EXTINF:-1,AgroMais HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71766.ts
+#EXTINF:-1,AgroMais SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71767.ts
+#EXTINF:-1,AMC 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90646.ts
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71768.ts
+#EXTINF:-1,AMC FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71769.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71770.ts
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71771.ts
+#EXTINF:-1,Animal Planet 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71774.ts
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71772.ts
+#EXTINF:-1,Animal Planet FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71773.ts
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71775.ts
+#EXTINF:-1,Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71776.ts
+#EXTINF:-1,Arte 1 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103531.ts
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71777.ts
+#EXTINF:-1,Arte 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71778.ts
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71779.ts
+#EXTINF:-1,Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71780.ts
+#EXTINF:-1,AXN 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90645.ts
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71781.ts
+#EXTINF:-1,AXN FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71782.ts
+#EXTINF:-1,AXN FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90716.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71783.ts
+#EXTINF:-1,AXN HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90715.ts
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71784.ts
+#EXTINF:-1,AXN SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90714.ts
+#EXTINF:-1,Baby TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/130198.ts
+#EXTINF:-1,Band BA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72620.ts
+#EXTINF:-1,Band News 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103526.ts
+#EXTINF:-1,Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71789.ts
+#EXTINF:-1,Band News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71790.ts
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71791.ts
+#EXTINF:-1,Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71792.ts
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/79311.ts
+#EXTINF:-1,Band SP FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104943.ts
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72597.ts
+#EXTINF:-1,Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/79312.ts
+#EXTINF:-1,Band Sports 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103525.ts
+#EXTINF:-1,Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71801.ts
+#EXTINF:-1,Band Sports FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71802.ts
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71803.ts
+#EXTINF:-1,Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71804.ts
+#EXTINF:-1,BIS 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103527.ts
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71806.ts
+#EXTINF:-1,BIS FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71807.ts
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71808.ts
+#EXTINF:-1,BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71809.ts
+#EXTINF:-1,Boa Vontade TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71811.ts
+#EXTINF:-1,Canal Brasil 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103518.ts
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71816.ts
+#EXTINF:-1,Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71819.ts
+#EXTINF:-1,Canal do Boi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71820.ts
+#EXTINF:-1,Canal do Boi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71821.ts
+#EXTINF:-1,Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71822.ts
+#EXTINF:-1,Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71823.ts
+#EXTINF:-1,Canal Sony 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103517.ts
+#EXTINF:-1,Canal Sony FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71824.ts
+#EXTINF:-1,Canal Sony SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71827.ts
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71828.ts
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71831.ts
+#EXTINF:-1,Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71832.ts
+#EXTINF:-1,Cartoonito FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71812.ts
+#EXTINF:-1,Cartoonito FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71813.ts
+#EXTINF:-1,Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71814.ts
+#EXTINF:-1,Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71815.ts
+#EXTINF:-1,Cine SKY 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72994.ts
+#EXTINF:-1,Cine SKY 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73003.ts
+#EXTINF:-1,Cine SKY 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72996.ts
+#EXTINF:-1,Cine SKY 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72999.ts
+#EXTINF:-1,Cine SKY 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73000.ts
+#EXTINF:-1,Cine SKY 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73001.ts
+#EXTINF:-1,Cine SKY 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73002.ts
+#EXTINF:-1,Cinecanal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71939.ts
+#EXTINF:-1,Cinecanal FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71940.ts
+#EXTINF:-1,Cinecanal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71941.ts
+#EXTINF:-1,Cinecanal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71942.ts
+#EXTINF:-1,Cinemax 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90643.ts
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71833.ts
+#EXTINF:-1,Cinemax FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71834.ts
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71835.ts
+#EXTINF:-1,Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71836.ts
+#EXTINF:-1,CNN Brasil 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71798.ts
+#EXTINF:-1,CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71837.ts
+#EXTINF:-1,CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71840.ts
+#EXTINF:-1,Combate 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71844.ts
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71842.ts
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71847.ts
+#EXTINF:-1,Comedy Central FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71848.ts
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71849.ts
+#EXTINF:-1,Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71850.ts
+#EXTINF:-1,CONMEBOL TV 1 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103524.ts
+#EXTINF:-1,Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72977.ts
+#EXTINF:-1,Conmebol TV 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72978.ts
+#EXTINF:-1,Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72979.ts
+#EXTINF:-1,Conmebol TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72980.ts
+#EXTINF:-1,CONMEBOL TV 3 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103522.ts
+#EXTINF:-1,Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72985.ts
+#EXTINF:-1,Conmebol TV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72986.ts
+#EXTINF:-1,Conmebol TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72987.ts
+#EXTINF:-1,CONMEBOL TV 4 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103521.ts
+#EXTINF:-1,Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72989.ts
+#EXTINF:-1,Copa Catarinense 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/96012.ts
+#EXTINF:-1,Copa Catarinense 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/96013.ts
+#EXTINF:-1,Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71853.ts
+#EXTINF:-1,Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71854.ts
+#EXTINF:-1,Curta FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71856.ts
+#EXTINF:-1,Curta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71857.ts
+#EXTINF:-1,Curta! 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103512.ts
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72630.ts
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71865.ts
+#EXTINF:-1,Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71866.ts
+#EXTINF:-1,Discovery H&H 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90251.ts
+#EXTINF:-1,Discovery H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71867.ts
+#EXTINF:-1,Discovery H&H SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71870.ts
+#EXTINF:-1,Discovery Kids 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90250.ts
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71873.ts
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71875.ts
+#EXTINF:-1,Discovery Science FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71876.ts
+#EXTINF:-1,Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71878.ts
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71879.ts
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71881.ts
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71883.ts
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71885.ts
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71887.ts
+#EXTINF:-1,Discovery World FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71888.ts
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71893.ts
+#EXTINF:-1,Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71894.ts
+#EXTINF:-1,Dog TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/76922.ts
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71900.ts
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71902.ts
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71903.ts
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71919.ts
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71922.ts
+#EXTINF:-1,ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71907.ts
+#EXTINF:-1,ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71909.ts
+#EXTINF:-1,ESPN 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90640.ts
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71917.ts
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71914.ts
+#EXTINF:-1,Eurochannel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104910.ts
+#EXTINF:-1,Facebook Watch 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/79316.ts
+#EXTINF:-1,Fashion TV 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103503.ts
+#EXTINF:-1,Film&Arts FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104914.ts
+#EXTINF:-1,Film&Arts FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104920.ts
+#EXTINF:-1,Film&Arts HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104915.ts
+#EXTINF:-1,Film&Arts SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104916.ts
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71928.ts
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71930.ts
+#EXTINF:-1,Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71931.ts
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71932.ts
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71934.ts
+#EXTINF:-1,Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71952.ts
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71955.ts
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71964.ts
+#EXTINF:-1,Futura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71965.ts
+#EXTINF:-1,FX 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90639.ts
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71966.ts
+#EXTINF:-1,FX FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71967.ts
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71968.ts
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71969.ts
+#EXTINF:-1,Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131151.ts
+#EXTINF:-1,Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131164.ts
+#EXTINF:-1,Globo Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131116.ts
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131150.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71977.ts
+#EXTINF:-1,Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131210.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131172.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131178.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131202.ts
+#EXTINF:-1,Globo EPTV Sao Carlos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131141.ts
+#EXTINF:-1,Globo EPTV Sao Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131129.ts
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72592.ts
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71980.ts
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131201.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71982.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71983.ts
+#EXTINF:-1,Globo Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71985.ts
+#EXTINF:-1,Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71986.ts
+#EXTINF:-1,Globo Inter TV Cabugi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131186.ts
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131143.ts
+#EXTINF:-1,Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71989.ts
+#EXTINF:-1,Globo Inter TV dos Vales SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71990.ts
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71991.ts
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131115.ts
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71994.ts
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71995.ts
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71996.ts
+#EXTINF:-1,Globo Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131200.ts
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131159.ts
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71997.ts
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71999.ts
+#EXTINF:-1,Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131112.ts
+#EXTINF:-1,Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72003.ts
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72004.ts
+#EXTINF:-1,Globo NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72005.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135432.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135433.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135434.ts
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131174.ts
+#EXTINF:-1,Globo NSC TV Chapeco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72008.ts
+#EXTINF:-1,Globo NSC TV Chapeco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131190.ts
+#EXTINF:-1,Globo NSC TV Criciuma FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135426.ts
+#EXTINF:-1,Globo NSC TV Criciuma HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135427.ts
+#EXTINF:-1,Globo NSC TV Criciuma SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135428.ts
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72010.ts
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131183.ts
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131144.ts
+#EXTINF:-1,Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/91034.ts
+#EXTINF:-1,Globo NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131167.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72014.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131130.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133064.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133065.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133066.ts
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72617.ts
+#EXTINF:-1,Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131121.ts
+#EXTINF:-1,Globo RBS TV Pelotas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131207.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131102.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72017.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131198.ts
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135423.ts
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135424.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133055.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133056.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/93588.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/93589.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72020.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72021.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/108684.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131162.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131111.ts
+#EXTINF:-1,Globo Rede Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131213.ts
+#EXTINF:-1,Globo Rede Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131123.ts
+#EXTINF:-1,Globo Rede Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72024.ts
+#EXTINF:-1,Globo RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72025.ts
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131163.ts
+#EXTINF:-1,Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131182.ts
+#EXTINF:-1,Globo RPC Cascavel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133058.ts
+#EXTINF:-1,Globo RPC Londrina FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133061.ts
+#EXTINF:-1,Globo RPC Londrina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133062.ts
+#EXTINF:-1,Globo RPC Londrina SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133063.ts
+#EXTINF:-1,Globo RPC Paranavai FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72028.ts
+#EXTINF:-1,Globo RPC Paranavai HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131170.ts
+#EXTINF:-1,Globo RPC Paranavai SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131197.ts
+#EXTINF:-1,Globo RPC TV Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131127.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72033.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131206.ts
+#EXTINF:-1,Globo RPC TV Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131101.ts
+#EXTINF:-1,Globo RPC TV Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/96888.ts
+#EXTINF:-1,Globo RPC TV Maringa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131125.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131133.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72037.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131189.ts
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131212.ts
+#EXTINF:-1,Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72042.ts
+#EXTINF:-1,Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72043.ts
+#EXTINF:-1,Globo TV Anhanguera SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131124.ts
+#EXTINF:-1,Globo TV Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/102554.ts
+#EXTINF:-1,Globo TV Asa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/102555.ts
+#EXTINF:-1,Globo TV Asa Branca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131180.ts
+#EXTINF:-1,Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131146.ts
+#EXTINF:-1,Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131110.ts
+#EXTINF:-1,Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131179.ts
+#EXTINF:-1,Globo TV Centro America FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72049.ts
+#EXTINF:-1,Globo TV Centro America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72050.ts
+#EXTINF:-1,Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131105.ts
+#EXTINF:-1,Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72053.ts
+#EXTINF:-1,Globo TV Clube Teresina SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131196.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131100.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/97596.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/97597.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/97587.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/97588.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131177.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131158.ts
+#EXTINF:-1,Globo TV Gazeta Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131099.ts
+#EXTINF:-1,Globo TV Gazeta Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72059.ts
+#EXTINF:-1,Globo TV Gazeta Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72060.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72061.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131175.ts
+#EXTINF:-1,Globo TV Integracao Araxa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131203.ts
+#EXTINF:-1,Globo TV Integracao Araxa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131126.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131106.ts
+#EXTINF:-1,Globo TV Integracao Uberaba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133052.ts
+#EXTINF:-1,Globo TV Integracao Uberaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133053.ts
+#EXTINF:-1,Globo TV Integracao Uberaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133054.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133051.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/93598.ts
+#EXTINF:-1,Globo TV Liberal Belem FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131152.ts
+#EXTINF:-1,Globo TV Liberal Belem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72071.ts
+#EXTINF:-1,Globo TV Liberal Belem SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72072.ts
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133050.ts
+#EXTINF:-1,Globo TV Mirante Cocais HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/93600.ts
+#EXTINF:-1,Globo TV Mirante Cocais SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/93601.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131103.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72074.ts
+#EXTINF:-1,Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131169.ts
+#EXTINF:-1,Globo TV Morena SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131122.ts
+#EXTINF:-1,Globo TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72079.ts
+#EXTINF:-1,Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131128.ts
+#EXTINF:-1,Globo TV Rio Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72082.ts
+#EXTINF:-1,Globo TV Santa Cruz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135420.ts
+#EXTINF:-1,Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/135421.ts
+#EXTINF:-1,Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131156.ts
+#EXTINF:-1,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131181.ts
+#EXTINF:-1,Globo TV Sergipe SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131139.ts
+#EXTINF:-1,Globo TV Subae  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133068.ts
+#EXTINF:-1,Globo TV Subae FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133067.ts
+#EXTINF:-1,Globo TV Subae SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/133069.ts
+#EXTINF:-1,Globo TV Sudoeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72092.ts
+#EXTINF:-1,Globo TV TEM Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/91432.ts
+#EXTINF:-1,Globo TV TEM Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131120.ts
+#EXTINF:-1,Globo TV TEM Itapetininga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/91435.ts
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/91436.ts
+#EXTINF:-1,Globo TV TEM Itapetininga SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131119.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131155.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131205.ts
+#EXTINF:-1,Globo TV TEM Sorocaba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131191.ts
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/91439.ts
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131194.ts
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131135.ts
+#EXTINF:-1,Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131165.ts
+#EXTINF:-1,Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131109.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131211.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/144027.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72624.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/100375.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/93605.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131187.ts
+#EXTINF:-1,Globo TV Verdes Mares HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72096.ts
+#EXTINF:-1,Globo TV Verdes Mares SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131137.ts
+#EXTINF:-1,Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72099.ts
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72100.ts
+#EXTINF:-1,Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131117.ts
+#EXTINF:-1,Gloobinho FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90631.ts
+#EXTINF:-1,Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131173.ts
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72102.ts
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72104.ts
+#EXTINF:-1,H2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72107.ts
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72110.ts
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72112.ts
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72114.ts
+#EXTINF:-1,HBO Family FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72115.ts
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72116.ts
+#EXTINF:-1,HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72117.ts
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72118.ts
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72120.ts
+#EXTINF:-1,HBO Max 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71906.ts
+#EXTINF:-1,HBO Max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/130197.ts
+#EXTINF:-1,HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72121.ts
+#EXTINF:-1,HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72123.ts
+#EXTINF:-1,HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72124.ts
+#EXTINF:-1,HBO Plus 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90635.ts
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72125.ts
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72127.ts
+#EXTINF:-1,HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72128.ts
+#EXTINF:-1,HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72129.ts
+#EXTINF:-1,HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72131.ts
+#EXTINF:-1,HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72132.ts
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72133.ts
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72134.ts
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72136.ts
+#EXTINF:-1,HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72137.ts
+#EXTINF:-1,HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72138.ts
+#EXTINF:-1,HBO Xtreme FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72139.ts
+#EXTINF:-1,HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72140.ts
+#EXTINF:-1,HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72141.ts
+#EXTINF:-1,HGTV 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103493.ts
+#EXTINF:-1,HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72142.ts
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72144.ts
+#EXTINF:-1,HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72145.ts
+#EXTINF:-1,History SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72149.ts
+#EXTINF:-1,ID 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90243.ts
+#EXTINF:-1,ID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72150.ts
+#EXTINF:-1,ID FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72151.ts
+#EXTINF:-1,ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72152.ts
+#EXTINF:-1,ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72153.ts
+#EXTINF:-1,Jovem Pan News 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/134021.ts
+#EXTINF:-1,Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/134023.ts
+#EXTINF:-1,Jovem Pan News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/134022.ts
+#EXTINF:-1,Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/134024.ts
+#EXTINF:-1,Jovem Pan News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/134025.ts
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72154.ts
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72156.ts
+#EXTINF:-1,Love Nature FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73004.ts
+#EXTINF:-1,Mais na Tela FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72162.ts
+#EXTINF:-1,Mais na Tela HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72164.ts
+#EXTINF:-1,Mais na Tela SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72165.ts
+#EXTINF:-1,Megapix 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131104.ts
+#EXTINF:-1,Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72166.ts
+#EXTINF:-1,Megapix FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72167.ts
+#EXTINF:-1,Megapix FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90680.ts
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72169.ts
+#EXTINF:-1,Megapix HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131118.ts
+#EXTINF:-1,Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131204.ts
+#EXTINF:-1,Megapix SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131171.ts
+#EXTINF:-1,MTV 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103490.ts
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72171.ts
+#EXTINF:-1,MTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72172.ts
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72173.ts
+#EXTINF:-1,MTV LIVE 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103489.ts
+#EXTINF:-1,MTV Live FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72175.ts
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72178.ts
+#EXTINF:-1,MTVs 00 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103451.ts
+#EXTINF:-1,MTVs 00 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72423.ts
+#EXTINF:-1,MTVs 00 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72425.ts
+#EXTINF:-1,MTVs 00 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72426.ts
+#EXTINF:-1,Multishow 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131138.ts
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131193.ts
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72182.ts
+#EXTINF:-1,Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131134.ts
+#EXTINF:-1,Music Box Brazil 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103487.ts
+#EXTINF:-1,Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72184.ts
+#EXTINF:-1,Music Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72185.ts
+#EXTINF:-1,Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72186.ts
+#EXTINF:-1,Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72187.ts
+#EXTINF:-1,MyCujoo TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/75026.ts
+#EXTINF:-1,MyCujoo TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/77583.ts
+#EXTINF:-1,MyCujoo TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/77584.ts
+#EXTINF:-1,National Geographic 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72198.ts
+#EXTINF:-1,National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72196.ts
+#EXTINF:-1,National Geographic FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72197.ts
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72199.ts
+#EXTINF:-1,National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72200.ts
+#EXTINF:-1,NBA League Pass 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/140516.ts
+#EXTINF:-1,NBA League Pass 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/140517.ts
+#EXTINF:-1,NBA League Pass 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/140518.ts
+#EXTINF:-1,Nick Jr FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72201.ts
+#EXTINF:-1,Nick Jr FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72202.ts
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72203.ts
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72205.ts
+#EXTINF:-1,Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72206.ts
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72207.ts
+#EXTINF:-1,Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72208.ts
+#EXTINF:-1,OFF FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72210.ts
+#EXTINF:-1,Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72214.ts
+#EXTINF:-1,Pai Eterno SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72215.ts
+#EXTINF:-1,Paramount Channel 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90634.ts
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72217.ts
+#EXTINF:-1,Paramount Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72218.ts
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72219.ts
+#EXTINF:-1,Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72220.ts
+#EXTINF:-1,Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72240.ts
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72245.ts
+#EXTINF:-1,Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72246.ts
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72247.ts
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72249.ts
+#EXTINF:-1,Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72250.ts
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72251.ts
+#EXTINF:-1,Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72256.ts
+#EXTINF:-1,Premiere 7 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103477.ts
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72257.ts
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72259.ts
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72265.ts
+#EXTINF:-1,Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72266.ts
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72271.ts
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72272.ts
+#EXTINF:-1,Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72273.ts
+#EXTINF:-1,RecordTV Atalaia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/111242.ts
+#EXTINF:-1,RecordTV BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72976.ts
+#EXTINF:-1,RecordTV GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72278.ts
+#EXTINF:-1,RecordTV Itapoan FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/157406.ts
+#EXTINF:-1,RecordTV Itapoan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72284.ts
+#EXTINF:-1,RecordTV Itapoan SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72285.ts
+#EXTINF:-1,RecordTV MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72619.ts
+#EXTINF:-1,RecordTV RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/106638.ts
+#EXTINF:-1,RecordTV RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72594.ts
+#EXTINF:-1,RecordTV RS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72975.ts
+#EXTINF:-1,RecordTV SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/77654.ts
+#EXTINF:-1,RecordTV SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/96522.ts
+#EXTINF:-1,Rede Gospel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104930.ts
+#EXTINF:-1,Rede Gospel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104931.ts
+#EXTINF:-1,RedeTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72297.ts
+#EXTINF:-1,RedeTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72299.ts
+#EXTINF:-1,RedeTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72300.ts
+#EXTINF:-1,SBT Rede Massa PR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72305.ts
+#EXTINF:-1,SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/108681.ts
+#EXTINF:-1,SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/108682.ts
+#EXTINF:-1,SBT RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/108683.ts
+#EXTINF:-1,SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/77963.ts
+#EXTINF:-1,SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72598.ts
+#EXTINF:-1,SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/77964.ts
+#EXTINF:-1,SBT TV Alterosa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72621.ts
+#EXTINF:-1,Smithsonian HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72315.ts
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72317.ts
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72319.ts
+#EXTINF:-1,Space SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72320.ts
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72321.ts
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131176.ts
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72325.ts
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131113.ts
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72329.ts
+#EXTINF:-1,SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/131132.ts
+#EXTINF:-1,Star + 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/128347.ts
+#EXTINF:-1,Star Channel 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90249.ts
+#EXTINF:-1,Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71936.ts
+#EXTINF:-1,Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71938.ts
+#EXTINF:-1,Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/71951.ts
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72334.ts
+#EXTINF:-1,Studio Universal FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72335.ts
+#EXTINF:-1,Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72337.ts
+#EXTINF:-1,SYFY 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103474.ts
+#EXTINF:-1,SyFy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72338.ts
+#EXTINF:-1,SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72340.ts
+#EXTINF:-1,SyFy SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72341.ts
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72342.ts
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72344.ts
+#EXTINF:-1,TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73251.ts
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73252.ts
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73253.ts
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72346.ts
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72348.ts
+#EXTINF:-1,Telecine Action HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90667.ts
+#EXTINF:-1,Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72349.ts
+#EXTINF:-1,Telecine Action SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90666.ts
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72350.ts
+#EXTINF:-1,Telecine Cult HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90664.ts
+#EXTINF:-1,Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72353.ts
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72354.ts
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72356.ts
+#EXTINF:-1,Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72357.ts
+#EXTINF:-1,Telecine Fun SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90660.ts
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72358.ts
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72360.ts
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72362.ts
+#EXTINF:-1,Telecine Premium FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90656.ts
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72364.ts
+#EXTINF:-1,Telecine Premium HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90655.ts
+#EXTINF:-1,Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72365.ts
+#EXTINF:-1,Telecine Premium SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90654.ts
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72368.ts
+#EXTINF:-1,Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72369.ts
+#EXTINF:-1,Terra Viva SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72370.ts
+#EXTINF:-1,TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72371.ts
+#EXTINF:-1,TLC FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72372.ts
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72373.ts
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72374.ts
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72375.ts
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72378.ts
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72379.ts
+#EXTINF:-1,TNT Series FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72380.ts
+#EXTINF:-1,TNT Series FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90671.ts
+#EXTINF:-1,TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72383.ts
+#EXTINF:-1,TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72384.ts
+#EXTINF:-1,TNT Series SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90669.ts
+#EXTINF:-1,Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72385.ts
+#EXTINF:-1,TruTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/76668.ts
+#EXTINF:-1,TruTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/76669.ts
+#EXTINF:-1,TruTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/76670.ts
+#EXTINF:-1,TV Aparecida FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72394.ts
+#EXTINF:-1,TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72396.ts
+#EXTINF:-1,TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72397.ts
+#EXTINF:-1,TV Aratu SBT Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/73260.ts
+#EXTINF:-1,TV Cancao Nova SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72404.ts
+#EXTINF:-1,TV Coxa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/105790.ts
+#EXTINF:-1,TV Diario 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103461.ts
+#EXTINF:-1,TV Diario Fortaleza HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72593.ts
+#EXTINF:-1,TV Evangelizar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72628.ts
+#EXTINF:-1,TV Gazeta SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104917.ts
+#EXTINF:-1,TV Gazeta SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72406.ts
+#EXTINF:-1,TV Gazeta SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/104918.ts
+#EXTINF:-1,TV Justiça SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/77620.ts
+#EXTINF:-1,TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72410.ts
+#EXTINF:-1,TV Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72411.ts
+#EXTINF:-1,TV Senado SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72416.ts
+#EXTINF:-1,TV Uniao 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103457.ts
+#EXTINF:-1,Universal TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72419.ts
+#EXTINF:-1,Universal TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72420.ts
+#EXTINF:-1,Universal TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72421.ts
+#EXTINF:-1,Universal TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72422.ts
+#EXTINF:-1,Viva 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/103450.ts
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72427.ts
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72429.ts
+#EXTINF:-1,Viva SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72430.ts
+#EXTINF:-1,Warner Channel FHD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90650.ts
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72433.ts
+#EXTINF:-1,Warner Channel HD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90649.ts
+#EXTINF:-1,Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72434.ts
+#EXTINF:-1,Warner Channel SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/90648.ts
+#EXTINF:-1,WooHoo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72435.ts
+#EXTINF:-1,WooHoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72437.ts
+#EXTINF:-1,WooHoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72438.ts
