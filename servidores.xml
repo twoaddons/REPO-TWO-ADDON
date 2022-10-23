@@ -34,11 +34,11 @@
 </channel>
   
  <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 4  tste[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR - PLUTO TV[/COLOR][/B]</name>
+<thumbnail>https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink></externallink>
+<info>[COLOR blue]* [COLOR blue]CANAIS PLUTO TV [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%204%20.xml</externallink>
 </channel> 
   
   <channel>
