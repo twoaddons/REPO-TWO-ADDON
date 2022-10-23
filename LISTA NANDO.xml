@@ -425,7 +425,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsa.ws:80/668630/Aps8fQ/71907.ts
 #EXTINF:-1,ESPN 3 FHD [H265]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsa.ws:80/668630/Aps8fQ/71908.ts
-
 #EXTINF:-1,A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf2820/mgf239161/100.ts
 #EXTINF:-1,A&E SD
@@ -620,7 +619,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/410.ts
 #EXTINF:-1,WOOHOO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://connecttvapp.xyz:80/mgf1750/mgf239161/503.ts
-
 #EXTINF:-1,ESPN 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsa.ws:80/668630/Aps8fQ/71909.ts
 #EXTINF:-1,ESPN 3 SD
