@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
+<item>
+<title>[COLOR silver][B] INGRESSO PARA O PARAISO [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8a853740fe9360080da79e08947f4908cb229c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg</fanart>
+<info>Um casal divorciado se une e viaja para Bali, para impedir que sua filha cometa o mesmo erro que eles acham que cometeram a 25 anos atrás.</info>
+</item>    
+  
  <item>
 <title>[COLOR silver][B] PLANO A PLANO B [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:060426a7a247306be1021cd9cd4e4d7da04a4269</link>
