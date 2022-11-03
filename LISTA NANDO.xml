@@ -7,8 +7,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2211
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP Alternativo HD" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="SBT",SBT SP Alternativo HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1324
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP Alternativo" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="SBT",SBT SP Alternativo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1218
 
 
 #EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP FHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Globo ",Globo SP FHD
@@ -35,8 +33,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2202
 #EXTINF:-1 tvg-id="record.br" tvg-name="Record TV SP Alternativo HD" tvg-logo="http://printv.esy.es/server/Record.png" group-title="RecordTV",Record TV SP Alternativo HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1278
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Alternativo" tvg-logo="http://printv.esy.es/server/Record.png" group-title="RecordTV",Record TV Alternativo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1165
+
 #EXTINF:-1 tvg-id="record.rio.br" tvg-name="RecordTV RJ HD" tvg-logo="http://printv.esy.es/server/Record%20Rio.png" group-title="RecordTV",RecordTV RJ HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2274
 #EXTINF:-1 tvg-id="record.rio.br" tvg-name="RecordTV RJ" tvg-logo="http://printv.esy.es/server/Record%20Rio.png" group-title="RecordTV",RecordTV RJ
@@ -64,8 +61,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2129
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News Alternativo HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1341
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News Alternativo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1138
+
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News FHD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1811
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News HD
