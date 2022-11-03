@@ -33,22 +33,23 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%203.xml</externallink>
 </channel>
   
+ 
+  
+  <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 4- DESENHOS 24 HRS [/COLOR][/B]</name>
+<thumbnail>https://ia801402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24%20HRS.xml</externallink>
+</channel>
+  
+  
  <channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR - PLUTO TV[/COLOR][/B]</name>
 <thumbnail>https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue]CANAIS PLUTO TV [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%204%20.xml</externallink>
-</channel> 
-  
-  <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 5 - OFF[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink></externallink>
-</channel>
-  
-  
+</channel>   
   
 </channels>
