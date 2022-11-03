@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ANIME TV LEGENDADO" tvg-name="ANIME TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDwzekgdAC0QESLMb94lRG4zQYzdSA7kmog&usqp=CAU" group-title="",ANIME TV LEGENDADO
+#EXTINF:-1 tvg-id="ANIME TV LEGENDADO" tvg-name="ANIME TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDwzekgdAC0QESLMb94lRG4zQYzdSA7kmog&usqp=CAU" ,ANIME TV LEGENDADO
 https://alanza.iptv2022.com/ANIME_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WONIHI0AyiTZ8PBoOGMVw0JtrHhtfrzOGw&usqp=CAU " group-title="",RETRO CARTOON
+#EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WONIHI0AyiTZ8PBoOGMVw0JtrHhtfrzOGw&usqp=CAU " ,RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK " tvg-name="CARTOON NETWORK " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmap-WhgdD4KMefoEawX0zGOcw8IdSSwOnKw&usqp=CAU " group-title="",CARTOON NETWORK
+#EXTINF:-1 tvg-id="CARTOON NETWORK " tvg-name="CARTOON NETWORK " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmap-WhgdD4KMefoEawX0zGOcw8IdSSwOnKw&usqp=CAU " ,CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="JETSONS TV " tvg-name="JETSONS TV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzLuNGAt2odwa_br9aaqensA53ftbrSg0yw&usqp=CAU " group-title="",JETSONS
+#EXTINF:-1 tvg-id="JETSONS TV " tvg-name="JETSONS TV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzLuNGAt2odwa_br9aaqensA53ftbrSg0yw&usqp=CAU " ,JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JETSONS TV " tvg-name="JETSONS TV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzLuNGAt2odwa_br9aaqensA53ftbrSg0yw&usqp=CAU " group-title="",JETSONS
+#EXTINF:-1 tvg-id="JETSONS TV " tvg-name="JETSONS TV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzLuNGAt2odwa_br9aaqensA53ftbrSg0yw&usqp=CAU " JETSONS
 https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GOSPEL CARTOON " tvg-name="GOSPEL CARTOON " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSQFcJJjUmm5env4wZCWYw6_-AhomM2_uaw&usqp=CAU " group-title="",GOSPEL CARTOON 
+#EXTINF:-1 tvg-id="GOSPEL CARTOON " tvg-name="GOSPEL CARTOON " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSQFcJJjUmm5env4wZCWYw6_-AhomM2_uaw&usqp=CAU " ,GOSPEL CARTOON 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 #EXTINF:-1 tvg-id="RO " tvg-name=" " tvg-logo=" " group-title=" ",
