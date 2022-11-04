@@ -17,8 +17,6 @@ https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GOSPEL CARTOON " tvg-name="GOSPEL CARTOON " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSQFcJJjUmm5env4wZCWYw6_-AhomM2_uaw&usqp=CAU " ,GOSPEL CARTOON 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
-#EXTINF:-1 tvg-id="RO " tvg-name=" " tvg-logo=" " group-title=" ",
-
 #EXTINF:-1,3 Palavrinhas 24hs
 http://uva.bccdn.xyz:80/040122a/930135661/82496
 #EXTINF:-1,ESPIOES DO ASFALTO 24HRS
