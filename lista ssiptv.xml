@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1, tvg-name="ANIME TV LEGENDADO" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR",ANIME TV LEGENDADO
+https://alanza.iptv2022.com/ANIME_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-name="ANIME TV LEGENDADO" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
+
+#EXTINF:-1, tvg-name="ANIME TV LEGENDADO" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-480p.m3u8
+
+#EXTINF:-1, tvg-name="ANIME TV LEGENDADO" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR",JETSONS
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="ANIME TV LEGENDADO" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR",JETSONS
+https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-name="ANIME TV LEGENDADO" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR",GOSPEL CARTOON 
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
+
+
+
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="SBT",SBT SP FHD
 http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1900
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="SBT",SBT SP HD
