@@ -700,7 +700,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1202
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="HBO ",HBO POP FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1847
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="HBO ",HBO POP HD
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="HBO ",HBO POP HD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2162
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="HBO ",HBO POP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2161
