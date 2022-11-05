@@ -860,21 +860,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 #EXTINF:-1,National Geographic SD
 
 
-#EXTINF:-1,NBA LEAGUE PASS 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83025
-#EXTINF:-1,NBA LEAGUE PASS 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83026
-#EXTINF:-1,NBA LEAGUE PASS 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83027
-#EXTINF:-1,NBA LEAGUE PASS 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83028
-#EXTINF:-1,NBA LEAGUE PASS 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83029
-#EXTINF:-1,NBA LEAGUE PASS 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83030
-#EXTINF:-1,NBA LEAGUE PASS 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83031
-
 
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://acsc.cc:80/0672648180/fireurl.co/72200.ts
