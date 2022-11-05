@@ -226,6 +226,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD" tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="Documentarios",Animal Planet FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1808
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="Documentarios",Animal Planet HD
