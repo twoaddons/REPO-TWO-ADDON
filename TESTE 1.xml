@@ -862,6 +862,98 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+#EXTINF:-1,BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/768
+#EXTINF:-1,BAND SPORTS H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/215
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/5
+#EXTINF:-1,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/452
+#EXTINF:-1,COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/784
+#EXTINF:-1,COMBATE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/222
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/10
+#EXTINF:-1,COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/461
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/769
+#EXTINF:-1,ESPN H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/238
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/24
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/477
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/771
+#EXTINF:-1,ESPN 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/236
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/25
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/475
+#EXTINF:-1,ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/772
+#EXTINF:-1,ESPN 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/237
+#EXTINF:-1,ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/23
+#EXTINF:-1,ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/476
+#EXTINF:-1,ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/774
+#EXTINF:-1,ESPN 4 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/244
+#EXTINF:-1,ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/33
+#EXTINF:-1,ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/483
+#EXTINF:-1,ESPN EXTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/770
+#EXTINF:-1,ESPN EXTRA H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/235
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/26
+#EXTINF:-1,ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=://uva.bccdn.xyz:80/011021c/930135661/76661
+#EXTINF:-1,FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/773
+#EXTINF:-1,FOX SPORTS 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/245
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/32
+#EXTINF:-1,FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/484
+#EXTINF:-1,RED BULL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/31744
+#EXTINF:-1,SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/776
+#EXTINF:-1,SPORTV H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/285
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/73
+#EXTINF:-1,SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/544
+#EXTINF:-1,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/777
+#EXTINF:-1,SPORTV 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/283
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/71
+#EXTINF:-1,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/545
+#EXTINF:-1,SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/778
+#EXTINF:-1,SPORTV 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/284
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/72
+#EXTINF:-1,SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/546
+
+
 #EXTINF:-1,NBA LEAGUE PASS 01
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uva.bccdn.xyz:80/011021c/930135661/83025
 #EXTINF:-1,NBA LEAGUE PASS 02
