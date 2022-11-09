@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
+  
+ <item>
+<title>[COLOR silver][B] MEDIEVAL [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XUG7IK42FEAB3TGPNM2PQT5QVBDLEDLS</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uJqtsBkYjaAbfHReQNbQgpf6Faf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uJqtsBkYjaAbfHReQNbQgpf6Faf.jpg</fanart>
+<info></info>
+</item> 
+  
+  
  <item>
 <title>[COLOR silver][B] CAÇA IMPLACÁVEL [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FYUNUCL5KXHKJC4T4LZRGL2LOUJ7FMUQ</link>
