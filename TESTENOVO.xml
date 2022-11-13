@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="UM LUGAR BEM LONGE" tvg-logo="magnet:?xt=urn:btih:f2eb6f4e011fd758c62d04eaf592b97aa4369117" group-title="CANAIS DE FILMES", UM LUGAR BEM LONGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=magnet:?xt=urn:btih:f2eb6f4e011fd758c62d04eaf592b97aa4369117
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2eb6f4e011fd758c62d04eaf592b97aa4369117</link>
