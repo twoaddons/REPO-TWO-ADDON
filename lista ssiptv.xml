@@ -20,6 +20,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 #EXTINF:-1,tvg-id="BONS TEMPOS" tvg-name="BONS TEMPOS" tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/bons-tempos.jpeg" group-title="TWO BR",BONS TEMPOS
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w59510735.m3u8
 
+#EXTINF:-1,tvg-id="X-TREME" tvg-name="X-TREME" tvg-logo="https://i.downloadatoz.com/upload/android/icon/9/4/5/4a626a104d0917d54e17f05617912fe5.jpg" group-title="TWO BR",X-TREME
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w1593577482.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="SBT",SBT SP FHD
 http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1900
