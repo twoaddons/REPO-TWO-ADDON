@@ -1968,47 +1968,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | As aventuras de Jackie Chan" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | As aventuras de Jackie Chan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18379
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Ben 10" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Ben 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18363
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Bob Esponja" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18361
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Cavaleiros dos Zodiacos" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Cavaleiros dos Zodiacos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18362
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Coragem o Cão Covarde" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Coragem o Cão Covarde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18364
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Corrida Maluca" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18380
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Dragon Ball" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Dragon Ball
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18366
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Familia da Pesada (Family Guy)" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Familia da Pesada (Family Guy)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18367
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Formiga Atomica" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Formiga Atomica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18368
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Galinha Pintadinha" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Galinha Pintadinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18370
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Kenan e Kel" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Kenan e Kel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18381
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Mickey Mouse" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Mickey Mouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18372
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Peppa Pig" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18374
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | South Park" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | South Park
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18375
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | The Big Bang Theory" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | The Big Bang Theory
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18383
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Thundercats" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Thundercats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18376
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Todo Mundo Odeia o Cris" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Todo Mundo Odeia o Cris
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18377
-#EXTINF:-1 tvg-name="PT 24/7ⓧ | Um Maluco no Pedaço 24H" tvg-logo="http://platinumxmedia.xyz:8080/images/2ee44310260a6873138a173a959b72b8.png" group-title="|PT| 24/7 Portugal",PT 24/7ⓧ | Um Maluco no Pedaço 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://platinumxmedia.xyz:8080/@Flipping12/hrGKSV2HgE/18378
-
-
-
-
-
 
 
 
