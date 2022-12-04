@@ -1134,6 +1134,65 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K QATAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="TWO BR | 4K UHD",SPORTV 4K QATAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/205373
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://capas.webplay.fun/cartoon.png" group-title="TWO BR | 4K UHD",CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173749
+#EXTINF:-1 tvg-name="ESPN4 4K" tvg-logo="https://capas.webplay.fun/espn.png" group-title="TWO BR | 4K UHD",ESPN4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173752
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO 4K" tvg-logo="https://capas.webplay.fun/globo.png" group-title="TWO BR | 4K UHD",GLOBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173753
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://capas.webplay.fun/hbo.png" group-title="TWO BR | 4K UHD",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173754
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://capas.webplay.fun/multishow.png" group-title="TWO BR | 4K UHD",MULTISHOW 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173756
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://capas.webplay.fun/premiere.png" group-title="TWO BR | 4K UHD",PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173757
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD 4K" tvg-logo="http://capas.webplay.fun/record.png" group-title="TWO BR | 4K UHD",RECORD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173758
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="http://capas.webplay.fun/sbt.png" group-title="TWO BR | 4K UHD",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173759
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://capas.webplay.fun/sportv.png" group-title="TWO BR | 4K UHD",SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173760
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL 4K" tvg-logo="https://i.imgur.com/gnybN57.png" group-title="TWO BR | 4K UHD",STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173761
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELCINE PREMIUM 4K" tvg-logo="http://capas.webplay.fun/telecinepremium.png" group-title="TWO BR | 4K UHD",TELCINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173762
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="http://capas.webplay.fun/tnt.png" group-title="TWO BR | 4K UHD",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173763
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES 4K" tvg-logo="http://capas.webplay.fun/tntseries.png" group-title="TWO BR | 4K UHD",TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173764
+#EXTINF:-1 tvg-name="REDE TV! 4K" tvg-logo="http://capas.webplay.fun/redetv.png" group-title="TWO BR | 4K UHD",REDE TV! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/173765
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AXN 4K" tvg-logo="https://capas.webplay.fun/axn.png" group-title="TWO BR | 4K UHD",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177025
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP 4K" tvg-logo="https://capas.webplay.fun/band.png" group-title="TWO BR | 4K UHD",BAND SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177026
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL 4K" tvg-logo="https://capas.webplay.fun/cnnbrasil.png" group-title="TWO BR | 4K UHD",CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177027
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://capas.webplay.fun/comedy.png" group-title="TWO BR | 4K UHD",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177028
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H 4K" tvg-logo="https://capas.webplay.fun/home.png" group-title="TWO BR | 4K UHD",DISCOVERY H&H 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177029
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://capas.webplay.fun/discoveryturbo.png" group-title="TWO BR | 4K UHD",DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177030
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 4K" tvg-logo="https://capas.webplay.fun/espn.png" group-title="TWO BR | 4K UHD",ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177031
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="https://capas.webplay.fun/gnt.png" group-title="TWO BR | 4K UHD",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177032
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://capas.webplay.fun/joven_pan_news.png" group-title="TWO BR | 4K UHD",JOVEM PAN NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177033
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION 4K " tvg-logo="https://capas.webplay.fun/telecineaction.png" group-title="TWO BR | 4K UHD",TELECINE ACTION 4K 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177034
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://capas.webplay.fun/telecinepipoca.png" group-title="TWO BR | 4K UHD",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177035
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL 4K" tvg-logo="https://capas.webplay.fun/universal.png" group-title="TWO BR | 4K UHD",UNIVERSAL CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177036
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K" tvg-logo="https://capas.webplay.fun/viva.png" group-title="TWO BR | 4K UHD",VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177037
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS 4K" tvg-logo="https://capas.webplay.fun/globonews.png" group-title="TWO BR | 4K UHD",GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/177038
+
 
 
 
@@ -1965,6 +2024,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="TWO BR | NBA LEAGUE PASS",NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187398
+#EXTINF:-1 tvg-name="NBA | League Pass 01" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187399
+#EXTINF:-1 tvg-name="NBA | League Pass 02" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187400
+#EXTINF:-1 tvg-name="NBA | League Pass 03" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187401
+#EXTINF:-1 tvg-name="NBA | League Pass 04" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187402
+#EXTINF:-1 tvg-name="NBA | League Pass 05" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187403
+#EXTINF:-1 tvg-name="NBA | League Pass 06" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187404
+#EXTINF:-1 tvg-name="NBA | League Pass 07" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187405
+#EXTINF:-1 tvg-name="NBA | League Pass 08" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187406
+#EXTINF:-1 tvg-name="NBA | League Pass 09" tvg-logo="https://i.imgur.com/sMbeXC4.png" group-title="TWO BR | NBA LEAGUE PASS",NBA | League Pass 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4tv.site:2082/89585891/99729685/187407
 
 
 
