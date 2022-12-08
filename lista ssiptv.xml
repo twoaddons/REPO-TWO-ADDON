@@ -1,1 +1,693 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="EPTV Central HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Central HD
+http://flixgran.xyz:8080/11032021/21971307394/329590
+#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="EPTV Central SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Central SD
+http://flixgran.xyz:8080/11032021/21971307394/329591
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Sul de Minas HD
+http://flixgran.xyz:8080/11032021/21971307394/329584
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV Sul de Minas SD
+http://flixgran.xyz:8080/11032021/21971307394/329585
+#EXTINF:-1 tvg-id="tv.amapa.br" tvg-name="GLOBO AMAPÁ FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ FHD
+http://flixgran.xyz:8080/11032021/21971307394/406787
+#EXTINF:-1 tvg-id="tv.amapa.br" tvg-name="GLOBO AMAPÁ HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ HD
+http://flixgran.xyz:8080/11032021/21971307394/406788
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE FHD
+http://flixgran.xyz:8080/11032021/21971307394/388194
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE HD
+http://flixgran.xyz:8080/11032021/21971307394/388195
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388193
+#EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="GLOBO CENTRO AMERICA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388192
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
+http://flixgran.xyz:8080/11032021/21971307394/388191
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV Campinas HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV Campinas HD
+http://flixgran.xyz:8080/11032021/21971307394/329467
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV Campinas SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV Campinas SD
+http://flixgran.xyz:8080/11032021/21971307394/329468
+#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD
+http://flixgran.xyz:8080/11032021/21971307394/388190
+#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO HD
+http://flixgran.xyz:8080/11032021/21971307394/329470
+#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO SD
+http://flixgran.xyz:8080/11032021/21971307394/329471
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO EPTV SAO CARLOS HD
+http://flixgran.xyz:8080/11032021/21971307394/401527
+#EXTINF:-1 tvg-id="intertv.costa.branca.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL FHD
+http://flixgran.xyz:8080/11032021/21971307394/388189
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI FHD
+http://flixgran.xyz:8080/11032021/21971307394/388188
+#EXTINF:-1 tvg-id="intertv.costa.branca.br" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTER TV DOS VALES FHD
+http://flixgran.xyz:8080/11032021/21971307394/388187
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="GLOBO PERNAMBUCO HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PERNAMBUCO HD
+http://flixgran.xyz:8080/11032021/21971307394/406779
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="GLOBO PERNAMBUCO SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PERNAMBUCO SD
+http://flixgran.xyz:8080/11032021/21971307394/406780
+#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
+http://flixgran.xyz:8080/11032021/21971307394/388183
+#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
+http://flixgran.xyz:8080/11032021/21971307394/388184
+#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO FHD
+http://flixgran.xyz:8080/11032021/21971307394/388185
+#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO HD
+http://flixgran.xyz:8080/11032021/21971307394/388186
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS FHD
+http://flixgran.xyz:8080/11032021/21971307394/388182
+#EXTINF:-1 tvg-id="tv.rondonia.br" tvg-name="GLOBO RONDONIA HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RONDONIA HD
+http://flixgran.xyz:8080/11032021/21971307394/406781
+#EXTINF:-1 tvg-id="tv.rondonia.br" tvg-name="GLOBO RONDONIA SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RONDONIA SD
+http://flixgran.xyz:8080/11032021/21971307394/406782
+#EXTINF:-1 tvg-id="tv.roraima.br" tvg-name="GLOBO RORAIMA HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RORAIMA HD
+http://flixgran.xyz:8080/11032021/21971307394/406783
+#EXTINF:-1 tvg-name="GLOBO RORAIMA SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RORAIMA SD
+http://flixgran.xyz:8080/11032021/21971307394/406784
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUACU FHD
+http://flixgran.xyz:8080/11032021/21971307394/388180
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC MARINGA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388179
+#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAVAI FHD
+http://flixgran.xyz:8080/11032021/21971307394/388178
+#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTA GROSSA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388176
+#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTA GROSSA HD
+http://flixgran.xyz:8080/11032021/21971307394/388177
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SJRP FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SJRP FHD
+http://flixgran.xyz:8080/11032021/21971307394/388159
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SJRP HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SJRP HD
+http://flixgran.xyz:8080/11032021/21971307394/388160
+#EXTINF:-1 tvg-id="tv.mar.alagoas.br" tvg-name="GLOBO TV ALAGOAS FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ALAGOAS FHD
+http://flixgran.xyz:8080/11032021/21971307394/388175
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388174
+#EXTINF:-1 tvg-id="tv.asa.branca.br" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV ASA BRANCA HD
+http://flixgran.xyz:8080/11032021/21971307394/396162
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO HD
+http://flixgran.xyz:8080/11032021/21971307394/371084
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO SD
+http://flixgran.xyz:8080/11032021/21971307394/371085
+#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="GLOBO TV CLUBE PIAUI HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV CLUBE PIAUI HD
+http://flixgran.xyz:8080/11032021/21971307394/333936
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="GLOBO TV DIARIO FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO FHD
+http://flixgran.xyz:8080/11032021/21971307394/388172
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO HD
+http://flixgran.xyz:8080/11032021/21971307394/388173
+#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="GLOBO TV FRONTEIRA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV FRONTEIRA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388171
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA SUL FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL FHD
+http://flixgran.xyz:8080/11032021/21971307394/388170
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA VITORIA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA VITORIA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388169
+#EXTINF:-1 tvg-id="tv.integracao.araxa.br" tvg-name="GLOBO TV INTEG. ARAXA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. ARAXA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388168
+#EXTINF:-1 tvg-id="tv.integracao.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. JUIZ DE FORA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388166
+#EXTINF:-1 tvg-id="tv.integracao.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. JUIZ DE FORA HD
+http://flixgran.xyz:8080/11032021/21971307394/388167
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO TV NORDESTE  FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV NORDESTE  FHD
+http://flixgran.xyz:8080/11032021/21971307394/388165
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL FHD
+http://flixgran.xyz:8080/11032021/21971307394/388164
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL HD
+http://flixgran.xyz:8080/11032021/21971307394/329597
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL SD
+http://flixgran.xyz:8080/11032021/21971307394/329596
+#EXTINF:-1 tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ HD
+http://flixgran.xyz:8080/11032021/21971307394/393691
+#EXTINF:-1 tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ SD
+http://flixgran.xyz:8080/11032021/21971307394/393692
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE HD
+http://flixgran.xyz:8080/11032021/21971307394/333935
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="GLOBO TV SERRA MAR FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SERRA MAR FHD
+http://flixgran.xyz:8080/11032021/21971307394/388163
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV SUBAE HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV SUBAE HD
+http://flixgran.xyz:8080/11032021/21971307394/381134
+#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388162
+#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO TV VANG. S.J. CAMPOS FHD
+http://flixgran.xyz:8080/11032021/21971307394/388161
+#EXTINF:-1 tvg-id="inter.alto.litoral.br" tvg-name="Inter TV Alto Litoral HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Alto Litoral HD
+http://flixgran.xyz:8080/11032021/21971307394/329473
+#EXTINF:-1 tvg-id="inter.alto.litoral.br" tvg-name="Inter TV Alto Litoral SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Alto Litoral SD
+http://flixgran.xyz:8080/11032021/21971307394/329474
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Inter TV Cabugi HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Cabugi HD
+http://flixgran.xyz:8080/11032021/21971307394/329476
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Inter TV Cabugi SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Cabugi SD
+http://flixgran.xyz:8080/11032021/21971307394/329477
+#EXTINF:-1 tvg-id="intertv.planicie.br" tvg-name="Inter TV dos Vales HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV dos Vales HD
+http://flixgran.xyz:8080/11032021/21971307394/329479
+#EXTINF:-1 tvg-id="intertv.planicie.br" tvg-name="Inter TV dos Vales SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV dos Vales SD
+http://flixgran.xyz:8080/11032021/21971307394/329480
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Grande Minas HD
+http://flixgran.xyz:8080/11032021/21971307394/329482
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Grande Minas SD
+http://flixgran.xyz:8080/11032021/21971307394/329483
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Inter TV Serra Mar HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Serra Mar HD
+http://flixgran.xyz:8080/11032021/21971307394/329485
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Inter TV Serra Mar SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Inter TV Serra Mar SD
+http://flixgran.xyz:8080/11032021/21971307394/329486
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="NSC TV BLUMENAU FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV BLUMENAU FHD
+http://flixgran.xyz:8080/11032021/21971307394/353338
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="NSC TV BLUMENAU HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV BLUMENAU HD
+http://flixgran.xyz:8080/11032021/21971307394/353339
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="NSC TV CHAPECO FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO FHD
+http://flixgran.xyz:8080/11032021/21971307394/353340
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="NSC TV CHAPECO HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO HD
+http://flixgran.xyz:8080/11032021/21971307394/353341
+#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="NSC TV CRICIUMA FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CRICIUMA FHD
+http://flixgran.xyz:8080/11032021/21971307394/353342
+#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="NSC TV CRICIUMA HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CRICIUMA HD
+http://flixgran.xyz:8080/11032021/21971307394/353343
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC TV FLORIANOPOLIS FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV FLORIANOPOLIS FHD
+http://flixgran.xyz:8080/11032021/21971307394/353344
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC TV Florianópolis HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV Florianópolis HD
+http://flixgran.xyz:8080/11032021/21971307394/329488
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="NSC TV Florianópolis SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV Florianópolis SD
+http://flixgran.xyz:8080/11032021/21971307394/329489
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="NSC TV JOINVILLE FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV JOINVILLE FHD
+http://flixgran.xyz:8080/11032021/21971307394/353345
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="NSC TV JOINVILLE HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV JOINVILLE HD
+http://flixgran.xyz:8080/11032021/21971307394/353346
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV Porto Alegre HD
+http://flixgran.xyz:8080/11032021/21971307394/329491
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="RBS TV Porto Alegre SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV Porto Alegre SD
+http://flixgran.xyz:8080/11032021/21971307394/329492
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Boa Vista HD
+http://flixgran.xyz:8080/11032021/21971307394/329494
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Boa Vista SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Boa Vista SD
+http://flixgran.xyz:8080/11032021/21971307394/329495
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Rede Amazônica Manaus HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Manaus HD
+http://flixgran.xyz:8080/11032021/21971307394/329500
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Rede Amazônica Manaus SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Manaus SD
+http://flixgran.xyz:8080/11032021/21971307394/329501
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Porto Velho HD
+http://flixgran.xyz:8080/11032021/21971307394/329503
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Rio Branco HD
+http://flixgran.xyz:8080/11032021/21971307394/329506
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Rede Amazônica Rio Branco SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazônica Rio Branco SD
+http://flixgran.xyz:8080/11032021/21971307394/329507
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="RPC Curitiba HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC Curitiba HD
+http://flixgran.xyz:8080/11032021/21971307394/329509
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="RPC Curitiba SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC Curitiba SD
+http://flixgran.xyz:8080/11032021/21971307394/329510
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Anhanguera Goiânia HD
+http://flixgran.xyz:8080/11032021/21971307394/329512
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="TV Anhanguera Goiânia SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Anhanguera Goiânia SD
+http://flixgran.xyz:8080/11032021/21971307394/329513
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Bahia HD
+http://flixgran.xyz:8080/11032021/21971307394/329515
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="TV Bahia SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Bahia SD
+http://flixgran.xyz:8080/11032021/21971307394/329516
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Centro-américa Cuiabá HD
+http://flixgran.xyz:8080/11032021/21971307394/329593
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="TV Centro-américa Cuiabá SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Centro-américa Cuiabá SD
+http://flixgran.xyz:8080/11032021/21971307394/329594
+#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="TV Fronteira HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Fronteira HD
+http://flixgran.xyz:8080/11032021/21971307394/329518
+#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="TV Fronteira SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Fronteira SD
+http://flixgran.xyz:8080/11032021/21971307394/329519
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="TV Gazeta Sul HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Gazeta Sul HD
+http://flixgran.xyz:8080/11032021/21971307394/329521
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="TV Gazeta Sul SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Gazeta Sul SD
+http://flixgran.xyz:8080/11032021/21971307394/329522
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="TV Globo Brasília HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Brasília HD
+http://flixgran.xyz:8080/11032021/21971307394/329524
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="TV Globo Brasília SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Brasília SD
+http://flixgran.xyz:8080/11032021/21971307394/329525
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="TV Globo Minas HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Minas HD
+http://flixgran.xyz:8080/11032021/21971307394/329527
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="TV Globo Minas SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Minas SD
+http://flixgran.xyz:8080/11032021/21971307394/329528
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="TV Globo Nordeste HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Nordeste HD
+http://flixgran.xyz:8080/11032021/21971307394/329530
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="TV Globo Nordeste SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Nordeste SD
+http://flixgran.xyz:8080/11032021/21971307394/329531
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="TV Globo Rio FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Rio FHD
+http://flixgran.xyz:8080/11032021/21971307394/388181
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="TV Globo Rio HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Rio HD
+http://flixgran.xyz:8080/11032021/21971307394/329533
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="TV Globo Rio SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo Rio SD
+http://flixgran.xyz:8080/11032021/21971307394/329534
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo FHD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo FHD
+http://flixgran.xyz:8080/11032021/21971307394/413508
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo FHD H265" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/388158
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo HD
+http://flixgran.xyz:8080/11032021/21971307394/329536
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="TV Globo São Paulo SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Globo São Paulo SD
+http://flixgran.xyz:8080/11032021/21971307394/329537
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="TV Liberal Belém HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Liberal Belém HD
+http://flixgran.xyz:8080/11032021/21971307394/329542
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="TV Liberal Belém SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Liberal Belém SD
+http://flixgran.xyz:8080/11032021/21971307394/329543
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante Imperatriz HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante Imperatriz HD
+http://flixgran.xyz:8080/11032021/21971307394/329548
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante Imperatriz SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante Imperatriz SD
+http://flixgran.xyz:8080/11032021/21971307394/329549
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante São Luiz HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante São Luiz HD
+http://flixgran.xyz:8080/11032021/21971307394/329551
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="TV Mirante São Luiz SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Mirante São Luiz SD
+http://flixgran.xyz:8080/11032021/21971307394/329552
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="TV Morena Campo Grande HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Morena Campo Grande HD
+http://flixgran.xyz:8080/11032021/21971307394/329554
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="TV Morena Campo Grande SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Morena Campo Grande SD
+http://flixgran.xyz:8080/11032021/21971307394/329555
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="TV TEM Bauru HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Bauru HD
+http://flixgran.xyz:8080/11032021/21971307394/329557
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="TV TEM Bauru SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Bauru SD
+http://flixgran.xyz:8080/11032021/21971307394/329558
+#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="TV TEM Sorocaba HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Sorocaba HD
+http://flixgran.xyz:8080/11032021/21971307394/329566
+#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="TV TEM Sorocaba SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM Sorocaba SD
+http://flixgran.xyz:8080/11032021/21971307394/329567
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM São José do Rio Preto HD
+http://flixgran.xyz:8080/11032021/21971307394/329563
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TV TEM São José do Rio Preto SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM São José do Rio Preto SD
+http://flixgran.xyz:8080/11032021/21971307394/329564
+#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="TV Tribuna HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Tribuna HD
+http://flixgran.xyz:8080/11032021/21971307394/329569
+#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="TV Tribuna SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Tribuna SD
+http://flixgran.xyz:8080/11032021/21971307394/329570
+#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Cariri HD
+http://flixgran.xyz:8080/11032021/21971307394/329572
+#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="TV Verdes Mares Cariri SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Cariri SD
+http://flixgran.xyz:8080/11032021/21971307394/329573
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Fortaleza HD
+http://flixgran.xyz:8080/11032021/21971307394/329575
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Verdes Mares Fortaleza SD
+http://flixgran.xyz:8080/11032021/21971307394/329576
+#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Vanguarda São José dos Campos HD
+http://flixgran.xyz:8080/11032021/21971307394/329578
+#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="Vanguarda São José dos Campos SD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Vanguarda São José dos Campos SD
+http://flixgran.xyz:8080/11032021/21971307394/329579
+#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="Vanguarda Taubaté HD" tvg-logo="http://flixgran.xyz:8080/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Vanguarda Taubaté HD
+http://flixgran.xyz:8080/11032021/21971307394/329581
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA SD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT BRASILIA SD
+http://flixgran.xyz:8080/11032021/21971307394/388510
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT GOIANIA HD" tvg-logo="http://flixgran.xyz:8080/images/ec0bd63cdef729722f52802ffe21be54.png" group-title="CANAIS | SBT",SBT GOIANIA HD
+http://flixgran.xyz:8080/11032021/21971307394/339461
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT INTERIOR HD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT INTERIOR HD
+http://flixgran.xyz:8080/11032021/21971307394/388511
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ITAPOAN FHD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT ITAPOAN FHD
+http://flixgran.xyz:8080/11032021/21971307394/388504
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ITAPOAN HD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT ITAPOAN HD
+http://flixgran.xyz:8080/11032021/21971307394/388505
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="SBT RBS FHD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT RBS FHD
+http://flixgran.xyz:8080/11032021/21971307394/388506
+#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="SBT RECIFE TV JORNAL FHD" tvg-logo="http://flixgran.xyz:8080/images/063cd6e1a43376a8c3d9aada0ccea5b4.jpg" group-title="CANAIS | SBT",SBT RECIFE TV JORNAL FHD
+http://flixgran.xyz:8080/11032021/21971307394/339464
+#EXTINF:-1 tvg-id="rede.massa.br" tvg-name="SBT REDE MASSA HD" tvg-logo="http://flixgran.xyz:8080/images/5cf83fee589dc2ffd5e2361db18ea8d0.png" group-title="CANAIS | SBT",SBT REDE MASSA HD
+http://flixgran.xyz:8080/11032021/21971307394/339465
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RIO FHD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT RIO FHD
+http://flixgran.xyz:8080/11032021/21971307394/388507
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RIO HD" tvg-logo="http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT RIO HD
+http://flixgran.xyz:8080/11032021/21971307394/5746
+#EXTINF:-1 tvg-id="sbt.natal.br" tvg-name="SBT RN HD" group-title="CANAIS | SBT",SBT RN HD
+http://flixgran.xyz:8080/11032021/21971307394/339462
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SANTOS HD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SANTOS HD
+http://flixgran.xyz:8080/11032021/21971307394/370895
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SANTOS SD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SANTOS SD
+http://flixgran.xyz:8080/11032021/21971307394/370896
+#EXTINF:-1 tvg-id="sbt.florianopolis.br" tvg-name="SBT SCC SD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SCC SD
+http://flixgran.xyz:8080/11032021/21971307394/388512
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT SP FHD
+http://flixgran.xyz:8080/11032021/21971307394/1685
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD H265" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT SP FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339466
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT SP HD
+http://flixgran.xyz:8080/11032021/21971307394/1595
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="http://flixgran.xyz:8080/images/12f564d5763c05c8b3fc29343ceaef23.jpg" group-title="CANAIS | SBT",SBT SP SD
+http://flixgran.xyz:8080/11032021/21971307394/1480
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT TV ALTEROSA FHD
+http://flixgran.xyz:8080/11032021/21971307394/388508
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA HD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT TV ALTEROSA HD
+http://flixgran.xyz:8080/11032021/21971307394/388509
+#EXTINF:-1 tvg-id="tv.cidade.verde.br" tvg-name="SBT TV CIDADE VERDE FHD" tvg-logo="http://flixgran.xyz:8080/images/ee86b2efb05100b36cf16608dffe6fd7.png" group-title="CANAIS | SBT",SBT TV CIDADE VERDE FHD
+http://flixgran.xyz:8080/11032021/21971307394/339467
+#EXTINF:-1 tvg-name="SBT TV DIFUSORA CAXIAS SD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT TV DIFUSORA CAXIAS SD
+http://flixgran.xyz:8080/11032021/21971307394/388514
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV FLORESTA SD" tvg-logo="http://flixgran.xyz:8080/images/634cdddde8ce59fb4af61bbbfc56bcd3.png" group-title="CANAIS | SBT",SBT TV FLORESTA SD
+http://flixgran.xyz:8080/11032021/21971307394/339468
+#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV JANGADEIRO CEARÁ FHD" tvg-logo="http://flixgran.xyz:8080/images/60eea8b5ba3273ceebf058b278f10f9e.jpg" group-title="CANAIS | SBT",SBT TV JANGADEIRO CEARÁ FHD
+http://flixgran.xyz:8080/11032021/21971307394/339469
+#EXTINF:-1 tvg-id="vtv.br" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="http://flixgran.xyz:8080/images/ecaf5a459e5f8995cbcb0f672e8c25f9.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS HD
+http://flixgran.xyz:8080/11032021/21971307394/378586
+#EXTINF:-1 tvg-id="tv.serra.dourada.br" tvg-name="TV SERRA DOURADA HD" tvg-logo="http://flixgran.xyz:8080/images/ec0bd63cdef729722f52802ffe21be54.png" group-title="CANAIS | SBT",TV SERRA DOURADA HD
+http://flixgran.xyz:8080/11032021/21971307394/339488
+
+
+
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD BAHIA FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD BAHIA FHD
+http://playnetpb.xyz:80/076595007/888037046/168955
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD BAHIA HD
+http://playnetpb.xyz:80/076595007/888037046/71046
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD BAHIA HD¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD BAHIA HD¹
+http://playnetpb.xyz:80/076595007/888037046/71544
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD BAHIA SD
+http://playnetpb.xyz:80/076595007/888037046/168956
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD BRASILIA FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD BRASILIA FHD
+http://playnetpb.xyz:80/076595007/888037046/71045
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD BRASILIA HD
+http://playnetpb.xyz:80/076595007/888037046/71498
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD BRASILIA SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD BRASILIA SD
+http://playnetpb.xyz:80/076595007/888037046/168957
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD CAMPINAS FHD
+http://playnetpb.xyz:80/076595007/888037046/139427
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD MANAUS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD MANAUS HD
+http://playnetpb.xyz:80/076595007/888037046/71047
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD MANAUS SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD MANAUS SD
+http://playnetpb.xyz:80/076595007/888037046/71542
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD MG FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD MG FHD
+http://playnetpb.xyz:80/076595007/888037046/71043
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD MG HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD MG HD
+http://playnetpb.xyz:80/076595007/888037046/71039
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD MG SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD MG SD
+http://playnetpb.xyz:80/076595007/888037046/71447
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD PARA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD PARA HD
+http://playnetpb.xyz:80/076595007/888037046/71041
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD PARANAIBA UBERLANDIA MG HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD PARANAIBA UBERLANDIA MG HD
+http://playnetpb.xyz:80/076595007/888037046/71514
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD RIO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RIO HD
+http://playnetpb.xyz:80/076595007/888037046/71040
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD RJ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RJ HD
+http://playnetpb.xyz:80/076595007/888037046/71506
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD RJ HD¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RJ HD¹
+http://playnetpb.xyz:80/076595007/888037046/162997
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD RJ SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RJ SD
+http://playnetpb.xyz:80/076595007/888037046/166401
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD RS FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RS FHD
+http://playnetpb.xyz:80/076595007/888037046/169897
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD RS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RS HD
+http://playnetpb.xyz:80/076595007/888037046/71500
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD RS SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD RS SD
+http://playnetpb.xyz:80/076595007/888037046/169896
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD SANTOS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD SANTOS HD
+http://playnetpb.xyz:80/076595007/888037046/166778
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD SANTOS SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD SANTOS SD
+http://playnetpb.xyz:80/076595007/888037046/169898
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD SAO JOSE RIO PRETO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD SAO JOSE RIO PRETO HD
+http://playnetpb.xyz:80/076595007/888037046/71501
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD SERGIPE TV ATALAIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD SERGIPE TV ATALAIA HD
+http://playnetpb.xyz:80/076595007/888037046/71502
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD SP  H265" tvg-logo="https://i.imgur.com/0iJIt0J.png" group-title="RECORD",RD SP  H265
+http://playnetpb.xyz:80/076595007/888037046/168954
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD SP 4K " tvg-logo="https://lh3.googleusercontent.com/-8cciQ3FeGVI/YG2okEeyodI/AAAAAAAAKMA/YnmGz7_AwNIdQ0lvlTQBak1M0-VePlmhACLcBGAsYHQ/RECORD%2B4K.png" group-title="RECORD",RD SP 4K 
+http://playnetpb.xyz:80/076595007/888037046/88436
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD SP FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD SP FHD
+http://playnetpb.xyz:80/076595007/888037046/135508
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD SP HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD SP HD
+http://playnetpb.xyz:80/076595007/888037046/71038
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD SP SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD SP SD
+http://playnetpb.xyz:80/076595007/888037046/166400
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD THATHI CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD THATHI CAMPINAS HD
+http://playnetpb.xyz:80/076595007/888037046/71522
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV BELEM FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV BELEM FHD
+http://playnetpb.xyz:80/076595007/888037046/141990
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD TV BELEM HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV BELEM HD
+http://playnetpb.xyz:80/076595007/888037046/71503
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV BELEM SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV BELEM SD
+http://playnetpb.xyz:80/076595007/888037046/169899
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CABRALIA BAHIA FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CABRALIA BAHIA FHD
+http://playnetpb.xyz:80/076595007/888037046/169900
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD TV CABRALIA BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CABRALIA BAHIA HD
+http://playnetpb.xyz:80/076595007/888037046/71512
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CABRALIA BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CABRALIA BAHIA SD
+http://playnetpb.xyz:80/076595007/888037046/169901
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CIDADE 4K" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CIDADE 4K
+http://playnetpb.xyz:80/076595007/888037046/193013
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CIDADE FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CIDADE FHD
+http://playnetpb.xyz:80/076595007/888037046/193015
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CIDADE H265" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CIDADE H265
+http://playnetpb.xyz:80/076595007/888037046/193016
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CIDADE HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CIDADE HD
+http://playnetpb.xyz:80/076595007/888037046/193017
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CIDADE SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV CIDADE SD
+http://playnetpb.xyz:80/076595007/888037046/193018
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV CORREIO" tvg-logo="https://lh3.googleusercontent.com/-N61D5KJDHAU/YT0zFJERGtI/AAAAAAAAKkQ/PJ_S-eEtdcc9ijcJ9JHYdXW6k9r57qCtwCLcBGAsYHQ/correio.png" group-title="RECORD",RD TV CORREIO
+http://playnetpb.xyz:80/076595007/888037046/121325
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV GOIANIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV GOIANIA HD
+http://playnetpb.xyz:80/076595007/888037046/71378
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD TV LITORAL SANTOS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV LITORAL SANTOS HD
+http://playnetpb.xyz:80/076595007/888037046/71504
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV PARANA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV PARANA HD
+http://playnetpb.xyz:80/076595007/888037046/71529
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV SANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV SANTA CATARINA HD
+http://playnetpb.xyz:80/076595007/888037046/71524
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RD TV SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",RD TV SD
+http://playnetpb.xyz:80/076595007/888037046/71253
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="TV VITORIA ES SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD",TV VITORIA ES SD
+http://playnetpb.xyz:80/076595007/888037046/71519
+
+
+
+
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
+http://flixgran.xyz:8080/11032021/21971307394/1694
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339224
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://flixgran.xyz:8080/11032021/21971307394/1604
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://flixgran.xyz:8080/images/91dd72ae13a932dea044f4a0290868ca.jpg" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+http://flixgran.xyz:8080/11032021/21971307394/1490
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT FHD
+http://flixgran.xyz:8080/11032021/21971307394/1695
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339225
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT HD
+http://flixgran.xyz:8080/11032021/21971307394/1605
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://flixgran.xyz:8080/images/06885173e65797ff778ed7bc731df93f.jpg" group-title="CANAIS | TELECINE",TELECINE CULT SD
+http://flixgran.xyz:8080/11032021/21971307394/1491
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN FHD
+http://flixgran.xyz:8080/11032021/21971307394/1696
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339226
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN HD
+http://flixgran.xyz:8080/11032021/21971307394/1606
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://flixgran.xyz:8080/images/80074766944dc8823f63c33e9efa3eb3.jpg" group-title="CANAIS | TELECINE",TELECINE FUN SD
+http://flixgran.xyz:8080/11032021/21971307394/1492
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
+http://flixgran.xyz:8080/11032021/21971307394/1697
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339227
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://flixgran.xyz:8080/11032021/21971307394/1607
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://flixgran.xyz:8080/images/b2505fed71b6ca15e99df9e0a41a8a71.jpg" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
+http://flixgran.xyz:8080/11032021/21971307394/1493
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
+http://flixgran.xyz:8080/11032021/21971307394/1698
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339228
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://flixgran.xyz:8080/11032021/21971307394/1608
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://flixgran.xyz:8080/images/cb60f8dd020e2fd39d55ea4d2477de16.jpg" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+http://flixgran.xyz:8080/11032021/21971307394/1494
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
+http://flixgran.xyz:8080/11032021/21971307394/1699
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339229
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+http://flixgran.xyz:8080/11032021/21971307394/1609
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://flixgran.xyz:8080/images/6e098af3f7a8dcf8ba4d1c276b16d86c.jpg" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
+http://flixgran.xyz:8080/11032021/21971307394/1495
+
+
+
+
+#EXTINF:-1 tvg-name="AGRO MAIS FHD" tvg-logo="http://flixgran.xyz:8080/images/756bbaf8bdb064a417af050b4a9091b9.jpg" group-title="CANAIS | VARIEDADES",AGRO MAIS FHD
+http://flixgran.xyz:8080/11032021/21971307394/393955
+#EXTINF:-1 tvg-name="AGRO MAIS HD" tvg-logo="http://flixgran.xyz:8080/images/756bbaf8bdb064a417af050b4a9091b9.jpg" group-title="CANAIS | VARIEDADES",AGRO MAIS HD
+http://flixgran.xyz:8080/11032021/21971307394/393956
+#EXTINF:-1 tvg-name="AGRO MAIS SD" tvg-logo="http://flixgran.xyz:8080/images/756bbaf8bdb064a417af050b4a9091b9.jpg" group-title="CANAIS | VARIEDADES",AGRO MAIS SD
+http://flixgran.xyz:8080/11032021/21971307394/393957
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
+http://flixgran.xyz:8080/11032021/21971307394/5720
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD H265" tvg-logo="http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339320
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+http://flixgran.xyz:8080/11032021/21971307394/1509
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="http://flixgran.xyz:8080/images/faccc514077b613831730e61193cb4b6.jpg" group-title="CANAIS | VARIEDADES",ARTE 1 SD
+http://flixgran.xyz:8080/11032021/21971307394/1363
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD H265" tvg-logo="http://flixgran.xyz:8080/images/3f843ae49a10dc9a86a601d9bd8f40b0.jpg" group-title="CANAIS | VARIEDADES",CANAL BRASIL FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339321
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://flixgran.xyz:8080/images/3f843ae49a10dc9a86a601d9bd8f40b0.jpg" group-title="CANAIS | VARIEDADES",CANAL BRASIL SD
+http://flixgran.xyz:8080/11032021/21971307394/1373
+#EXTINF:-1 tvg-name="CANAL EMPREENDER FHD" tvg-logo="http://flixgran.xyz:8080/images/9c5322830b00b21d1ea66b401629a172.jpg" group-title="CANAIS | VARIEDADES",CANAL EMPREENDER FHD
+http://flixgran.xyz:8080/11032021/21971307394/413936
+#EXTINF:-1 tvg-name="CANAL EMPREENDER HD" tvg-logo="http://flixgran.xyz:8080/images/9c5322830b00b21d1ea66b401629a172.jpg" group-title="CANAIS | VARIEDADES",CANAL EMPREENDER HD
+http://flixgran.xyz:8080/11032021/21971307394/413937
+#EXTINF:-1 tvg-name="CANAL EMPREENDER SD" tvg-logo="http://flixgran.xyz:8080/images/9c5322830b00b21d1ea66b401629a172.jpg" group-title="CANAIS | VARIEDADES",CANAL EMPREENDER SD
+http://flixgran.xyz:8080/11032021/21971307394/413938
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://flixgran.xyz:8080/images/1447e2689ef16d13daebf586cc91e362.jpg" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
+http://flixgran.xyz:8080/11032021/21971307394/1630
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://flixgran.xyz:8080/images/1447e2689ef16d13daebf586cc91e362.jpg" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
+http://flixgran.xyz:8080/11032021/21971307394/1520
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://flixgran.xyz:8080/images/1447e2689ef16d13daebf586cc91e362.jpg" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
+http://flixgran.xyz:8080/11032021/21971307394/1378
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FHD H265" tvg-logo="http://flixgran.xyz:8080/images/83990bc8a418050e258149c73b4cc14c.jpg" group-title="CANAIS | VARIEDADES",CURTA! FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339323
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD" tvg-logo="http://flixgran.xyz:8080/images/83990bc8a418050e258149c73b4cc14c.jpg" group-title="CANAIS | VARIEDADES",CURTA! HD
+http://flixgran.xyz:8080/11032021/21971307394/1522
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="http://flixgran.xyz:8080/images/83990bc8a418050e258149c73b4cc14c.jpg" group-title="CANAIS | VARIEDADES",CURTA! SD
+http://flixgran.xyz:8080/11032021/21971307394/1380
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH FHD
+http://flixgran.xyz:8080/11032021/21971307394/1634
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH FHD H265" tvg-logo="http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339324
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH HD
+http://flixgran.xyz:8080/11032021/21971307394/1526
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://flixgran.xyz:8080/images/147d680a5ebb3b0de6798419cc88dd2f.jpg" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH SD
+http://flixgran.xyz:8080/11032021/21971307394/1383
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD H265" tvg-logo="http://flixgran.xyz:8080/images/39bb6e63d16c03c361542e5047574804.jpg" group-title="CANAIS | VARIEDADES",E! FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339325
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://flixgran.xyz:8080/images/39bb6e63d16c03c361542e5047574804.jpg" group-title="CANAIS | VARIEDADES",E! HD
+http://flixgran.xyz:8080/11032021/21971307394/1536
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="http://flixgran.xyz:8080/images/39bb6e63d16c03c361542e5047574804.jpg" group-title="CANAIS | VARIEDADES",E! SD
+http://flixgran.xyz:8080/11032021/21971307394/1393
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV HD" tvg-logo="http://flixgran.xyz:8080/images/21bc0e6ef037c0cc9b275ccb82244fd2.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
+http://flixgran.xyz:8080/11032021/21971307394/317668
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV SD" tvg-logo="http://flixgran.xyz:8080/images/21bc0e6ef037c0cc9b275ccb82244fd2.png" group-title="CANAIS | VARIEDADES",FASHION TV SD
+http://flixgran.xyz:8080/11032021/21971307394/317669
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts SD" tvg-logo="http://flixgran.xyz:8080/images/90340bc79c7e2971db93d0405083f638.png" group-title="CANAIS | VARIEDADES",Film & Arts SD
+http://flixgran.xyz:8080/11032021/21971307394/22869
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
+http://flixgran.xyz:8080/11032021/21971307394/1646
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339326
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://flixgran.xyz:8080/11032021/21971307394/1541
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://flixgran.xyz:8080/images/903e0c555293168b1f78e00b2fa975bd.jpg" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
+http://flixgran.xyz:8080/11032021/21971307394/1399
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H265" tvg-logo="http://flixgran.xyz:8080/images/639a1e41dec7be1b6898e13605fc0066.jpg" group-title="CANAIS | VARIEDADES",GNT FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339327
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://flixgran.xyz:8080/images/639a1e41dec7be1b6898e13605fc0066.jpg" group-title="CANAIS | VARIEDADES",GNT HD
+http://flixgran.xyz:8080/11032021/21971307394/1559
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://flixgran.xyz:8080/images/639a1e41dec7be1b6898e13605fc0066.jpg" group-title="CANAIS | VARIEDADES",GNT SD
+http://flixgran.xyz:8080/11032021/21971307394/1435
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="http://flixgran.xyz:8080/images/a256178810da1874ce7f84f9715e7246.jpg" group-title="CANAIS | VARIEDADES",LIFETIME FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339329
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://flixgran.xyz:8080/images/a256178810da1874ce7f84f9715e7246.jpg" group-title="CANAIS | VARIEDADES",LIFETIME HD
+http://flixgran.xyz:8080/11032021/21971307394/1568
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://flixgran.xyz:8080/images/a256178810da1874ce7f84f9715e7246.jpg" group-title="CANAIS | VARIEDADES",LIFETIME SD
+http://flixgran.xyz:8080/11032021/21971307394/1444
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA FHD H265" tvg-logo="http://flixgran.xyz:8080/images/6eb9f8b4742181a5646cf8b5cdf9b39b.jpg" group-title="CANAIS | VARIEDADES",MAIS NA TELA FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339330
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="http://flixgran.xyz:8080/images/6eb9f8b4742181a5646cf8b5cdf9b39b.jpg" group-title="CANAIS | VARIEDADES",MAIS NA TELA HD
+http://flixgran.xyz:8080/11032021/21971307394/1557
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="http://flixgran.xyz:8080/images/6eb9f8b4742181a5646cf8b5cdf9b39b.jpg" group-title="CANAIS | VARIEDADES",MAIS NA TELA SD
+http://flixgran.xyz:8080/11032021/21971307394/1433
+#EXTINF:-1 tvg-name="MARKKET FHD" tvg-logo="http://flixgran.xyz:8080/images/1993693daa80c25ce5de77a1db086b41.png" group-title="CANAIS | VARIEDADES",MARKKET FHD
+http://flixgran.xyz:8080/11032021/21971307394/413941
+#EXTINF:-1 tvg-name="MARKKET HD" tvg-logo="http://flixgran.xyz:8080/images/1993693daa80c25ce5de77a1db086b41.png" group-title="CANAIS | VARIEDADES",MARKKET HD
+http://flixgran.xyz:8080/11032021/21971307394/413940
+#EXTINF:-1 tvg-name="MARKKET SD" tvg-logo="http://flixgran.xyz:8080/images/1993693daa80c25ce5de77a1db086b41.png" group-title="CANAIS | VARIEDADES",MARKKET SD
+http://flixgran.xyz:8080/11032021/21971307394/413939
+#EXTINF:-1 tvg-name="MODO VIAGEM FHD" tvg-logo="http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD
+http://flixgran.xyz:8080/11032021/21971307394/409902
+#EXTINF:-1 tvg-name="MODO VIAGEM FHD H265" tvg-logo="http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/409903
+#EXTINF:-1 tvg-name="MODO VIAGEM HD" tvg-logo="http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM HD
+http://flixgran.xyz:8080/11032021/21971307394/409904
+#EXTINF:-1 tvg-name="MODO VIAGEM SD" tvg-logo="http://flixgran.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM SD
+http://flixgran.xyz:8080/11032021/21971307394/409905
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThnRoXnEGogeldkT2AT_TT06gLry8j_gbb7Q&usqp=CAU" group-title="CANAIS | VARIEDADES",NHK JAPAN
+http://flixgran.xyz:8080/11032021/21971307394/339729
+#EXTINF:-1 tvg-id="nhk.world.premium.br" tvg-name="NHK WORLD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThnRoXnEGogeldkT2AT_TT06gLry8j_gbb7Q&usqp=CAU" group-title="CANAIS | VARIEDADES",NHK WORLD HD
+http://flixgran.xyz:8080/11032021/21971307394/28924
+#EXTINF:-1 tvg-name="SABOR & ARTE FHD" tvg-logo="http://flixgran.xyz:8080/images/8c7dd922ad47494fc02c388e12c00eac.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE FHD
+http://flixgran.xyz:8080/11032021/21971307394/417548
+#EXTINF:-1 tvg-name="SABOR & ARTE HD" tvg-logo="http://flixgran.xyz:8080/images/8c7dd922ad47494fc02c388e12c00eac.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE HD
+http://flixgran.xyz:8080/11032021/21971307394/417549
+#EXTINF:-1 tvg-name="SABOR & ARTE SD" tvg-logo="http://flixgran.xyz:8080/images/8c7dd922ad47494fc02c388e12c00eac.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE SD
+http://flixgran.xyz:8080/11032021/21971307394/417550
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD H265" tvg-logo="http://flixgran.xyz:8080/images/0b62824b9b67894f53c4490c79a6bf89.jpg" group-title="CANAIS | VARIEDADES",STAR LIFE FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339242
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD" tvg-logo="http://flixgran.xyz:8080/images/22801a739d147d4b597ee2a6d3c8b85a.jpg" group-title="CANAIS | VARIEDADES",STAR LIFE HD
+http://flixgran.xyz:8080/11032021/21971307394/1543
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="http://flixgran.xyz:8080/images/0b62824b9b67894f53c4490c79a6bf89.jpg" group-title="CANAIS | VARIEDADES",STAR LIFE SD
+http://flixgran.xyz:8080/11032021/21971307394/1400
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brasil HD" tvg-logo="http://flixgran.xyz:8080/images/3dda1140860c99d184556c3ca27e99d5.png" group-title="CANAIS | VARIEDADES",Travel Box Brasil HD
+http://flixgran.xyz:8080/11032021/21971307394/22873
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV FHD H265" tvg-logo="http://flixgran.xyz:8080/images/55d0a91f3b384df78a2f657467acdd8a.jpg" group-title="CANAIS | VARIEDADES",TRU TV FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339332
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV SD" tvg-logo="http://flixgran.xyz:8080/images/55d0a91f3b384df78a2f657467acdd8a.jpg" group-title="CANAIS | VARIEDADES",TRUTV SD
+http://flixgran.xyz:8080/11032021/21971307394/4689
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD
+http://flixgran.xyz:8080/11032021/21971307394/1703
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD H265" tvg-logo="http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339333
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA HD
+http://flixgran.xyz:8080/11032021/21971307394/1615
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="http://flixgran.xyz:8080/images/2d2028bd4e3b2d92b77a6f454ad18ef2.jpg" group-title="CANAIS | VARIEDADES",VIVA SD
+http://flixgran.xyz:8080/11032021/21971307394/1502
+
+
+
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 FHD
+http://flixgran.xyz:8080/11032021/21971307394/1661
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339394
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 HD
+http://flixgran.xyz:8080/11032021/21971307394/1561
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="http://flixgran.xyz:8080/images/8d3d0a8f7a75cc621587457df9bbcb5d.jpg" group-title="CANAIS | HBO",HBO 2 SD
+http://flixgran.xyz:8080/11032021/21971307394/1437
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD H265" tvg-logo="http://flixgran.xyz:8080/images/982b73dcb1e440d8519445dd870ff96d.jpg" group-title="CANAIS | HBO",HBO FAMILY FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339387
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="http://flixgran.xyz:8080/images/982b73dcb1e440d8519445dd870ff96d.jpg" group-title="CANAIS | HBO",HBO FAMILY HD
+http://flixgran.xyz:8080/11032021/21971307394/1562
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="http://flixgran.xyz:8080/images/982b73dcb1e440d8519445dd870ff96d.jpg" group-title="CANAIS | HBO",HBO FAMILY SD
+http://flixgran.xyz:8080/11032021/21971307394/1438
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO FHD
+http://flixgran.xyz:8080/11032021/21971307394/1662
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H265" tvg-logo="http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339388
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO HD
+http://flixgran.xyz:8080/11032021/21971307394/1563
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI FHD
+http://flixgran.xyz:8080/11032021/21971307394/15582
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339389
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://flixgran.xyz:8080/11032021/21971307394/1569
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="http://flixgran.xyz:8080/images/6b7f6ec7b7d6309caeb516bcfd65c09e.png" group-title="CANAIS | HBO",HBO MUNDI SD
+http://flixgran.xyz:8080/11032021/21971307394/1446
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS FHD
+http://flixgran.xyz:8080/11032021/21971307394/1663
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD H265" tvg-logo="http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339393
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS HD
+http://flixgran.xyz:8080/11032021/21971307394/1564
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="http://flixgran.xyz:8080/images/21131d33737d29f8138a8946c465c2b9.jpg" group-title="CANAIS | HBO",HBO PLUS SD
+http://flixgran.xyz:8080/11032021/21971307394/1439
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP FHD
+http://flixgran.xyz:8080/11032021/21971307394/15583
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD H265" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339390
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP HD
+http://flixgran.xyz:8080/11032021/21971307394/1571
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="CANAIS | HBO",HBO POP SD
+http://flixgran.xyz:8080/11032021/21971307394/1447
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://flixgran.xyz:8080/images/1c23f7bcddab0cef673664123c85dab1.jpg" group-title="CANAIS | HBO",HBO SD
+http://flixgran.xyz:8080/11032021/21971307394/1440
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE FHD
+http://flixgran.xyz:8080/11032021/21971307394/1664
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339391
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://flixgran.xyz:8080/11032021/21971307394/1565
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://flixgran.xyz:8080/images/a3e6f7f711a4877461aa80959b780a57.jpg" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://flixgran.xyz:8080/11032021/21971307394/1441
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME FHD
+http://flixgran.xyz:8080/11032021/21971307394/1667
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD H265" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME FHD H265
+http://flixgran.xyz:8080/11032021/21971307394/339392
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME HD
+http://flixgran.xyz:8080/11032021/21971307394/1570
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="CANAIS | HBO",HBO XTREME SD
+http://flixgran.xyz:8080/11032021/21971307394/1445
 
