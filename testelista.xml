@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94xxm5701CzOdJdUEdIuwqZaowx.jpg" group-title="LANÇAMENTO 22 | AVATAR - O CAMINHO DA ÁGUA"
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CQJZAQWT6YGXMMVYSXJWRKZ3QW3EZQLV
+
+
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/pantera-negra-wakanda-para-sempre-cam-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="LANÇAMENTO 22 | PANTERA NEGRA - WAKANDA PRA SEMPRE "
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88160C992128A4EA939D8191A6B4273B76C19760
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg" group-title="LANÇAMENTO 22 |ADÃO NEGRO "
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QUKU4DVY43ZJ6Z5TTQAMAT3CEPS7GTAN
+
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/cover/o-matador-missao-resgate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="LANÇAMENTO 22 | O MATADOR"
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940c2eeddd69c454a7b2b5b20fa74e919d77657a
+
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/cover/uma-noite-sombria-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="LANÇAMENTO 22 |UMA NOITE SOMBRIA"
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:721cfd44c9917135437c290467aaf84053f8b207
