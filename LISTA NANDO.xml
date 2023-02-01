@@ -276,7 +276,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/2065289/2314886/203674
 
 
-
+ 
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD²" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="TWO BR | ABERTOS",BAND SP HD²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/2065289/2314886/203516
