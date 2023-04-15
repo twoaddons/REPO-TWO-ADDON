@@ -1,4 +1,1154 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="PT: RTP 1" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626524
+#EXTINF:-1 tvg-name="PT: RTP 1 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626525
+#EXTINF:-1 tvg-name="PT: RTP 1 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626526
+#EXTINF:-1 tvg-name="PT: RTP 2" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626527
+#EXTINF:-1 tvg-name="PT: RTP 2 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626528
+#EXTINF:-1 tvg-name="PT: SIC" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626529
+#EXTINF:-1 tvg-name="PT: SIC HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626530
+#EXTINF:-1 tvg-name="PT: SIC FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626531
+#EXTINF:-1 tvg-name="PT: TVI" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626532
+#EXTINF:-1 tvg-name="PT: TVI HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626533
+#EXTINF:-1 tvg-name="PT: TVI FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626534
+#EXTINF:-1 tvg-name="PT: TVI FICÇÃO" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVI FICÇÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626535
+#EXTINF:-1 tvg-name="PT: TVI REALITY" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626536
+#EXTINF:-1 tvg-name="PT: SIC MULHER" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626537
+#EXTINF:-1 tvg-name="PT: SIC MULHER FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC MULHER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626538
+#EXTINF:-1 tvg-name="PT: SIC CARAS" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626539
+#EXTINF:-1 tvg-name="PT: SIC RADICAL" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626540
+#EXTINF:-1 tvg-name="PT: SIC RADICAL HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626541
+#EXTINF:-1 tvg-name="PT: CANAL Q" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626542
+#EXTINF:-1 tvg-name="PT: PORTO CANAL" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626543
+#EXTINF:-1 tvg-name="PT: PORTO CANAL HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: PORTO CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626544
+#EXTINF:-1 tvg-name="PT: RTP AFRICA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626545
+#EXTINF:-1 tvg-name="PT: RTP ACORES" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626546
+#EXTINF:-1 tvg-name="PT: RTP MEMÓRIA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP MEMÓRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626547
+#EXTINF:-1 tvg-name="PT: RTP MADEIRA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626548
+#EXTINF:-1 tvg-name="PT: SIC NOTICIAS" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626549
+#EXTINF:-1 tvg-name="PT: SIC NOTICIAS HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626550
+#EXTINF:-1 tvg-name="PT: CNN TWO BR PORTUGAL" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CNN TWO BR PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626551
+#EXTINF:-1 tvg-name="PT: CNN TWO BR PORTUGAL HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CNN TWO BR PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626552
+#EXTINF:-1 tvg-name="PT: CNN TWO BR PORTUGAL FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CNN TWO BR PORTUGAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626553
+#EXTINF:-1 tvg-name="PT: CMTV HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626554
+#EXTINF:-1 tvg-name="PT: CMTV FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626555
+#EXTINF:-1 tvg-name="PT: RTP 3" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626556
+#EXTINF:-1 tvg-name="PT: AR TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626557
+#EXTINF:-1 tvg-name="PT: CANAL 11" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626558
+#EXTINF:-1 tvg-name="PT: CANAL 11 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626559
+#EXTINF:-1 tvg-name="PT: CANAL 11 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626560
+#EXTINF:-1 tvg-name="PT: SPORT TV +" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626561
+#EXTINF:-1 tvg-name="PT: SPORT TV + HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626562
+#EXTINF:-1 tvg-name="PT: Sport TV 1 SD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: Sport TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626563
+#EXTINF:-1 tvg-name="PT: SPORT TV 1" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626564
+#EXTINF:-1 tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626565
+#EXTINF:-1 tvg-name="PT: SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626566
+#EXTINF:-1 tvg-name="PT: SPORT TV 2" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626567
+#EXTINF:-1 tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626568
+#EXTINF:-1 tvg-name="PT: SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626569
+#EXTINF:-1 tvg-name="PT: SPORT TV 3" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626570
+#EXTINF:-1 tvg-name="PT: SPORT TV 3 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626571
+#EXTINF:-1 tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626572
+#EXTINF:-1 tvg-name="PT: SPORT TV 4" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626573
+#EXTINF:-1 tvg-name="PT: SPORT TV 4 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626574
+#EXTINF:-1 tvg-name="PT: SPORT TV 5" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626575
+#EXTINF:-1 tvg-name="PT: SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626576
+#EXTINF:-1 tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626577
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626578
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626579
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626580
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626581
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626582
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626583
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3   SD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 3   SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626584
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626585
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626586
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626587
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626588
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626589
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5 LOW" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 5 LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626590
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626591
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626592
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6 SD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626593
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626594
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626595
+#EXTINF:-1 tvg-name="PT: BTV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626596
+#EXTINF:-1 tvg-name="PT: BTV HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626597
+#EXTINF:-1 tvg-name="PT: BTV FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626598
+#EXTINF:-1 tvg-name="PT: SPORTING TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626599
+#EXTINF:-1 tvg-name="PT: SPORTING TV FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORTING TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626600
+#EXTINF:-1 tvg-name="PT: A BOLA TV FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626601
+#EXTINF:-1 tvg-name="PT: PFC" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626602
+#EXTINF:-1 tvg-name="PT: NBA TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626603
+#EXTINF:-1 tvg-name="PT: SPORT TV NBA HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626604
+#EXTINF:-1 tvg-name="PT: WWE NETWORK" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626605
+#EXTINF:-1 tvg-name="PT: Red Bull TV FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: Red Bull TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626606
+#EXTINF:-1 tvg-name="PT: EUROSPORT 1" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626607
+#EXTINF:-1 tvg-name="PT: EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626608
+#EXTINF:-1 tvg-name="PT: EUROSPORT 2" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626609
+#EXTINF:-1 tvg-name="PT: KOMBAT SPORT" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626610
+#EXTINF:-1 tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FIGHT NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626611
+#EXTINF:-1 tvg-name="PT: FUEL TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626612
+#EXTINF:-1 tvg-name="PT: MOTORVISION" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626613
+#EXTINF:-1 tvg-name="PT: REAL MADRID" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: REAL MADRID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626614
+#EXTINF:-1 tvg-name="PT: TV CINE TOP" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626615
+#EXTINF:-1 tvg-name="PT: TV CINE TOP HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626616
+#EXTINF:-1 tvg-name="PT: TV CINE TOP FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626617
+#EXTINF:-1 tvg-name="PT: TVCINE EDITION" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626618
+#EXTINF:-1 tvg-name="PT: TV CINE EDITION HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626619
+#EXTINF:-1 tvg-name="PT: TV CINE EDITION FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE EDITION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626620
+#EXTINF:-1 tvg-name="PT: TV CINE EMOTION" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626621
+#EXTINF:-1 tvg-name="PT: TV CINE EMOTION HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626622
+#EXTINF:-1 tvg-name="PT: TV CINE EMOTION FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626623
+#EXTINF:-1 tvg-name="PT: TV CINE ACTION" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626624
+#EXTINF:-1 tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626625
+#EXTINF:-1 tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV CINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626626
+#EXTINF:-1 tvg-name="PT: TV SERIES FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626627
+#EXTINF:-1 tvg-name="PT: NOS STUDIO FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: NOS STUDIO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626628
+#EXTINF:-1 tvg-name="PT: HOLLYWOOD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626629
+#EXTINF:-1 tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626630
+#EXTINF:-1 tvg-name="PT: CINEMUNDO" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626631
+#EXTINF:-1 tvg-name="PT: CINEMUNDO HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626632
+#EXTINF:-1 tvg-name="PT: AMC" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626633
+#EXTINF:-1 tvg-name="PT: AMC FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626634
+#EXTINF:-1 tvg-name="PT: AMC HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626635
+#EXTINF:-1 tvg-name="PT: FOX MOVIES" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626636
+#EXTINF:-1 tvg-name="PT: FOX MOVIES HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626637
+#EXTINF:-1 tvg-name="PT: FOX" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626638
+#EXTINF:-1 tvg-name="PT: FOX FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626639
+#EXTINF:-1 tvg-name="PT: FOX HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626640
+#EXTINF:-1 tvg-name="PT: FOX CRIME" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626641
+#EXTINF:-1 tvg-name="PT: FOX CRIME HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626642
+#EXTINF:-1 tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626643
+#EXTINF:-1 tvg-name="PT: FOX LIFE" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626644
+#EXTINF:-1 tvg-name="PT: FOX LIFE HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626645
+#EXTINF:-1 tvg-name="PT: FOX COMEDY" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626646
+#EXTINF:-1 tvg-name="PT: FOX COMEDY HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626647
+#EXTINF:-1 tvg-name="PT: AXN" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626648
+#EXTINF:-1 tvg-name="PT: AXN HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626649
+#EXTINF:-1 tvg-name="PT: AXN FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626650
+#EXTINF:-1 tvg-name="PT: AXN WHITE" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626651
+#EXTINF:-1 tvg-name="PT: AXN WHITE HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626652
+#EXTINF:-1 tvg-name="PT: AXN WHITE FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626653
+#EXTINF:-1 tvg-name="PT: AXN MOVIES HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626654
+#EXTINF:-1 tvg-name="PT: AXN BLACK FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AXN BLACK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626655
+#EXTINF:-1 tvg-name="PT: SYFY" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626656
+#EXTINF:-1 tvg-name="PT: SYFY HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626657
+#EXTINF:-1 tvg-name="PT: National Geographic WILD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: National Geographic WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626658
+#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626659
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626660
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626661
+#EXTINF:-1 tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626662
+#EXTINF:-1 tvg-name="PT: HISTORIA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626663
+#EXTINF:-1 tvg-name="PT: ODISSEIA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626664
+#EXTINF:-1 tvg-name="PT: ODISSEIA HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ODISSEIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626665
+#EXTINF:-1 tvg-name="PT: AMC CRIME" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AMC CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626666
+#EXTINF:-1 tvg-name="PT: CACA E PESCA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626667
+#EXTINF:-1 tvg-name="PT: CAÇAVISION" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CAÇAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626668
+#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626669
+#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626670
+#EXTINF:-1 tvg-name="PT: DISNEY JÚNIOR" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: DISNEY JÚNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626671
+#EXTINF:-1 tvg-name="PT: CANAL PANDA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626672
+#EXTINF:-1 tvg-name="PT: BIGGS" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626673
+#EXTINF:-1 tvg-name="PT: JIM JAM" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626674
+#EXTINF:-1 tvg-name="PT: BABY TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626675
+#EXTINF:-1 tvg-name="PT: CARTOON NETWORK" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626676
+#EXTINF:-1 tvg-name="PT: NICKELODEON" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626677
+#EXTINF:-1 tvg-name="PT: NICK JR." tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: NICK JR.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626678
+#EXTINF:-1 tvg-name="PT: SIC K" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626679
+#EXTINF:-1 tvg-name="PT: LUXE TV HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: LUXE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626680
+#EXTINF:-1 tvg-name="PT: AMC BREAK" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AMC BREAK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626681
+#EXTINF:-1 tvg-name="PT: AMC BREAK HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AMC BREAK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626682
+#EXTINF:-1 tvg-name="PT: CBS REALITY" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626683
+#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626684
+#EXTINF:-1 tvg-name="PT: KURIAKOS" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: KURIAKOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626685
+#EXTINF:-1 tvg-name="PT: MY CUISINE" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: MY CUISINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626686
+#EXTINF:-1 tvg-name="PT: TLC" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626687
+#EXTINF:-1 tvg-name="PT: FASHION TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626688
+#EXTINF:-1 tvg-name="PT: EURONEWS" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626689
+#EXTINF:-1 tvg-name="PT: 24 KITCHEN" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: 24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626690
+#EXTINF:-1 tvg-name="PT: DOG TV FHD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: DOG TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626691
+#EXTINF:-1 tvg-name="PT: TV RECORD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626692
+#EXTINF:-1 tvg-name="PT: CANÇÃO NOVA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CANÇÃO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626693
+#EXTINF:-1 tvg-name="PT: TWO BR GLOBO" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TWO BR GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626694
+#EXTINF:-1 tvg-name="PT: TWO BR GLOBO TWO BR PORTUGAL HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TWO BR GLOBO TWO BR PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626695
+#EXTINF:-1 tvg-name="PT: TWO BR GLOBO NOW" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TWO BR GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626696
+#EXTINF:-1 tvg-name="PT: TCV CABO" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TCV CABO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626697
+#EXTINF:-1 tvg-name="PT: TPA INTERNACIONAL" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626698
+#EXTINF:-1 tvg-name="PT: ZAP VIVA HD" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: ZAP VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626699
+#EXTINF:-1 tvg-name="PT: TV5 MONDE" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626700
+#EXTINF:-1 tvg-name="PT: TVE 24h" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVE 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626701
+#EXTINF:-1 tvg-name="PT: TVE Internacional" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626702
+#EXTINF:-1 tvg-name="PT: Sky News" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: Sky News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626703
+#EXTINF:-1 tvg-name="PT: CNN" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626704
+#EXTINF:-1 tvg-name="PT: M6" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626705
+#EXTINF:-1 tvg-name="PT: iConcert" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: iConcert
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626706
+#EXTINF:-1 tvg-name="PT: BLOOMBERG" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626707
+#EXTINF:-1 tvg-name="PT: MCM POP" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626708
+#EXTINF:-1 tvg-name="PT: MTV TWO BR PORTUGAL" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: MTV TWO BR PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626709
+#EXTINF:-1 tvg-name="PT: MTV 00´S" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: MTV 00´S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626710
+#EXTINF:-1 tvg-name="PT: AFRO MUSIC" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626711
+#EXTINF:-1 tvg-name="PT: TRACE TOCA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626712
+#EXTINF:-1 tvg-name="PT: TRACE URBAN" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626713
+#EXTINF:-1 tvg-name="PT: MEZZO" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626714
+#EXTINF:-1 tvg-name="PT: CASA E COZINHA" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: CASA E COZINHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626715
+#EXTINF:-1 tvg-name="PT: TOROS TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626716
+#EXTINF:-1 tvg-name="PT: LOCALVISAO TV" tvg-logo="https://i.imgur.com/mlgNhkW.png" group-title="✅ TWO BR PORTUGAL",PT: LOCALVISAO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626717
+#EXTINF:-1 tvg-name="PT: MCM TOP" group-title="✅ TWO BR PORTUGAL",PT: MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626718
+#EXTINF:-1 tvg-name="PT: FATIMA TV" group-title="✅ TWO BR PORTUGAL",PT: FATIMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626719
+#EXTINF:-1 tvg-name="PT: FOOD NETWORK" group-title="✅ TWO BR PORTUGAL",PT: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626720
+#EXTINF:-1 tvg-name="PT: MTV LIVE" group-title="✅ TWO BR PORTUGAL",PT: MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626721
+#EXTINF:-1 tvg-name="PT: AXN MOVIES" group-title="✅ TWO BR PORTUGAL",PT: AXN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626722
+#EXTINF:-1 tvg-name="PT: TVI REALITY MOSAICO" group-title="✅ TWO BR PORTUGAL",PT: TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626723
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAMARA 1" group-title="✅ TWO BR PORTUGAL",PT: TVI REALITY CAMARA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626724
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAMARA 2" group-title="✅ TWO BR PORTUGAL",PT: TVI REALITY CAMARA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626725
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAMARA 3" group-title="✅ TWO BR PORTUGAL",PT: TVI REALITY CAMARA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626726
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAMARA 4" group-title="✅ TWO BR PORTUGAL",PT: TVI REALITY CAMARA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626727
+#EXTINF:-1 tvg-name="PT: SPORT TV 1 4K" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626728
+#EXTINF:-1 tvg-name="PT: BTV 4K" group-title="✅ TWO BR PORTUGAL",PT: BTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626729
+#EXTINF:-1 tvg-name="OPTO Generela" group-title="✅ TWO BR PORTUGAL",OPTO Generela
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626730
+#EXTINF:-1 tvg-name="CANAL NASA" group-title="✅ TWO BR PORTUGAL",CANAL NASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626731
+#EXTINF:-1 tvg-name="Rally Mania" group-title="✅ TWO BR PORTUGAL",Rally Mania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626732
+#EXTINF:-1 tvg-name="WRC + FHD" group-title="✅ TWO BR PORTUGAL",WRC + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626733
+#EXTINF:-1 tvg-name="PANDA KIDS" group-title="✅ TWO BR PORTUGAL",PANDA KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626734
+#EXTINF:-1 tvg-name="SPORT TV 6 FHD" group-title="✅ TWO BR PORTUGAL",SPORT TV 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626735
+#EXTINF:-1 tvg-name="PT: ALMA LUSA" group-title="✅ TWO BR PORTUGAL",PT: ALMA LUSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626736
+#EXTINF:-1 tvg-name="PT: S+" group-title="✅ TWO BR PORTUGAL",PT: S+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626737
+#EXTINF:-1 tvg-name="PT: BBC WORLD NEWS" group-title="✅ TWO BR PORTUGAL",PT: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626738
+#EXTINF:-1 tvg-name="PT: CNBC EUROPE" group-title="✅ TWO BR PORTUGAL",PT: CNBC EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626739
+#EXTINF:-1 tvg-name="PT: RECORD NEWS" group-title="✅ TWO BR PORTUGAL",PT: RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626740
+#EXTINF:-1 tvg-name="PT: RTP INTERNACIONAL" group-title="✅ TWO BR PORTUGAL",PT: RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626741
+#EXTINF:-1 tvg-name="XXX: HOT" group-title="✅ TWO BR PORTUGAL",XXX: HOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626742
+#EXTINF:-1 tvg-name="PTᴮ |  24 KITCHEN (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  24 KITCHEN (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626743
+#EXTINF:-1 tvg-name="PTᴮ |  24 KITCHEN (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  24 KITCHEN (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626744
+#EXTINF:-1 tvg-name="PTᴮ |  A BOLA TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  A BOLA TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626745
+#EXTINF:-1 tvg-name="PTᴮ |  A BOLA TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  A BOLA TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626746
+#EXTINF:-1 tvg-name="PTᴮ |  A&E (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  A&E (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626747
+#EXTINF:-1 tvg-name="PTᴮ |  A&E (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  A&E (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626748
+#EXTINF:-1 tvg-name="PTᴮ |  ABOLA TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ABOLA TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626749
+#EXTINF:-1 tvg-name="PTᴮ |  AFRO MUSIC (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AFRO MUSIC (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626750
+#EXTINF:-1 tvg-name="PTᴮ |  AFRO MUSIC CHANNEL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AFRO MUSIC CHANNEL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626751
+#EXTINF:-1 tvg-name="PTᴮ |  ALMA LUSA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ALMA LUSA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626752
+#EXTINF:-1 tvg-name="PTᴮ |  AMC (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AMC (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626753
+#EXTINF:-1 tvg-name="PTᴮ |  AMC (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AMC (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626754
+#EXTINF:-1 tvg-name="PTᴮ |  AMC HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AMC HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626755
+#EXTINF:-1 tvg-name="PTᴮ |  AR TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AR TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626756
+#EXTINF:-1 tvg-name="PTᴮ |  ARTV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ARTV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626757
+#EXTINF:-1 tvg-name="PTᴮ |  AXN (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626758
+#EXTINF:-1 tvg-name="PTᴮ |  AXN (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626759
+#EXTINF:-1 tvg-name="PTᴮ |  AXN BLACK (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN BLACK (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626760
+#EXTINF:-1 tvg-name="PTᴮ |  AXN BLACK HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN BLACK HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626761
+#EXTINF:-1 tvg-name="PTᴮ |  AXN HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626762
+#EXTINF:-1 tvg-name="PTᴮ |  AXN MOVIES (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN MOVIES (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626763
+#EXTINF:-1 tvg-name="PTᴮ |  AXN WHITE (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN WHITE (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626764
+#EXTINF:-1 tvg-name="PTᴮ |  AXN WHITE (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN WHITE (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626765
+#EXTINF:-1 tvg-name="PTᴮ |  AXN WHITE HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  AXN WHITE HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626766
+#EXTINF:-1 tvg-name="PTᴮ |  BABY FIRST (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BABY FIRST (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626767
+#EXTINF:-1 tvg-name="PTᴮ |  BABY TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BABY TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626768
+#EXTINF:-1 tvg-name="PTᴮ |  BABY TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BABY TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626769
+#EXTINF:-1 tvg-name="PTᴮ |  BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626770
+#EXTINF:-1 tvg-name="PTᴮ |  BENFICA TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BENFICA TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626771
+#EXTINF:-1 tvg-name="PTᴮ |  BENFICA TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BENFICA TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626772
+#EXTINF:-1 tvg-name="PTᴮ |  BENFICA TV 1 BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BENFICA TV 1 BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626773
+#EXTINF:-1 tvg-name="PTᴮ |  BENFICA TV HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BENFICA TV HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626774
+#EXTINF:-1 tvg-name="PTᴮ |  BIG BROTHER (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BIG BROTHER (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626775
+#EXTINF:-1 tvg-name="PTᴮ |  BIGGS (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BIGGS (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626776
+#EXTINF:-1 tvg-name="PTᴮ |  BLAZE (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BLAZE (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626777
+#EXTINF:-1 tvg-name="PTᴮ |  BLOOMBERG (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BLOOMBERG (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626778
+#EXTINF:-1 tvg-name="PTᴮ |  BOOMERANG (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BOOMERANG (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626779
+#EXTINF:-1 tvg-name="PTᴮ |  BTV 1 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  BTV 1 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626780
+#EXTINF:-1 tvg-name="PTᴮ |  CACA E PESCA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CACA E PESCA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626781
+#EXTINF:-1 tvg-name="PTᴮ |  CACAVISION (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CACAVISION (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626782
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL 11 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL 11 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626783
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL 180 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL 180 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626784
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL HIST (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL HIST (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626785
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL HOLLYWOOD (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL HOLLYWOOD (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626786
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL MACAU (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL MACAU (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626787
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL NOS (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL NOS (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626788
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL PANDA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL PANDA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626789
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL PANDA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL PANDA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626790
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL Q (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL Q (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626791
+#EXTINF:-1 tvg-name="PTᴮ |  CANAL Q (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANAL Q (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626792
+#EXTINF:-1 tvg-name="PTᴮ |  CANÇÃO NOVA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CANÇÃO NOVA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626793
+#EXTINF:-1 tvg-name="PTᴮ |  CARTOON NETWORK (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CARTOON NETWORK (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626794
+#EXTINF:-1 tvg-name="PTᴮ |  CARTOON NETWORK (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CARTOON NETWORK (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626795
+#EXTINF:-1 tvg-name="PTᴮ |  CASA E COZINHA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CASA E COZINHA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626796
+#EXTINF:-1 tvg-name="PTᴮ |  CAÇAVISION (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CAÇAVISION (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626797
+#EXTINF:-1 tvg-name="PTᴮ |  CBS REALITY (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CBS REALITY (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626798
+#EXTINF:-1 tvg-name="PTᴮ |  CBS REALITY (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CBS REALITY (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626799
+#EXTINF:-1 tvg-name="PTᴮ |  CINE MUNDO (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CINE MUNDO (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626800
+#EXTINF:-1 tvg-name="PTᴮ |  CINEMUNDO (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CINEMUNDO (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626801
+#EXTINF:-1 tvg-name="PTᴮ |  CLUBBING TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CLUBBING TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626802
+#EXTINF:-1 tvg-name="PTᴮ |  CM TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CM TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626803
+#EXTINF:-1 tvg-name="PTᴮ |  CM TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CM TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626804
+#EXTINF:-1 tvg-name="PTᴮ |  CNN TWO BR PORTUGAL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CNN TWO BR PORTUGAL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626805
+#EXTINF:-1 tvg-name="PTᴮ |  CRIME+ INVESTIGATION (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  CRIME+ INVESTIGATION (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626806
+#EXTINF:-1 tvg-name="PTᴮ |  DISCOVERY CHANNEL (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DISCOVERY CHANNEL (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626807
+#EXTINF:-1 tvg-name="PTᴮ |  DISCOVERY HD SHOWCASE (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DISCOVERY HD SHOWCASE (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626808
+#EXTINF:-1 tvg-name="PTᴮ |  DISCOVERY HD SHOWCASE (BACKUP) (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DISCOVERY HD SHOWCASE (BACKUP) (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626809
+#EXTINF:-1 tvg-name="PTᴮ |  DISCOVERY WORLD (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DISCOVERY WORLD (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626810
+#EXTINF:-1 tvg-name="PTᴮ |  DISNEY CHANNEL (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DISNEY CHANNEL (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626811
+#EXTINF:-1 tvg-name="PTᴮ |  DISNEY JUNIOR (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DISNEY JUNIOR (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626812
+#EXTINF:-1 tvg-name="PTᴮ |  DISNEY+ (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DISNEY+ (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626813
+#EXTINF:-1 tvg-name="PTᴮ |  DOG TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  DOG TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626814
+#EXTINF:-1 tvg-name="PTᴮ |  E! (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  E! (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626815
+#EXTINF:-1 tvg-name="PTᴮ |  E! ENTERTAINMENT (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  E! ENTERTAINMENT (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626816
+#EXTINF:-1 tvg-name="PTᴮ |  ELEVEN SPORTS 1 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ELEVEN SPORTS 1 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626817
+#EXTINF:-1 tvg-name="PTᴮ |  ELEVEN SPORTS 2 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ELEVEN SPORTS 2 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626818
+#EXTINF:-1 tvg-name="PTᴮ |  ELEVEN SPORTS 3 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ELEVEN SPORTS 3 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626819
+#EXTINF:-1 tvg-name="PTᴮ |  ELEVEN SPORTS 4 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ELEVEN SPORTS 4 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626820
+#EXTINF:-1 tvg-name="PTᴮ |  ELEVEN SPORTS 5 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ELEVEN SPORTS 5 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626821
+#EXTINF:-1 tvg-name="PTᴮ |  ELEVEN SPORTS 6 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ELEVEN SPORTS 6 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626822
+#EXTINF:-1 tvg-name="PTᴮ |  EURONEWS (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  EURONEWS (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626823
+#EXTINF:-1 tvg-name="PTᴮ |  EUROSPORT (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  EUROSPORT (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626824
+#EXTINF:-1 tvg-name="PTᴮ |  EUROSPORT 1 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  EUROSPORT 1 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626825
+#EXTINF:-1 tvg-name="PTᴮ |  EUROSPORT 1 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  EUROSPORT 1 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626826
+#EXTINF:-1 tvg-name="PTᴮ |  EUROSPORT 2 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  EUROSPORT 2 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626827
+#EXTINF:-1 tvg-name="PTᴮ |  EUROSPORT 2 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  EUROSPORT 2 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626828
+#EXTINF:-1 tvg-name="PTᴮ |  EUROSPORT NEW (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  EUROSPORT NEW (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626829
+#EXTINF:-1 tvg-name="PTᴮ |  FASHION TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FASHION TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626830
+#EXTINF:-1 tvg-name="PTᴮ |  FINE LIVING NETWORK HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FINE LIVING NETWORK HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626831
+#EXTINF:-1 tvg-name="PTᴮ |  FOOD NETWORK (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOOD NETWORK (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626832
+#EXTINF:-1 tvg-name="PTᴮ |  FOX (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626833
+#EXTINF:-1 tvg-name="PTᴮ |  FOX COMEDY (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX COMEDY (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626834
+#EXTINF:-1 tvg-name="PTᴮ |  FOX COMEDY (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX COMEDY (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626835
+#EXTINF:-1 tvg-name="PTᴮ |  FOX COMEDY HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX COMEDY HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626836
+#EXTINF:-1 tvg-name="PTᴮ |  FOX CRIME (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX CRIME (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626837
+#EXTINF:-1 tvg-name="PTᴮ |  FOX CRIME (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX CRIME (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626838
+#EXTINF:-1 tvg-name="PTᴮ |  FOX CRIME (BACKUP) (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX CRIME (BACKUP) (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626839
+#EXTINF:-1 tvg-name="PTᴮ |  FOX CRIME HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX CRIME HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626840
+#EXTINF:-1 tvg-name="PTᴮ |  FOX HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626841
+#EXTINF:-1 tvg-name="PTᴮ |  FOX LIFE (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX LIFE (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626842
+#EXTINF:-1 tvg-name="PTᴮ |  FOX LIFE (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX LIFE (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626843
+#EXTINF:-1 tvg-name="PTᴮ |  FOX LIFE HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX LIFE HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626844
+#EXTINF:-1 tvg-name="PTᴮ |  FOX MOVIES (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX MOVIES (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626845
+#EXTINF:-1 tvg-name="PTᴮ |  FOX MOVIES (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX MOVIES (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626846
+#EXTINF:-1 tvg-name="PTᴮ |  FOX MOVIES HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FOX MOVIES HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626847
+#EXTINF:-1 tvg-name="PTᴮ |  FUEL TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FUEL TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626848
+#EXTINF:-1 tvg-name="PTᴮ |  FUEL TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FUEL TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626849
+#EXTINF:-1 tvg-name="PTᴮ |  FUEL TV HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  FUEL TV HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626850
+#EXTINF:-1 tvg-name="PTᴮ |  TWO BR GLOBO (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TWO BR GLOBO (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626851
+#EXTINF:-1 tvg-name="PTᴮ |  HBO TWO BR PORTUGAL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  HBO TWO BR PORTUGAL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626852
+#EXTINF:-1 tvg-name="PTᴮ |  HISTORIA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  HISTORIA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626853
+#EXTINF:-1 tvg-name="PTᴮ |  HISTORY (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  HISTORY (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626854
+#EXTINF:-1 tvg-name="PTᴮ |  HOLLYWOOD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  HOLLYWOOD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626855
+#EXTINF:-1 tvg-name="PTᴮ |  HOLLYWOOD HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  HOLLYWOOD HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626856
+#EXTINF:-1 tvg-name="PTᴮ |  INVESTIGATION DISCOVERY (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  INVESTIGATION DISCOVERY (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626857
+#EXTINF:-1 tvg-name="PTᴮ |  JIM JAM (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  JIM JAM (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626858
+#EXTINF:-1 tvg-name="PTᴮ |  KURIAKOS KIDS (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  KURIAKOS KIDS (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626859
+#EXTINF:-1 tvg-name="PTᴮ |  KURIAKOS TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  KURIAKOS TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626860
+#EXTINF:-1 tvg-name="PTᴮ |  MEO VIDEOCLUBE (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MEO VIDEOCLUBE (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626861
+#EXTINF:-1 tvg-name="PTᴮ |  MOTORS TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MOTORS TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626862
+#EXTINF:-1 tvg-name="PTᴮ |  MOTORVISION (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MOTORVISION (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626863
+#EXTINF:-1 tvg-name="PTᴮ |  MOTORVISION TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MOTORVISION TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626864
+#EXTINF:-1 tvg-name="PTᴮ |  MOTORVISION TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MOTORVISION TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626865
+#EXTINF:-1 tvg-name="PTᴮ |  MOV HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MOV HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626866
+#EXTINF:-1 tvg-name="PTᴮ |  MTV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MTV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626867
+#EXTINF:-1 tvg-name="PTᴮ |  MTV PORTUGA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MTV PORTUGA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626868
+#EXTINF:-1 tvg-name="PTᴮ |  MTV TWO BR PORTUGAL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  MTV TWO BR PORTUGAL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626869
+#EXTINF:-1 tvg-name="PTᴮ |  NAT GEO (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NAT GEO (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626870
+#EXTINF:-1 tvg-name="PTᴮ |  NAT GEO WILD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NAT GEO WILD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626871
+#EXTINF:-1 tvg-name="PTᴮ |  NAT GEO WILD (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NAT GEO WILD (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626872
+#EXTINF:-1 tvg-name="PTᴮ |  NAT GEO WILD HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NAT GEO WILD HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626873
+#EXTINF:-1 tvg-name="PTᴮ |  NATIONAL GEOGRAPHIC (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NATIONAL GEOGRAPHIC (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626874
+#EXTINF:-1 tvg-name="PTᴮ |  NATIONAL GEOGRAPHIC HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NATIONAL GEOGRAPHIC HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626875
+#EXTINF:-1 tvg-name="PTᴮ |  NICK JUNIOR (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NICK JUNIOR (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626876
+#EXTINF:-1 tvg-name="PTᴮ |  NICKELODEON (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NICKELODEON (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626877
+#EXTINF:-1 tvg-name="PTᴮ |  NICKELODEON (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NICKELODEON (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626878
+#EXTINF:-1 tvg-name="PTᴮ |  NOS STUDIOS (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  NOS STUDIOS (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626879
+#EXTINF:-1 tvg-name="PTᴮ |  ODISSEIA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ODISSEIA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626880
+#EXTINF:-1 tvg-name="PTᴮ |  ODISSEIA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  ODISSEIA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626881
+#EXTINF:-1 tvg-name="PTᴮ |  PANDA BIGGS (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  PANDA BIGGS (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626882
+#EXTINF:-1 tvg-name="PTᴮ |  PANDA KIDS (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  PANDA KIDS (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626883
+#EXTINF:-1 tvg-name="PTᴮ |  PFC (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  PFC (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626884
+#EXTINF:-1 tvg-name="PTᴮ |  PORTO CANAL (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  PORTO CANAL (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626885
+#EXTINF:-1 tvg-name="PTᴮ |  PORTO CANAL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  PORTO CANAL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626886
+#EXTINF:-1 tvg-name="PTᴮ |  RTP 1 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP 1 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626887
+#EXTINF:-1 tvg-name="PTᴮ |  RTP 1 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP 1 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626888
+#EXTINF:-1 tvg-name="PTᴮ |  RTP 2 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP 2 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626889
+#EXTINF:-1 tvg-name="PTᴮ |  RTP 2 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP 2 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626890
+#EXTINF:-1 tvg-name="PTᴮ |  RTP 3 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP 3 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626891
+#EXTINF:-1 tvg-name="PTᴮ |  RTP ACORES (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP ACORES (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626892
+#EXTINF:-1 tvg-name="PTᴮ |  RTP AFRICA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP AFRICA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626893
+#EXTINF:-1 tvg-name="PTᴮ |  RTP AÇORES (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP AÇORES (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626894
+#EXTINF:-1 tvg-name="PTᴮ |  RTP MADEIRA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP MADEIRA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626895
+#EXTINF:-1 tvg-name="PTᴮ |  RTP MADEIRA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP MADEIRA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626896
+#EXTINF:-1 tvg-name="PTᴮ |  RTP MEM (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP MEM (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626897
+#EXTINF:-1 tvg-name="PTᴮ |  RTP MEMÓRIA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP MEMÓRIA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626898
+#EXTINF:-1 tvg-name="PTᴮ |  RTP ÁFRICA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  RTP ÁFRICA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626899
+#EXTINF:-1 tvg-name="PTᴮ |  SAUDE+ (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SAUDE+ (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626900
+#EXTINF:-1 tvg-name="PTᴮ |  SIC (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626901
+#EXTINF:-1 tvg-name="PTᴮ |  SIC CARAS (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC CARAS (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626902
+#EXTINF:-1 tvg-name="PTᴮ |  SIC CARAS (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC CARAS (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626903
+#EXTINF:-1 tvg-name="PTᴮ |  SIC FHD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC FHD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626904
+#EXTINF:-1 tvg-name="PTᴮ |  SIC K (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC K (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626905
+#EXTINF:-1 tvg-name="PTᴮ |  SIC MULHER (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC MULHER (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626906
+#EXTINF:-1 tvg-name="PTᴮ |  SIC MULHER (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC MULHER (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626907
+#EXTINF:-1 tvg-name="PTᴮ |  SIC NOTICIAS (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC NOTICIAS (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626908
+#EXTINF:-1 tvg-name="PTᴮ |  SIC NOTICIAS HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC NOTICIAS HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626909
+#EXTINF:-1 tvg-name="PTᴮ |  SIC RADICAL (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC RADICAL (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626910
+#EXTINF:-1 tvg-name="PTᴮ |  SIC RADICAL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC RADICAL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626911
+#EXTINF:-1 tvg-name="PTᴮ |  SIC RADICAL HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SIC RADICAL HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626912
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV + (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV + (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626913
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV + (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV + (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626914
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 1 BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 1 BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626915
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 1 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 1 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626916
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 1 HD (BACKUP) (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 1 HD (BACKUP) (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626917
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 1 HD BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 1 HD BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626918
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 2 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 2 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626919
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 2 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 2 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626920
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 2 HD BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 2 HD BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626921
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 3 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 3 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626922
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 3 BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 3 BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626923
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 3 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 3 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626924
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 3 HD (BACKUP) (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 3 HD (BACKUP) (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626925
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 3 HD BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 3 HD BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626926
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 4 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 4 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626927
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 4 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 4 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626928
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 4 BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 4 BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626929
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 4 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 4 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626930
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 4 HD (BACKUP) (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 4 HD (BACKUP) (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626931
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 4 HD BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 4 HD BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626932
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 5 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 5 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626933
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 5 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 5 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626934
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 5 BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 5 BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626935
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 5 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 5 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626936
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 5 HD (BACKUP) (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 5 HD (BACKUP) (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626937
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 5 HD BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 5 HD BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626938
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV 6 (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV 6 (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626939
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV BACKUP (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV BACKUP (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626940
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV NBA (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV NBA (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626941
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV+ (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV+ (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626942
+#EXTINF:-1 tvg-name="PTᴮ |  SPORT TV+ HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORT TV+ HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626943
+#EXTINF:-1 tvg-name="PTᴮ |  SPORTING TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORTING TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626944
+#EXTINF:-1 tvg-name="PTᴮ |  SPORTING TV (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORTING TV (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626945
+#EXTINF:-1 tvg-name="PTᴮ |  SPORTING TV FHD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SPORTING TV FHD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626946
+#EXTINF:-1 tvg-name="PTᴮ |  SUNDANCE SD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SUNDANCE SD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626947
+#EXTINF:-1 tvg-name="PTᴮ |  SYFY (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SYFY (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626948
+#EXTINF:-1 tvg-name="PTᴮ |  SYFY HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SYFY HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626949
+#EXTINF:-1 tvg-name="PTᴮ |  SYFY TWO BR PORTUGAL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  SYFY TWO BR PORTUGAL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626950
+#EXTINF:-1 tvg-name="PTᴮ |  TLC (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TLC (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626951
+#EXTINF:-1 tvg-name="PTᴮ |  TLC (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TLC (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626952
+#EXTINF:-1 tvg-name="PTᴮ |  TOUROS TV (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TOUROS TV (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626953
+#EXTINF:-1 tvg-name="PTᴮ |  TRAVEL CHANNEL (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TRAVEL CHANNEL (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626954
+#EXTINF:-1 tvg-name="PTᴮ |  TRAVEL CHANNEL HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TRAVEL CHANNEL HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626955
+#EXTINF:-1 tvg-name="PTᴮ |  TV CINE 1 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV CINE 1 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626956
+#EXTINF:-1 tvg-name="PTᴮ |  TV CINE 2 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV CINE 2 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626957
+#EXTINF:-1 tvg-name="PTᴮ |  TV CINE 3 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV CINE 3 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626958
+#EXTINF:-1 tvg-name="PTᴮ |  TV CINE 4 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV CINE 4 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626959
+#EXTINF:-1 tvg-name="PTᴮ |  TV GALICIA (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV GALICIA (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626960
+#EXTINF:-1 tvg-name="PTᴮ |  TV TWO BR GLOBO (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV TWO BR GLOBO (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626961
+#EXTINF:-1 tvg-name="PTᴮ |  TV TWO BR GLOBO PREMIUM (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV TWO BR GLOBO PREMIUM (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626962
+#EXTINF:-1 tvg-name="PTᴮ |  TV RECORD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TV RECORD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626963
+#EXTINF:-1 tvg-name="PTᴮ |  TVC HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVC HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626964
+#EXTINF:-1 tvg-name="PTᴮ |  TVC SERIES (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVC SERIES (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626965
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE 1 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE 1 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626966
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE 2 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE 2 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626967
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE 3 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE 3 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626968
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE 4 HD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE 4 HD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626969
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE ACTION (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE ACTION (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626970
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE EDITION (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE EDITION (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626971
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE EMOTION (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE EMOTION (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626972
+#EXTINF:-1 tvg-name="PTᴮ |  TVCINE TOP (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVCINE TOP (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626973
+#EXTINF:-1 tvg-name="PTᴮ |  TVI (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626974
+#EXTINF:-1 tvg-name="PTᴮ |  TVI (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626975
+#EXTINF:-1 tvg-name="PTᴮ |  TVI 24 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI 24 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626976
+#EXTINF:-1 tvg-name="PTᴮ |  TVI FHD (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI FHD (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626977
+#EXTINF:-1 tvg-name="PTᴮ |  TVI FIC (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI FIC (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626978
+#EXTINF:-1 tvg-name="PTᴮ |  TVI FICÇÃO (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI FICÇÃO (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626979
+#EXTINF:-1 tvg-name="PTᴮ |  TVI REALITY (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI REALITY (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626980
+#EXTINF:-1 tvg-name="PTᴮ |  TVI REALITY (6)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI REALITY (6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626981
+#EXTINF:-1 tvg-name="PTᴮ |  TVI REALITY (BACKUP) (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  TVI REALITY (BACKUP) (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626982
+#EXTINF:-1 tvg-name="PTᴮ |  VH1 (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  VH1 (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626983
+#EXTINF:-1 tvg-name="PTᴮ |  VH1 CLASSIC (3)" group-title="✅ TWO BR PORTUGAL",PTᴮ |  VH1 CLASSIC (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626984
+#EXTINF:-1 tvg-name="PT: MARVEL (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: MARVEL (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626985
+#EXTINF:-1 tvg-name="PT: MARVEL II  (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: MARVEL II  (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626986
+#EXTINF:-1 tvg-name="PT: DC TV (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: DC TV (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626987
+#EXTINF:-1 tvg-name="PT: NETFLIX (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: NETFLIX (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626988
+#EXTINF:-1 tvg-name="PT: HBO TWO BR PORTUGAL (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: HBO TWO BR PORTUGAL (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626989
+#EXTINF:-1 tvg-name="PT: FILMES ACÇÃO (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: FILMES ACÇÃO (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626990
+#EXTINF:-1 tvg-name="PT: FILMES CLÁSSICOS (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: FILMES CLÁSSICOS (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626991
+#EXTINF:-1 tvg-name="PT: FILMES WESTERN (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: FILMES WESTERN (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626992
+#EXTINF:-1 tvg-name="PT: FILMES COMÉDIA (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: FILMES COMÉDIA (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626993
+#EXTINF:-1 tvg-name="PT: FILMES DENZEL WASHINGTON (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: FILMES DENZEL WASHINGTON (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626994
+#EXTINF:-1 tvg-name="PT: SYLVESTER STALLONE (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: SYLVESTER STALLONE (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626995
+#EXTINF:-1 tvg-name="PT: JACKIE CHAN ADVENTURES (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: JACKIE CHAN ADVENTURES (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626996
+#EXTINF:-1 tvg-name="PT: TOM CRUISE (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: TOM CRUISE (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626997
+#EXTINF:-1 tvg-name="PT: FILMES THRILLER/TERROR (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: FILMES THRILLER/TERROR (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626998
+#EXTINF:-1 tvg-name="PT: FILMES SAMUEL L JACKSON (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: FILMES SAMUEL L JACKSON (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/626999
+#EXTINF:-1 tvg-name="PT: 24/7 STARWARS (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: 24/7 STARWARS (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627000
+#EXTINF:-1 tvg-name="PT: SÉRIES 24/7 (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: SÉRIES 24/7 (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627001
+#EXTINF:-1 tvg-name="PT: OS MALUCOS DO RISO (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: OS MALUCOS DO RISO (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627002
+#EXTINF:-1 tvg-name="PT: APANHADOS (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: APANHADOS (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627003
+#EXTINF:-1 tvg-name="PT: APANHADOS 2 (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: APANHADOS 2 (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627004
+#EXTINF:-1 tvg-name="PT: TWO BR PORTUGAL A RIR (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: TWO BR PORTUGAL A RIR (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627005
+#EXTINF:-1 tvg-name="PT: OS SIMPSONS (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: OS SIMPSONS (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627006
+#EXTINF:-1 tvg-name="PT: RICK AND MORTY (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: RICK AND MORTY (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627007
+#EXTINF:-1 tvg-name="PT: DRAGON BALL SUPER (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: DRAGON BALL SUPER (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627008
+#EXTINF:-1 tvg-name="PT: FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627009
+#EXTINF:-1 tvg-name="PT: VINGADORES ANIMAÇÃO (exclusive)" group-title="✅ TWO BR PORTUGAL",PT: VINGADORES ANIMAÇÃO (exclusive)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627010
+#EXTINF:-1 tvg-name="PT: FICTION MOVIES (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: FICTION MOVIES (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627011
+#EXTINF:-1 tvg-name="PT: ROBOT MOVIES (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: ROBOT MOVIES (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627012
+#EXTINF:-1 tvg-name="PT: TOMORROWLAND MUSIC (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: TOMORROWLAND MUSIC (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627013
+#EXTINF:-1 tvg-name="PT: SLAM (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: SLAM (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627014
+#EXTINF:-1 tvg-name="PT: BOOM (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: BOOM (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627015
+#EXTINF:-1 tvg-name="PT: TWO BR PORTUGAL TAL E QUAL (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: TWO BR PORTUGAL TAL E QUAL (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627016
+#EXTINF:-1 tvg-name="PT: DISNEY + (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: DISNEY + (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627017
+#EXTINF:-1 tvg-name="PT: BACALHAU COM TODOS (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: BACALHAU COM TODOS (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627018
+#EXTINF:-1 tvg-name="PT: TALKING TOM CAT AND FRIENDS (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: TALKING TOM CAT AND FRIENDS (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627019
+#EXTINF:-1 tvg-name="PT: NETFLIX KIDS (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: NETFLIX KIDS (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627020
+#EXTINF:-1 tvg-name="PT: SERTANEJO (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: SERTANEJO (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627021
+#EXTINF:-1 tvg-name="PT: MAGIC FOR HUMANS (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: MAGIC FOR HUMANS (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627022
+#EXTINF:-1 tvg-name="PT: CINEMA TWO BR PORTUGAL ( EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: CINEMA TWO BR PORTUGAL ( EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627023
+#EXTINF:-1 tvg-name="PT: INSIDE FORMULA 1 (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: INSIDE FORMULA 1 (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627024
+#EXTINF:-1 tvg-name="PT: GATO FEDORENTO (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: GATO FEDORENTO (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627025
+#EXTINF:-1 tvg-name="PT: OS BATANETES (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: OS BATANETES (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627026
+#EXTINF:-1 tvg-name="PT: TOURADAS E MARRADAS (EXCLUSIVE)" group-title="✅ TWO BR PORTUGAL",PT: TOURADAS E MARRADAS (EXCLUSIVE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627027
+#EXTINF:-1 tvg-name="PT: RTP 1 [low]" group-title="✅ TWO BR PORTUGAL",PT: RTP 1 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627028
+#EXTINF:-1 tvg-name="PT: RTP 2 [low]" group-title="✅ TWO BR PORTUGAL",PT: RTP 2 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627029
+#EXTINF:-1 tvg-name="PT: SIC [low]" group-title="✅ TWO BR PORTUGAL",PT: SIC [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627030
+#EXTINF:-1 tvg-name="PT: TVI [low]" group-title="✅ TWO BR PORTUGAL",PT: TVI [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627031
+#EXTINF:-1 tvg-name="PT: SIC Noticias [low]" group-title="✅ TWO BR PORTUGAL",PT: SIC Noticias [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627032
+#EXTINF:-1 tvg-name="PT: CMTV [low]" group-title="✅ TWO BR PORTUGAL",PT: CMTV [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627033
+#EXTINF:-1 tvg-name="PT: CNN PT [low]" group-title="✅ TWO BR PORTUGAL",PT: CNN PT [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627034
+#EXTINF:-1 tvg-name="PT: Globo [low]" group-title="✅ TWO BR PORTUGAL",PT: Globo [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627035
+#EXTINF:-1 tvg-name="PT: SIC Mulher [low]" group-title="✅ TWO BR PORTUGAL",PT: SIC Mulher [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627036
+#EXTINF:-1 tvg-name="PT: SIC Radical  [low]" group-title="✅ TWO BR PORTUGAL",PT: SIC Radical  [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627037
+#EXTINF:-1 tvg-name="PT: TVI Ficcao [low]" group-title="✅ TWO BR PORTUGAL",PT: TVI Ficcao [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627038
+#EXTINF:-1 tvg-name="PT: Canal 11 [low]" group-title="✅ TWO BR PORTUGAL",PT: Canal 11 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627039
+#EXTINF:-1 tvg-name="PT: BTV [low]" group-title="✅ TWO BR PORTUGAL",PT: BTV [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627040
+#EXTINF:-1 tvg-name="PT: Sport TV+ [low]" group-title="✅ TWO BR PORTUGAL",PT: Sport TV+ [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627041
+#EXTINF:-1 tvg-name="PT: Sport TV 1 [low]" group-title="✅ TWO BR PORTUGAL",PT: Sport TV 1 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627042
+#EXTINF:-1 tvg-name="PT: Sport TV 2 [low]" group-title="✅ TWO BR PORTUGAL",PT: Sport TV 2 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627043
+#EXTINF:-1 tvg-name="PT: Sport TV 3 [low]" group-title="✅ TWO BR PORTUGAL",PT: Sport TV 3 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627044
+#EXTINF:-1 tvg-name="PT: Sport TV 4 [low]" group-title="✅ TWO BR PORTUGAL",PT: Sport TV 4 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627045
+#EXTINF:-1 tvg-name="PT: Eleven Sports 1 [low]" group-title="✅ TWO BR PORTUGAL",PT: Eleven Sports 1 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627046
+#EXTINF:-1 tvg-name="PT: Eleven Sports 2 [low]" group-title="✅ TWO BR PORTUGAL",PT: Eleven Sports 2 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627047
+#EXTINF:-1 tvg-name="PT: Eleven Sports 3 [low]" group-title="✅ TWO BR PORTUGAL",PT: Eleven Sports 3 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627048
+#EXTINF:-1 tvg-name="PT: Eleven Sports 4 [low]" group-title="✅ TWO BR PORTUGAL",PT: Eleven Sports 4 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627049
+#EXTINF:-1 tvg-name="PT: Eleven Sports 5 [low]" group-title="✅ TWO BR PORTUGAL",PT: Eleven Sports 5 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627050
+#EXTINF:-1 tvg-name="PT: TVCine Top [low]" group-title="✅ TWO BR PORTUGAL",PT: TVCine Top [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627051
+#EXTINF:-1 tvg-name="PT: TVCine Edition [low]" group-title="✅ TWO BR PORTUGAL",PT: TVCine Edition [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627052
+#EXTINF:-1 tvg-name="PT: TVCine Emotion [low]" group-title="✅ TWO BR PORTUGAL",PT: TVCine Emotion [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627053
+#EXTINF:-1 tvg-name="PT: TVCine Action [low]" group-title="✅ TWO BR PORTUGAL",PT: TVCine Action [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627054
+#EXTINF:-1 tvg-name="PT: Hollywood [low]" group-title="✅ TWO BR PORTUGAL",PT: Hollywood [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627055
+#EXTINF:-1 tvg-name="PT: AXN [low]" group-title="✅ TWO BR PORTUGAL",PT: AXN [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627056
+#EXTINF:-1 tvg-name="PT: AXN White [low]" group-title="✅ TWO BR PORTUGAL",PT: AXN White [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627057
+#EXTINF:-1 tvg-name="PT: AXN MOVIES [low]" group-title="✅ TWO BR PORTUGAL",PT: AXN MOVIES [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627058
+#EXTINF:-1 tvg-name="PT: Cinemundo [low]" group-title="✅ TWO BR PORTUGAL",PT: Cinemundo [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627059
+#EXTINF:-1 tvg-name="PT: Fox Movies [low]" group-title="✅ TWO BR PORTUGAL",PT: Fox Movies [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627060
+#EXTINF:-1 tvg-name="PT: Fox Life [low]" group-title="✅ TWO BR PORTUGAL",PT: Fox Life [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627061
+#EXTINF:-1 tvg-name="PT: Fox Crime [low]" group-title="✅ TWO BR PORTUGAL",PT: Fox Crime [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627062
+#EXTINF:-1 tvg-name="PT: Fox [low]" group-title="✅ TWO BR PORTUGAL",PT: Fox [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627063
+#EXTINF:-1 tvg-name="PT: A BOLA TV [low]" group-title="✅ TWO BR PORTUGAL",PT: A BOLA TV [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627064
+#EXTINF:-1 tvg-name="PT: EUROSPORT 1 [low]" group-title="✅ TWO BR PORTUGAL",PT: EUROSPORT 1 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627065
+#EXTINF:-1 tvg-name="PT: TWO BR GLOBO NOW [low]" group-title="✅ TWO BR PORTUGAL",PT: TWO BR GLOBO NOW [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627066
+#EXTINF:-1 tvg-name="PT: HISTORIA [low]" group-title="✅ TWO BR PORTUGAL",PT: HISTORIA [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627067
+#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC [low]" group-title="✅ TWO BR PORTUGAL",PT: NATIONAL GEOGRAPHIC [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627068
+#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC WILD [low]" group-title="✅ TWO BR PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627069
+#EXTINF:-1 tvg-name="PT: PFC [low]" group-title="✅ TWO BR PORTUGAL",PT: PFC [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627070
+#EXTINF:-1 tvg-name="PT: PORTO CANAL [low]" group-title="✅ TWO BR PORTUGAL",PT: PORTO CANAL [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627071
+#EXTINF:-1 tvg-name="PT: SPORT TV NBA [low]" group-title="✅ TWO BR PORTUGAL",PT: SPORT TV NBA [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627072
+#EXTINF:-1 tvg-name="PT: SYFY [low]" group-title="✅ TWO BR PORTUGAL",PT: SYFY [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627073
+#EXTINF:-1 tvg-name="PT: THE FOOD NETWORK [low]" group-title="✅ TWO BR PORTUGAL",PT: THE FOOD NETWORK [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627074
+#EXTINF:-1 tvg-name="PT: TV RECORD [low]" group-title="✅ TWO BR PORTUGAL",PT: TV RECORD [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627075
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6 [low]" group-title="✅ TWO BR PORTUGAL",PT: ELEVEN SPORTS 6 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627076
+#EXTINF:-1 tvg-name="PT: AMC [low]" group-title="✅ TWO BR PORTUGAL",PT: AMC [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627077
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL [low]" group-title="✅ TWO BR PORTUGAL",PT: DISCOVERY CHANNEL [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627078
+#EXTINF:-1 tvg-name="PT: FOX COMEDY [low]" group-title="✅ TWO BR PORTUGAL",PT: FOX COMEDY [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627079
+#EXTINF:-1 tvg-name="PT: MTV [low]" group-title="✅ TWO BR PORTUGAL",PT: MTV [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627080
+#EXTINF:-1 tvg-name="PT: TLC [low]" group-title="✅ TWO BR PORTUGAL",PT: TLC [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627081
+#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL [low]" group-title="✅ TWO BR PORTUGAL",PT: DISNEY CHANNEL [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627082
+#EXTINF:-1 tvg-name="PT: JIM JAM [low]" group-title="✅ TWO BR PORTUGAL",PT: JIM JAM [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627083
+#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR [low]" group-title="✅ TWO BR PORTUGAL",PT: DISNEY JUNIOR [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627084
+#EXTINF:-1 tvg-name="PT: RTP 3 [low]" group-title="✅ TWO BR PORTUGAL",PT: RTP 3 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627085
+#EXTINF:-1 tvg-name="PT: BABY TV [low]" group-title="✅ TWO BR PORTUGAL",PT: BABY TV [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627086
+#EXTINF:-1 tvg-name="PT: CARTOON NETWORK [low]" group-title="✅ TWO BR PORTUGAL",PT: CARTOON NETWORK [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627087
+#EXTINF:-1 tvg-name="PT: NICKELODEON [low]" group-title="✅ TWO BR PORTUGAL",PT: NICKELODEON [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627088
+#EXTINF:-1 tvg-name="PT: PANDA [low]" group-title="✅ TWO BR PORTUGAL",PT: PANDA [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627089
+#EXTINF:-1 tvg-name="PT: RTP AFRICA [low]" group-title="✅ TWO BR PORTUGAL",PT: RTP AFRICA [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627090
+#EXTINF:-1 tvg-name="PT: RTP MEMORIA [low]" group-title="✅ TWO BR PORTUGAL",PT: RTP MEMORIA [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627091
+#EXTINF:-1 tvg-name="PT: SIC CARAS [low]" group-title="✅ TWO BR PORTUGAL",PT: SIC CARAS [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627092
+#EXTINF:-1 tvg-name="PT: SIC K [low]" group-title="✅ TWO BR PORTUGAL",PT: SIC K [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627093
+#EXTINF:-1 tvg-name="PT: BIGGS [low]" group-title="✅ TWO BR PORTUGAL",PT: BIGGS [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627094
+#EXTINF:-1 tvg-name="PT: TVI REALITY [low]" group-title="✅ TWO BR PORTUGAL",PT: TVI REALITY [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/627095
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="https://i.imgur.com/7hVER1C.png" group-title="✅ 24 HORAS",CAVALO DE FOGO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/1620
 #EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO¹" tvg-logo="https://i.imgur.com/7hVER1C.png" group-title="✅ 24 HORAS",CHAPOLIN COLORADO¹
