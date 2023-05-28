@@ -2,19 +2,20 @@
 #EXTINF:-1,ANIME TV LEGENDADO
 https://alanza.iptv2022.com/ANIME_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,RETRO CARTOON
+#EXTINF:-1 tvg-name="24HS RETRO CARTOON" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
 
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1 tvg-name="24HS CARTOON NETWORK" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-480p.m3u8
 
-#EXTINF:-1,JETSONS
+#EXTINF:-1 tvg-name="24HS JETSONS" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:-1,JETSONS
+
+#EXTINF:-1 tvg-name="24HS JETSONS" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS JETSONS
 https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,GOSPEL CARTOON 
+#EXTINF:-1 tvg-name="24HS GOSPEL CARTOON" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 
@@ -48,7 +49,7 @@ http://milka99.xyz:80/145676207643/813299509658/73405
 http://milka99.xyz:80/145676207643/813299509658/65049
 #EXTINF:-1 tvg-name="24HS BoJack Horseman³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS BoJack Horseman³
 http://milka99.xyz:80/145676207643/813299509658/73411
-#EXTINF:-1 tvg-name="24HS Boku no Hero Academia³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Boku no Hero Academia³
+#EXTINF:-1 tvg-name="24HS Boku no Hero Academia³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="ANIMES| TWO BR  CANAIS 24 HORAS",24HS Boku no Hero Academia³
 http://milka99.xyz:80/145676207643/813299509658/73409
 #EXTINF:-1 tvg-name="24HS Capitão Caverna e as Panterinhas" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Capitão Caverna e as Panterinhas
 http://milka99.xyz:80/145676207643/813299509658/62877
@@ -64,7 +65,7 @@ http://milka99.xyz:80/145676207643/813299509658/62873
 http://milka99.xyz:80/145676207643/813299509658/73412
 #EXTINF:-1 tvg-name="24HS Coragem, o Cão Covarde" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS", o Cão Covarde
 http://milka99.xyz:80/145676207643/813299509658/72590
-#EXTINF:-1 tvg-name="24HS Corrida Maluca" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Corrida Maluca
+#EXTINF:-1 tvg-name="24HS Corrida Maluca" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS Corrida Maluca
 http://milka99.xyz:80/145676207643/813299509658/85713
 #EXTINF:-1 tvg-name="24HS Deby Loid" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Deby Loid
 http://milka99.xyz:80/145676207643/813299509658/72591
@@ -80,7 +81,7 @@ http://milka99.xyz:80/145676207643/813299509658/90272
 http://milka99.xyz:80/145676207643/813299509658/90271
 #EXTINF:-1 tvg-name="24HS DPA - Detetives do Predio Azul³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS DPA - Detetives do Predio Azul³
 http://milka99.xyz:80/145676207643/813299509658/73414
-#EXTINF:-1 tvg-name="24HS Dragon Ball Z³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Dragon Ball Z³
+#EXTINF:-1 tvg-name="24HS Dragon Ball Z³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="ANIMES | TWO BR  CANAIS 24 HORAS",24HS Dragon Ball Z³
 http://milka99.xyz:80/145676207643/813299509658/73415
 #EXTINF:-1 tvg-name="24HS Drake e Josh" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Drake e Josh
 http://milka99.xyz:80/145676207643/813299509658/87732
@@ -92,7 +93,7 @@ http://milka99.xyz:80/145676207643/813299509658/62869
 http://milka99.xyz:80/145676207643/813299509658/72711
 #EXTINF:-1 tvg-name="24HS Friends" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Friends
 http://milka99.xyz:80/145676207643/813299509658/73548
-#EXTINF:-1 tvg-name="24HS Futurama³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Futurama³
+#EXTINF:-1 tvg-name="24HS Futurama³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS Futurama³
 http://milka99.xyz:80/145676207643/813299509658/73413
 #EXTINF:-1 tvg-name="24HS Galinha Pintadinha" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Galinha Pintadinha
 http://milka99.xyz:80/145676207643/813299509658/62868
@@ -108,7 +109,7 @@ http://milka99.xyz:80/145676207643/813299509658/89856
 http://milka99.xyz:80/145676207643/813299509658/87496
 #EXTINF:-1 tvg-name="24HS Jiraya" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Jiraya
 http://milka99.xyz:80/145676207643/813299509658/72710
-#EXTINF:-1 tvg-name="24HS Johnny Bravo" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Johnny Bravo
+#EXTINF:-1 tvg-name="24HS Johnny Bravo" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS Johnny Bravo
 http://milka99.xyz:80/145676207643/813299509658/87466
 #EXTINF:-1 tvg-name="24HS Kenan & Kel" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Kenan & Kel
 http://milka99.xyz:80/145676207643/813299509658/87499
@@ -120,11 +121,11 @@ http://milka99.xyz:80/145676207643/813299509658/89948
 http://milka99.xyz:80/145676207643/813299509658/70957
 #EXTINF:-1 tvg-name="24HS Mr. Bean" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Mr. Bean
 http://milka99.xyz:80/145676207643/813299509658/62866
-#EXTINF:-1 tvg-name="24HS Naruto Clássico 1" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Naruto Clássico 1
+#EXTINF:-1 tvg-name="24HS Naruto Clássico 1" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="ANIMES | TWO BR  CANAIS 24 HORAS",24HS Naruto Clássico 1
 http://milka99.xyz:80/145676207643/813299509658/62865
-#EXTINF:-1 tvg-name="24HS Naruto Clássico 2" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Naruto Clássico 2
+#EXTINF:-1 tvg-name="24HS Naruto Clássico 2" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="ANIMESANIMES | TWO BR  CANAIS 24 HORAS",24HS Naruto Clássico 2
 http://milka99.xyz:80/145676207643/813299509658/70578
-#EXTINF:-1 tvg-name="24HS Naruto Uzumaki³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Naruto Uzumaki³
+#EXTINF:-1 tvg-name="24HS Naruto Uzumaki³" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="ANIMESANIMESANIMES | TWO BR  CANAIS 24 HORAS",24HS Naruto Uzumaki³
 http://milka99.xyz:80/145676207643/813299509658/73422
 #EXTINF:-1 tvg-name="24HS O Laboratório de Dexter" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS O Laboratório de Dexter
 http://milka99.xyz:80/145676207643/813299509658/71084
@@ -134,13 +135,13 @@ http://milka99.xyz:80/145676207643/813299509658/90062
 http://milka99.xyz:80/145676207643/813299509658/62864
 #EXTINF:-1 tvg-name="24HS Os Cavaleiros do Zodíaco: The Lost Canvas" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Os Cavaleiros do Zodíaco: The Lost Canvas
 http://milka99.xyz:80/145676207643/813299509658/90089
-#EXTINF:-1 tvg-name="24HS Os Jetsons" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Os Jetsons
+#EXTINF:-1 tvg-name="24HS Os Jetsons" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS Os Jetsons
 http://milka99.xyz:80/145676207643/813299509658/62867
 #EXTINF:-1 tvg-name="24HS Papa-Léguas" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Papa-Léguas
 http://milka99.xyz:80/145676207643/813299509658/89029
 #EXTINF:-1 tvg-name="24HS Patrulha Canina" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Patrulha Canina
 http://milka99.xyz:80/145676207643/813299509658/89026
-#EXTINF:-1 tvg-name="24HS Pepe Legal" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Pepe Legal
+#EXTINF:-1 tvg-name="24HS Pepe Legal" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS Pepe Legal
 http://milka99.xyz:80/145676207643/813299509658/87497
 #EXTINF:-1 tvg-name="24HS Peppa Pig" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Peppa Pig
 http://milka99.xyz:80/145676207643/813299509658/62863
@@ -166,7 +167,7 @@ http://milka99.xyz:80/145676207643/813299509658/19491
 http://milka99.xyz:80/145676207643/813299509658/90061
 #EXTINF:-1 tvg-name="24HS Shark Tank Brasil" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Shark Tank Brasil
 http://milka99.xyz:80/145676207643/813299509658/62859
-#EXTINF:-1 tvg-name="24HS SilverHawks" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS SilverHawks
+#EXTINF:-1 tvg-name="24HS SilverHawks" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="CARTOON | TWO BR  CANAIS 24 HORAS",24HS SilverHawks
 http://milka99.xyz:80/145676207643/813299509658/88640
 #EXTINF:-1 tvg-name="24HS Simpson 1" tvg-logo="https://cdn-icons-png.flaticon.com/512/682/682027.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Simpson 1
 http://milka99.xyz:80/145676207643/813299509658/87544
@@ -208,5 +209,5 @@ http://milka99.xyz:80/145676207643/813299509658/62854
 http://milka99.xyz:80/145676207643/813299509658/62853
 #EXTINF:-1 tvg-name="24HS X-Men: The Animated Series (1992)" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS X-Men: The Animated Series (1992)
 http://milka99.xyz:80/145676207643/813299509658/70955
-#EXTINF:-1 tvg-name="24HS Yu Yu Hakusho" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="TV | TWO BR  CANAIS 24 HORAS",24HS Yu Yu Hakusho
+#EXTINF:-1 tvg-name="24HS Yu Yu Hakusho" tvg-logo="http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png" group-title="ANIMES | TWO BR  CANAIS 24 HORAS",24HS Yu Yu Hakusho
 http://milka99.xyz:80/145676207643/813299509658/90090
