@@ -1274,480 +1274,320 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629569
 
 
-
-
-
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="AMAZONICA PORTO VELHO SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",AMAZONICA PORTO VELHO SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629277
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA ANAPOLIS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA ANAPOLIS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629118
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA ARAGUAINA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA ARAGUAINA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629839
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA CATALAO FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA CATALAO FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629119
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA CATALAO HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA CATALAO HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629120
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA GOIANIA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA GOIANIA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629243
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA GOIANIA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA GOIANIA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629244
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA GOIANIA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA GOIANIA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629245
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA GURUPI HD 3" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA GURUPI HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629840
-#EXTINF:-1 tvg-name="ANHANGUERA ITUMBIARA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA ITUMBIARA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629121
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA ITUMBIARA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA ITUMBIARA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629122
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA JATAI HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA JATAI HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629841
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA LUZIANIA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA LUZIANIA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629842
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA PORANGATU HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA PORANGATU HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629843
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ASA BRANCA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ASA BRANCA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629246
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ASA BRANCA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ASA BRANCA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629247
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BAHIA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BAHIA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629123
-#EXTINF:-1 tvg-name="BAHIA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BAHIA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629124
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BAHIA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BAHIA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629125
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BELEM FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BELEM FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629126
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BELEM HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BELEM HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629127
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BELEM SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BELEM SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629128
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BOA VISTA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BOA VISTA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629129
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BOA VISTA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BOA VISTA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629130
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BOA VISTA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BOA VISTA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629131
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BRASILIA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BRASILIA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629132
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BRASILIA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BRASILIA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629133
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BRASILIA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BRASILIA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629134
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="BRASILIA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",BRASILIA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629135
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CABO BRANCO FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CABO BRANCO FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629248
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CABO BRANCO HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CABO BRANCO HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629249
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CENTRO AMERICA CUIABA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CENTRO AMERICA CUIABA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629252
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CENTRO AMERICA CUIABA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CENTRO AMERICA CUIABA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629250
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CENTRO AMERICA CUIABA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CENTRO AMERICA CUIABA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629251
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CENTRO AMERICA NORTE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CENTRO AMERICA NORTE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629845
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CENTRO AMERICA SUL HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CENTRO AMERICA SUL HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629844
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CENTRO AMERICA TANGARA DA SERRA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CENTRO AMERICA TANGARA DA SERRA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629846
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CLUBE TERESINA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CLUBE TERESINA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629253
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CLUBE TERESINA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CLUBE TERESINA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629254
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="CLUBE TERESINA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",CLUBE TERESINA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629255
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="DIARIO FORTALEZA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",DIARIO FORTALEZA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629256
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="DIARIO FORTALEZA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",DIARIO FORTALEZA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629257
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="FLORIANOPOLIS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",FLORIANOPOLIS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629145
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="FLORIANOPOLIS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",FLORIANOPOLIS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629146
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="FLORIANOPOLIS SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",FLORIANOPOLIS SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629147
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA DE ALAGOAS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA DE ALAGOAS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629258
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA DE ALAGOAS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA DE ALAGOAS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629259
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA DE ALAGOAS SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA DE ALAGOAS SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629260
-#EXTINF:-1 tvg-name="GAZETA ES HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA ES HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629818
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA NOROESTE (ES) HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA NOROESTE (ES) HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629819
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA NORTE ES HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA NORTE ES HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629820
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA SUL ES FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA SUL ES FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629261
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA SUL ES HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA SUL ES HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629262
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA VITORIA  ES HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA VITORIA  ES HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629148
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA VITORIA  ES SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA VITORIA  ES SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629149
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GAZETA VITORIA ES FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GAZETA VITORIA ES FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629150
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo 4K" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",Globo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629116
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO AMAZONAS FHD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO AMAZONAS FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317314
-#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="GLOBO AMAZONAS HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO AMAZONAS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317316
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO AMAZONAS SD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO AMAZONAS SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317318
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO ANHANGUERA GOIANIA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO ANHANGUERA GOIANIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316748
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO ANHANGUERA GOIANIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316749
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO ANHANGUERA GOIANIA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO ANHANGUERA GOIANIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316750
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316729
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO BELO HORIZONTE HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO BELO HORIZONTE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317219
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO BRASILIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316733
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316735
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316737
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO CABO BRANCO FHD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO CABO BRANCO FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317329
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO CABO BRANCO HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO CABO BRANCO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317330
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO CABO BRANCO SD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO CABO BRANCO SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317331
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO CENTRO AMERICA CUIABA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO CENTRO AMERICA CUIABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316752
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO ESPIRITO SANTO FHD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO ESPIRITO SANTO FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317218
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO ESPIRITO SANTO HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO ESPIRITO SANTO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317220
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO ESPIRITO SANTO SD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO ESPIRITO SANTO SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317217
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO GAZETA ALAGOAS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO GAZETA ALAGOAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316759
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO GAZETA ALAGOAS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO GAZETA ALAGOAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316760
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO GAZETA ALAGOAS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO GAZETA ALAGOAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316761
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO INTER TV DOS VALES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316764
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO INTER TV DOS VALES SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO INTER TV DOS VALES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316765
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO LIBERAL BELEM FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO LIBERAL BELEM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316769
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO LIBERAL BELEM HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316770
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316771
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MANAUS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MANAUS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316739
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MANAUS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MANAUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316740
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MANAUS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MANAUS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316741
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316742
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO MINAS H265²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MINAS H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317944
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316744
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316746
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MIRANTE FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MIRANTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316772
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MIRANTE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MIRANTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316773
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MORENA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MORENA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316774
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MORENA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MORENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316775
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MORENA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO MORENA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316776
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO NORDESTE H265²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO NORDESTE H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317943
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316778
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316779
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO NSC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316727
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO NSC FLORIANOPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316767
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO NSC FLORIANOPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316768
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC TV HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO NSC TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316800
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE H265²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317942
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE FHD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316789
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316790
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE SD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316792
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO RECIFE HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RECIFE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317221
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO Rio H265²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO Rio H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317952
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RIO SUL HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RIO SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316794
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316721
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316723
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316725
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RPC TV FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RPC TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316795
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RPC TV HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RPC TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316796
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RPC TV HD⁴" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO RPC TV HD⁴
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316805
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO SANTA CATARINA HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SANTA CATARINA HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317215
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO SANTA CATARINA SD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SANTA CATARINA SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317216
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SANTA CRUZ BAHIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SANTA CRUZ BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316784
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SANTA CRUZ BAHIA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SANTA CRUZ BAHIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316785
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO SERGIPE FHD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SERGIPE FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317222
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO SERGIPE SD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SERGIPE SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317224
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316716
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO SP H265²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SP H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317951
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316718
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SP HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629241
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316720
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO SP SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629242
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV CABUGI FHD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO TV CABUGI FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317326
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV CABUGI HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO TV CABUGI HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317327
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV DIÁRIO HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO TV DIÁRIO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317332
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV TEM ITAPETININGA FHD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO TV TEM ITAPETININGA FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317323
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV TEM ITAPETININGA HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO TV TEM ITAPETININGA HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317324
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV TEM ITAPETININGA SD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO TV TEM ITAPETININGA SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/317325
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO VERDES MARES FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO VERDES MARES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316786
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO VERDES MARES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316787
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO VERDES MARES SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",GLOBO VERDES MARES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/316788
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTEGRACAO ARAXA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTEGRACAO ARAXA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629263
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTEGRACAO ARAXA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTEGRACAO ARAXA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629264
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTEGRAÇÃO DIVINÓPOLIS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTEGRAÇÃO DIVINÓPOLIS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629151
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTEGRAÇÃO DIVINÓPOLIS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTEGRAÇÃO DIVINÓPOLIS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629152
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTEGRAÇÃO MG FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTEGRAÇÃO MG FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629153
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTEGRAÇÃO MG HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTEGRAÇÃO MG HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629154
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV ALTO LITORAL HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV ALTO LITORAL HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629155
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV ALTO LITORAL SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV ALTO LITORAL SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629156
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV CABUGI FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV CABUGI FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629157
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV CABUGI HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV CABUGI HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629158
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV CABUGI SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV CABUGI SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629159
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV DOS VALES HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV DOS VALES HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629160
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV GRANDE MINAS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV GRANDE MINAS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629161
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV SERRA MAR FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV SERRA MAR FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629162
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV SERRA MAR HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER TV SERRA MAR HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629163
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER VALE MG FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER VALE MG FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629164
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER VALE MG HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTER VALE MG HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629165
-#EXTINF:-1 tvg-name="INTERTV COSTA BRANCA HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTERTV COSTA BRANCA HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629821
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTERTV PLANICIE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",INTERTV PLANICIE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629822
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="JOAÇABA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",JOAÇABA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629166
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="JOAÇABA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",JOAÇABA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629167
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="JUAZEIRO BAHIA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",JUAZEIRO BAHIA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629168
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="JUAZEIRO BAHIA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",JUAZEIRO BAHIA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629169
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="JUIZ DE FORA MG FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",JUIZ DE FORA MG FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629170
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="JUIZ DE FORA MG HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",JUIZ DE FORA MG HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629171
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="JUIZ DE FORA MG SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",JUIZ DE FORA MG SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629172
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MARANHÃO HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MARANHÃO HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629173
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MINAS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MINAS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629174
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MINAS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MINAS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629175
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MINAS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MINAS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629176
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MINAS SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MINAS SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629177
-#EXTINF:-1 tvg-id="tv.mirante.santa.ines.br" tvg-name="MIRANTE BALSAS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE BALSAS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629849
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MIRANTE COCAIS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE COCAIS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629265
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MIRANTE COCAIS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE COCAIS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629266
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MIRANTE COCAIS SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE COCAIS SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629267
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="MIRANTE IMPERATRIZ HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE IMPERATRIZ HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629850
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MIRANTE SAO LUIS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE SAO LUIS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629268
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MIRANTE SAO LUIS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE SAO LUIS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629269
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MIRANTE SAO LUIS SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MIRANTE SAO LUIS SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629270
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MONTES CLAROS MG FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MONTES CLAROS MG FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629180
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MONTES CLAROS MG HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MONTES CLAROS MG HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629181
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MORENA CAMPO GRANDE FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MORENA CAMPO GRANDE FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629271
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="MORENA CAMPO GRANDE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MORENA CAMPO GRANDE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629272
-#EXTINF:-1 tvg-id="tv.morena.corumba.br" tvg-name="MORENA CORUMBA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",MORENA CORUMBA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629851
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="NORDESTE FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",NORDESTE FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629186
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="NORDESTE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",NORDESTE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629187
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="NORDESTE SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",NORDESTE SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629188
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="NSC SANTA CATARINA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",NSC SANTA CATARINA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629189
-#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="OESTE BAHIA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",OESTE BAHIA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629852
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="PARAIBA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",PARAIBA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629199
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="PRESIDENTE PRUDENTE SP FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",PRESIDENTE PRUDENTE SP FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629200
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="PRESIDENTE PRUDENTE SP HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",PRESIDENTE PRUDENTE SP HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629201
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629202
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629203
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629204
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RBS PORTO ALEGRE SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RBS PORTO ALEGRE SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629205
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RECIFE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RECIFE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629217
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RECIFE SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RECIFE SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629218
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA ARIQUEMES HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA ARIQUEMES HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629830
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA CACOAL HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA CACOAL HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629831
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA CRUZEIRO DO SUL HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA CRUZEIRO DO SUL HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629832
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA GUAJARA MIRIM HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA GUAJARA MIRIM HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629833
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA ITACOATIARA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA ITACOATIARA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629834
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA JI PARANA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA JI PARANA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629835
-#EXTINF:-1 tvg-name="REDE AMAZONICA MACAPA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA MACAPA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629836
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA MANAUS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA MANAUS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629273
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA MANAUS SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA MANAUS SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629274
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA PORTO VELHO FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA PORTO VELHO FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629275
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="REDE AMAZONICA PORTO VELHO HD 3" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",REDE AMAZONICA PORTO VELHO HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629276
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RIO SUL HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RIO SUL HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629278
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RIO SUL SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RIO SUL SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629279
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="RJ FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RJ FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629219
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="RJ FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RJ FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629220
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="RJ HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RJ HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629221
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="RJ SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RJ SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629222
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RPC CURITIBA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RPC CURITIBA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629226
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RPC CURITIBA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RPC CURITIBA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629227
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RPC CURITIBA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RPC CURITIBA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629228
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RPC GUARAPUAVA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",RPC GUARAPUAVA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629837
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="SERGIPE FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",SERGIPE FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629235
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="SERGIPE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",SERGIPE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629236
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="SP FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",SP FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629239
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="SP FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",SP FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629240
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="SUBAE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",SUBAE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629282
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="SUBAE SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",SUBAE SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629283
-#EXTINF:-1 tvg-id="tv.sudoeste.br" tvg-name="SUDOESTE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",SUDOESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629853
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TEM ITAPE FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",TEM ITAPE FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629287
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TEM ITAPE HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",TEM ITAPE HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629288
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="UBERABA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",UBERABA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629302
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="UBERABA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",UBERABA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629303
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="VANGUARDA S J CAMPOS FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VANGUARDA S J CAMPOS FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629295
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="VANGUARDA S J CAMPOS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VANGUARDA S J CAMPOS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629296
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="VANGUARDA S J CAMPOS SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VANGUARDA S J CAMPOS SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629297
-#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VERDES MARES CARIRI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629857
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="VERDES MARES FORTALEZA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VERDES MARES FORTALEZA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629298
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="VERDES MARES FORTALEZA FHD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VERDES MARES FORTALEZA FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629299
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="VERDES MARES FORTALEZA HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VERDES MARES FORTALEZA HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629300
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="VERDES MARES FORTALEZA SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",VERDES MARES FORTALEZA SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/528186/844789/629301
-
-
-
+#EXTINF:-1 tvg-id="globo.br" tvg-name="AMAZONICA PORTO VELHO SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",AMAZONICA PORTO VELHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629277.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ANHANGUERA ANAPOLIS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA ANAPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629118.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="ANHANGUERA ARAGUAINA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA ARAGUAINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629839.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ANHANGUERA CATALAO FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA CATALAO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629119.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ANHANGUERA CATALAO HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA CATALAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629120.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="ANHANGUERA GOIANIA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA GOIANIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629243.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="ANHANGUERA GOIANIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA GOIANIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629244.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="ANHANGUERA GOIANIA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA GOIANIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629245.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="ANHANGUERA GURUPI HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA GURUPI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANHANGUERA ITUMBIARA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA ITUMBIARA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629121.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ANHANGUERA ITUMBIARA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA ITUMBIARA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629122.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="ANHANGUERA JATAI HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA JATAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629841.m3u8
+#EXTINF:-1 tvg-id="tv.anhanguera.luziania.br" tvg-name="ANHANGUERA LUZIANIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA LUZIANIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629842.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="ANHANGUERA PORANGATU HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ANHANGUERA PORANGATU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629843.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="ASA BRANCA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ASA BRANCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629246.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="ASA BRANCA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",ASA BRANCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629247.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BAHIA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAHIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629124.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BAHIA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629125.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BELEM FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BELEM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629126.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BELEM HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629127.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BELEM SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629128.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BOA VISTA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BOA VISTA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629129.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BOA VISTA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BOA VISTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629130.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BOA VISTA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BOA VISTA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629131.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BRASILIA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BRASILIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629132.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BRASILIA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BRASILIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629133.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BRASILIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629134.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BRASILIA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629135.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CABO BRANCO FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CABO BRANCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629248.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CABO BRANCO HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CABO BRANCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629249.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CENTRO AMERICA CUIABA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CENTRO AMERICA CUIABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629252.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CENTRO AMERICA CUIABA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CENTRO AMERICA CUIABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629250.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CENTRO AMERICA CUIABA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CENTRO AMERICA CUIABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629251.m3u8
+#EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="CENTRO AMERICA NORTE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CENTRO AMERICA NORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629845.m3u8
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="CENTRO AMERICA SUL HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CENTRO AMERICA SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629844.m3u8
+#EXTINF:-1 tvg-id="tv.centro.america.tangara.da.serra.br" tvg-name="CENTRO AMERICA TANGARA DA SERRA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CENTRO AMERICA TANGARA DA SERRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629846.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CLUBE TERESINA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CLUBE TERESINA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629253.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CLUBE TERESINA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CLUBE TERESINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629254.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="CLUBE TERESINA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",CLUBE TERESINA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629255.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="DIARIO FORTALEZA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",DIARIO FORTALEZA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629256.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="DIARIO FORTALEZA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",DIARIO FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629257.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FLORIANOPOLIS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",FLORIANOPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629145.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629146.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FLORIANOPOLIS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629147.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA DE ALAGOAS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA DE ALAGOAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629258.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA DE ALAGOAS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA DE ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629259.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA DE ALAGOAS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA DE ALAGOAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629260.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA ES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629818.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA NOROESTE (ES) HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA NOROESTE (ES) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629819.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA NORTE ES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA NORTE ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629820.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA SUL ES FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA SUL ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629261.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GAZETA SUL ES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA SUL ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629262.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GAZETA VITORIA  ES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA VITORIA  ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629148.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GAZETA VITORIA  ES SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA VITORIA  ES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629149.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GAZETA VITORIA ES FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GAZETA VITORIA ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629150.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo 4K" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",Globo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629116.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629241.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GLOBO SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629242.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTEGRACAO ARAXA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTEGRACAO ARAXA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629263.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTEGRACAO ARAXA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTEGRACAO ARAXA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629264.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTEGRAÇÃO DIVINÓPOLIS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTEGRAÇÃO DIVINÓPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629151.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTEGRAÇÃO DIVINÓPOLIS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTEGRAÇÃO DIVINÓPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629152.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTEGRAÇÃO MG FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTEGRAÇÃO MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629153.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTEGRAÇÃO MG HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTEGRAÇÃO MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629154.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV ALTO LITORAL HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV ALTO LITORAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629155.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV ALTO LITORAL SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV ALTO LITORAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629156.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV CABUGI FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV CABUGI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629157.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV CABUGI HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629158.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV CABUGI SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV CABUGI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629159.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV DOS VALES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629160.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629161.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV SERRA MAR FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV SERRA MAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629162.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER TV SERRA MAR HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER TV SERRA MAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629163.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER VALE MG FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER VALE MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629164.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="INTER VALE MG HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTER VALE MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629165.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTERTV COSTA BRANCA HD²" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTERTV COSTA BRANCA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629821.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTERTV PLANICIE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",INTERTV PLANICIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629822.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="JOAÇABA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",JOAÇABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629166.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="JOAÇABA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",JOAÇABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629167.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="JUAZEIRO BAHIA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",JUAZEIRO BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629168.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="JUAZEIRO BAHIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",JUAZEIRO BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629169.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="JUIZ DE FORA MG FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",JUIZ DE FORA MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629170.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="JUIZ DE FORA MG HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",JUIZ DE FORA MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629171.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="JUIZ DE FORA MG SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",JUIZ DE FORA MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629172.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MARANHÃO HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MARANHÃO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629173.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MINAS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629174.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MINAS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629175.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MINAS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629176.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MINAS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629177.m3u8
+#EXTINF:-1 tvg-id="tv.mirante.santa.ines.br" tvg-name="GLOBO MIRANTE BALSAS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GLOBO MIRANTE BALSAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629849.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MIRANTE COCAIS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MIRANTE COCAIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629265.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MIRANTE COCAIS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MIRANTE COCAIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629266.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MIRANTE COCAIS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MIRANTE COCAIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629267.m3u8
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO MIRANTE IMPERATRIZ HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GLOBO MIRANTE IMPERATRIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629850.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MIRANTE SAO LUIS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MIRANTE SAO LUIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629268.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MIRANTE SAO LUIS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MIRANTE SAO LUIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629269.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MIRANTE SAO LUIS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MIRANTE SAO LUIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629270.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MONTES CLAROS MG FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MONTES CLAROS MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629180.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MONTES CLAROS MG HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MONTES CLAROS MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629181.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MORENA CAMPO GRANDE FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MORENA CAMPO GRANDE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629271.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="MORENA CAMPO GRANDE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",MORENA CAMPO GRANDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629272.m3u8
+#EXTINF:-1 tvg-id="tv.morena.corumba.br" tvg-name="GLOBO MORENA CORUMBA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GLOBO MORENA CORUMBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629851.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NORDESTE FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",NORDESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629186.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NORDESTE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629187.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NORDESTE SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",NORDESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629188.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NSC SANTA CATARINA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",NSC SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629189.m3u8
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO OESTE BAHIA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GLOBO OESTE BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629852.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PARAIBA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",PARAIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629199.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PRESIDENTE PRUDENTE SP FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",PRESIDENTE PRUDENTE SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629200.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PRESIDENTE PRUDENTE SP HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",PRESIDENTE PRUDENTE SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629201.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RBS PORTO ALEGRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629202.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RBS PORTO ALEGRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629203.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629204.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RBS PORTO ALEGRE SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RBS PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629205.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECIFE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RECIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629217.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECIFE SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RECIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629218.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA ARIQUEMES HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA ARIQUEMES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629830.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA CACOAL HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA CACOAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629831.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA CRUZEIRO DO SUL HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA CRUZEIRO DO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629832.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA GUAJARA MIRIM HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA GUAJARA MIRIM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629833.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA ITACOATIARA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA ITACOATIARA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629834.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA JI PARANA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA JI PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629835.m3u8
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="REDE AMAZONICA MACAPA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA MACAPA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629836.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA MANAUS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629273.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA MANAUS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA MANAUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629274.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA PORTO VELHO FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA PORTO VELHO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629275.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",REDE AMAZONICA PORTO VELHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629276.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RIO SUL HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RIO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629278.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RIO SUL SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RIO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629279.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RJ FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629219.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RJ FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629220.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RJ HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629221.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RJ SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629222.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC CURITIBA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RPC CURITIBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629226.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC CURITIBA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629227.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC CURITIBA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RPC CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629228.m3u8
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="RPC GUARAPUAVA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",RPC GUARAPUAVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629837.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="SERGIPE FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",SERGIPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629235.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="SERGIPE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629236.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="SP FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629239.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="SP FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629240.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="SUBAE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",SUBAE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629282.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="SUBAE SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",SUBAE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629283.m3u8
+#EXTINF:-1 tvg-id="tv.sudoeste.br" tvg-name="GLOBO SUDOESTE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",GLOBO SUDOESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629853.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TEM ITAPE FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",TEM ITAPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629287.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TEM ITAPE HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",TEM ITAPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629288.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="UBERABA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",UBERABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629302.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="UBERABA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",UBERABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629303.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="VANGUARDA S J CAMPOS FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VANGUARDA S J CAMPOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629295.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="VANGUARDA S J CAMPOS HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VANGUARDA S J CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629296.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="VANGUARDA S J CAMPOS SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VANGUARDA S J CAMPOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629297.m3u8
+#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VERDES MARES CARIRI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629857.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="VERDES MARES FORTALEZA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VERDES MARES FORTALEZA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629298.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="VERDES MARES FORTALEZA FHD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VERDES MARES FORTALEZA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629299.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="VERDES MARES FORTALEZA HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VERDES MARES FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629300.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="VERDES MARES FORTALEZA SD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR  GLOBO - CAPITAIS",VERDES MARES FORTALEZA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newstvc.tech:8080/live/528186/844789/629301.m3u8
 
 
 
