@@ -1,57 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="BBB 23: Mosaico [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Mosaico [ALTER]
-http://newstvc.tech:8080/528186/844789/317302
-#EXTINF:-1 tvg-name="BBB 23: Acompanha a casa 01 [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Acompanha a casa 01 [ALTER]
-http://newstvc.tech:8080/528186/844789/317304
-#EXTINF:-1 tvg-name="BBB 23: Acompanha a casa 02 ALTER" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Acompanha a casa 02 ALTER
-http://newstvc.tech:8080/528186/844789/317305
-#EXTINF:-1 tvg-name="BBB 23: Quarto Deserto [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Quarto Deserto [ALTER]
-http://newstvc.tech:8080/528186/844789/317306
-#EXTINF:-1 tvg-name="BBB 23: Quarto Fundo do Mar [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Quarto Fundo do Mar [ALTER]
-http://newstvc.tech:8080/528186/844789/317307
-#EXTINF:-1 tvg-name="BBB 23: Sala [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Sala [ALTER]
-http://newstvc.tech:8080/528186/844789/317308
-#EXTINF:-1 tvg-name="BBB 23: Cozinha [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Cozinha [ALTER]
-http://newstvc.tech:8080/528186/844789/317309
-#EXTINF:-1 tvg-name="BBB 23: Piscina [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Piscina [ALTER]
-http://newstvc.tech:8080/528186/844789/317310
-#EXTINF:-1 tvg-name="BBB 23: Jardim [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Jardim [ALTER]
-http://newstvc.tech:8080/528186/844789/317311
-#EXTINF:-1 tvg-name="BBB 23: Academia [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Academia [ALTER]
-http://newstvc.tech:8080/528186/844789/317312
-#EXTINF:-1 tvg-name="BBB 23: Confessionário [ALTER]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23: Confessionário [ALTER]
-http://newstvc.tech:8080/528186/844789/317313
-#EXTINF:-1 tvg-name="BBB 23 [MOSAICO] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [MOSAICO] ³
-http://newstvc.tech:8080/528186/844789/629751
-#EXTINF:-1 tvg-name="BBB 23 [CAM 1] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 1] ³
-http://newstvc.tech:8080/528186/844789/629768
-#EXTINF:-1 tvg-name="BBB 23 [CAM 2] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 2] ³
-http://newstvc.tech:8080/528186/844789/629769
-#EXTINF:-1 tvg-name="BBB 23 [CAM 3] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 3] ³
-http://newstvc.tech:8080/528186/844789/629770
-#EXTINF:-1 tvg-name="BBB 23 [CAM 4] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 4] ³
-http://newstvc.tech:8080/528186/844789/629771
-#EXTINF:-1 tvg-name="BBB 23 [CAM 5] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 5] ³
-http://newstvc.tech:8080/528186/844789/629772
-#EXTINF:-1 tvg-name="BBB 23 [CAM 6] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 6] ³
-http://newstvc.tech:8080/528186/844789/629773
-#EXTINF:-1 tvg-name="BBB 23 [CAM 7] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 7] ³
-http://newstvc.tech:8080/528186/844789/629774
-#EXTINF:-1 tvg-name="BBB 23 [CAM 8] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 8] ³
-http://newstvc.tech:8080/528186/844789/629775
-#EXTINF:-1 tvg-name="BBB 23 [CAM 9] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 9] ³
-http://newstvc.tech:8080/528186/844789/629776
-#EXTINF:-1 tvg-name="BBB 23 [CAM 10] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [CAM 10] ³
-http://newstvc.tech:8080/528186/844789/629777
-#EXTINF:-1 tvg-name="BBB 23 [A ELIMINAÇÃO] ³" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",BBB 23 [A ELIMINAÇÃO] ³
-http://newstvc.tech:8080/528186/844789/629816
-#EXTINF:-1 tvg-name="# BBB [La Casa De Los Famosos]" tvg-logo="https://i.imgur.com/xHC6Z0z.png" group-title="✅ BIG BROTHER BRASIL",# BBB [La Casa De Los Famosos]
-http://newstvc.tech:8080/528186/844789/630607
-
-
-
-
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="AMAZONICA PORTO VELHO SD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",AMAZONICA PORTO VELHO SD³
 http://newstvc.tech:8080/528186/844789/629277
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="ANHANGUERA ANAPOLIS HD³" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",ANHANGUERA ANAPOLIS HD³
