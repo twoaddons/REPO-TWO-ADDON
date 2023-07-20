@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+<title>[COLOR silver][B] THE FLASH 2023 [/COLOR][/B][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31f279bebc5b86177a997d045625397b7ff6f8e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89GrfnscTLQJZDPwo2XewBfAF9x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89GrfnscTLQJZDPwo2XewBfAF9x.jpg</fanart>
+<info>Todo mundo já pensou em voltar no tempo para mudar alguma coisa que incomodou a vida, é por isso que Flash decide fazer o mesmo. Depois dos eventos de Liga da Justiça, Barry Allen decide viajar no tempo para evitar o assassinato de sua mãe, pelo qual seu pai foi injustamente condenado à cadeia. O que ele não imaginava seria que sua atitude teria consequências catastróficas para o universo. Ao voltar no tempo, Allen se vê em um efeito borboleta e começa a viajar entre mundos diferentes do seu. Para voltar para seu plano original, Flash contará com a ajuda de versões de heróis que já conheceu, incluindo versões do Batman que já são conhecidas (Michael Keaton e Ben Affleck), para evitar mais quebras entre universos e voltar ao norma</info>
+</item>
+
+
+ 
 <item>
 <title>[COLOR silver][B] MISSÃO: IMPOSSÍVEL - ACERTO DE CONTAS ( HDCAM ) [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262DF2E7AD0E175DE3CD8D1D64AE618F5345F0D0$nome=MISSÃO:IMPOSSÍVEL ACERTO DE CONTAS</link>
@@ -792,5 +804,4 @@
 
 
  
- 
-</items>
+ </items>
