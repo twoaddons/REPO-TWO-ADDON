@@ -19,3 +19,365 @@ https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 
+#EXTINF:-1 tvg-name="DRAGON BALL SUPER" tvg-logo="http://facilx.top:8080/images/c5d907fd5db412a923a5afd3c2e39e60.jpg" group-title=" TWO BR 24 HORAS ",DRAGON BALL SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/7245
+#EXTINF:-1 tvg-name="Shurato 24 Horas" tvg-logo="http://facilx.top:8080/images/6ab018f81cafd664b112ce3d720f4920.jpg" group-title=" TWO BR 24 HORAS ",Shurato 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/30459
+#EXTINF:-1 tvg-name="Doug 24 Horas" tvg-logo="http://facilx.top:8080/images/7da0c38b6ddd28460725d813f40da67d.jpg" group-title=" TWO BR 24 HORAS ",Doug 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54166
+#EXTINF:-1 tvg-name="Peppa Pig 24 Horas" tvg-logo="http://facilx.top:8080/images/6fcc9ebd58c7e89818fcc0ac4b9272f7.jpg" group-title=" TWO BR 24 HORAS ",Peppa Pig 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54738
+#EXTINF:-1 tvg-name="Samurai Warriors 24 Horas" tvg-logo="http://facilx.top:8080/images/da6d2fcbecf0d97e8b6e58834bc09e65.jpg" group-title=" TWO BR 24 HORAS ",Samurai Warriors 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54778
+#EXTINF:-1 tvg-name="Batman: A série Animada 24 Horas" tvg-logo="http://facilx.top:8080/images/ee1aa19ff50cae4dd1850aa130c7a53e.jpg" group-title=" TWO BR 24 HORAS ",Batman: A série Animada 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57156
+#EXTINF:-1 tvg-name="Godzilla Ponto Singular 24 Horas" tvg-logo="http://facilx.top:8080/images/6a3d0770af6e020c12e3b2683b118d46.jpg" group-title=" TWO BR 24 HORAS ",Godzilla Ponto Singular 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/61371
+#EXTINF:-1 tvg-name="Pokemon Jornadas 24 Horas" tvg-logo="http://facilx.top:8080/images/7b78e570b4aca61a54e26f5cd1b7b6f4.jpg" group-title=" TWO BR 24 HORAS ",Pokemon Jornadas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/61687
+#EXTINF:-1 tvg-name="Rádio Zoo 24 Horas" tvg-logo="http://facilx.top:8080/images/c0ea819b2a938ae025e52399b427fda6.jpg" group-title=" TWO BR 24 HORAS ",Rádio Zoo 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/66206
+#EXTINF:-1 tvg-name="Dora a Aventureira 24 Horas" tvg-logo="http://facilx.top:8080/images/ca19510e31a3636ce55b6d0377dc9d85.png" group-title=" TWO BR 24 HORAS ",Dora a Aventureira 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/67800
+#EXTINF:-1 tvg-name="One Punch Man 24 Horas" tvg-logo="http://facilx.top:8080/images/00184c84c0943f9a57878d8ec7495414.jpg" group-title=" TWO BR 24 HORAS ",One Punch Man 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/67867
+#EXTINF:-1 tvg-name="Desenhos Bíblicos 24 Horas" tvg-logo="http://facilx.top:8080/images/ea8621429ecdbc5f97b99cea8612a977.png" group-title=" TWO BR 24 HORAS ",Desenhos Bíblicos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/68050
+#EXTINF:-1 tvg-name="Os Croods 24 Horas" tvg-logo="https://imagembr.top/imagemservidor/filmes4/croooooood.png" group-title=" TWO BR 24 HORAS ",Os Croods 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/69782
+#EXTINF:-1 tvg-name="Masha e o Urso 24 Horas" tvg-logo="https://imagembr.top/imagemservidor/filmes4/MashaeoUrso.png" group-title=" TWO BR 24 HORAS ",Masha e o Urso 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/70372
+#EXTINF:-1 tvg-name="Super Wings 24 Horas" tvg-logo="http://facilx.top:8080/images/c6ca6df538b7bb97764e0b5fd2e3b0a2.png" group-title=" TWO BR 24 HORAS ",Super Wings 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/72215
+#EXTINF:-1 tvg-name="Parque Patati Patatá 24 Horas" tvg-logo="http://facilx.top:8080/images/4da6a40e4841b2383f1309042783b4bb.png" group-title=" TWO BR 24 HORAS ",Parque Patati Patatá 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/72385
+#EXTINF:-1 tvg-name="Festa Hi-5 24Horas" tvg-logo="http://facilx.top:8080/images/232490af8c10a760851649bf9fbbb70b.png" group-title=" TWO BR 24 HORAS ",Festa Hi-5 24Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/72495
+#EXTINF:-1 tvg-name="Miss Moon 24 Horas" tvg-logo="http://facilx.top:8080/images/fd727d2626dc8636630f200c05d13ff7.png" group-title=" TWO BR 24 HORAS ",Miss Moon 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/72550
+#EXTINF:-1 tvg-name="GALINHA PINTADINHA MINI 24 HORAS" tvg-logo="https://imagembr.top/imagemservidor/filmes4/GALINHAmini.png" group-title=" TWO BR 24 HORAS ",GALINHA PINTADINHA MINI 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/111232
+
+
+
+
+#EXTINF:-1 tvg-name="O Maskar 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8ul1RthNXrjnKXW8UlpUFVKpWP.jpg" group-title="" TWO BR 24 HORAS",O Maskar 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/8056
+#EXTINF:-1 tvg-name="My Little Pony 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NOSPZie6rK0ZFwTamoQJtx3UIe.jpg" group-title="" TWO BR 24 HORAS",My Little Pony 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/8083
+#EXTINF:-1 tvg-name="Kipo e os Animonstros 24 Horas" tvg-logo="http://centralbr.top:9000/images/26b77cd97d8fdd7217df33c65b4e22dc.jpg" group-title="" TWO BR 24 HORAS",Kipo e os Animonstros 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/9852
+#EXTINF:-1 tvg-name="Scooby-Doo 24Horas" tvg-logo="http://facilx.top:8080/images/1d66efebac3eccd3c13d65f8e5f063fc.jpg" group-title="" TWO BR 24 HORAS",Scooby-Doo 24Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/9937
+#EXTINF:-1 tvg-name="She-Ra e as Princesas do Poder 24 Horas" tvg-logo="http://centralbr.top:9000/images/c4e5aaa89b01f4ad3226f31f53bfebaf.jpg" group-title="" TWO BR 24 HORAS",She-Ra e as Princesas do Poder 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/12746
+#EXTINF:-1 tvg-name="Raio Negro" tvg-logo="http://centralbr.top:9000/images/ad671d3ef3f18401cec826e91c1cd4fa.jpg" group-title="" TWO BR 24 HORAS",Raio Negro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/13050
+#EXTINF:-1 tvg-name="Duck Dodgers 24 Horas" tvg-logo="http://facilx.top:8080/images/6ae0d284a4cd4665f9c883c3b3af2b97.jpg" group-title="" TWO BR 24 HORAS",Duck Dodgers 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/13104
+#EXTINF:-1 tvg-name="José do Egito 24 Horas" tvg-logo="http://centralbr.top:9000/images/47d8a0d96323a93409b5b2acc50dc53c.jpg" group-title="" TWO BR 24 HORAS",José do Egito 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/13408
+#EXTINF:-1 tvg-name="Central KIDS 24 Horas 2020" tvg-logo="http://centralbr.top:9000/images/f416c24f03da0928d56a0a0479a987ae.jpg" group-title="" TWO BR 24 HORAS",Central KIDS 24 Horas 2020
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/13515
+#EXTINF:-1 tvg-name="Pequenos Espiões 24 Horas" tvg-logo="http://facilx.top:8080/images/f25847dda98e25926025fb43b6495fea.jpg" group-title="" TWO BR 24 HORAS",Pequenos Espiões 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/13599
+#EXTINF:-1 tvg-name="Cine Kids" tvg-logo="http://facilx.top:8080/images/4a5ff43d2bb57839878e14343bfcc3e9.png" group-title="" TWO BR 24 HORAS",Cine Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/14110
+#EXTINF:-1 tvg-name="3 Palavrinhas 24 Horas" tvg-logo="http://centralbr.top:9000/images/d97b16f107ea7056f8fe38829286c2c4.jpg" group-title="" TWO BR 24 HORAS",3 Palavrinhas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/14335
+#EXTINF:-1 tvg-name="Família Dinossauros 24 Horas" tvg-logo="http://facilx.top:8080/images/6c96b3ba175e24c99a0781c8cc06de0b.jpg" group-title="" TWO BR 24 HORAS",Família Dinossauros 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/14658
+#EXTINF:-1 tvg-name="Princesinha Sofia 24 Horas" tvg-logo="http://facilx.top:8080/images/ccd0e702122d81f3da08fa72183df01a.jpg" group-title="" TWO BR 24 HORAS",Princesinha Sofia 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/25559
+#EXTINF:-1 tvg-name="She-Ra: A Princesa Do Poder 24 Horas" tvg-logo="http://facilx.top:8080/images/632cd7998d3e42db2e25391c3ae3ebcb.jpg" group-title="" TWO BR 24 HORAS",She-Ra: A Princesa Do Poder 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/29154
+#EXTINF:-1 tvg-name="007 24 Horas" tvg-logo="http://facilx.top:8080/images/ee583134a0d998e3192d35743921945d.jpg" group-title="" TWO BR 24 HORAS",007 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/30915
+#EXTINF:-1 tvg-name="Cine Kids Centralbr" tvg-logo="http://facilx.top:8080/images/4a5ff43d2bb57839878e14343bfcc3e9.png" group-title="" TWO BR 24 HORAS",Cine Kids Centralbr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/31161
+#EXTINF:-1 tvg-name="Dois Homens e Meio 24 Horas" tvg-logo="http://facilx.top:8080/images/52e3964968ea62e95e1059dfd4c8e4af.jpg" group-title="" TWO BR 24 HORAS",Dois Homens e Meio 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/34510
+#EXTINF:-1 tvg-name="Os Ursinhos Carinhos 24 Horas" tvg-logo="http://facilx.top:8080/images/277bba80e61f31798fb5879275f1ce66.jpg" group-title="" TWO BR 24 HORAS",Os Ursinhos Carinhos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/36502
+#EXTINF:-1 tvg-name="Chaves 24 Horas" tvg-logo="http://facilx.top:8080/images/000cde871a8700d99765316e998a5b64.jpg" group-title="" TWO BR 24 HORAS",Chaves 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/42008
+#EXTINF:-1 tvg-name="ThunderCats 24 Horas" tvg-logo="http://facilx.top:8080/images/4cc0f2a3d9d02c6402c9408de83695b8.jpg" group-title="" TWO BR 24 HORAS",ThunderCats 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/42391
+#EXTINF:-1 tvg-name="X-Men: Serie Animada 24 Horas" tvg-logo="http://facilx.top:8080/images/d793fe9379208621dbea13f80a1f3644.jpg" group-title="" TWO BR 24 HORAS",X-Men: Serie Animada 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/42576
+#EXTINF:-1 tvg-name="X-Men: Evolution 24 Horas" tvg-logo="http://facilx.top:8080/images/f6cff2af82f51df6033b489892828fb5.jpeg" group-title="" TWO BR 24 HORAS",X-Men: Evolution 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/42640
+#EXTINF:-1 tvg-name="Super Choque 24 Horas" tvg-logo="http://facilx.top:8080/images/cd50a74da2a7d6eff6daab01964b5129.jpg" group-title="" TWO BR 24 HORAS",Super Choque 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/46378
+#EXTINF:-1 tvg-name="Três Espiãs Demais!" tvg-logo="http://facilx.top:8080/images/30ad9d1098f116d1121e1488cd3d6572.jpg" group-title="" TWO BR 24 HORAS",Três Espiãs Demais!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/46516
+#EXTINF:-1 tvg-name="Dragon Ball Z Kai 24 Horas" tvg-logo="http://facilx.top:8080/images/778fb9435e4259814ee473d9b6c2b299.jpg" group-title="" TWO BR 24 HORAS",Dragon Ball Z Kai 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/46750
+#EXTINF:-1 tvg-name="As Aventuras do Gato de Botas 24 Horas" tvg-logo="http://facilx.top:8080/images/3590c00fc8a6dd6e16a992df4a973cda.jpg" group-title="" TWO BR 24 HORAS",As Aventuras do Gato de Botas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/46870
+#EXTINF:-1 tvg-name="Ben 10 (2005) 24 Horas" tvg-logo="http://facilx.top:8080/images/dd197c4bb28e7a413eeb642502e91e05.jpg" group-title="" TWO BR 24 HORAS",Ben 10 (2005) 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/47116
+#EXTINF:-1 tvg-name="Liga da Justiça Sem Limites 24 Horas" tvg-logo="http://facilx.top:8080/images/76298fec97d0d6318072091f248c1647.jpg" group-title="" TWO BR 24 HORAS",Liga da Justiça Sem Limites 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/47225
+#EXTINF:-1 tvg-name="Astro Boy 24 Horas" tvg-logo="http://facilx.top:8080/images/d20ecd38517eab33fc3df886aef0c6ee.jpg" group-title="" TWO BR 24 HORAS",Astro Boy 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/47345
+#EXTINF:-1 tvg-name="As Aventuras de Jackie Chan 24 Horas" tvg-logo="http://facilx.top:8080/images/e17a59590d3939f14fe4e2d6ba0cb301.jpg" group-title="" TWO BR 24 HORAS",As Aventuras de Jackie Chan 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/47603
+#EXTINF:-1 tvg-name="Taz-Mania 24 Horas" tvg-logo="http://facilx.top:8080/images/348fcda43eaa02b49f21157d7b08508b.jpg" group-title="" TWO BR 24 HORAS",Taz-Mania 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/48127
+#EXTINF:-1 tvg-name="Patrulha Canina 24 Horas" tvg-logo="http://centralbr.top:8080/images/4e4003Br4F4ZxP3yRNt7PUEqPuh2ZRjuzB6eDdn.jpg" group-title="" TWO BR 24 HORAS",Patrulha Canina 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/48350
+#EXTINF:-1 tvg-name="Pencilmate's 24 Horas" tvg-logo="http://facilx.top:8080/images/32ae1b22649b82ba0cdea056277adb61.png" group-title="" TWO BR 24 HORAS",Pencilmate's 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/51039
+#EXTINF:-1 tvg-name="Jiraiya: O Incrível Ninja 24 Horas" tvg-logo="http://facilx.top:8080/images/5b228f61554ee1dfdf9176c4c10cd24c.jpg" group-title="" TWO BR 24 HORAS",Jiraiya: O Incrível Ninja 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/52017
+#EXTINF:-1 tvg-name="Apenas Um Show 24 Horas" tvg-logo="http://facilx.top:8080/images/8934072671f0ed561a70ae75f3273b4f.jpg" group-title="" TWO BR 24 HORAS",Apenas Um Show 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/52419
+#EXTINF:-1 tvg-name="iCarly 24 Horas" tvg-logo="http://facilx.top:8080/images/9b15070aa53c803909cbd7526dd0820c.jpg" group-title="" TWO BR 24 HORAS",iCarly 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53068
+#EXTINF:-1 tvg-name="Pac-Man e as Aventuras Fantasmagóricas 24 Horas" tvg-logo="http://facilx.top:8080/images/6a2066efeb042ea20014548076c7acb2.jpg" group-title="" TWO BR 24 HORAS",Pac-Man e as Aventuras Fantasmagóricas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53366
+#EXTINF:-1 tvg-name="Avatar: A Lenda De Korra 24 Horas" tvg-logo="http://facilx.top:8080/images/351e788b81d95413075a73a881af0561.jpg" group-title="" TWO BR 24 HORAS",Avatar: A Lenda De Korra 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53454
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto 24 Horas" tvg-logo="http://facilx.top:8080/images/c8125a4e76b8f575047b1d1053ff1e37.jpeg" group-title="" TWO BR 24 HORAS",Velozes e Furiosos - Espiões do Asfalto 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53487
+#EXTINF:-1 tvg-name="O Fantástico Jaspion 24 Horas" tvg-logo="http://facilx.top:8080/images/4de3367034785538baec867d3bec9481.jpg" group-title="" TWO BR 24 HORAS",O Fantástico Jaspion 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53489
+#EXTINF:-1 tvg-name="Velozes e Furiosos 24 Horas" tvg-logo="http://facilx.top:8080/images/743a2325e7815db3ccf2860d08d43714.jpg" group-title="" TWO BR 24 HORAS",Velozes e Furiosos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53504
+#EXTINF:-1 tvg-name="Pica-Pau e Seus Amigos 24 Horas" tvg-logo="http://centralbr.top:8080/images/9813m3FbGLXqggunCy9tUjbKMcrSvtEJZAfZ.jpg" group-title="" TWO BR 24 HORAS",Pica-Pau e Seus Amigos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53720
+#EXTINF:-1 tvg-name="Kenan e Kel 24 Horas" tvg-logo="http://facilx.top:8080/images/3278d222178760443955c8263280a079.jpg" group-title="" TWO BR 24 HORAS",Kenan e Kel 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53784
+#EXTINF:-1 tvg-name="Jurassic World: Acampamento Jurássico 24 Horas" tvg-logo="http://facilx.top:8080/images/f238174d9badbbb0b56372572c95ceb7.jpg" group-title="" TWO BR 24 HORAS",Jurassic World: Acampamento Jurássico 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53793
+#EXTINF:-1 tvg-name="MegaMan NT Warrior 24 Horas" tvg-logo="http://facilx.top:8080/images/80dc261816f38ba59e79b02faa2d347a.jpg" group-title="" TWO BR 24 HORAS",MegaMan NT Warrior 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/53843
+#EXTINF:-1 tvg-name="(Des)encanto 24 Horas" tvg-logo="http://centralbr.top:8080/images/b30f6ec13m3FbGLXqggunCy9tUjbKMcrSvtEJZAfZ.jpg" group-title="24 HORAS",(Des)encanto 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54083
+#EXTINF:-1 tvg-name="Luccas Neto 24 Horas" tvg-logo="http://facilx.top:8080/images/9be2e4379de41d6861c8b0b2cd442775.png" group-title="" TWO BR 24 HORAS",Luccas Neto 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54167
+#EXTINF:-1 tvg-name="Chapolin 24 Horas" tvg-logo="http://facilx.top:8080/images/e1e61a94e7f3e2996d3fec9d7c19f967.jpg" group-title="" TWO BR 24 HORAS",Chapolin 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54168
+#EXTINF:-1 tvg-name="Os Flintstones 24 Horas" tvg-logo="http://facilx.top:8080/images/e96ae623c7b54a348ef8328c0063a398.jpg" group-title="" TWO BR 24 HORAS",Os Flintstones 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54548
+#EXTINF:-1 tvg-name="O Príncipe Dragão 24 Horas" tvg-logo="http://facilx.top:8080/images/491e1ab744e3528e2af21a5d83320b24.jpg" group-title="" TWO BR 24 HORAS",O Príncipe Dragão 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54579
+#EXTINF:-1 tvg-name="Steven Universo 24 Horas " tvg-logo="http://facilx.top:8080/images/da242b795a01e9f87b3ce3fa6ce998ef.jpg" group-title="" TWO BR 24 HORAS",Steven Universo 24 Horas 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/54940
+#EXTINF:-1 tvg-name="O Incrível Mundo de Gumball 24 Horas" tvg-logo="http://facilx.top:8080/images/4e623831478cc29ea8f8370d7778458b.jpg" group-title="" TWO BR 24 HORAS",O Incrível Mundo de Gumball 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/55033
+#EXTINF:-1 tvg-name="Love, Death + Robots 24 Horas" tvg-logo="http://facilx.top:8080/images/3b506427fd86e2644d969dfc5b8b7e13.jpg" group-title="" TWO BR 24 HORAS", Death + Robots 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56752
+#EXTINF:-1 tvg-name="Yu-Gi-Oh! 24 Horas" tvg-logo="http://facilx.top:8080/images/eb64351c099000aa9d81ae76cdb24eb4.jpeg" group-title="" TWO BR 24 HORAS",Yu-Gi-Oh! 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56757
+#EXTINF:-1 tvg-name="Barbie 24 Horas" tvg-logo="http://facilx.top:8080/images/09a0dbfc44469491ca27a849483c2b1f.jpg" group-title="" TWO BR 24 HORAS",Barbie 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56904
+#EXTINF:-1 tvg-name="Hero Mask 24 Horas" tvg-logo="http://centralbr.top:8080/images/24f3DciNxzDAFitNmyAsNTdL2uQru4yVP51Q2.jpg" group-title="" TWO BR 24 HORAS",Hero Mask 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56905
+#EXTINF:-1 tvg-name="Tartaruga Touché e Dum Dum 24 Horas" tvg-logo="http://facilx.top:8080/images/3c7925f2e5cedaaf4990ef765217272e.jpg" group-title="" TWO BR 24 HORAS",Tartaruga Touché e Dum Dum 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56931
+#EXTINF:-1 tvg-name="Cidade de Fantasmas 24 Horas" tvg-logo="http://facilx.top:8080/images/8df7b1156b241180b4fd3bac42d355ee.jpg" group-title="" TWO BR 24 HORAS",Cidade de Fantasmas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56932
+#EXTINF:-1 tvg-name="Guerreiros Míticos 24 Horas" tvg-logo="http://facilx.top:8080/images/25077d85009901a77d56cf5944807615.jpg" group-title="" TWO BR 24 HORAS",Guerreiros Míticos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56933
+#EXTINF:-1 tvg-name="Jonny Quest 24 Horas" tvg-logo="http://facilx.top:8080/images/d30a4b0b9f1916c90548fb6fdfc3eab3.jpg" group-title="" TWO BR 24 HORAS",Jonny Quest 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56935
+#EXTINF:-1 tvg-name="Ben 10 (2005) 24 Horas" tvg-logo="http://facilx.top:8080/images/dd197c4bb28e7a413eeb642502e91e05.jpg" group-title="" TWO BR 24 HORAS",Ben 10 (2005) 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/56937
+#EXTINF:-1 tvg-name="Wild West, Os Valentes Cowboys de Moo Mesa 24 Horas" tvg-logo="http://facilx.top:8080/images/aaf441f624bae0d6b54569295506e4d5.jpg" group-title="" TWO BR 24 HORAS", Os Valentes Cowboys de Moo Mesa 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57147
+#EXTINF:-1 tvg-name="O Pequeno Urso 24 Horas" tvg-logo="http://centralbr.top:8080/images/3PGWoKJSvYUvDqmKVk9e17ESmzgCuAz4Cc.jpg" group-title="" TWO BR 24 HORAS",O Pequeno Urso 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57149
+#EXTINF:-1 tvg-name="Buzz Lightyear do Comando Estelar 24 Horas" tvg-logo="http://facilx.top:8080/images/09c5caa6bc79572e0a48864e248916a6.jpg" group-title="" TWO BR 24 HORAS",Buzz Lightyear do Comando Estelar 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57150
+#EXTINF:-1 tvg-name="Os Jovens Titãs 24 Horas" tvg-logo="http://centralbr.top:8080/images/c0ad03PGWoKJSvYUvDqmKVk9e17ESmzgCuAz4Cc08.jpg" group-title="" TWO BR 24 HORAS",Os Jovens Titãs 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57151
+#EXTINF:-1 tvg-name="Ultimate Homem-Aranha 24 Horas" tvg-logo="http://facilx.top:8080/images/23ece07b73edd507ea450df1ec987165.jpg" group-title="" TWO BR 24 HORAS",Ultimate Homem-Aranha 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57152
+#EXTINF:-1 tvg-name="Os Super Patos 24 Horas" tvg-logo="http://facilx.top:8080/images/bd061f4b6cb035bfb3d9b19abdcc848f.jpg" group-title="" TWO BR 24 HORAS",Os Super Patos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57153
+#EXTINF:-1 tvg-name="Sem Maturidade Para Isso 24 Horas" tvg-logo="http://facilx.top:8080/images/83ebde456b20c90d3d2a0cd4e716327a.jpg" group-title="" TWO BR 24 HORAS",Sem Maturidade Para Isso 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57154
+#EXTINF:-1 tvg-name="ThunderCats Classico 24 Horas" tvg-logo="http://facilx.top:8080/images/4cc0f2a3d9d02c6402c9408de83695b8.jpg" group-title="" TWO BR 24 HORAS",ThunderCats Classico 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57155
+#EXTINF:-1 tvg-name="Dr. Stone 24 Horas" tvg-logo="http://facilx.top:8080/images/8e0334b5ad2d5bd557058719588eced4.jpg" group-title="" TWO BR 24 HORAS",Dr. Stone 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57220
+#EXTINF:-1 tvg-name="O Máskara 24 Horas" tvg-logo="http://centralbr.top:8080/images/7cfb03L9g3hbRb2SNjTqULWtLYGqPwfajsxzwfw.jpg" group-title="" TWO BR 24 HORAS",O Máskara 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57221
+#EXTINF:-1 tvg-name="Undone 24 Horas" tvg-logo="http://facilx.top:8080/images/681b68363eed75aade9ad9942d0336aa.jpg" group-title="" TWO BR 24 HORAS",Undone 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57222
+#EXTINF:-1 tvg-name="Kono Subarashii Sekai Ni Shukufuku Wo! 24 Horas" tvg-logo="http://facilx.top:8080/images/aebbba4f329f8381375960f0c21b0385.jpg" group-title="" TWO BR 24 HORAS",Kono Subarashii Sekai Ni Shukufuku Wo! 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57290
+#EXTINF:-1 tvg-name="O Ultimo Dragão 24 Horas" tvg-logo="http://facilx.top:8080/images/fcd564c8ffc8e42388e2c439e06ee832.jpg" group-title="" TWO BR 24 HORAS",O Ultimo Dragão 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57292
+#EXTINF:-1 tvg-name="Os Astronautas 24 Horas" tvg-logo="http://facilx.top:8080/images/b2854de9052062139a7a62fa02bc88cd.jpg" group-title="" TWO BR 24 HORAS",Os Astronautas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57312
+#EXTINF:-1 tvg-name="Hotel Transylvania: A Série 24 Horas" tvg-logo="http://facilx.top:8080/images/6c7d57bdfca1b27ac981f0c96bfcb970.jpg" group-title="" TWO BR 24 HORAS",Hotel Transylvania: A Série 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57469
+#EXTINF:-1 tvg-name="Restaurantes em Risco 24 Horas" tvg-logo="http://facilx.top:8080/images/f7bda8aa66b674e55fa5e2c6cbea2139.jpg" group-title="" TWO BR 24 HORAS",Restaurantes em Risco 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57524
+#EXTINF:-1 tvg-name="O Homem do Castelo Alto 24 Horas" tvg-logo="http://centralbr.top:9000/images/4f7e1GvzxDDGwJcrXosx7dq24ngas8CSdfJSyP.jpg" group-title="" TWO BR 24 HORAS",O Homem do Castelo Alto 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57716
+#EXTINF:-1 tvg-name="DuckTales Clássico 24 Horas" tvg-logo="http://facilx.top:8080/images/35fc8578e9cb2c4e118420d00dc2dd0d.jpg" group-title="" TWO BR 24 HORAS",DuckTales Clássico 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57717
+#EXTINF:-1 tvg-name="Os Simpsons 24 Horas" tvg-logo="http://facilx.top:8080/images/0763ad258ee46c1e7a5a0353ae852263.jpg" group-title="" TWO BR 24 HORAS",Os Simpsons 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57721
+#EXTINF:-1 tvg-name="Mickey: Aventuras sobre Rodas 24 Horas" tvg-logo="http://facilx.top:8080/images/c7cb7a62e532d72352eed855dd29ee80.jpg" group-title="" TWO BR 24 HORAS",Mickey: Aventuras sobre Rodas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57794
+#EXTINF:-1 tvg-name="As Meninas Superpoderosas 24 Horas" tvg-logo="http://facilx.top:8080/images/fe7ac9eb898ef3901c0912b855a22f66.jpg" group-title="" TWO BR 24 HORAS",As Meninas Superpoderosas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57929
+#EXTINF:-1 tvg-name="Rei Davi 24 Horas" tvg-logo="http://facilx.top:8080/images/07e71ba1f172d848c9d6014d878f28b1.jpg" group-title="" TWO BR 24 HORAS",Rei Davi 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/57998
+#EXTINF:-1 tvg-name="DNA² 24 Horas" tvg-logo="http://facilx.top:8080/images/c753468b9c9f72abca3b9a901e731926.jpg" group-title="" TWO BR 24 HORAS",DNA² 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/58041
+#EXTINF:-1 tvg-name="Radiant 24 Horas" tvg-logo="http://facilx.top:8080/images/5a1fffab10be84497bb97e57d5c2a253.jpg" group-title="" TWO BR 24 HORAS",Radiant 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/58063
+#EXTINF:-1 tvg-name="Acorrentada 24 Horas" tvg-logo="http://facilx.top:8080/images/5bde436dff0f3a49e4e6e6a19e7a491a.jpg" group-title="" TWO BR 24 HORAS",Acorrentada 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59056
+#EXTINF:-1 tvg-name="DOTA: Dragon’s Blood" tvg-logo="http://facilx.top:8080/images/da4de8b3d4c8caaedbbc89280de83ed3.jpg" group-title="" TWO BR 24 HORAS",DOTA: Dragon’s Blood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59057
+#EXTINF:-1 tvg-name="O diário de Daniela 24 Horas" tvg-logo="http://facilx.top:8080/images/e3e0edd16f16c673ed3ee54daf49f420.jpg" group-title="" TWO BR 24 HORAS",O diário de Daniela 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59126
+#EXTINF:-1 tvg-name="Os Mestres da Fritura 24 horas" tvg-logo="http://facilx.top:8080/images/2dff0aae2fba561c1351cf4b5375858e.jpg" group-title="" TWO BR 24 HORAS",Os Mestres da Fritura 24 horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59135
+#EXTINF:-1 tvg-name="Kanojo ga Flag o Oraretara 24 Horas" tvg-logo="http://facilx.top:8080/images/6b5b9fd854aef6d0ba34ae5e66ba8a2d.jpg" group-title="" TWO BR 24 HORAS",Kanojo ga Flag o Oraretara 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59137
+#EXTINF:-1 tvg-name="Tres 24 Horas" tvg-logo="http://facilx.top:8080/images/e54624980efa9512f734a15e2eb0a81c.jpg" group-title="" TWO BR 24 HORAS",Tres 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59144
+#EXTINF:-1 tvg-name="Coração Indomável 24 Horas" tvg-logo="http://facilx.top:8080/images/0325c30735f8461caec4a32f878781a1.jpg" group-title="" TWO BR 24 HORAS",Coração Indomável 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59145
+#EXTINF:-1 tvg-name="Jezabel 24 Horas" tvg-logo="http://facilx.top:8080/images/7704d67ed02a9f597ee5efe4c182bcea.jpg" group-title="" TWO BR 24 HORAS",Jezabel 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59162
+#EXTINF:-1 tvg-name="Roda de Fogo 24 horas" tvg-logo="http://facilx.top:8080/images/c9b0440ae81f41786faa29809a42ff45.jpg" group-title="" TWO BR 24 HORAS",Roda de Fogo 24 horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59174
+#EXTINF:-1 tvg-name="Gênesis 24 Horas" tvg-logo="http://facilx.top:8080/images/ed33169e3a110ec90483eea4c052b60e.jpg" group-title="" TWO BR 24 HORAS",Gênesis 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59187
+#EXTINF:-1 tvg-name="Três vezes Ana 24 Horas" tvg-logo="http://facilx.top:8080/images/2769aa6ad6a35c1b4ed66b8d33e8d987.jpg" group-title="" TWO BR 24 HORAS",Três vezes Ana 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59251
+#EXTINF:-1 tvg-name="Carole e Tuesday 24 Horas" tvg-logo="http://facilx.top:8080/images/38sYbyjYEyqgknQdD5vPmhHm333rVGU8sq09.jpg" group-title="" TWO BR 24 HORAS",Carole e Tuesday 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59265
+#EXTINF:-1 tvg-name="Mulheres Apaixonadas 24 Horas" tvg-logo="http://facilx.top:8080/images/f21fed13317364acb26862aa3a0f53a8.jpg" group-title="" TWO BR 24 HORAS",Mulheres Apaixonadas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59267
+#EXTINF:-1 tvg-name="Viva às Crianças! - Carrossel 24 Horas" tvg-logo="http://centralbr.top:8080/images/a9b5e671DDo95ErpPkhBhJQqEq8AYZ1pxycebSm1Y.jpg" group-title="" TWO BR 24 HORAS",Viva às Crianças! - Carrossel 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59269
+#EXTINF:-1 tvg-name="Guerra dos Sexos 24 Horas" tvg-logo="http://facilx.top:8080/images/5b38225e895a4078fddc5baead21100f.jpg" group-title="" TWO BR 24 HORAS",Guerra dos Sexos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59451
+#EXTINF:-1 tvg-name="Cúmplices de um Resgate 24 Horas" tvg-logo="http://facilx.top:8080/images/58450f00b24b4b4468907fd91ef51b01.jpg" group-title="" TWO BR 24 HORAS",Cúmplices de um Resgate 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59585
+#EXTINF:-1 tvg-name="América 24 Horas" tvg-logo="http://centralbr.top:8080/images/1Hxugr9SR6XymbcrQWtFQwAprsZzNUKzGP00.jpg" group-title="" TWO BR 24 HORAS",América 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59586
+#EXTINF:-1 tvg-name="Salve Jorge 24 Horas" tvg-logo="http://facilx.top:8080/images/5e872d5532c356207752a1eaea605e60.jpg" group-title="" TWO BR 24 HORAS",Salve Jorge 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59588
+#EXTINF:-1 tvg-name="Vidas Opostas 24 Horas" tvg-logo="http://facilx.top:8080/images/43444b3e307575e806d66a69cf70561e.jpg" group-title="" TWO BR 24 HORAS",Vidas Opostas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59969
+#EXTINF:-1 tvg-name="As Tontas Não Vão Ao Céu 24 Horas" tvg-logo="http://facilx.top:8080/images/8aaa00c304ba12290603f7fda8284af9.jpg" group-title="" TWO BR 24 HORAS",As Tontas Não Vão Ao Céu 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/59971
+#EXTINF:-1 tvg-name="Café com Aroma de Mulher 24 Horas" tvg-logo="http://facilx.top:8080/images/38413f905ed865882312961eb41c4104.jpg" group-title="" TWO BR 24 HORAS",Café com Aroma de Mulher 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60111
+#EXTINF:-1 tvg-name="Destilando amor 24 Horas" tvg-logo="http://facilx.top:8080/images/851d4277ef6bfc4251e804d31ed41b0b.jpg" group-title="" TWO BR 24 HORAS",Destilando amor 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60187
+#EXTINF:-1 tvg-name="Chocolate com Pimenta 24 Horas" tvg-logo="https://assetsgn.nowonline.com.br/assets/p353082_b_v8_aa.jpg?api_key=snfwq54bnzvgucd7cqvgt86r" group-title="" TWO BR 24 HORAS",Chocolate com Pimenta 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60190
+#EXTINF:-1 tvg-name="O Rico e Lázaro 24 Horas" tvg-logo="http://facilx.top:8080/images/2f1fad77af6ccc46175060a9d581c1f5.jpg" group-title="" TWO BR 24 HORAS",O Rico e Lázaro 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60192
+#EXTINF:-1 tvg-name="Rosalinda 24 Horas" tvg-logo="http://facilx.top:8080/images/c3fda068a31b6b1da0c35ce22b728768.jpg" group-title="" TWO BR 24 HORAS",Rosalinda 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60193
+#EXTINF:-1 tvg-name="A Dona do Pedaço 24 Horas" tvg-logo="http://facilx.top:8080/images/16f2c2871150e1624c00eef15bff2af1.jpg" group-title="" TWO BR 24 HORAS",A Dona do Pedaço 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60197
+#EXTINF:-1 tvg-name="A usurpadora 24 Horas" tvg-logo="http://facilx.top:8080/images/4fad5d6da012a41ebc16850c989ab2b0.jpg" group-title="" TWO BR 24 HORAS",A usurpadora 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60200
+#EXTINF:-1 tvg-name="Além do Tempo 24 Horas" tvg-logo="http://facilx.top:8080/images/738b0cfc7fb154e9dd69e9fddcfe02e6.jpg" group-title="" TWO BR 24 HORAS",Além do Tempo 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60202
+#EXTINF:-1 tvg-name="A Indomada 24 Horas" tvg-logo="http://facilx.top:8080/images/4d6f8d150a2f33d6d10199f2965653b8.jpg" group-title="" TWO BR 24 HORAS",A Indomada 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60203
+#EXTINF:-1 tvg-name="A Gata Comeu 24 Horas" tvg-logo="http://facilx.top:8080/images/265ef9d99f62717a0f376eb99b7e7ba4.jpg" group-title="" TWO BR 24 HORAS",A Gata Comeu 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/60204
+#EXTINF:-1 tvg-name="Anjo Mau 24 Horas" tvg-logo="http://centralbr.top:9000/images/19bf0fa1CCez4PYEykcTn6RXbtELdSTCSMyUEGF71.jpg" group-title="" TWO BR 24 HORAS",Anjo Mau 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/61177
+#EXTINF:-1 tvg-name="Loki 24 Horas" tvg-logo="http://facilx.top:8080/images/a943B4GbxRQ7Q6xYYDSvtzKDiRSt337QJ2u4t0.jpg" group-title="" TWO BR 24 HORAS",Loki 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/61569
+#EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco Filmes 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXCWqtb7oRtkQfpxjdPS4G2c3RR.jpg" group-title="" TWO BR 24 HORAS",Os Cavaleiros do Zodíaco Filmes 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62200
+#EXTINF:-1 tvg-name="Monica Chef 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/p13966481_b_v8_ab.jpg" group-title="" TWO BR 24 HORAS",Monica Chef 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62567
+#EXTINF:-1 tvg-name="Pocoyo 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uJXrzbOr3tf8e4sPXurRqTsxBH.jpg" group-title="" TWO BR 24 HORAS",Pocoyo 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62626
+#EXTINF:-1 tvg-name="Rolê Gloob 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/2021-30-role-gloob-poster.jpg" group-title="" TWO BR 24 HORAS",Rolê Gloob 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62635
+#EXTINF:-1 tvg-name="Baby Riki 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/BabyRiki.jpg" group-title="" TWO BR 24 HORAS",Baby Riki 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62687
+#EXTINF:-1 tvg-name="Cada Um no Seu Quadrado 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/2020-1034-quadrado-poster.jpg" group-title="" TWO BR 24 HORAS",Cada Um no Seu Quadrado 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62709
+#EXTINF:-1 tvg-name="As Aventuras de Sunny Bunnies 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPwQyT5XX8OcwDEC7ODEpMg6jkq.jpg" group-title="" TWO BR 24 HORAS",As Aventuras de Sunny Bunnies 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62831
+#EXTINF:-1 tvg-name="Casa Kalimann 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzNk2CnAfu4oCmI7s5rsKhp8ann.jpg" group-title="" TWO BR 24 HORAS",Casa Kalimann 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62846
+#EXTINF:-1 tvg-name="Bitz & Bob 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/746hjh444.jpg" group-title="" TWO BR 24 HORAS",Bitz & Bob 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/62925
+#EXTINF:-1 tvg-name="As Aventuras do Bob Zoom 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/2020-1118-bob-zoom-poster.jpg" group-title="" TWO BR 24 HORAS",As Aventuras do Bob Zoom 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63359
+#EXTINF:-1 tvg-name="Miraculous - Teorias Miraculosas 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/10582-poster.jpg" group-title="" TWO BR 24 HORAS",Miraculous - Teorias Miraculosas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63379
+#EXTINF:-1 tvg-name="Bugados 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOhKUy3Nyi24991kEhH0wkIqUP.jpg" group-title="" TWO BR 24 HORAS",Bugados 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63432
+#EXTINF:-1 tvg-name="SóTocaTop 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/MV5BYzg4ZTkwODAtOWUwMi00YmY1LTg5MTUtODcyZTY3MDRiYzI1XkEyXkFqcGdeQXVyNjkzNDIxMDc@._V1_FMjpg_UX1000_.jpg" group-title="" TWO BR 24 HORAS",SóTocaTop 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63566
+#EXTINF:-1 tvg-name="Roberto Carlos 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY1Ht5LJnevqcexCeeestfMf3hZMoGt7gaNG.jpg" group-title="" TWO BR 24 HORAS",Roberto Carlos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63578
+#EXTINF:-1 tvg-name="Show da Virada  24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/2019-732-mu-usica-show-da-virada-tv-globo-poster.jpg" group-title="" TWO BR 24 HORAS",Show da Virada  24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63587
+#EXTINF:-1 tvg-name="Robocar Poli 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bYkblf5oiPZ8f63DFtLqRbdx08.jpg" group-title="" TWO BR 24 HORAS",Robocar Poli 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63713
+#EXTINF:-1 tvg-name="Divertics 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/Divertics.jpg" group-title="" TWO BR 24 HORAS",Divertics 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63732
+#EXTINF:-1 tvg-name="Sai do Chão! 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/saidochao.jpg" group-title="" TWO BR 24 HORAS",Sai do Chão! 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/63745
+#EXTINF:-1 tvg-name="Impuros 24 Horas" tvg-logo="http://centralbr.top:9000/images/ec6f911d0df11286b8820954f5e20af5.jpg" group-title="" TWO BR 24 HORAS",Impuros 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64003
+#EXTINF:-1 tvg-name="Valentins 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/valentins.jpg" group-title="" TWO BR 24 HORAS",Valentins 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64521
+#EXTINF:-1 tvg-name="Clipes Musicais da Bubu 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/2021-2101-clipes-musicais-com-bubu-poster.jpg" group-title="" TWO BR 24 HORAS",Clipes Musicais da Bubu 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64572
+#EXTINF:-1 tvg-name="Gaby Estrella 24 Horas" tvg-logo="http://imagembr.top/imagemservidor/filmes4/2019-357-midia-kit-urgente-gaby-estrella-poster.jpg" group-title="" TWO BR 24 HORAS",Gaby Estrella 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64627
+#EXTINF:-1 tvg-name="Buuu 24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqRAQ30CzUWYHnSSNYjcQzN6iq5.jpg" group-title="" TWO BR 24 HORAS",Buuu 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64822
+#EXTINF:-1 tvg-name="Cine Sky 02" tvg-logo="http://facilx.top:8080/images/baa06d8b08c2f9187eb79e2e961bd0c8.png" group-title="" TWO BR 24 HORAS",Cine Sky 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64903
+#EXTINF:-1 tvg-name="Cine Sky 03" tvg-logo="http://facilx.top:8080/images/baa06d8b08c2f9187eb79e2e961bd0c8.png" group-title="" TWO BR 24 HORAS",Cine Sky 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64948
+#EXTINF:-1 tvg-name="Cine Sky 04" tvg-logo="http://facilx.top:8080/images/baa06d8b08c2f9187eb79e2e961bd0c8.png" group-title="" TWO BR 24 HORAS",Cine Sky 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/64974
+#EXTINF:-1 tvg-name="Cine Sky 05" tvg-logo="http://facilx.top:8080/images/baa06d8b08c2f9187eb79e2e961bd0c8.png" group-title="" TWO BR 24 HORAS",Cine Sky 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/65032
+#EXTINF:-1 tvg-name="Meu Amigãozão 24 Horas" tvg-logo="http://facilx.top:8080/images/4d7cf51d752a83120c490767a9011ebc.jpg" group-title="" TWO BR 24 HORAS",Meu Amigãozão 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/65141
+#EXTINF:-1 tvg-name="Game of Thrones 24 Horas" tvg-logo="http://facilx.top:8080/images/8822b3a4f732a28db1d10002e6cecd23.jpg" group-title="" TWO BR 24 HORAS",Game of Thrones 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/65424
+#EXTINF:-1 tvg-name="Peixonauta 24 Horas" tvg-logo="http://facilx.top:8080/images/77903653ba1bda79e3fc4078e2952a38.jpg" group-title="" TWO BR 24 HORAS",Peixonauta 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/65707
+#EXTINF:-1 tvg-name="CoComelon 24 Horas" tvg-logo="http://facilx.top:8080/images/7a7a23a25e2e45ffdecef1c5b010791e.jpg" group-title="" TWO BR 24 HORAS",CoComelon 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/65927
+#EXTINF:-1 tvg-name="Morphle 24 Horas" tvg-logo="http://facilx.top:8080/images/20f49ee6e0ded5fcb14996cad14b1f10.jpg" group-title="" TWO BR 24 HORAS",Morphle 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/66075
+#EXTINF:-1 tvg-name="Thomas e Seus Amigos 24 Horas" tvg-logo="http://facilx.top:8080/images/0f08f4c01e3675af4bfe2d7ba5c72131.jpg" group-title="" TWO BR 24 HORAS",Thomas e Seus Amigos 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/66188
+#EXTINF:-1 tvg-name="The Flash 24 Horas" tvg-logo="http://facilx.top:8080/images/f136945c2c2e08cdd83555239f4662e6.png" group-title="" TWO BR 24 HORAS",The Flash 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/67327
+#EXTINF:-1 tvg-name="Sob Pressão 24 Horas" tvg-logo="http://facilx.top:8080/images/cab54e5b34b52f16d2b8096be7a8d1bb.png" group-title="" TWO BR 24 HORAS",Sob Pressão 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/67456
+#EXTINF:-1 tvg-name="Verdades Secretas 24 Horas" tvg-logo="http://facilx.top:8080/images/38ad3a720fc0d9e92e7a9736be0d34c7.png" group-title="" TWO BR 24 HORAS",Verdades Secretas 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/67801
+#EXTINF:-1 tvg-name="FORMULA 1 24 HORAS" tvg-logo="http://facilx.top:8080/images/7e13f1195e0049d48bfcef30346d61e4.png" group-title="" TWO BR 24 HORAS",FORMULA 1 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/71548
+#EXTINF:-1 tvg-name="CSI DAS SOBREMESAS - A COMPETIÇÃO 24 HORAS" tvg-logo="http://facilx.top:8080/images/ea5685915296661e15c09ece1364b8e9.png" group-title="" TWO BR 24 HORAS",CSI DAS SOBREMESAS - A COMPETIÇÃO 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/72395
+#EXTINF:-1 tvg-name="S.O.S. Confeitaria 24 Horas" tvg-logo="http://facilx.top:8080/images/421c82e4cf24acb913ff67f59b1af886.png" group-title="" TWO BR 24 HORAS",S.O.S. Confeitaria 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/72414
+#EXTINF:-1 tvg-name="Buddy vs. Duff - O Duelo 24 Horas" tvg-logo="http://facilx.top:8080/images/09b8e1faf7ca62dc039a26abd8352fc8.png" group-title="" TWO BR 24 HORAS",Buddy vs. Duff - O Duelo 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/72469
+#EXTINF:-1 tvg-name="SE SOBREVIVER, CASE 24 HORAS" tvg-logo="http://facilx.top:8080/images/ee0f0d0a3f0d2cc3f0099a3bda19c175.png" group-title="" TWO BR 24 HORAS", CASE 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/73923
+#EXTINF:-1 tvg-name="FESTA DO PEÃO DE BARREROS 2022 HORAS" tvg-logo="http://facilx.top:8080/images/6d2bb56cb2c31f6ac2338fd004529f27.jpg" group-title="" TWO BR 24 HORAS",FESTA DO PEÃO DE BARREROS 2022 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xfacilx.top:8080/234517/234156/80353
