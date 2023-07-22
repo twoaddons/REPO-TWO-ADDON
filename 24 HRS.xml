@@ -22,7 +22,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 
 #EXTINF:-1,DRAGON BALL SUPER
-http://xfacilx.top:8080/234517/234156/7245
+plugin://plugin.video.f4mTester/?name=[COLOR turquoise]@by two addon[/COLOR]&streamtype=TSDOWNLOADER&url=http://xfacilx.top:8080/234517/234156/7245
 #EXTINF:-1,Shurato 24 Horas
 http://xfacilx.top:8080/234517/234156/30459
 #EXTINF:-1,Doug 24 Horas
