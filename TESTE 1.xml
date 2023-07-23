@@ -53,7 +53,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+#EXTINF:-1 tvg-id="TELECINE" tvg-name="TELECINE PIPOCA" tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png" group-title="  TWO BR CANAIS | TELE CINE",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://playfacil.net:80/76399979/27368967/61967
 
+#EXTINF:-1 tvg-id="TELECINE" tvg-name="TELECINE PIPOCA" tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png" group-title="  TWO BR CANAIS | TELE CINE",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/Ademilson41/299548/22620
 
 #EXTINF:-1 tvg-id="TELECINE" tvg-name="TELECINE PIPOCA" tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png" group-title="  TWO BR CANAIS | TELE CINE",TELECINE PIPOCA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/414
@@ -63,7 +67,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/18871
 
 
-#EXTINF:-1 tvg-id="TELECINE" tvg-name=" " tvg-logo="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png" group-title="  TWO BR CANAIS | TELE CINE",TELECINE ACTION
+#EXTINF:-1 tvg-id="TELECINE" tvg-name="TELECINE ACTION" tvg-logo="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png" group-title="  TWO BR CANAIS | TELE CINE",TELECINE ACTION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/407
 
 #EXTINF:-1 tvg-id="TELECINE" tvg-name="TELECINE ACTION" tvg-logo="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png" group-title="  TWO BR CANAIS | TELE CINE",TELECINE ACTION
