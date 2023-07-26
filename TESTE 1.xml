@@ -282,6 +282,5 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Premiere_1_UHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8-768x204.png" group-title=" TWO BR CANAIS |ESPORTES ",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=
+
 
