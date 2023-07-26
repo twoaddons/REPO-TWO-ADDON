@@ -218,3 +218,70 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 #EXTINF:-1 tvg-id="HOME&HEALTH" tvg-name="HOME&HEALTH HD " tvg-logo="https://iili.io/DX5cXt.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",DISCOVERY HOME & HEALTH HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/89918.m3u8
+
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO HD " tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/22512
+
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO HD " tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrede.com:80/1tpx402m/7FnPjJF/174642
+
+
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL HD " tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/318
+
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL HD " tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ddsw.xyz:80/3038998748/6648022024/967394
+
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD " tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/302
+
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD " tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.83.238.223:16945
+
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD " tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5-768x190.png" group-title=" TWO BR CANAIS |ESPORTES ",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/ESPN_UHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD " tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5-768x190.png" group-title=" TWO BR CANAIS |ESPORTES ",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xcui.vitvabc.xyz:8880/287994016b90/287994016b90/31034
+
+
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1596px-Canal-combate-logo.png" group-title=" TWO BR CANAIS |ESPORTES ",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Combate_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1596px-Canal-combate-logo.png" group-title=" TWO BR CANAIS |ESPORTES ",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Combate_UHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8-768x204.png" group-title=" TWO BR CANAIS |ESPORTES ",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/SporTV_1_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8-768x204.png" group-title=" TWO BR CANAIS |ESPORTES ",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/SporTV_1_UHD/tracks-a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="PREMIERE" tvg-name="PREMIERE 1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title=" TWO BR CANAIS |PREMIERE",PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://milka99.xyz:80/8fSoTAEY1C/Qr5c7ThQ/89355
+
+
+#EXTINF:-1 tvg-id="PREMIERE" tvg-name="PREMIERE 2 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title=" TWO BR CANAIS |PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Premiere_2_HDPLUS/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="PREMIERE" tvg-name="PREMIERE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title=" TWO BR CANAIS |PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Premiere_1_UHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8-768x204.png" group-title=" TWO BR CANAIS |ESPORTES ",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=
+
