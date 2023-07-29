@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="PORTUGAL" tvg-name="SIC PORTUGAL HD" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_sic_2018.png" group-title=" TWO BR  | PORTUGAL",SIC PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD PORTUGAL HD" tvg-logo="http://46.165.222.67:2095/tourobox/band.png" group-title="  TWO BR CANAIS | PORTUGAL",RECORD PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://83.240.145.172:20201/udp/239.42.1.59:1234
+
+#EXTINF:-1 tvg-id="EURONEWS PORTUGAL" tvg-name="EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" group-title=" TWO BR  | PORTUGAL",EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title=" TWO BR  | GLOBO",GLOBO SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Globo_SP__UMA_HORA_DE_ATRASO/tracks-v1a1/mono.m3u8
 
@@ -11,7 +22,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title=" TWO BR  | GLOBO",GLOBO RJ SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Globo_RJ_HD/tracks-v1a1/mono.m3u8
-
 
 
 
@@ -30,7 +40,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-768x737.png" group-title="  TWO BR CANAIS | RECORD TV",RECORD SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Record_Tv_HDPLUS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-768x737.png" group-title="  TWO BR CANAIS |RECORD TV",RECORD SP HD
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-768x737.png" group-title="  TWO BR CANAIS | RECORD TV",RECORD SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/Record_Tv_UHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-768x737.png" group-title="  TWO BR CANAIS | RECORD TV",RECORD SP HD
@@ -44,6 +54,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/538
 
 
+
+
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND SP HD" tvg-logo="http://46.165.222.67:2095/tourobox/band.png" group-title="  TWO BR CANAIS | BAND",BAND SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/BAND__3_UHD/tracks-v1a1/mono.m3u8
 
@@ -51,6 +63,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND SP HD" tvg-logo="http://46.165.222.67:2095/tourobox/band.png" group-title="  TWO BR CANAIS | BAND",BAND SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://212.102.60.39:2200/BRX/BAND__1_HD/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVAHD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/421
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVAHD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/420
+
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVAHD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/22421
+
+
+
+#EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="  TWO BR CANAIS | RELIGIOSO",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/31476
 
 
 #EXTINF:-1 tvg-id="TELECINE" tvg-name="TELECINE PIPOCA" tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png" group-title="  TWO BR CANAIS | TELE CINE",TELECINE PIPOCA
