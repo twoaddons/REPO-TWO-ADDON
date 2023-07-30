@@ -65,14 +65,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVAHD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA SP HD
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/421
 
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVAHD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA SP HD
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/420
 
 
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVAHD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA SP HD
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="  TWO BR CANAIS | VARIEDADES",VIVA  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/22421
 
 
@@ -203,11 +203,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/371
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD " tvg-logo="http://46.165.222.67:2095/tourobox/megapix.png" group-title="TWO BR CANAIS |FILMES E SERIES ",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90158.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://castlempire.site:8080/UserTest1Brasil_00w/6KneMfnELkrN/189972
 
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD " tvg-logo="http://46.165.222.67:2095/tourobox/megapix.png" group-title="TWO BR CANAIS |FILMES E SERIES ",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://xcui.vitvabc.xyz:8880/28799401d73d/28799401d73d/31278
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/491
 
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD " tvg-logo="http://46.165.222.67:2095/tourobox/megapix.png" group-title="TWO BR CANAIS |FILMES E SERIES ",MEGAPIX HD
@@ -236,6 +236,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lmtv.me/live/4719wil/452540/90317.m3u8
 
 
+#EXTINF:-1 tvg-id="CINE SKY" tvg-name="CINE SKY HD " tvg-logo="http://go555.xyz/images/c822519273a22cd181c10bb78cfed32d.png" group-title="TWO BR CANAIS | CINE SKY ",CINE SKY 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://milka99.xyz/653555120756/077032534215/73060
+
+#EXTINF:-1 tvg-id="CINE SKY" tvg-name="CINE SKY " tvg-logo="http://go555.xyz/images/c822519273a22cd181c10bb78cfed32d.png" group-title="TWO BR CANAIS | CINE SKY ",CINE SKY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meuplay.shop/qqlsheey/n946fi2g/687
+
+
+#EXTINF:-1 tvg-id="CINE SKY" tvg-name="CINE SKY " tvg-logo="http://go555.xyz/images/c822519273a22cd181c10bb78cfed32d.png" group-title="TWO BR CANAIS | CINE SKY ",CINE SKY 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/18913
+
+
 
 
 #EXTINF:-1 tvg-id="HOME&HEALTH" tvg-name="HOME&HEALTH HD " tvg-logo="https://iili.io/DX5cXt.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",DISCOVERY HOME&HEALTH HD
@@ -256,7 +267,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrede.com:80/1tpx402m/7FnPjJF/174642
 
 
-
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL HD " tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",DISCOVERY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/318
 
@@ -271,6 +281,26 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD " tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",ANIMAL PLANET HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.83.238.223:16945
+
+
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD " tvg-logo="http://i.imgur.com/gyOMqU8.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/22547
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY HD " tvg-logo="https://i.pinimg.com/originals/25/83/ba/2583ba30a62f0f6b8f1d799844d2b04e.png" group-title=" TWO BR CANAIS | DOCUMENTARIO ",HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/18843
+
+
+
+#EXTINF:-1 tvg-id="UFC HD" tvg-name="UFC HD " tvg-logo="https://i.pinimg.com/736x/f3/50/5b/f3505b98ca580b35d2bc5e0fae211e44.jpg" group-title=" TWO BR CANAIS |ESPORTES ",UFC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/758
+
+#EXTINF:-1 tvg-id="UFC PASS HD" tvg-name="UFC PASS HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOKviBU3UtLvS3GYCVA5sKzW2HU0nIVxL1tw&usqp=CAU,JPG" group-title=" TWO BR CANAIS |ESPORTES ",UFC PASS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/759
+
+
+#EXTINF:-1 tvg-id="UFC PASS HD" tvg-name="UFC PASS HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOKviBU3UtLvS3GYCVA5sKzW2HU0nIVxL1tw&usqp=CAU,JPG" group-title=" TWO BR CANAIS |ESPORTES ",UFC PASS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ddsw.xyz/3907687949/2872057250/1147514
+
 
 
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD " tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5-768x190.png" group-title=" TWO BR CANAIS |ESPORTES ",ESPN HD
