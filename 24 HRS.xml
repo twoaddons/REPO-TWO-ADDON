@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:-1,ANIME TV LEGENDADO
 https://alanza.iptv2022.com/ANIME_TV/tracks-v1a1/mono.m3u8 
 
@@ -79,8 +81,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539
 http://7go.xyz:8080/quinho93018/quin3571/153062
 
 
-
-
+#EXTINF:-1, 24HS 3 PALAVRINHAS
+http://mn.appserv19.xyz:2095/Xplus-1-McSxkyX5gE/0bpbjakTax/670
 
 
 
