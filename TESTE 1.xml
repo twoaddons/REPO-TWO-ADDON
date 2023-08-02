@@ -193,7 +193,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME HD " tvg-logo="http://i.imgur.com/iTya3Vq.png" group-title="TWO BR CANAIS |FILMES E SERIES ",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/18845
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ddsw.xyz:80/3939985323/3048840378/967087
 
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME HD " tvg-logo="http://i.imgur.com/iTya3Vq.png" group-title="TWO BR CANAIS |FILMES E SERIES ",LIFETIME HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/quinho93018/quin3571/18749
