@@ -1359,7 +1359,8 @@ https://stream.ads.ottera.tv/cl/230805cj6riiov7e984v3h7sl0/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title=" TWO BR TV | RUN TIME ",RUN TIME TG BRASIL HD
 https://stream.ads.ottera.tv/cl/230805cj6rp2ov7e984v3h9ik0/1280x720_2300000_0_f.m3u8?i=475_5442
 
-
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://ia902706.us.archive.org/32/items/movie_20230805_0323/MOVIE.jpeg" group-title=" TWO BR TV | RUN TIME ",RUN TIME MOVIE HD
+https://tinyurl.com/runtimemovie
 
 
 
