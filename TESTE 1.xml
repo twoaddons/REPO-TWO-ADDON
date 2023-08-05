@@ -1342,6 +1342,26 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
 
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title=" TWO BR TV | RUN TIME ",RUN TIME CINESPANTO HD
+https://stream.ads.ottera.tv/cl/230805cj6qlqn9kmt62n5ahbj0/1280x720_3071200_0_f.m3u8?i=475_4865
+
+
+
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title=" TWO BR TV | RUN TIME ",RUN TIME RECORD NEWS HD
+https://stream.ads.ottera.tv/cl/230805cj6qupuptu7dhpgi5c80/1280x720_3071200_0_f.m3u8?i=475_5431
+
+
+
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title=" TWO BR TV | RUN TIME ",RUN TIME CRIME HD
+https://stream.ads.ottera.tv/cl/230805cj6riiov7e984v3h7sl0/1280x720_3071200_0_f.m3u8?i=475_4864
+
+
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title=" TWO BR TV | RUN TIME ",RUN TIME TG BRASIL HD
+https://stream.ads.ottera.tv/cl/230805cj6rp2ov7e984v3h9ik0/1280x720_2300000_0_f.m3u8?i=475_5442
+
+
+
+
 
 
 
