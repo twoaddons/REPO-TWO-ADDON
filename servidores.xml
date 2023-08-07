@@ -20,12 +20,22 @@
   
 
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 1 - F4MTESTER [COLOR green]ON [/COLOR][/B]</name>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 1 -  [COLOR green]ON [/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%201.xml</externallink>
 </channel>
+
+ <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR 2 -  [COLOR  green]ON  [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%202.xml</externallink>
+</channel>
+
+
   
   <channel>
 <name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR YOUTUBE - séries/desenhos  [COLOR red] EM CONSTRUÇÃO [/COLOR][/B]</name>
@@ -36,17 +46,7 @@
 </channel>
 
 
-  
-  <channel>
-<name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR 3 - LISTA NANDO [COLOR  green]ON  [/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink></externallink>
-</channel>
-  
- 
-  
+    
   <channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR - TWO BR CANAIS 24 HRS [COLOR green]ON [/COLOR][/B]</name>
 <thumbnail>https://ia801402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
