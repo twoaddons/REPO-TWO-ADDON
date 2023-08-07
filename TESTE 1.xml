@@ -1337,6 +1337,23 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TWO BR CANAIS | RUN TIME ",RUN TIME CRIME HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TWO BR CANAIS | RUN TIME ",RUN TIME SUSPENSE - TERROR HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TWO BR CANAIS | RUN TIME ",RUN TIME  HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TWO BR CANAIS | RUN TIME ",RUN TIME COMÉDIA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-id="RUN TIME" tvg-name="RUN TIME HD " tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TWO BR CANAIS | RUN TIME ",RUN TIME AÇÃO HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+
+
 
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E HD¹" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngMfMidywtRamk43EWjTPHkoxIvdkEJMbLlr-MYu6o=s900-c-k-c0x00ffffff-no-rj" group-title=" TWO BR TV | FILMES E SERIES",A&E HD¹
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://milka99.xyz:80/PnVGoL2p/hOHQw4k4pZ/28465
