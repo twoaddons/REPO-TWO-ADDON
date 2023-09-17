@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
   
-  
+
+
+<item>
+<title>[COLOR silver][B] A FREIRA 2  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c83b61587d51d952ff6d0a3b3af886481793a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg</fanart>
+<info>Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).</info>
+</item>
+
+
+ <item>
+<title>[COLOR silver][B]  O CONVENTO [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:989CC1682FE368EDB9357FA6BF25C0FBE985E004</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGNVrW2TWMz4pWHayrRinZyCZ01.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGNVrW2TWMz4pWHayrRinZyCZ01.jpg</fanart>
+<info>Após o suposto suicídio de seu irmão padre, Grace viaja para o remoto convento escocês onde ele morreu. Desconfiando do relato da Igreja, ela descobre assassinato, sacrilégio e uma verdade perturbadora sobre si mesma.</info>
+</item> 
+
+
+ 
   
 <item>
 <title>[COLOR silver][B] A MORTE DO DEMÔNIO - AASCENSÃO [/COLOR][/B]</title>
