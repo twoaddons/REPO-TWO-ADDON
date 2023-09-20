@@ -1,1 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 
+
+<item>
+<title>[COLOR silver][B] 3 NINJAS DUOLOGIA [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D246AC6D2B88BA62919BC7B96D2D692F58F6D4A2$$lsname=3NINJAS - UMA AVENTURA RADICAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0C24E8209E2A01BF753854525B504D964811E59$$lsname=3 NINJAS - AVENTURA NA MEGA MONTANHA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFTd42itXlijxhtxIIpE1VtBjsi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFTd42itXlijxhtxIIpE1VtBjsi.jpg</fanart>
+<info></info>
+</item>   
+
+
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+
+
+
+
+
+
+
+  
+</items>
