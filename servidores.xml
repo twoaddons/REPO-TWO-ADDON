@@ -19,14 +19,6 @@
 </channel> 
   
 
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 1 -  [COLOR green]ON [/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink></externallink>
-</channel>
-
 
 
 <channel>
@@ -46,6 +38,14 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%201.xml</externallink>
 </channel>
 
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 3 -  [COLOR  blue] VIP [COLOR  yellow] AMOSTRA GRÁTIS   [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%202.xml</externallink>
+</channel>
   
   
   
