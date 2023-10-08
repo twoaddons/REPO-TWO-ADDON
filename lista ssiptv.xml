@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-name="0SPAIN ESP" tvg-logo="https://cdn.pixabay.com/photo/2017/05/22/01/33/portugal-2332868_1280.png" group-title="TWO BR  | PORTUGAL",0SPAIN ESP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tv.com.vc:80/lidiane/lidiane123/955423
 #EXTINF:-1 tvg-name="24 KITCHIN ᴴᴰ" tvg-logo="https://cdn.pixabay.com/photo/2017/05/22/01/33/portugal-2332868_1280.png" group-title="TWO BR  | PORTUGAL",24 KITCHIN ᴴᴰ
