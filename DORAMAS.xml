@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
+
+  
  <item>
 <title>[COLOR silver][B] 1 LITRO DE LAGRIMAS - LEGENDADO [/COLOR][/B]</title>
 <link>https://archive.org/download/ichi-rittoru-no-namida-litro-de-lagrimas-ep-02/ichi_rittoru_no_namida_litro_de_l%C3%A1grimas_ep%2001.mp4$$lsname=[B]O Início de minha juventude - EP.1[/B]</link>
@@ -20,11 +22,17 @@
    
    
    
+  <item>
+<title>[COLOR silver][B] TESTE [/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/testelista.xml</link>
+<thumbnail>https://archive.org/download/1-litre-of-tears-cover/1-litre-of-tears-cover.jpg</thumbnail>
+<fanart>https://archive.org/download/1-litre-of-tears-cover/1-litre-of-tears-cover.jpg</fanart>
+<info>TESTE</info>
+</item> 
    
    
    
-   
-   
+  
    
    
    
