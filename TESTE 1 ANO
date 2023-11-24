@@ -1,0 +1,1054 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="WOOHOOH" tvg-name="WOOHOO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s106678_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",WOOHOO | FONTE 1
+http://tv.com.vc:80/edson/edson/455115
+#EXTINF:-1 tvg-id="WOOHOOH" tvg-name="WOOHOO | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s106678_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",WOOHOO | FONTE 2
+http://tv.com.vc:80/edson/edson/455116
+#EXTINF:-1 tvg-id="WOOHOOH" tvg-name="WOOHOO | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s106678_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",WOOHOO | FONTE 3
+http://tv.com.vc:80/edson/edson/455117
+#EXTINF:-1 tvg-id="VIVABRH" tvg-name="VIVA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s94120_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",VIVA | FONTE 1
+http://tv.com.vc:80/edson/edson/615651
+#EXTINF:-1 tvg-id="VIVABRH" tvg-name="VIVA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s94120_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",VIVA | FONTE 2
+http://tv.com.vc:80/edson/edson/615664
+#EXTINF:-1 tvg-id="VIVABRH" tvg-name="VIVA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s94120_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",VIVA | FONTE 3
+http://tv.com.vc:80/edson/edson/615729
+#EXTINF:-1 tvg-id="AGROMHD" tvg-name="AGROMAIS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s115356_ll_h3_ab.png" group-title="TWO BR  | ABERTOS",AGROMAIS | FONTE 1
+http://tv.com.vc:80/edson/edson/615730
+#EXTINF:-1 tvg-id="AGROMHD" tvg-name="AGROMAIS | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s115356_ll_h3_ab.png" group-title="TWO BR  | ABERTOS",AGROMAIS | FONTE 2
+http://tv.com.vc:80/edson/edson/615731
+#EXTINF:-1 tvg-id="AGROMHD" tvg-name="AGROMAIS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s115356_ll_h3_ab.png" group-title="TWO BR  | ABERTOS",AGROMAIS | FONTE 3
+http://tv.com.vc:80/edson/edson/615732
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="CANAL BRASIL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s94564_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL BRASIL | FONTE 1
+http://tv.com.vc:80/edson/edson/615733
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="CANAL BRASIL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s94564_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL BRASIL | FONTE 2
+http://tv.com.vc:80/edson/edson/615734
+#EXTINF:-1 tvg-id="CANBOI" tvg-name="CANAL DO BOI | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s77874_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL DO BOI | FONTE 1
+http://tv.com.vc:80/edson/edson/615735
+#EXTINF:-1 tvg-id="CANBOI" tvg-name="CANAL DO BOI | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s77874_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL DO BOI | FONTE 2
+http://tv.com.vc:80/edson/edson/615736
+#EXTINF:-1 tvg-id="CANBOI" tvg-name="CANAL DO BOI | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s77874_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL DO BOI | FONTE 3
+http://tv.com.vc:80/edson/edson/615752
+#EXTINF:-1 tvg-id="CRU" tvg-name="CANAL RURAL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s38704_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL RURAL | FONTE 1
+http://tv.com.vc:80/edson/edson/615753
+#EXTINF:-1 tvg-id="CRU" tvg-name="CANAL RURAL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s38704_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL RURAL | FONTE 2
+http://tv.com.vc:80/edson/edson/615754
+#EXTINF:-1 tvg-id="CRU" tvg-name="CANAL RURAL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s38704_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CANAL RURAL | FONTE 3
+http://tv.com.vc:80/edson/edson/615755
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEF TV | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s77910_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CHEF TV | FONTE 1
+http://tv.com.vc:80/edson/edson/615759
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEF TV | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s77910_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CHEF TV | FONTE 3
+http://tv.com.vc:80/edson/edson/615760
+#EXTINF:-1 tvg-id="CURTAHD" tvg-name="CURTA! | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s105950_ll_h3_ab.png" group-title="TWO BR  | ABERTOS",CURTA! | FONTE 1
+http://tv.com.vc:80/edson/edson/615783
+#EXTINF:-1 tvg-id="CURTAHD" tvg-name="CURTA! | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s105950_ll_h3_ab.png" group-title="TWO BR  | ABERTOS",CURTA! | FONTE 2
+http://tv.com.vc:80/edson/edson/615792
+#EXTINF:-1 tvg-id="CURTAHD" tvg-name="CURTA! | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s105950_ll_h3_ab.png" group-title="TWO BR  | ABERTOS",CURTA! | FONTE 3
+http://tv.com.vc:80/edson/edson/615793
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s82446_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",DOG TV | FONTE 1
+http://tv.com.vc:80/edson/edson/621552
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s82446_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",DOG TV | FONTE 3
+http://tv.com.vc:80/edson/edson/621553
+#EXTINF:-1 tvg-id="FOODBHD" tvg-name="FOOD NETWORK | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s90905_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",FOOD NETWORK | FONTE 1
+http://tv.com.vc:80/edson/edson/621554
+#EXTINF:-1 tvg-id="FOODBHD" tvg-name="FOOD NETWORK | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s90905_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",FOOD NETWORK | FONTE 2
+http://tv.com.vc:80/edson/edson/621555
+#EXTINF:-1 tvg-id="FOODBHD" tvg-name="FOOD NETWORK | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s90905_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",FOOD NETWORK | FONTE 3
+http://tv.com.vc:80/edson/edson/621556
+#EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103720_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",FUTURA | FONTE 1
+http://tv.com.vc:80/edson/edson/621557
+#EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103720_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",FUTURA | FONTE 2
+http://tv.com.vc:80/edson/edson/621558
+#EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103720_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",FUTURA | FONTE 3
+http://tv.com.vc:80/edson/edson/621559
+#EXTINF:-1 tvg-id="PLSHOP" tvg-name="POLISHOP | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75915_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",POLISHOP | FONTE 1
+http://tv.com.vc:80/edson/edson/621560
+#EXTINF:-1 tvg-id="REDE21H" tvg-name="REDE 21 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103744_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",REDE 21 | FONTE 1
+http://tv.com.vc:80/edson/edson/621561
+#EXTINF:-1 tvg-id="REDEBRH" tvg-name="REDE BRASIL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103807_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",REDE BRASIL | FONTE 1
+http://tv.com.vc:80/edson/edson/621562
+#EXTINF:-1 tvg-id="REDEBRH" tvg-name="REDE BRASIL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103807_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",REDE BRASIL | FONTE 3
+http://tv.com.vc:80/edson/edson/621563
+#EXTINF:-1 tvg-name="SHOPTIME | FONTE 1" tvg-logo="https://4.bp.blogspot.com/-FpqJa2VVlTQ/UqN53jIDp4I/AAAAAAAAfzY/oAWCs9FQxDU/s1600/shoptime.png" group-title="TWO BR  | ABERTOS",SHOPTIME | FONTE 1
+http://tv.com.vc:80/edson/edson/621571
+#EXTINF:-1 tvg-name="SHOPTIME | FONTE 2" tvg-logo="https://4.bp.blogspot.com/-FpqJa2VVlTQ/UqN53jIDp4I/AAAAAAAAfzY/oAWCs9FQxDU/s1600/shoptime.png" group-title="TWO BR  | ABERTOS",SHOPTIME | FONTE 2
+http://tv.com.vc:80/edson/edson/621572
+#EXTINF:-1 tvg-name="SHOPTIME | FONTE 3" tvg-logo="https://4.bp.blogspot.com/-FpqJa2VVlTQ/UqN53jIDp4I/AAAAAAAAfzY/oAWCs9FQxDU/s1600/shoptime.png" group-title="TWO BR  | ABERTOS",SHOPTIME | FONTE 3
+http://tv.com.vc:80/edson/edson/621573
+#EXTINF:-1 tvg-id="TRUTVHB" tvg-name="TRUTV | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75608_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TRUTV | FONTE 1
+http://tv.com.vc:80/edson/edson/621574
+#EXTINF:-1 tvg-id="TRUTVHB" tvg-name="TRUTV | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75608_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TRUTV | FONTE 2
+http://tv.com.vc:80/edson/edson/621575
+#EXTINF:-1 tvg-id="TRUTVHB" tvg-name="TRUTV | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75608_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TRUTV | FONTE 3
+http://tv.com.vc:80/edson/edson/621576
+#EXTINF:-1 tvg-id="TVEB" tvg-name="TV BRASIL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s20750_ll_h3_am.png" group-title="TWO BR  | ABERTOS",TV BRASIL | FONTE 1
+http://tv.com.vc:80/edson/edson/621577
+#EXTINF:-1 tvg-id="TVEB" tvg-name="TV BRASIL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s20750_ll_h3_am.png" group-title="TWO BR  | ABERTOS",TV BRASIL | FONTE 3
+http://tv.com.vc:80/edson/edson/621579
+#EXTINF:-1 tvg-id="CAMARAH" tvg-name="TV CÂMARA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104197_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV CÂMARA | FONTE 1
+http://tv.com.vc:80/edson/edson/621580
+#EXTINF:-1 tvg-id="CAMARAH" tvg-name="TV CÂMARA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104197_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV CÂMARA | FONTE 3
+http://tv.com.vc:80/edson/edson/621581
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76216_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV CULTURA | FONTE 1
+http://tv.com.vc:80/edson/edson/621582
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s76216_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV CULTURA | FONTE 2
+http://tv.com.vc:80/edson/edson/621583
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s76216_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV CULTURA | FONTE 3
+http://tv.com.vc:80/edson/edson/621584
+#EXTINF:-1 tvg-id="ESCOLA" tvg-name="TV ESCOLA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s56337_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV ESCOLA | FONTE 1
+http://tv.com.vc:80/edson/edson/621585
+#EXTINF:-1 tvg-id="ESCOLA" tvg-name="TV ESCOLA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s56337_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV ESCOLA | FONTE 3
+http://tv.com.vc:80/edson/edson/621586
+#EXTINF:-1 tvg-id="JUSTI" tvg-name="TV JUSTIÇA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s56338_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV JUSTIÇA | FONTE 1
+http://tv.com.vc:80/edson/edson/621593
+#EXTINF:-1 tvg-id="JUSTI" tvg-name="TV JUSTIÇA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s56338_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV JUSTIÇA | FONTE 3
+http://tv.com.vc:80/edson/edson/621594
+#EXTINF:-1 tvg-id="PAMPAHD" tvg-name="TV PAMPA RIO GRANDE DO SUL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104209_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV PAMPA RIO GRANDE DO SUL | FONTE 1
+http://tv.com.vc:80/edson/edson/621601
+#EXTINF:-1 tvg-id="PAMPAHD" tvg-name="TV PAMPA RS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104209_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV PAMPA RS | FONTE 3
+http://tv.com.vc:80/edson/edson/621602
+#EXTINF:-1 tvg-id="TVRAHD" tvg-name="TV RÁ TIM BUM! | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104738_h3_aa.png" group-title="TWO BR  | ABERTOS",TV RÁ TIM BUM! | FONTE 1
+http://tv.com.vc:80/edson/edson/621603
+#EXTINF:-1 tvg-id="TVRAHD" tvg-name="TV RÁ TIM BUM! | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104738_h3_aa.png" group-title="TWO BR  | ABERTOS",TV RÁ TIM BUM! | FONTE 2
+http://tv.com.vc:80/edson/edson/621604
+#EXTINF:-1 tvg-id="SENADOH" tvg-name="TV SENADO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s105047_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV SENADO | FONTE 1
+http://tv.com.vc:80/edson/edson/621605
+#EXTINF:-1 tvg-id="SENADOH" tvg-name="TV SENADO | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s105047_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV SENADO | FONTE 2
+http://tv.com.vc:80/edson/edson/621606
+#EXTINF:-1 tvg-id="TVIVAHD" tvg-name="TERRAVIVA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103757_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TERRAVIVA | FONTE 1
+http://tv.com.vc:80/edson/edson/621607
+#EXTINF:-1 tvg-id="TVIVAHD" tvg-name="TERRAVIVA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103757_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TERRAVIVA | FONTE 2
+http://tv.com.vc:80/edson/edson/621608
+#EXTINF:-1 tvg-id="CEARA" tvg-name="TV CEARÁ | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s78173_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",TV CEARÁ | FONTE 1
+http://tv.com.vc:80/edson/edson/621609
+#EXTINF:-1 tvg-id="CNBRAS" tvg-name="CINE BRASIL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s77914_ll_h3_aa.png" group-title="TWO BR  | ABERTOS",CINE BRASIL | FONTE 1
+http://tv.com.vc:80/edson/edson/954401
+#EXTINF:-1 tvg-name="TV SHOPPING BRASIL | FONTE 1" tvg-logo="https://cdn.mitvstatic.com/programs/br_tv-shopping-brasil_p_m.jpg" group-title="TWO BR  | ABERTOS",TV SHOPPING BRASIL | FONTE 1
+http://tv.com.vc:80/edson/edson/954402
+#EXTINF:-1 tvg-id="TBRAZUC" tvg-name="TRACE BRASIL | FONTE 1" tvg-logo="https://img1.wsimg.com/isteam/ip/11edb162-8e14-4098-971b-59cc4ec80e0b/logo-trace-brasil-01.png/:/cr=t:7.63%25,l:26.17%25,w:47.67%25,h:84.75%25/rs=w:365,h:365,cg:true,m" group-title="TWO BR  | ABERTOS",TRACE BRASIL | FONTE 1
+http://tv.com.vc:80/edson/edson/954403
+#EXTINF:-1 tvg-name="COM BRASIL | FONTE 1" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TWO BR  | ABERTOS",COM BRASIL | FONTE 1
+http://tv.com.vc:80/edson/edson/954404
+#EXTINF:-1 tvg-name="COM BRASIL | FONTE 2" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TWO BR  | ABERTOS",COM BRASIL | FONTE 2
+http://tv.com.vc:80/edson/edson/954405
+#EXTINF:-1 tvg-name="COM BRASIL | FONTE 3" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TWO BR  | ABERTOS",COM BRASIL | FONTE 3
+http://tv.com.vc:80/edson/edson/954406
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="RRECFLO" tvg-name="RECORDTV NDTV SANTA CATARINA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s78335_ll_h3_ag.png" group-title="TWO BR  | RECORDTV",RECORDTV NDTV SANTA CATARINA | FONTE 1
+http://tv.com.vc:80/edson/edson/614763
+#EXTINF:-1 tvg-id="RRECFLO" tvg-name="RECORDTV NDTV SANTA CATARINA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s78335_ll_h3_ag.png" group-title="TWO BR  | RECORDTV",RECORDTV NDTV SANTA CATARINA | FONTE 2
+http://tv.com.vc:80/edson/edson/614944
+#EXTINF:-1 tvg-id="RRECFLO" tvg-name="RECORDTV NDTV SANTA CATARINA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s78335_ll_h3_ag.png" group-title="TWO BR  | RECORDTV",RECORDTV NDTV SANTA CATARINA | FONTE 3
+http://tv.com.vc:80/edson/edson/614945
+#EXTINF:-1 tvg-id="RICCURH" tvg-name="RECORDTV RIC TV PARANÁ | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104464_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIC TV PARANÁ | FONTE 1
+http://tv.com.vc:80/edson/edson/614946
+#EXTINF:-1 tvg-id="RICCURH" tvg-name="RECORDTV RIC TV PARANÁ | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104464_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIC TV PARANÁ | FONTE 3
+http://tv.com.vc:80/edson/edson/614947
+#EXTINF:-1 tvg-id="RECBELH" tvg-name="RECORDTV BELÉM | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104386_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV BELÉM | FONTE 1
+http://tv.com.vc:80/edson/edson/614948
+#EXTINF:-1 tvg-id="RECBELH" tvg-name="RECORDTV BELÉM | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104386_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV BELÉM | FONTE 2
+http://tv.com.vc:80/edson/edson/614966
+#EXTINF:-1 tvg-id="RECMINH" tvg-name="RECORDTV UBERLANDIA MINAS GERAIS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104208_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV UBERLANDIA MINAS GERAIS | FONTE 1
+http://tv.com.vc:80/edson/edson/615018
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RECORDTV SÃO PAULO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV SÃO PAULO | FONTE 1
+http://tv.com.vc:80/edson/edson/615019
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RECORDTV SÃO PAULO | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV SÃO PAULO | FONTE 2
+http://tv.com.vc:80/edson/edson/615020
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="RECORDTV SÃO PAULO | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV SÃO PAULO | FONTE 3
+http://tv.com.vc:80/edson/edson/615021
+#EXTINF:-1 tvg-id="ZYB861" tvg-name="RECORDTV RIO PRETO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76737_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIO PRETO | FONTE 1
+http://tv.com.vc:80/edson/edson/615022
+#EXTINF:-1 tvg-id="ATALAHD" tvg-name="RECORDTV TVATALAIA SERGIPE | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104274_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV TVATALAIA SERGIPE | FONTE 1
+http://tv.com.vc:80/edson/edson/615023
+#EXTINF:-1 tvg-id="ZYB894" tvg-name="RECORDTV LITORAL/VALE SANTOS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76716_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV LITORAL/VALE SANTOS | FONTE 1
+http://tv.com.vc:80/edson/edson/615032
+#EXTINF:-1 tvg-id="ZYB622" tvg-name="RECORDTV RIO GRANDE DO SUL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76674_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIO GRANDE DO SUL | FONTE 1
+http://tv.com.vc:80/edson/edson/615034
+#EXTINF:-1 tvg-id="ZYB622" tvg-name="RECORDTV RIO GRANDE DO SUL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s76674_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIO GRANDE DO SUL | FONTE 3
+http://tv.com.vc:80/edson/edson/615046
+#EXTINF:-1 tvg-id="RECRIOH" tvg-name="RECORDTV RIO DE JANEIRO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104206_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIO DE JANEIRO | FONTE 1
+http://tv.com.vc:80/edson/edson/615047
+#EXTINF:-1 tvg-id="RECRIOH" tvg-name="RECORDTV RIO DE JANEIRO | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104206_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIO DE JANEIRO | FONTE 2
+http://tv.com.vc:80/edson/edson/615048
+#EXTINF:-1 tvg-id="RECRIOH" tvg-name="RECORDTV RIO DE JANEIRO | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104206_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV RIO DE JANEIRO | FONTE 3
+http://tv.com.vc:80/edson/edson/615049
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORDTV NEWS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103743_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV NEWS | FONTE 1
+http://tv.com.vc:80/edson/edson/615050
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORDTV NEWS | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103743_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV NEWS | FONTE 2
+http://tv.com.vc:80/edson/edson/615051
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="RECORDTV NEWS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103743_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV NEWS | FONTE 3
+http://tv.com.vc:80/edson/edson/615052
+#EXTINF:-1 tvg-id="RECMINH" tvg-name="RECORDTV MINAS GERAIS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104208_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV MINAS GERAIS | FONTE 1
+http://tv.com.vc:80/edson/edson/615053
+#EXTINF:-1 tvg-id="RECMINH" tvg-name="RECORDTV MINAS GERAIS | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104208_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV MINAS GERAIS | FONTE 2
+http://tv.com.vc:80/edson/edson/615054
+#EXTINF:-1 tvg-id="RECMINH" tvg-name="RECORDTV MINAS GERAIS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104208_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV MINAS GERAIS | FONTE 3
+http://tv.com.vc:80/edson/edson/615055
+#EXTINF:-1 tvg-id="RRECHD" tvg-name="RECORDTV MANAUS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s78342_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV MANAUS | FONTE 1
+http://tv.com.vc:80/edson/edson/615620
+#EXTINF:-1 tvg-id="RRECHD" tvg-name="RECORDTV MANAUS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s78342_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV MANAUS | FONTE 3
+http://tv.com.vc:80/edson/edson/615621
+#EXTINF:-1 tvg-id="RECGOIH" tvg-name="RECORDTV GOIÁS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104205_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV GOIÁS | FONTE 1
+http://tv.com.vc:80/edson/edson/615636
+#EXTINF:-1 tvg-id="RECGOIH" tvg-name="RECORDTV GOIÁS | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104205_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV GOIÁS | FONTE 2
+http://tv.com.vc:80/edson/edson/615637
+#EXTINF:-1 tvg-id="RECGOIH" tvg-name="RECORDTV GOIÁS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104205_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV GOIÁS | FONTE 3
+http://tv.com.vc:80/edson/edson/615638
+#EXTINF:-1 tvg-id="ZYB923" tvg-name="RECORDTV TV THATHI CAMPINAS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76633_ll_h3_ab.png" group-title="TWO BR  | RECORDTV",RECORDTV TV THATHI CAMPINAS | FONTE 1
+http://tv.com.vc:80/edson/edson/615639
+#EXTINF:-1 tvg-id="ZYB923" tvg-name="RECORDTV TV THATHI CAMPINAS | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s76633_ll_h3_ab.png" group-title="TWO BR  | RECORDTV",RECORDTV TV THATHI CAMPINAS | FONTE 2
+http://tv.com.vc:80/edson/edson/615640
+#EXTINF:-1 tvg-id="ZYB923" tvg-name="RECORDTV TV THATHI CAMPINAS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s76633_ll_h3_ab.png" group-title="TWO BR  | RECORDTV",RECORDTV TV THATHI CAMPINAS | FONTE 3
+http://tv.com.vc:80/edson/edson/615641
+#EXTINF:-1 tvg-id="RECBRAH" tvg-name="RECORDTV BRASÍLIA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104275_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV BRASÍLIA | FONTE 1
+http://tv.com.vc:80/edson/edson/615642
+#EXTINF:-1 tvg-id="RECBRAH" tvg-name="RECORDTV BRASÍLIA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104275_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV BRASÍLIA | FONTE 2
+http://tv.com.vc:80/edson/edson/615643
+#EXTINF:-1 tvg-id="RECBRAH" tvg-name="RECORDTV BRASÍLIA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104275_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV BRASÍLIA | FONTE 3
+http://tv.com.vc:80/edson/edson/615644
+#EXTINF:-1 tvg-id="RECITAH" tvg-name="RECORDTV ITAPOAN BAHIA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104203_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV ITAPOAN BAHIA | FONTE 1
+http://tv.com.vc:80/edson/edson/615645
+#EXTINF:-1 tvg-id="RECITAH" tvg-name="RECORDTV ITAPOAN BAHIA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104203_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV ITAPOAN BAHIA | FONTE 2
+http://tv.com.vc:80/edson/edson/615646
+#EXTINF:-1 tvg-id="RECITAH" tvg-name="RECORDTV ITAPOAN BAHIA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104203_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV ITAPOAN BAHIA | FONTE 3
+http://tv.com.vc:80/edson/edson/615647
+#EXTINF:-1 tvg-name="RECORDTV TV GUARARAPES RECIFE | FONTE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQKGMogTOHvoDBrmviU6C54u13HvErUAoX-Zbp0_Wue5JNJcleGFx_G1Nm_2qHXPinao&usqp=CAU" group-title="TWO BR  | RECORDTV",RECORDTV TV GUARARAPES RECIFE | FONTE 3
+http://tv.com.vc:80/edson/edson/740773
+#EXTINF:-1 tvg-id="PAJUCHD" tvg-name="RECORDTV TV PAJUÇARA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s107170_ll_h3_aa.png" group-title="TWO BR  | RECORDTV",RECORDTV TV PAJUÇARA | FONTE 3
+http://tv.com.vc:80/edson/edson/907254
+
+
+#EXTINF:-1 tvg-id="AEBR" tvg-name="A&E | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s16268_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",A&E | FONTE 1
+http://tv.com.vc:80/edson/edson/455213
+#EXTINF:-1 tvg-id="AEBR" tvg-name="A&E | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s16268_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",A&E | FONTE 2
+http://tv.com.vc:80/edson/edson/455214
+#EXTINF:-1 tvg-id="AEBR" tvg-name="A&E | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s16268_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",A&E | FONTE 3
+http://tv.com.vc:80/edson/edson/455215
+#EXTINF:-1 tvg-id="AMCB" tvg-name="AMC | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s92009_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",AMC | FONTE 1
+http://tv.com.vc:80/edson/edson/455216
+#EXTINF:-1 tvg-id="AMCB" tvg-name="AMC | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s92009_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",AMC | FONTE 2
+http://tv.com.vc:80/edson/edson/455217
+#EXTINF:-1 tvg-id="AMCB" tvg-name="AMC | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s92009_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",AMC | FONTE 3
+http://tv.com.vc:80/edson/edson/455218
+#EXTINF:-1 tvg-id="AXNHDB" tvg-name="AXN | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75580_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",AXN | FONTE 1
+http://tv.com.vc:80/edson/edson/455219
+#EXTINF:-1 tvg-id="AXNB" tvg-name="AXN | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s16439_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",AXN | FONTE 2
+http://tv.com.vc:80/edson/edson/455220
+#EXTINF:-1 tvg-id="AXNHDB" tvg-name="AXN | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75580_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",AXN | FONTE 3
+http://tv.com.vc:80/edson/edson/455221
+#EXTINF:-1 tvg-id="SONYHDB" tvg-name="SONY CHANNEL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75596_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",SONY CHANNEL | FONTE 1
+http://tv.com.vc:80/edson/edson/455222
+#EXTINF:-1 tvg-id="SONYHDB" tvg-name="SONY CHANNEL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75596_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",SONY CHANNEL | FONTE 2
+http://tv.com.vc:80/edson/edson/455223
+#EXTINF:-1 tvg-id="SONYHDB" tvg-name="SONY CHANNEL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75596_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",SONY CHANNEL | FONTE 3
+http://tv.com.vc:80/edson/edson/455224
+#EXTINF:-1 tvg-id="MAXBSC" tvg-name="CINEMAX | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75583_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",CINEMAX | FONTE 1
+http://tv.com.vc:80/edson/edson/455225
+#EXTINF:-1 tvg-id="MAXBSC" tvg-name="CINEMAX | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75583_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",CINEMAX | FONTE 2
+http://tv.com.vc:80/edson/edson/455226
+#EXTINF:-1 tvg-id="MAXBSC" tvg-name="CINEMAX | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75583_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",CINEMAX | FONTE 3
+http://tv.com.vc:80/edson/edson/455227
+#EXTINF:-1 tvg-id="DISHD" tvg-name="DISNEY CHANNEL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75584_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",DISNEY CHANNEL | FONTE 1
+http://tv.com.vc:80/edson/edson/455228
+#EXTINF:-1 tvg-id="DISHD" tvg-name="DISNEY CHANNEL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75584_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",DISNEY CHANNEL | FONTE 2
+http://tv.com.vc:80/edson/edson/455229
+#EXTINF:-1 tvg-id="DISHD" tvg-name="DISNEY CHANNEL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75584_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",DISNEY CHANNEL | FONTE 3
+http://tv.com.vc:80/edson/edson/455230
+#EXTINF:-1 tvg-id="FABBHD" tvg-name="FILM & ART | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s110389_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",FILM & ART | FONTE 1
+http://tv.com.vc:80/edson/edson/455231
+#EXTINF:-1 tvg-id="FABBHD" tvg-name="FILM & ART | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s110389_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",FILM & ART | FONTE 2
+http://tv.com.vc:80/edson/edson/455232
+#EXTINF:-1 tvg-id="FABBHD" tvg-name="FILM & ART | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s110389_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",FILM & ART | FONTE 3
+http://tv.com.vc:80/edson/edson/455233
+#EXTINF:-1 tvg-id="FXB" tvg-name="FX | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s54591_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",FX | FONTE 1
+http://tv.com.vc:80/edson/edson/455234
+#EXTINF:-1 tvg-id="FXB" tvg-name="FX | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s54591_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",FX | FONTE 2
+http://tv.com.vc:80/edson/edson/455235
+#EXTINF:-1 tvg-id="FXB" tvg-name="FX | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s54591_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",FX | FONTE 3
+http://tv.com.vc:80/edson/edson/455236
+#EXTINF:-1 tvg-id="LIFEBR" tvg-name="LIFETIME | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s89295_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",LIFETIME | FONTE 1
+http://tv.com.vc:80/edson/edson/455237
+#EXTINF:-1 tvg-id="LIFEBR" tvg-name="LIFETIME | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s89295_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",LIFETIME | FONTE 2
+http://tv.com.vc:80/edson/edson/455238
+#EXTINF:-1 tvg-id="LIFEBR" tvg-name="LIFETIME | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s89295_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",LIFETIME | FONTE 3
+http://tv.com.vc:80/edson/edson/455239
+#EXTINF:-1 tvg-id="MGPIXHD" tvg-name="MEGAPIX |  FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s78130_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",MEGAPIX |  FONTE 1
+http://tv.com.vc:80/edson/edson/455240
+#EXTINF:-1 tvg-id="MGPIXHD" tvg-name="MEGAPIX | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s78130_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",MEGAPIX | FONTE 2
+http://tv.com.vc:80/edson/edson/455241
+#EXTINF:-1 tvg-id="MGPIXHD" tvg-name="MEGAPIX | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s78130_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",MEGAPIX | FONTE 3
+http://tv.com.vc:80/edson/edson/455242
+#EXTINF:-1 tvg-id="PARAMB" tvg-name="PARAMOUNT NETWORK | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s90944_ll_h3_ac.png" group-title="TWO BR  | FILMES E SERIES",PARAMOUNT NETWORK | FONTE 1
+http://tv.com.vc:80/edson/edson/455244
+#EXTINF:-1 tvg-id="PARAMB" tvg-name="PARAMOUNT NETWORK | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s90944_ll_h3_ac.png" group-title="TWO BR  | FILMES E SERIES",PARAMOUNT NETWORK | FONTE 2
+http://tv.com.vc:80/edson/edson/455245
+#EXTINF:-1 tvg-id="PARAMB" tvg-name="PARAMOUNT NETWORK | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s90944_ll_h3_ac.png" group-title="TWO BR  | FILMES E SERIES",PARAMOUNT NETWORK | FONTE 3
+http://tv.com.vc:80/edson/edson/455246
+#EXTINF:-1 tvg-id="SPACEB" tvg-name="SPACE | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75597_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",SPACE | FONTE 1
+http://tv.com.vc:80/edson/edson/455247
+#EXTINF:-1 tvg-id="SPACEB" tvg-name="SPACE | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75597_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",SPACE | FONTE 2
+http://tv.com.vc:80/edson/edson/455248
+#EXTINF:-1 tvg-id="SPACEB" tvg-name="SPACE | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75597_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",SPACE | FONTE 3
+http://tv.com.vc:80/edson/edson/455249
+#EXTINF:-1 tvg-id="FOXHDB" tvg-name="STAR CHANNEL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75423_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",STAR CHANNEL | FONTE 1
+http://tv.com.vc:80/edson/edson/455250
+#EXTINF:-1 tvg-id="FOXHDB" tvg-name="STAR CHANNEL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75423_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",STAR CHANNEL | FONTE 2
+http://tv.com.vc:80/edson/edson/455251
+#EXTINF:-1 tvg-id="FOXHDB" tvg-name="STAR CHANNEL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75423_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",STAR CHANNEL | FONTE 3
+http://tv.com.vc:80/edson/edson/455252
+#EXTINF:-1 tvg-name="CINECANAL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",CINECANAL | FONTE 1
+http://tv.com.vc:80/edson/edson/455253
+#EXTINF:-1 tvg-name="CINECANAL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",CINECANAL | FONTE 2
+http://tv.com.vc:80/edson/edson/455254
+#EXTINF:-1 tvg-name="CINECANAL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",CINECANAL | FONTE 3
+http://tv.com.vc:80/edson/edson/455255
+#EXTINF:-1 tvg-id="STUBRHD" tvg-name="STUDIO UNIVERSAL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104740_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",STUDIO UNIVERSAL | FONTE 1
+http://tv.com.vc:80/edson/edson/455256
+#EXTINF:-1 tvg-id="STUBRHD" tvg-name="STUDIO UNIVERSAL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104740_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",STUDIO UNIVERSAL | FONTE 2
+http://tv.com.vc:80/edson/edson/455257
+#EXTINF:-1 tvg-id="STUBRHD" tvg-name="STUDIO UNIVERSAL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104740_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",STUDIO UNIVERSAL | FONTE 3
+http://tv.com.vc:80/edson/edson/455258
+#EXTINF:-1 tvg-id="SYFYBHD" tvg-name="SYFY | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s104739_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",SYFY | FONTE 1
+http://tv.com.vc:80/edson/edson/455259
+#EXTINF:-1 tvg-id="SYFYBHD" tvg-name="SYFY | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s104739_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",SYFY | FONTE 2
+http://tv.com.vc:80/edson/edson/455260
+#EXTINF:-1 tvg-id="SYFYBHD" tvg-name="SYFY | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s104739_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",SYFY | FONTE 3
+http://tv.com.vc:80/edson/edson/455261
+#EXTINF:-1 tvg-id="BRZTBSH" tvg-name="TNT NOVELAS | FONTE 1" tvg-logo="https://alemdatela.com/wp-content/uploads/2023/05/tnt-novelas-logo-Large-696x392.jpeg" group-title="TWO BR  | FILMES E SERIES",TNT NOVELAS | FONTE 1
+http://tv.com.vc:80/edson/edson/455262
+#EXTINF:-1 tvg-id="BRZTBSH" tvg-name="TNT NOVELAS | FONTE 2" tvg-logo="https://alemdatela.com/wp-content/uploads/2023/05/tnt-novelas-logo-Large-696x392.jpeg" group-title="TWO BR  | FILMES E SERIES",TNT NOVELAS | FONTE 2
+http://tv.com.vc:80/edson/edson/455263
+#EXTINF:-1 tvg-id="BRZTBSH" tvg-name="TNT NOVELAS | FONTE 3" tvg-logo="https://alemdatela.com/wp-content/uploads/2023/05/tnt-novelas-logo-Large-696x392.jpeg" group-title="TWO BR  | FILMES E SERIES",TNT NOVELAS | FONTE 3
+http://tv.com.vc:80/edson/edson/455264
+#EXTINF:-1 tvg-id="TNTHDOI" tvg-name="TNT | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s111158_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TNT | FONTE 1
+http://tv.com.vc:80/edson/edson/455265
+#EXTINF:-1 tvg-id="TNTHDOI" tvg-name="TNT | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s111158_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TNT | FONTE 2
+http://tv.com.vc:80/edson/edson/455266
+#EXTINF:-1 tvg-id="TNTHDOI" tvg-name="TNT | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s111158_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TNT | FONTE 3
+http://tv.com.vc:80/edson/edson/455267
+#EXTINF:-1 tvg-id="TNTSBHD" tvg-name="TNT SERIES | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s101728_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TNT SERIES | FONTE 1
+http://tv.com.vc:80/edson/edson/455268
+#EXTINF:-1 tvg-id="TNTSBHD" tvg-name="TNT SERIES | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s101728_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TNT SERIES | FONTE 2
+http://tv.com.vc:80/edson/edson/455269
+#EXTINF:-1 tvg-id="TNTSBHD" tvg-name="TNT SERIES | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s101728_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TNT SERIES | FONTE 3
+http://tv.com.vc:80/edson/edson/455270
+#EXTINF:-1 tvg-id="UNVRBHD" tvg-name="UNIVERSAL TV | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s94571_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",UNIVERSAL TV | FONTE 1
+http://tv.com.vc:80/edson/edson/455271
+#EXTINF:-1 tvg-id="UNVRBHD" tvg-name="UNIVERSAL TV | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s94571_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",UNIVERSAL TV | FONTE 2
+http://tv.com.vc:80/edson/edson/455272
+#EXTINF:-1 tvg-id="UNVRBHD" tvg-name="UNIVERSAL TV | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s94571_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",UNIVERSAL TV | FONTE 3
+http://tv.com.vc:80/edson/edson/455273
+#EXTINF:-1 tvg-id="WBB" tvg-name="WARNER CHANNEL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s16214_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",WARNER CHANNEL | FONTE 1
+http://tv.com.vc:80/edson/edson/455274
+#EXTINF:-1 tvg-id="WBB" tvg-name="WARNER CHANNEL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s16214_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",WARNER CHANNEL | FONTE 2
+http://tv.com.vc:80/edson/edson/455275
+#EXTINF:-1 tvg-id="WBB" tvg-name="WARNER CHANNEL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s16214_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",WARNER CHANNEL | FONTE 3
+http://tv.com.vc:80/edson/edson/455276
+#EXTINF:-1 tvg-id="EUR" tvg-name="EUROCHANNEL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s38706_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",EUROCHANNEL | FONTE 2
+http://tv.com.vc:80/edson/edson/455321
+#EXTINF:-1 tvg-id="TCMB" tvg-name="TCM | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s56102_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TCM | FONTE 1
+http://tv.com.vc:80/edson/edson/455322
+#EXTINF:-1 tvg-id="TCMB" tvg-name="TCM | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s56102_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TCM | FONTE 2
+http://tv.com.vc:80/edson/edson/455323
+#EXTINF:-1 tvg-id="TCMB" tvg-name="TCM | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s56102_ll_h3_aa.png" group-title="TWO BR  | FILMES E SERIES",TCM | FONTE 3
+http://tv.com.vc:80/edson/edson/455324
+#EXTINF:-1 tvg-id="COMCHD" tvg-name="COMEDY CENTRAL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s83200_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",COMEDY CENTRAL | FONTE 1
+http://tv.com.vc:80/edson/edson/455339
+#EXTINF:-1 tvg-id="COMCHD" tvg-name="COMEDY CENTRAL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s83200_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",COMEDY CENTRAL | FONTE 2
+http://tv.com.vc:80/edson/edson/455340
+#EXTINF:-1 tvg-id="COMCHD" tvg-name="COMEDY CENTRAL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s83200_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",COMEDY CENTRAL | FONTE 3
+http://tv.com.vc:80/edson/edson/455341
+#EXTINF:-1 tvg-name="FRONTEIRA MOVIES | FONTE 3" tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="TWO BR  | FILMES E SERIES",FRONTEIRA MOVIES | FONTE 3
+http://tv.com.vc:80/edson/edson/455342
+#EXTINF:-1 tvg-name="GOSPEL MOVIES | FONTE 3" tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="TWO BR  | FILMES E SERIES",GOSPEL MOVIES | FONTE 3
+http://tv.com.vc:80/edson/edson/455343
+#EXTINF:-1 tvg-name="URBAN TRAVEL | FONTE 3" tvg-logo="https://www.urbanplay.com.br/archives/23-urban-travel-png_22814-vwd27n3oby/retrieve" group-title="TWO BR  | FILMES E SERIES",URBAN TRAVEL | FONTE 3
+http://tv.com.vc:80/edson/edson/828522
+#EXTINF:-1 tvg-name="URBAN SÉRIES | FONTE 3" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/4/thumb_logo-urbanseries-1642531559.png" group-title="TWO BR  | FILMES E SERIES",URBAN SÉRIES | FONTE 3
+http://tv.com.vc:80/edson/edson/828523
+#EXTINF:-1 tvg-name="URBAN RETRO | FONTE 3" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/9/thumb_logo-urbanretro-1642531541.png" group-title="TWO BR  | FILMES E SERIES",URBAN RETRO | FONTE 3
+http://tv.com.vc:80/edson/edson/828524
+#EXTINF:-1 tvg-name="URBAN MOVIES | FONTE 3" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/2/thumb_logo-urbanmovies-1642531517.png" group-title="TWO BR  | FILMES E SERIES",URBAN MOVIES | FONTE 3
+http://tv.com.vc:80/edson/edson/828525
+#EXTINF:-1 tvg-id="SONYMOV" tvg-name="SONY MOVIES | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s81450_ll_h3_ab.png" group-title="TWO BR  | FILMES E SERIES",SONY MOVIES | FONTE 1
+http://tv.com.vc:80/edson/edson/954252
+
+
+
+
+#EXTINF:-1 tvg-name="STAR+ 1 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/454675
+#EXTINF:-1 tvg-name="STAR+ 1 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/454679
+#EXTINF:-1 tvg-name="STAR+ 1 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/454680
+#EXTINF:-1 tvg-name="STAR+ 2 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/454681
+#EXTINF:-1 tvg-name="STAR+ 2 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/454682
+#EXTINF:-1 tvg-name="STAR+ 2 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/454683
+#EXTINF:-1 tvg-name="STAR+ 3 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/454684
+#EXTINF:-1 tvg-name="STAR+ 3 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 3 | FONTE 2
+http://tv.com.vc:80/edson/edson/454685
+#EXTINF:-1 tvg-name="STAR+ 3 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/454686
+#EXTINF:-1 tvg-name="STAR+ 4 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/454687
+#EXTINF:-1 tvg-name="STAR+ 4 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 4 | FONTE 2
+http://tv.com.vc:80/edson/edson/454688
+#EXTINF:-1 tvg-name="STAR+ 4 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/454689
+#EXTINF:-1 tvg-name="STAR+ 5 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 5 | FONTE 1
+http://tv.com.vc:80/edson/edson/454690
+#EXTINF:-1 tvg-name="STAR+ 5 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 5 | FONTE 2
+http://tv.com.vc:80/edson/edson/454691
+#EXTINF:-1 tvg-name="STAR+ 5 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 5 | FONTE 3
+http://tv.com.vc:80/edson/edson/454692
+#EXTINF:-1 tvg-name="STAR+ 6 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 6 | FONTE 1
+http://tv.com.vc:80/edson/edson/454693
+#EXTINF:-1 tvg-name="STAR+ 6 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 6 | FONTE 2
+http://tv.com.vc:80/edson/edson/454694
+#EXTINF:-1 tvg-name="STAR+ 6 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 6 | FONTE 3
+http://tv.com.vc:80/edson/edson/454695
+#EXTINF:-1 tvg-name="STAR+ 7 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 7 | FONTE 2
+http://tv.com.vc:80/edson/edson/454696
+#EXTINF:-1 tvg-name="STAR+ 7 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 7 | FONTE 3
+http://tv.com.vc:80/edson/edson/454697
+#EXTINF:-1 tvg-name="STAR+ 8 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 8 | FONTE 2
+http://tv.com.vc:80/edson/edson/454698
+#EXTINF:-1 tvg-name="STAR+ 9 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 9 | FONTE 2
+http://tv.com.vc:80/edson/edson/454699
+#EXTINF:-1 tvg-name="STAR+ 10 | FONTE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/star-plus-logo.png" group-title="TWO BR  | ESPORTES PPV",STAR+ 10 | FONTE 2
+http://tv.com.vc:80/edson/edson/454700
+#EXTINF:-1 tvg-name="HBO MAX 1 | FONTE 1" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/454701
+#EXTINF:-1 tvg-name="HBO MAX 1 | FONTE 2" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/454702
+#EXTINF:-1 tvg-name="HBO MAX 1 | FONTE 3" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/454703
+#EXTINF:-1 tvg-name="HBO MAX 2 | FONTE 1" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/454704
+#EXTINF:-1 tvg-name="HBO MAX 2 | FONTE 2" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/454705
+#EXTINF:-1 tvg-name="HBO MAX 2 | FONTE 3" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/454706
+#EXTINF:-1 tvg-name="HBO MAX 3 | FONTE 1" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/454707
+#EXTINF:-1 tvg-name="HBO MAX 3 | FONTE 2" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 3 | FONTE 2
+http://tv.com.vc:80/edson/edson/454708
+#EXTINF:-1 tvg-name="HBO MAX 3 | FONTE 3" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/454709
+#EXTINF:-1 tvg-name="HBO MAX 4 | FONTE 1" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/454710
+#EXTINF:-1 tvg-name="HBO MAX 4 | FONTE 2" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 4 | FONTE 2
+http://tv.com.vc:80/edson/edson/454711
+#EXTINF:-1 tvg-name="HBO MAX 4 | FONTE 3" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/454712
+#EXTINF:-1 tvg-name="HBO MAX 5 | FONTE 1" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 5 | FONTE 1
+http://tv.com.vc:80/edson/edson/454713
+#EXTINF:-1 tvg-name="HBO MAX 5 | FONTE 3" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 5 | FONTE 3
+http://tv.com.vc:80/edson/edson/454715
+#EXTINF:-1 tvg-name="HBO MAX 6 | FONTE 1" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 6 | FONTE 1
+http://tv.com.vc:80/edson/edson/454716
+#EXTINF:-1 tvg-name="HBO MAX 6 | FONTE 3" tvg-logo="https://zipix.com.br/wp-content/uploads/2021/10/hbo-max.png" group-title="TWO BR  | ESPORTES PPV",HBO MAX 6 | FONTE 3
+http://tv.com.vc:80/edson/edson/454717
+#EXTINF:-1 tvg-name="ONEFOOTBALL 1 | FONTE 1" tvg-logo="https://peregrine.onefootball.com/images/sharing_banner.png" group-title="TWO BR  | ESPORTES PPV",ONEFOOTBALL 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/454787
+#EXTINF:-1 tvg-name="ONEFOOTBALL 1 | FONTE 3" tvg-logo="https://peregrine.onefootball.com/images/sharing_banner.png" group-title="TWO BR  | ESPORTES PPV",ONEFOOTBALL 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/454789
+#EXTINF:-1 tvg-name="ONEFOOTBALL 2 | FONTE 1" tvg-logo="https://peregrine.onefootball.com/images/sharing_banner.png" group-title="TWO BR  | ESPORTES PPV",ONEFOOTBALL 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/454790
+#EXTINF:-1 tvg-name="ONEFOOTBALL 2 | FONTE 3" tvg-logo="https://peregrine.onefootball.com/images/sharing_banner.png" group-title="TWO BR  | ESPORTES PPV",ONEFOOTBALL 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/454791
+#EXTINF:-1 tvg-id="TEAM1SA" tvg-name="NBA LEAGUE PASS 1 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/454943
+#EXTINF:-1 tvg-id="TEAM1SA" tvg-name="NBA LEAGUE PASS 1 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/454944
+#EXTINF:-1 tvg-id="TEAM1SA" tvg-name="NBA LEAGUE PASS 1 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/454945
+#EXTINF:-1 tvg-id="TEAM2SA" tvg-name="NBA LEAGUE PASS 2 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/454946
+#EXTINF:-1 tvg-id="TEAM2SA" tvg-name="NBA LEAGUE PASS 2 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/454947
+#EXTINF:-1 tvg-id="TEAM2SA" tvg-name="NBA LEAGUE PASS 2 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/454948
+#EXTINF:-1 tvg-id="TEAM3SA" tvg-name="NBA LEAGUE PASS 3 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/454949
+#EXTINF:-1 tvg-id="TEAM3SA" tvg-name="NBA LEAGUE PASS 3 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 3 | FONTE 2
+http://tv.com.vc:80/edson/edson/454950
+#EXTINF:-1 tvg-id="TEAM3SA" tvg-name="NBA LEAGUE PASS 3 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/454951
+#EXTINF:-1 tvg-id="TEAM4SA" tvg-name="NBA LEAGUE PASS 4 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/454952
+#EXTINF:-1 tvg-id="TEAM4SA" tvg-name="NBA LEAGUE PASS 4 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 4 | FONTE 2
+http://tv.com.vc:80/edson/edson/454953
+#EXTINF:-1 tvg-id="TEAM4SA" tvg-name="NBA LEAGUE PASS 4 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/454954
+#EXTINF:-1 tvg-id="TEAM5SA" tvg-name="NBA LEAGUE PASS 5 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 5 | FONTE 1
+http://tv.com.vc:80/edson/edson/454955
+#EXTINF:-1 tvg-id="TEAM5SA" tvg-name="NBA LEAGUE PASS 5 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 5 | FONTE 2
+http://tv.com.vc:80/edson/edson/454956
+#EXTINF:-1 tvg-id="TEAM5SA" tvg-name="NBA LEAGUE PASS 5 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 5 | FONTE 3
+http://tv.com.vc:80/edson/edson/454957
+#EXTINF:-1 tvg-name="NBA LEAGUE PASS 6 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 6 | FONTE 1
+http://tv.com.vc:80/edson/edson/454958
+#EXTINF:-1 tvg-id="TEAM6SA" tvg-name="NBA LEAGUE PASS 6 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 6 | FONTE 2
+http://tv.com.vc:80/edson/edson/454959
+#EXTINF:-1 tvg-id="TEAM6SA" tvg-name="NBA LEAGUE PASS 6 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 6 | FONTE 3
+http://tv.com.vc:80/edson/edson/454960
+#EXTINF:-1 tvg-id="TEAM7SA" tvg-name="NBA LEAGUE PASS 7 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 7 | FONTE 1
+http://tv.com.vc:80/edson/edson/454961
+#EXTINF:-1 tvg-id="TEAM7SA" tvg-name="NBA LEAGUE PASS 7 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 7 | FONTE 2
+http://tv.com.vc:80/edson/edson/454962
+#EXTINF:-1 tvg-id="TEAM7SA" tvg-name="NBA LEAGUE PASS 7 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 7 | FONTE 3
+http://tv.com.vc:80/edson/edson/454963
+#EXTINF:-1 tvg-id="TEAM8SA" tvg-name="NBA LEAGUE PASS 8 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 8 | FONTE 1
+http://tv.com.vc:80/edson/edson/454964
+#EXTINF:-1 tvg-id="TEAM8SA" tvg-name="NBA LEAGUE PASS 8 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 8 | FONTE 2
+http://tv.com.vc:80/edson/edson/454965
+#EXTINF:-1 tvg-id="TEAM8SA" tvg-name="NBA LEAGUE PASS 8 | FONTE 3" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 8 | FONTE 3
+http://tv.com.vc:80/edson/edson/454966
+#EXTINF:-1 tvg-id="TEAM9SA" tvg-name="NBA LEAGUE PASS 9 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 9 | FONTE 1
+http://tv.com.vc:80/edson/edson/454967
+#EXTINF:-1 tvg-id="TEAM9SA" tvg-name="NBA LEAGUE PASS 9 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 9 | FONTE 2
+http://tv.com.vc:80/edson/edson/454968
+#EXTINF:-1 tvg-id="TEA10" tvg-name="NBA LEAGUE PASS 10 | FONTE 1" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 10 | FONTE 1
+http://tv.com.vc:80/edson/edson/454969
+#EXTINF:-1 tvg-id="TEA10" tvg-name="NBA LEAGUE PASS 10 | FONTE 2" tvg-logo="https://www.pacotes.org/wp-content/uploads/2021/01/nba-league-pass.png" group-title="TWO BR  | ESPORTES PPV",NBA LEAGUE PASS 10 | FONTE 2
+http://tv.com.vc:80/edson/edson/454970
+#EXTINF:-1 tvg-name="YOUTUBE 1 | FONTE 1" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg" group-title="TWO BR  | ESPORTES PPV",YOUTUBE 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/454972
+#EXTINF:-1 tvg-name="YOUTUBE 2 | FONTE 1" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg" group-title="TWO BR  | ESPORTES PPV",YOUTUBE 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/454973
+#EXTINF:-1 tvg-name="YOUTUBE 3 | FONTE 1" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg" group-title="TWO BR  | ESPORTES PPV",YOUTUBE 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/454974
+#EXTINF:-1 tvg-name="YOUTUBE 4 | FONTE 1" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg" group-title="TWO BR  | ESPORTES PPV",YOUTUBE 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/454975
+#EXTINF:-1 tvg-name="YOUTUBE 5 | FONTE 1" tvg-logo="https://gkpb.com.br/wp-content/uploads/2017/08/novo-logo-youtube.jpg" group-title="TWO BR  | ESPORTES PPV",YOUTUBE 5 | FONTE 1
+http://tv.com.vc:80/edson/edson/454976
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/454977
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/454978
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/454979
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/454980
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/454981
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/454982
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/454983
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 3 | FONTE 2
+http://tv.com.vc:80/edson/edson/454984
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/454985
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/454986
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 4 | FONTE 2
+http://tv.com.vc:80/edson/edson/454987
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/454988
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 5 | FONTE 1
+http://tv.com.vc:80/edson/edson/454989
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 5 | FONTE 2
+http://tv.com.vc:80/edson/edson/454990
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 5 | FONTE 3
+http://tv.com.vc:80/edson/edson/454991
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 6 | FONTE 1
+http://tv.com.vc:80/edson/edson/454992
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 6 | FONTE 2
+http://tv.com.vc:80/edson/edson/454993
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 6 | FONTE 3
+http://tv.com.vc:80/edson/edson/454994
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 7 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 7 | FONTE 1
+http://tv.com.vc:80/edson/edson/454995
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 7 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 7 | FONTE 2
+http://tv.com.vc:80/edson/edson/454996
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 7 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 7 | FONTE 3
+http://tv.com.vc:80/edson/edson/454997
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 8 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 8 | FONTE 1
+http://tv.com.vc:80/edson/edson/454998
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 8 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 8 | FONTE 2
+http://tv.com.vc:80/edson/edson/454999
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 8 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 8 | FONTE 3
+http://tv.com.vc:80/edson/edson/455000
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 9 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 9 | FONTE 1
+http://tv.com.vc:80/edson/edson/455001
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 9 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 9 | FONTE 2
+http://tv.com.vc:80/edson/edson/455002
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 9 | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 9 | FONTE 3
+http://tv.com.vc:80/edson/edson/455003
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 10 | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 10 | FONTE 1
+http://tv.com.vc:80/edson/edson/455004
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 10 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s103929_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",ELEVEN SPORTS 10 | FONTE 2
+http://tv.com.vc:80/edson/edson/455005
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 1 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/455006
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 1 | FONTE 2" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/455007
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 1 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455017
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 2 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/455018
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 2 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455020
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 3 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/455021
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 3 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/455023
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 4 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/455024
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 4 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/455026
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 5 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 5 | FONTE 1
+http://tv.com.vc:80/edson/edson/455027
+#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS 5 | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="TWO BR  | ESPORTES PPV",ESTADIO TNT SPORTS 5 | FONTE 3
+http://tv.com.vc:80/edson/edson/455029
+#EXTINF:-1 tvg-name="NSPORTS 1 | FONTE 1" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/455045
+#EXTINF:-1 tvg-name="NSPORTS 1 | FONTE 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/455046
+#EXTINF:-1 tvg-name="NSPORTS 2 | FONTE 1" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/455047
+#EXTINF:-1 tvg-name="NSPORTS 2 | FONTE 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/455048
+#EXTINF:-1 tvg-name="NSPORTS 3 | FONTE 1" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/455049
+#EXTINF:-1 tvg-name="NSPORTS 4 | FONTE 1" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/455051
+#EXTINF:-1 tvg-name="NSPORTS 5 | FONTE 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 5 | FONTE 2
+http://tv.com.vc:80/edson/edson/455053
+#EXTINF:-1 tvg-name="NSPORTS 6 | FONTE 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 6 | FONTE 2
+http://tv.com.vc:80/edson/edson/455054
+#EXTINF:-1 tvg-name="NSPORTS 9 | FONTE 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 9 | FONTE 2
+http://tv.com.vc:80/edson/edson/455057
+#EXTINF:-1 tvg-name="NSPORTS 10 | FONTE 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/thumbsite-nsports-540x304.jpg" group-title="TWO BR  | ESPORTES PPV",NSPORTS 10 | FONTE 2
+http://tv.com.vc:80/edson/edson/455058
+#EXTINF:-1 tvg-name="COPA DO NORDESTE 1 | FONTE 3" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="TWO BR  | ESPORTES PPV",COPA DO NORDESTE 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455059
+#EXTINF:-1 tvg-name="COPA DO NORDESTE 2 | FONTE 3" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="TWO BR  | ESPORTES PPV",COPA DO NORDESTE 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455060
+#EXTINF:-1 tvg-name="COPA DO NORDESTE 3 | FONTE 3" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title="TWO BR  | ESPORTES PPV",COPA DO NORDESTE 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/455061
+#EXTINF:-1 tvg-name="BRASILEIRÃO SERIE C (JOGO 1) | FONTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/Campeonato_Brasileiro_de_Futebol_de_2022_-_S%C3%A9rie_C.png" group-title="TWO BR  | ESPORTES PPV",BRASILEIRÃO SERIE C (JOGO 1) | FONTE 1
+http://tv.com.vc:80/edson/edson/455062
+#EXTINF:-1 tvg-name="BRASILEIRÃO SERIE C (JOGO 2) | FONTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/Campeonato_Brasileiro_de_Futebol_de_2022_-_S%C3%A9rie_C.png" group-title="TWO BR  | ESPORTES PPV",BRASILEIRÃO SERIE C (JOGO 2) | FONTE 1
+http://tv.com.vc:80/edson/edson/455063
+#EXTINF:-1 tvg-name="BRASILEIRÃO SERIE C (JOGO 3) | FONTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/Campeonato_Brasileiro_de_Futebol_de_2022_-_S%C3%A9rie_C.png" group-title="TWO BR  | ESPORTES PPV",BRASILEIRÃO SERIE C (JOGO 3) | FONTE 1
+http://tv.com.vc:80/edson/edson/455064
+#EXTINF:-1 tvg-name="FORMULA 1 TV | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="TWO BR  | ESPORTES PPV",FORMULA 1 TV | FONTE 1
+http://tv.com.vc:80/edson/edson/455065
+#EXTINF:-1 tvg-name="EVENTOS EXTRAS 1 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/sjQJBSJgm0S_0dc3QVQSN0Ac3fyviO4E_2jlN1Vstx-ikBVli1cSIb0Z6Uket2pZPA" group-title="TWO BR  | ESPORTES PPV",EVENTOS EXTRAS 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/455066
+#EXTINF:-1 tvg-name="EVENTOS EXTRAS 2 | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/sjQJBSJgm0S_0dc3QVQSN0Ac3fyviO4E_2jlN1Vstx-ikBVli1cSIb0Z6Uket2pZPA" group-title="TWO BR  | ESPORTES PPV",EVENTOS EXTRAS 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/455067
+#EXTINF:-1 tvg-name="FLA TV | FONTE 1" tvg-logo="https://i0.wp.com/serflamengo.com.br/wp-content/uploads/2019/01/Fla_TV_post.jpg" group-title="TWO BR  | ESPORTES PPV",FLA TV | FONTE 1
+http://tv.com.vc:80/edson/edson/455071
+#EXTINF:-1 tvg-name="CULTURA PARÁ 1 | FONTE 1" tvg-logo="https://1.bp.blogspot.com/-91iMfxbKqcA/WG_lBAlBCTI/AAAAAAAAMaA/xfEObKNASvELfO_UyIeXU2H_Chb2jHwxgCLcB/s1600/123.jpg" group-title="TWO BR  | ESPORTES PPV",CULTURA PARÁ 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/455072
+#EXTINF:-1 tvg-name="CULTURA PARÁ 2 | FONTE 1" tvg-logo="https://1.bp.blogspot.com/-91iMfxbKqcA/WG_lBAlBCTI/AAAAAAAAMaA/xfEObKNASvELfO_UyIeXU2H_Chb2jHwxgCLcB/s1600/123.jpg" group-title="TWO BR  | ESPORTES PPV",CULTURA PARÁ 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/455073
+#EXTINF:-1 tvg-name="GLOBOPLAY+ 1 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" group-title="TWO BR  | ESPORTES PPV",GLOBOPLAY+ 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/455074
+#EXTINF:-1 tvg-name="GLOBOPLAY+ 2 | FONTE 1" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" group-title="TWO BR  | ESPORTES PPV",GLOBOPLAY+ 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/455075
+#EXTINF:-1 tvg-name="GLOBOPLAY+ 1 | FONTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" group-title="TWO BR  | ESPORTES PPV",GLOBOPLAY+ 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455076
+#EXTINF:-1 tvg-name="CAZÉ TV | FONTE 1" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2022/11/copa_caze_tv.jpg" group-title="TWO BR  | ESPORTES PPV",CAZÉ TV | FONTE 1
+http://tv.com.vc:80/edson/edson/455077
+#EXTINF:-1 tvg-name="CAZÉ TV | FONTE 2" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2022/11/copa_caze_tv.jpg" group-title="TWO BR  | ESPORTES PPV",CAZÉ TV | FONTE 2
+http://tv.com.vc:80/edson/edson/455078
+#EXTINF:-1 tvg-name="LIGA FUTSAL | FONTE 1" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="TWO BR  | ESPORTES PPV",LIGA FUTSAL | FONTE 1
+http://tv.com.vc:80/edson/edson/455079
+#EXTINF:-1 tvg-name="LIGA FUTSAL | FONTE 3" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="TWO BR  | ESPORTES PPV",LIGA FUTSAL | FONTE 3
+http://tv.com.vc:80/edson/edson/455080
+#EXTINF:-1 tvg-name="LIGA FUTSAL 1 | FONTE 3" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="TWO BR  | ESPORTES PPV",LIGA FUTSAL 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455081
+#EXTINF:-1 tvg-name="LIGA FUTSAL 2 | FONTE 3" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="TWO BR  | ESPORTES PPV",LIGA FUTSAL 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455082
+#EXTINF:-1 tvg-name="LIGA FUTSAL 3 | FONTE 3" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="TWO BR  | ESPORTES PPV",LIGA FUTSAL 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/455083
+#EXTINF:-1 tvg-name="LIGA FUTSAL 4 | FONTE 3" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="TWO BR  | ESPORTES PPV",LIGA FUTSAL 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/455084
+#EXTINF:-1 tvg-name="FURACÃO LIVE | FONTE 1" tvg-logo="https://play-lh.googleusercontent.com/PnUuQvi4HwMip8nogyLl1xJzW9vfNymfAf2m8R1IEhiclKIHZvvRCEriTp4iGdb16ng" group-title="TWO BR  | ESPORTES PPV",FURACÃO LIVE | FONTE 1
+http://tv.com.vc:80/edson/edson/455094
+#EXTINF:-1 tvg-name="FURACÃO LIVE | FONTE 3" tvg-logo="https://play-lh.googleusercontent.com/PnUuQvi4HwMip8nogyLl1xJzW9vfNymfAf2m8R1IEhiclKIHZvvRCEriTp4iGdb16ng" group-title="TWO BR  | ESPORTES PPV",FURACÃO LIVE | FONTE 3
+http://tv.com.vc:80/edson/edson/455096
+#EXTINF:-1 tvg-name="PAULISTÃO PLAY 1 | FONTE 3" tvg-logo="https://t.ctcdn.com.br/9Ek2bpJLIpkESajbYxX9A_YQs0w=/900x506/smart/i425721.png" group-title="TWO BR  | ESPORTES PPV",PAULISTÃO PLAY 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455097
+#EXTINF:-1 tvg-name="PAULISTÃO PLAY 2 | FONTE 3" tvg-logo="https://t.ctcdn.com.br/9Ek2bpJLIpkESajbYxX9A_YQs0w=/900x506/smart/i425721.png" group-title="TWO BR  | ESPORTES PPV",PAULISTÃO PLAY 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455098
+#EXTINF:-1 tvg-name="PAULISTÃO PLAY 3 | FONTE 3" tvg-logo="https://t.ctcdn.com.br/9Ek2bpJLIpkESajbYxX9A_YQs0w=/900x506/smart/i425721.png" group-title="TWO BR  | ESPORTES PPV",PAULISTÃO PLAY 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/455099
+#EXTINF:-1 tvg-name="PAULISTÃO PLAY 4 | FONTE 3" tvg-logo="https://t.ctcdn.com.br/9Ek2bpJLIpkESajbYxX9A_YQs0w=/900x506/smart/i425721.png" group-title="TWO BR  | ESPORTES PPV",PAULISTÃO PLAY 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/455100
+#EXTINF:-1 tvg-name="CAMP. CARIOCA 1 | FONTE 3" tvg-logo="https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2021/02/campeonato-carioca-logo-audiencia-carioca-eduardo-moura.jpg?fit=1013%2C558" group-title="TWO BR  | ESPORTES PPV",CAMP. CARIOCA 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455101
+#EXTINF:-1 tvg-name="CAMP. CARIOCA 2 | FONTE 3" tvg-logo="https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2021/02/campeonato-carioca-logo-audiencia-carioca-eduardo-moura.jpg?fit=1013%2C558" group-title="TWO BR  | ESPORTES PPV",CAMP. CARIOCA 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455102
+#EXTINF:-1 tvg-name="CAMP. CATARINENSE 1 | FONTE 3" tvg-logo="https://diregional.com.br/files/190034/f4a9f0befef0984a1b33735ce0386fc1" group-title="TWO BR  | ESPORTES PPV",CAMP. CATARINENSE 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455103
+#EXTINF:-1 tvg-name="CAMP. CATARINENSE 2 | FONTE 3" tvg-logo="https://diregional.com.br/files/190034/f4a9f0befef0984a1b33735ce0386fc1" group-title="TWO BR  | ESPORTES PPV",CAMP. CATARINENSE 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455104
+#EXTINF:-1 tvg-name="CAMP. CATARINENSE 3 | FONTE 3" tvg-logo="https://diregional.com.br/files/190034/f4a9f0befef0984a1b33735ce0386fc1" group-title="TWO BR  | ESPORTES PPV",CAMP. CATARINENSE 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/455105
+#EXTINF:-1 tvg-name="CAMP. MINEIRO | FONTE 3" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2022/02/untitled-design70-312x208.jpg" group-title="TWO BR  | ESPORTES PPV",CAMP. MINEIRO | FONTE 3
+http://tv.com.vc:80/edson/edson/455106
+#EXTINF:-1 tvg-name="CAMP. PARANAENSE 1 | FONTE 3" tvg-logo="https://esporteemidia.com/wp-content/uploads/2019/12/campeonato-paranaense.jpg" group-title="TWO BR  | ESPORTES PPV",CAMP. PARANAENSE 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455107
+#EXTINF:-1 tvg-name="CAMP. PARANAENSE 2 | FONTE 3" tvg-logo="https://esporteemidia.com/wp-content/uploads/2019/12/campeonato-paranaense.jpg" group-title="TWO BR  | ESPORTES PPV",CAMP. PARANAENSE 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455108
+#EXTINF:-1 tvg-name="CAMP. SERGIPIANO 1 | FONTE 3" tvg-logo="https://s3.a8se.com/images/3604879792-futebol.2e16d0ba.fill-2220x1000_rXvbuAh.png" group-title="TWO BR  | ESPORTES PPV",CAMP. SERGIPIANO 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455109
+#EXTINF:-1 tvg-name="CAMP. SERGIPIANO 2 | FONTE 3" tvg-logo="https://s3.a8se.com/images/3604879792-futebol.2e16d0ba.fill-2220x1000_rXvbuAh.png" group-title="TWO BR  | ESPORTES PPV",CAMP. SERGIPIANO 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455110
+#EXTINF:-1 tvg-name="JORNAL DA PARAIBA 1 | FONTE 1" tvg-logo="https://yt3.googleusercontent.com/J8W6RViwsKm_Usn8-ckhYU4u-cFMrv9YK9kX0PjBDPkjiFAKFMqnC1h1n6_f9qZC3CK-7o0i=s900-c-k-c0x00ffffff-no-rj" group-title="TWO BR  | ESPORTES PPV",JORNAL DA PARAIBA 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/455112
+#EXTINF:-1 tvg-name="JORNAL DA PARAIBA 2 | FONTE 1" tvg-logo="https://yt3.googleusercontent.com/J8W6RViwsKm_Usn8-ckhYU4u-cFMrv9YK9kX0PjBDPkjiFAKFMqnC1h1n6_f9qZC3CK-7o0i=s900-c-k-c0x00ffffff-no-rj" group-title="TWO BR  | ESPORTES PPV",JORNAL DA PARAIBA 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/455113
+#EXTINF:-1 tvg-name="JORNAL DA PARAIBA 3 | FONTE 1" tvg-logo="https://yt3.googleusercontent.com/J8W6RViwsKm_Usn8-ckhYU4u-cFMrv9YK9kX0PjBDPkjiFAKFMqnC1h1n6_f9qZC3CK-7o0i=s900-c-k-c0x00ffffff-no-rj" group-title="TWO BR  | ESPORTES PPV",JORNAL DA PARAIBA 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/455114
+#EXTINF:-1 tvg-name="COPA DO BRASIL 1 | FONTE 3" tvg-logo="https://auvaromaia.com/wp-content/uploads/2017/01/Copa-do-Brasil.jpg" group-title="TWO BR  | ESPORTES PPV",COPA DO BRASIL 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/455121
+#EXTINF:-1 tvg-name="COPA DO BRASIL 2 | FONTE 3" tvg-logo="https://auvaromaia.com/wp-content/uploads/2017/01/Copa-do-Brasil.jpg" group-title="TWO BR  | ESPORTES PPV",COPA DO BRASIL 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/455123
+#EXTINF:-1 tvg-name="LNF TV FUTSAL 1 | FONTE 2" tvg-logo="https://yt3.googleusercontent.com/I5hBtQT7jTeLsI5DPVYl01MV-idTujcSejbuRC2XIu1rjFEqo5S5ZDrNN7R2f6ODeBJiKnb1aw=s900-c-k-c0x00ffffff-no-rj" group-title="TWO BR  | ESPORTES PPV",LNF TV FUTSAL 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/455124
+#EXTINF:-1 tvg-name="LNF TV FUTSAL 2 | FONTE 2" tvg-logo="https://yt3.googleusercontent.com/I5hBtQT7jTeLsI5DPVYl01MV-idTujcSejbuRC2XIu1rjFEqo5S5ZDrNN7R2f6ODeBJiKnb1aw=s900-c-k-c0x00ffffff-no-rj" group-title="TWO BR  | ESPORTES PPV",LNF TV FUTSAL 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/455125
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 1 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/455126
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 2 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/455127
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 3 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 3 | FONTE 2
+http://tv.com.vc:80/edson/edson/455128
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 4 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 4 | FONTE 2
+http://tv.com.vc:80/edson/edson/455129
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 5 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 5 | FONTE 2
+http://tv.com.vc:80/edson/edson/455130
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 6 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 6 | FONTE 2
+http://tv.com.vc:80/edson/edson/455131
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 7 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 7 | FONTE 2
+http://tv.com.vc:80/edson/edson/455132
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 8 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 8 | FONTE 2
+http://tv.com.vc:80/edson/edson/455133
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 9 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 9 | FONTE 2
+http://tv.com.vc:80/edson/edson/455134
+#EXTINF:-1 tvg-id="NFLGP" tvg-name="NFL GAME PASS 10 | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s112039_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",NFL GAME PASS 10 | FONTE 2
+http://tv.com.vc:80/edson/edson/455135
+#EXTINF:-1 tvg-id="ZYA299" tvg-name="TVE BAHIA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76753_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",TVE BAHIA | FONTE 1
+http://tv.com.vc:80/edson/edson/455136
+#EXTINF:-1 tvg-id="ZYA299" tvg-name="TVE BAHIA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s76753_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",TVE BAHIA | FONTE 2
+http://tv.com.vc:80/edson/edson/455137
+#EXTINF:-1 tvg-id="ZYA299" tvg-name="TVE BAHIA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s76753_ll_h3_aa.png" group-title="TWO BR  | ESPORTES PPV",TVE BAHIA | FONTE 3
+http://tv.com.vc:80/edson/edson/455138
+#EXTINF:-1 tvg-name="PRIME VIDEO 1 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 1 | FONTE 1
+http://tv.com.vc:80/edson/edson/457541
+#EXTINF:-1 tvg-name="PRIME VIDEO 1 | FONTE 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 1 | FONTE 2
+http://tv.com.vc:80/edson/edson/457542
+#EXTINF:-1 tvg-name="PRIME VIDEO 1 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 1 | FONTE 3
+http://tv.com.vc:80/edson/edson/457543
+#EXTINF:-1 tvg-name="PRIME VIDEO 2 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/457544
+#EXTINF:-1 tvg-name="PRIME VIDEO 2 | FONTE 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/457545
+#EXTINF:-1 tvg-name="PRIME VÍDEO 2 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VÍDEO 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/457546
+#EXTINF:-1 tvg-name="PRIME VIDEO 3 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 3 | FONTE 1
+http://tv.com.vc:80/edson/edson/457547
+#EXTINF:-1 tvg-name="PRIME VIDEO 3 | FONTE 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 3 | FONTE 2
+http://tv.com.vc:80/edson/edson/457548
+#EXTINF:-1 tvg-name="PRIME VIDEO 3 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 3 | FONTE 3
+http://tv.com.vc:80/edson/edson/457549
+#EXTINF:-1 tvg-name="PRIME VIDEO 4 | FONTE 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 4 | FONTE 1
+http://tv.com.vc:80/edson/edson/457550
+#EXTINF:-1 tvg-name="PRIME VIDEO 4 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 4 | FONTE 3
+http://tv.com.vc:80/edson/edson/457552
+#EXTINF:-1 tvg-name="PRIME VIDEO 6 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 6 | FONTE 3
+http://tv.com.vc:80/edson/edson/457553
+#EXTINF:-1 tvg-name="PRIME VIDEO 7 | FONTE 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="TWO BR  | ESPORTES PPV",PRIME VIDEO 7 | FONTE 3
+http://tv.com.vc:80/edson/edson/457554
+#EXTINF:-1 tvg-name="CANAL VOLEI BRASIL 01 | FONTE 2" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Event/000/015/492/thumb/original/Thumbs.png" group-title="TWO BR  | ESPORTES PPV",CANAL VOLEI BRASIL 01 | FONTE 2
+http://tv.com.vc:80/edson/edson/610862
+#EXTINF:-1 tvg-name="CANAL VOLEI BRASIL 01 | FONTE 3" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Event/000/015/492/thumb/original/Thumbs.png" group-title="TWO BR  | ESPORTES PPV",CANAL VOLEI BRASIL 01 | FONTE 3
+http://tv.com.vc:80/edson/edson/610865
+#EXTINF:-1 tvg-name="CANAL VOLEI BRASIL 02 | FONTE 2" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Event/000/015/492/thumb/original/Thumbs.png" group-title="TWO BR  | ESPORTES PPV",CANAL VOLEI BRASIL 02 | FONTE 2
+http://tv.com.vc:80/edson/edson/611837
+#EXTINF:-1 tvg-name="CANAL VOLEI BRASIL 03 | FONTE 2" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Event/000/015/492/thumb/original/Thumbs.png" group-title="TWO BR  | ESPORTES PPV",CANAL VOLEI BRASIL 03 | FONTE 2
+http://tv.com.vc:80/edson/edson/611839
+#EXTINF:-1 tvg-name="Apple TV 01 | FONTE 1" tvg-logo="https://files.tecnoblog.net/wp-content/uploads/2019/08/apple-tv-plus-700x381.png" group-title="TWO BR  | ESPORTES PPV",Apple TV 01 | FONTE 1
+http://tv.com.vc:80/edson/edson/764196
+#EXTINF:-1 tvg-name="Apple TV 01 | FONTE 3" tvg-logo="https://files.tecnoblog.net/wp-content/uploads/2019/08/apple-tv-plus-700x381.png" group-title="TWO BR  | ESPORTES PPV",Apple TV 01 | FONTE 3
+http://tv.com.vc:80/edson/edson/765807
+#EXTINF:-1 tvg-name="Apple TV 02 | FONTE 1" tvg-logo="https://files.tecnoblog.net/wp-content/uploads/2019/08/apple-tv-plus-700x381.png" group-title="TWO BR  | ESPORTES PPV",Apple TV 02 | FONTE 1
+http://tv.com.vc:80/edson/edson/765808
+#EXTINF:-1 tvg-name="Apple TV 02 | FONTE 3" tvg-logo="https://files.tecnoblog.net/wp-content/uploads/2019/08/apple-tv-plus-700x381.png" group-title="TWO BR  | ESPORTES PPV",Apple TV 02 | FONTE 3
+http://tv.com.vc:80/edson/edson/765809
+#EXTINF:-1 tvg-name="Apple TV 04 | FONTE 1" tvg-logo="https://files.tecnoblog.net/wp-content/uploads/2019/08/apple-tv-plus-700x381.png" group-title="TWO BR  | ESPORTES PPV",Apple TV 04 | FONTE 1
+http://tv.com.vc:80/edson/edson/765811
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TCAHD" tvg-name="TELECINE ACTION | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75600_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE ACTION | FONTE 2
+http://tv.com.vc:80/edson/edson/454852
+#EXTINF:-1 tvg-id="TCAHD" tvg-name="TELECINE ACTION | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75600_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE ACTION | FONTE 3
+http://tv.com.vc:80/edson/edson/454853
+#EXTINF:-1 tvg-id="TCCLHD" tvg-name="TELECINE CULT | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s84420_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE CULT | FONTE 1
+http://tv.com.vc:80/edson/edson/454854
+#EXTINF:-1 tvg-id="TCCLHD" tvg-name="TELECINE CULT | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s84420_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE CULT | FONTE 2
+http://tv.com.vc:80/edson/edson/454855
+#EXTINF:-1 tvg-id="TCCLHD" tvg-name="TELECINE CULT | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s84420_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE CULT | FONTE 3
+http://tv.com.vc:80/edson/edson/454856
+#EXTINF:-1 tvg-id="TEFHD" tvg-name="TELECINE FUN | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s78314_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE FUN | FONTE 1
+http://tv.com.vc:80/edson/edson/454857
+#EXTINF:-1 tvg-id="TEFHD" tvg-name="TELECINE FUN | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s78314_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE FUN | FONTE 2
+http://tv.com.vc:80/edson/edson/454858
+#EXTINF:-1 tvg-id="TEFHD" tvg-name="TELECINE FUN | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s78314_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE FUN | FONTE 3
+http://tv.com.vc:80/edson/edson/454859
+#EXTINF:-1 tvg-id="TCPIPHD" tvg-name="TELECINE PIPOCA | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75603_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE PIPOCA | FONTE 1
+http://tv.com.vc:80/edson/edson/454860
+#EXTINF:-1 tvg-id="TCPIPHD" tvg-name="TELECINE PIPOCA | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75603_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE PIPOCA | FONTE 2
+http://tv.com.vc:80/edson/edson/454861
+#EXTINF:-1 tvg-id="TCPIPHD" tvg-name="TELECINE PIPOCA | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75603_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE PIPOCA | FONTE 3
+http://tv.com.vc:80/edson/edson/454862
+#EXTINF:-1 tvg-id="TPREHD" tvg-name="TELECINE PREMIUM | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s78306_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE PREMIUM | FONTE 1
+http://tv.com.vc:80/edson/edson/454863
+#EXTINF:-1 tvg-id="TPREHD" tvg-name="TELECINE PREMIUM | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s78306_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE PREMIUM | FONTE 2
+http://tv.com.vc:80/edson/edson/454864
+#EXTINF:-1 tvg-id="TPREHD" tvg-name="TELECINE PREMIUM | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s78306_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE PREMIUM | FONTE 3
+http://tv.com.vc:80/edson/edson/454865
+#EXTINF:-1 tvg-id="TCTCHHD" tvg-name="TELECINE TOUCH | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s78304_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE TOUCH | FONTE 1
+http://tv.com.vc:80/edson/edson/454866
+#EXTINF:-1 tvg-id="TCTCHHD" tvg-name="TELECINE TOUCH | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s78304_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE TOUCH | FONTE 2
+http://tv.com.vc:80/edson/edson/454867
+#EXTINF:-1 tvg-id="TCTCHHD" tvg-name="TELECINE TOUCH | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s78304_ll_h3_ac.png" group-title="TWO BR  | TELECINE",TELECINE TOUCH | FONTE 3
+http://tv.com.vc:80/edson/edson/454868
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="GHB2DLY" tvg-name="HBO 2 | FONTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TWO BR  | HBO",HBO 2 | FONTE 1
+http://tv.com.vc:80/edson/edson/454869
+#EXTINF:-1 tvg-id="GHB2DLY" tvg-name="HBO 2 | FONTE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TWO BR  | HBO",HBO 2 | FONTE 2
+http://tv.com.vc:80/edson/edson/454870
+#EXTINF:-1 tvg-id="GHB2DLY" tvg-name="HBO 2 | FONTE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TWO BR  | HBO",HBO 2 | FONTE 3
+http://tv.com.vc:80/edson/edson/454871
+#EXTINF:-1 tvg-id="HBOFBE" tvg-name="HBO FAMILY | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s56092_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO FAMILY | FONTE 1
+http://tv.com.vc:80/edson/edson/454872
+#EXTINF:-1 tvg-id="HBOFBE" tvg-name="HBO FAMILY | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s56092_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO FAMILY | FONTE 2
+http://tv.com.vc:80/edson/edson/454873
+#EXTINF:-1 tvg-id="HBOFBE" tvg-name="HBO FAMILY | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s56092_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO FAMILY | FONTE 3
+http://tv.com.vc:80/edson/edson/454874
+#EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s76101_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO | FONTE 1
+http://tv.com.vc:80/edson/edson/454875
+#EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s76101_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO | FONTE 2
+http://tv.com.vc:80/edson/edson/454876
+#EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s76101_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO | FONTE 3
+http://tv.com.vc:80/edson/edson/454877
+#EXTINF:-1 tvg-id="HBOMUND" tvg-name="HBO MUNDI | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s69097_ll_h3_ac.png" group-title="TWO BR  | HBO",HBO MUNDI | FONTE 1
+http://tv.com.vc:80/edson/edson/454878
+#EXTINF:-1 tvg-id="HBOMUND" tvg-name="HBO MUNDI | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s69097_ll_h3_ac.png" group-title="TWO BR  | HBO",HBO MUNDI | FONTE 2
+http://tv.com.vc:80/edson/edson/454879
+#EXTINF:-1 tvg-id="HBOMUND" tvg-name="HBO MUNDI | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s69097_ll_h3_ac.png" group-title="TWO BR  | HBO",HBO MUNDI | FONTE 3
+http://tv.com.vc:80/edson/edson/454880
+#EXTINF:-1 tvg-id="HBOPBHD" tvg-name="HBO PLUS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s98076_ll_h3_ba.png" group-title="TWO BR  | HBO",HBO PLUS | FONTE 1
+http://tv.com.vc:80/edson/edson/454881
+#EXTINF:-1 tvg-id="HBOPBHD" tvg-name="HBO PLUS | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s98076_ll_h3_ba.png" group-title="TWO BR  | HBO",HBO PLUS | FONTE 2
+http://tv.com.vc:80/edson/edson/454882
+#EXTINF:-1 tvg-id="HBOPBHD" tvg-name="HBO PLUS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s98076_ll_h3_ba.png" group-title="TWO BR  | HBO",HBO PLUS | FONTE 3
+http://tv.com.vc:80/edson/edson/454883
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75590_ll_h3_ad.png" group-title="TWO BR  | HBO",HBO POP | FONTE 1
+http://tv.com.vc:80/edson/edson/454884
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75590_ll_h3_ad.png" group-title="TWO BR  | HBO",HBO POP | FONTE 2
+http://tv.com.vc:80/edson/edson/454885
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75590_ll_h3_ad.png" group-title="TWO BR  | HBO",HBO POP | FONTE 3
+http://tv.com.vc:80/edson/edson/454886
+#EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO SIGNATURE | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s74530_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO SIGNATURE | FONTE 1
+http://tv.com.vc:80/edson/edson/454887
+#EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO SIGNATURE | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s74530_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO SIGNATURE | FONTE 2
+http://tv.com.vc:80/edson/edson/454888
+#EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO SIGNATURE | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s74530_ll_h3_aa.png" group-title="TWO BR  | HBO",HBO SIGNATURE | FONTE 3
+http://tv.com.vc:80/edson/edson/454889
+#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO XTREME | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s54590_ll_h3_ac.png" group-title="TWO BR  | HBO",HBO XTREME | FONTE 1
+http://tv.com.vc:80/edson/edson/454890
+#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO XTREME | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s54590_ll_h3_ac.png" group-title="TWO BR  | HBO",HBO XTREME | FONTE 2
+http://tv.com.vc:80/edson/edson/454891
+#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO XTREME | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s54590_ll_h3_ac.png" group-title="TWO BR  | HBO",HBO XTREME | FONTE 3
+http://tv.com.vc:80/edson/edson/454892
+
+
+
+
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="DISCOVERY ANIMAL PLANET | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s18651_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY ANIMAL PLANET | FONTE 1
+http://tv.com.vc:80/edson/edson/454897
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="DISCOVERY ANIMAL PLANET | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s18651_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY ANIMAL PLANET | FONTE 2
+http://tv.com.vc:80/edson/edson/454898
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="DISCOVERY ANIMAL PLANET | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s18651_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY ANIMAL PLANET | FONTE 3
+http://tv.com.vc:80/edson/edson/454899
+#EXTINF:-1 tvg-id="TDCBHD" tvg-name="DISCOVERY CHANNEL | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s79018_ll_h3_ac.png" group-title="TWO BR  | DISCOVERY",DISCOVERY CHANNEL | FONTE 1
+http://tv.com.vc:80/edson/edson/454900
+#EXTINF:-1 tvg-id="TDCBHD" tvg-name="DISCOVERY CHANNEL | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s79018_ll_h3_ac.png" group-title="TWO BR  | DISCOVERY",DISCOVERY CHANNEL | FONTE 2
+http://tv.com.vc:80/edson/edson/454901
+#EXTINF:-1 tvg-id="TDCBHD" tvg-name="DISCOVERY CHANNEL | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s79018_ll_h3_ac.png" group-title="TWO BR  | DISCOVERY",DISCOVERY CHANNEL | FONTE 3
+http://tv.com.vc:80/edson/edson/454902
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISCOVERY H&H | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s55913_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY H&H | FONTE 1
+http://tv.com.vc:80/edson/edson/454903
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISCOVERY H&H | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s55913_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY H&H | FONTE 2
+http://tv.com.vc:80/edson/edson/454904
+#EXTINF:-1 tvg-id="DHEAB" tvg-name="DISCOVERY H&H | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s55913_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY H&H | FONTE 3
+http://tv.com.vc:80/edson/edson/454905
+#EXTINF:-1 tvg-id="DKNB" tvg-name="DISCOVERY KIDS | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s18650_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY KIDS | FONTE 1
+http://tv.com.vc:80/edson/edson/454906
+#EXTINF:-1 tvg-id="DKNB" tvg-name="DISCOVERY KIDS | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s18650_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY KIDS | FONTE 2
+http://tv.com.vc:80/edson/edson/454907
+#EXTINF:-1 tvg-id="DKNB" tvg-name="DISCOVERY KIDS | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s18650_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY KIDS | FONTE 3
+http://tv.com.vc:80/edson/edson/454908
+#EXTINF:-1 tvg-id="DSBHD" tvg-name="DISCOVERY SCIENCE | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s105951_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY SCIENCE | FONTE 1
+http://tv.com.vc:80/edson/edson/454909
+#EXTINF:-1 tvg-id="DSBHD" tvg-name="DISCOVERY SCIENCE | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s105951_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY SCIENCE | FONTE 2
+http://tv.com.vc:80/edson/edson/454910
+#EXTINF:-1 tvg-id="DSBHD" tvg-name="DISCOVERY SCIENCE | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s105951_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY SCIENCE | FONTE 3
+http://tv.com.vc:80/edson/edson/454911
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="DISCOVERY THEATER | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75835_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY THEATER | FONTE 1
+http://tv.com.vc:80/edson/edson/454912
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="DISCOVERY THEATER | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75835_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY THEATER | FONTE 2
+http://tv.com.vc:80/edson/edson/454913
+#EXTINF:-1 tvg-id="DISCHD" tvg-name="DISCOVERY THEATER | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75835_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY THEATER | FONTE 3
+http://tv.com.vc:80/edson/edson/454914
+#EXTINF:-1 tvg-id="DTBHD" tvg-name="DISCOVERY TURBO | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s90874_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY TURBO | FONTE 1
+http://tv.com.vc:80/edson/edson/454915
+#EXTINF:-1 tvg-id="DTBHD" tvg-name="DISCOVERY TURBO | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s90874_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY TURBO | FONTE 2
+http://tv.com.vc:80/edson/edson/454916
+#EXTINF:-1 tvg-id="DTBHD" tvg-name="DISCOVERY TURBO | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s90874_ll_h3_ab.png" group-title="TWO BR  | DISCOVERY",DISCOVERY TURBO | FONTE 3
+http://tv.com.vc:80/edson/edson/454917
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="DISCOVERY WORLD | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s75605_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY WORLD | FONTE 1
+http://tv.com.vc:80/edson/edson/454918
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="DISCOVERY WORLD | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s75605_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY WORLD | FONTE 2
+http://tv.com.vc:80/edson/edson/454919
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="DISCOVERY WORLD | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s75605_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY WORLD | FONTE 3
+http://tv.com.vc:80/edson/edson/454920
+#EXTINF:-1 tvg-id="HGTVBH" tvg-name="DISCOVERY HGTV | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s111477_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY HGTV | FONTE 1
+http://tv.com.vc:80/edson/edson/454921
+#EXTINF:-1 tvg-id="HGTVBH" tvg-name="DISCOVERY HGTV | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s111477_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY HGTV | FONTE 2
+http://tv.com.vc:80/edson/edson/454922
+#EXTINF:-1 tvg-id="HGTVBH" tvg-name="DISCOVERY HGTV | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s111477_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY HGTV | FONTE 3
+http://tv.com.vc:80/edson/edson/454923
+#EXTINF:-1 tvg-id="IDB" tvg-name="ID DISCOVERY | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s16269_ll_h3_ac.png" group-title="TWO BR  | DISCOVERY",ID DISCOVERY | FONTE 1
+http://tv.com.vc:80/edson/edson/454924
+#EXTINF:-1 tvg-id="IDB" tvg-name="ID DISCOVERY | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s16269_ll_h3_ac.png" group-title="TWO BR  | DISCOVERY",ID DISCOVERY | FONTE 2
+http://tv.com.vc:80/edson/edson/454925
+#EXTINF:-1 tvg-id="IDB" tvg-name="ID DISCOVERY | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s16269_ll_h3_ac.png" group-title="TWO BR  | DISCOVERY",ID DISCOVERY | FONTE 3
+http://tv.com.vc:80/edson/edson/454926
+#EXTINF:-1 tvg-id="TLCBRHD" tvg-name="DISCOVERY TLC | FONTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s98582_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY TLC | FONTE 1
+http://tv.com.vc:80/edson/edson/454927
+#EXTINF:-1 tvg-id="TLCBRHD" tvg-name="DISCOVERY TLC | FONTE 2" tvg-logo="http://fanc.tmsimg.com/assets/s98582_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY TLC | FONTE 2
+http://tv.com.vc:80/edson/edson/454928
+#EXTINF:-1 tvg-id="TLCBRHD" tvg-name="DISCOVERY TLC | FONTE 3" tvg-logo="http://fanc.tmsimg.com/assets/s98582_ll_h3_aa.png" group-title="TWO BR  | DISCOVERY",DISCOVERY TLC | FONTE 3
+http://tv.com.vc:80/edson/edson/454929
+
+
+
+
+#EXTINF:-1 tvg-name="Pattie et la colère de Poséidon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE9np1BJgMeKfO4mCLVVZnWTItl.jpg" group-title="FILMES | CINEMA",Pattie et la colère de Poséidon (2023)
+http://tv.com.vc:80/movie/edson/edson/953229.mp4
+#EXTINF:-1 tvg-name="Jogos Mortais X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8s2gd1BZbWLSKEnvYsM8xusbjMl.jpg" group-title="FILMES | CINEMA",Jogos Mortais X (2023)
+http://tv.com.vc:80/movie/edson/edson/953228.mp4
+#EXTINF:-1 tvg-name="Ruim pra Cachorro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfSkDDJiCf6cJpd4R9O9lM1T6hz.jpg" group-title="FILMES | CINEMA",Ruim pra Cachorro (2023)
+http://tv.com.vc:80/movie/edson/edson/953227.mp4
+#EXTINF:-1 tvg-name="RIver Beast (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDyriGdFUmMP8SxES8jwbrGPm0t.jpg" group-title="FILMES | CINEMA",RIver Beast (2023)
+http://tv.com.vc:80/movie/edson/edson/953226.mp4
+#EXTINF:-1 tvg-name="Som da Liberdade (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg" group-title="FILMES | CINEMA",Som da Liberdade (2023)
+http://tv.com.vc:80/movie/edson/edson/951486.mp4
+#EXTINF:-1 tvg-name="Terra à Deriva 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg" group-title="FILMES | CINEMA",Terra à Deriva 2 (2023)
+http://tv.com.vc:80/movie/edson/edson/951485.mp4
+#EXTINF:-1 tvg-name="Os Mercenários 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg" group-title="FILMES | CINEMA",Os Mercenários 4 (2023)
+http://tv.com.vc:80/movie/edson/edson/951188.mp4
+#EXTINF:-1 tvg-name="Every Breath She Takes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8paSLa6JhBJhzIJ2nLvFPTvxKz.jpg" group-title="FILMES | CINEMA",Every Breath She Takes (2023)
+http://tv.com.vc:80/movie/edson/edson/948669.mp4
+#EXTINF:-1 tvg-name="Coração de Neon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucT1MBlwoA0cLvZvjLrZsMaWmBq.jpg" group-title="FILMES | CINEMA",Coração de Neon (2023)
+http://tv.com.vc:80/movie/edson/edson/948668.mp4
+#EXTINF:-1 tvg-name="20.0 Megaquake (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7t8HNrZcOQAEUHSaSsirBngnXf.jpg" group-title="FILMES | CINEMA",20.0 Megaquake (2023)
+http://tv.com.vc:80/movie/edson/edson/948666.mp4
+#EXTINF:-1 tvg-name="The Mistress (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kdmre0wlUAUk9BvySv4Xoveieg.jpg" group-title="FILMES | CINEMA",The Mistress (2023)
+http://tv.com.vc:80/movie/edson/edson/948665.mp4
+#EXTINF:-1 tvg-name="Island Escape (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TA3AmwWKasVMRFGXZk0gRv2Oz6.jpg" group-title="FILMES | CINEMA",Island Escape (2023)
+http://tv.com.vc:80/movie/edson/edson/948664.mp4
+#EXTINF:-1 tvg-name="Twisted Sister (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecoKf7RY0JFAIMBFovT8pwC5dUu.jpg" group-title="FILMES | CINEMA",Twisted Sister (2023)
+http://tv.com.vc:80/movie/edson/edson/948663.mp4
+#EXTINF:-1 tvg-name="Root (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txuwAaX1G4y2Ml1hEOs1jYXyqqq.jpg" group-title="FILMES | CINEMA",Root (2023)
+http://tv.com.vc:80/movie/edson/edson/948662.mp4
+#EXTINF:-1 tvg-name="Unicorn Wars (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joOEYpfltqoqkaiQio24TUTntGM.jpg" group-title="FILMES | CINEMA",Unicorn Wars (2022)
+http://tv.com.vc:80/movie/edson/edson/948661.mp4
+#EXTINF:-1 tvg-name="Mula sa Buwan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPR5KT6yMFiLj5oCdH0fEbBlPQy.jpg" group-title="FILMES | CINEMA",Mula sa Buwan (2023)
+http://tv.com.vc:80/movie/edson/edson/948660.mp4
+#EXTINF:-1 tvg-name="Rooming With Danger (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBD5yDyNOzLPiNvFNwQ1cBKZZJa.jpg" group-title="FILMES | CINEMA",Rooming With Danger (2023)
+http://tv.com.vc:80/movie/edson/edson/948659.mp4
+#EXTINF:-1 tvg-name="Life Upside Down (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iE1YH8oXqUAIJkJVNrXGb2uTvZt.jpg" group-title="FILMES | CINEMA",Life Upside Down (2023)
+http://tv.com.vc:80/movie/edson/edson/948658.mp4
+#EXTINF:-1 tvg-name="Who Killed Our Father? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3isQrHe1KOG5Cf4inpC73bzbMVk.jpg" group-title="FILMES | CINEMA",Who Killed Our Father? (2023)
+http://tv.com.vc:80/movie/edson/edson/948657.mp4
+#EXTINF:-1 tvg-name="Jailangkung: Sandekala (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t86d7Us4hW9yVqf8ctDj834d1RD.jpg" group-title="FILMES | CINEMA",Jailangkung: Sandekala (2022)
+http://tv.com.vc:80/movie/edson/edson/948656.mp4
+#EXTINF:-1 tvg-name="Coast Guard Malaysia: Ops Helang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6U1gXOKQjCkgVUic6uSEKKunFZr.jpg" group-title="FILMES | CINEMA",Coast Guard Malaysia: Ops Helang (2023)
+http://tv.com.vc:80/movie/edson/edson/948655.mp4
+#EXTINF:-1 tvg-name="The Angry Black Girl and Her Monster (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c3rU9R5oYexKFWaAHAc195B0RN.jpg" group-title="FILMES | CINEMA",The Angry Black Girl and Her Monster (2023)
+http://tv.com.vc:80/movie/edson/edson/948654.mp4
+#EXTINF:-1 tvg-name="Una gran voglia di vivere (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDxyCXsxjXSLaj2uQtcMj5Vjth3.jpg" group-title="FILMES | CINEMA",Una gran voglia di vivere (2023)
+http://tv.com.vc:80/movie/edson/edson/948653.mp4
+#EXTINF:-1 tvg-name="Duan Nago Bogho (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Hiki34ItCJEi4bH01tCUlyTkhE.jpg" group-title="FILMES | CINEMA",Duan Nago Bogho (2023)
+http://tv.com.vc:80/movie/edson/edson/948652.mp4
+#EXTINF:-1 tvg-name="As Tartarugas Ninjas: Caos Mutante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwrFZLMPox82lsPT8MHpAYmFjw9.jpg" group-title="FILMES | CINEMA",As Tartarugas Ninjas: Caos Mutante (2023)
+http://tv.com.vc:80/movie/edson/edson/944457.mp4
+#EXTINF:-1 tvg-name="After: Para Sempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRjzdNiFHda6lrXySOQPyY3OtCA.jpg" group-title="FILMES | CINEMA",After: Para Sempre (2023)
+http://tv.com.vc:80/movie/edson/edson/944172.mp4
+#EXTINF:-1 tvg-name="Assault on Hill 400 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2lVJcW7AExP0O9hcVKc4wxvLXx.jpg" group-title="FILMES | CINEMA",Assault on Hill 400 (2023)
+http://tv.com.vc:80/movie/edson/edson/931779.mp4
+#EXTINF:-1 tvg-name="The Gates (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGrVrokVCP6nvSnJeI905aw1nWz.jpg" group-title="FILMES | CINEMA",The Gates (2022)
+http://tv.com.vc:80/movie/edson/edson/928906.mp4
+#EXTINF:-1 tvg-name="Werewolf Cabal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F1AEveZolSuIQ65Fb7XugPzb8b.jpg" group-title="FILMES | CINEMA",Werewolf Cabal (2022)
+http://tv.com.vc:80/movie/edson/edson/928905.mp4
+#EXTINF:-1 tvg-name="Koputus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4uzqmeimrNIknLQ3V6583LwaUG.jpg" group-title="FILMES | CINEMA",Koputus (2023)
+http://tv.com.vc:80/movie/edson/edson/928904.mp4
+#EXTINF:-1 tvg-name="Wolf Garden (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lwzTA2JWdLbe5jA54XyvThVTgN.jpg" group-title="FILMES | CINEMA",Wolf Garden (2023)
+http://tv.com.vc:80/movie/edson/edson/928903.mp4
+#EXTINF:-1 tvg-name="I Am Rage (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iclmQs4O5dy7EAkbykI1qkowfK2.jpg" group-title="FILMES | CINEMA",I Am Rage (2023)
+http://tv.com.vc:80/movie/edson/edson/928902.mp4
+#EXTINF:-1 tvg-name="Gran Turismo - De Jogador a Corredor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAjBo9yfgs3ozJ1bdj7TjZMBQjJ.jpg" group-title="FILMES | CINEMA",Gran Turismo - De Jogador a Corredor (2023)
+http://tv.com.vc:80/movie/edson/edson/922483.mp4
+#EXTINF:-1 tvg-name="The Secret Kingdom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg" group-title="FILMES | CINEMA",The Secret Kingdom (2023)
+http://tv.com.vc:80/movie/edson/edson/873851.mp4
+#EXTINF:-1 tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="FILMES | CINEMA",Oppenheimer (2023)
+http://tv.com.vc:80/movie/edson/edson/773567.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível - Acerto de Contas Parte 1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="FILMES | CINEMA",Missão: Impossível - Acerto de Contas Parte 1 (2023)
+http://tv.com.vc:80/movie/edson/edson/756096.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e A Relíquia do Destino (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg" group-title="FILMES | CINEMA",Indiana Jones e A Relíquia do Destino (2023)
+http://tv.com.vc:80/movie/edson/edson/622177.mp4
+#EXTINF:-1 tvg-name="A Busca pelo Ouro de Tom Sawyer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zceLrHeYOgJHw1tw6MUi15N2NUz.jpg" group-title="FILMES | CINEMA",A Busca pelo Ouro de Tom Sawyer (2023)
+http://tv.com.vc:80/movie/edson/edson/622176.mp4
+#EXTINF:-1 tvg-name="Rally Road Racers (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9L7N5z3qHHgSNUIUuBSaicQvpT.jpg" group-title="FILMES | CINEMA",Rally Road Racers (2023)
+http://tv.com.vc:80/movie/edson/edson/607400.mp4
+#EXTINF:-1 tvg-name="Kathal: O Caso Das Jacas Perdidas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSJia6p7NjR3qS0hIH3EUSohUNx.jpg" group-title="FILMES | CINEMA",Kathal: O Caso Das Jacas Perdidas (2023)
+http://tv.com.vc:80/movie/edson/edson/607397.mp4
+#EXTINF:-1 tvg-name="Black Lotus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIFq7whMaQaduV990viTHv12YlY.jpg" group-title="FILMES | CINEMA",Black Lotus (2023)
+http://tv.com.vc:80/movie/edson/edson/607394.mp4
+
+
+
+
+
+
+
