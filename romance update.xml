@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
   
- 
+
+
+
+
+<item>
+<title>[COLOR silver][B] NOS VEMOS EM VENUS [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b73dd96898f14c365d420bf849f5f2f35df04dd0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/nAhxlttDRAoJlP0IL1li460cMt3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1280/nAhxlttDRAoJlP0IL1li460cMt3.jpg</fanart>
+<info>Uma jovem órfã de 18 anos que está morrendo quer viajar para a Europa para rastrear sua mãe biológica, então quando ela conhece um jovem de bom coração que se recupera da culpa de um acidente fatal, ela o convence a acompanhá-la na jornada.</info>
+</item>
+  
+
+<item>
+<title>[COLOR silver][B] AMOR À PRIMEIRA VISTA [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f7c76c24ee2232109020ad163415fb49e0f2617</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3a13ifmIiOsgKoQpOpDfsWCx4Qh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3a13ifmIiOsgKoQpOpDfsWCx4Qh.jpg</fanart>
+<info>Em um voo para Londres, dois estranhos sentem uma conexão, mas logo se perdem no aeroporto. O reencontro parece impossível, só que o amor desafia todas as probabilidades.</info>
+</item>
+
+  
 <item>
 <title>[COLOR silver][B] AMOR ALÉM DO TEMPO [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6dc4ec119caa93fb1413b5967e204ca222be7f</link>

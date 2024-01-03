@@ -17,10 +17,11 @@
 </channel> 
   
   
+  
   <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TV AO VIVO - TESTES [/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
 <info>[COLOR blue]*[COLOR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/servidores.xml</externallink>
 </channel>
@@ -41,6 +42,38 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/series.xml</externallink>
 </channel>
 
+
+<channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] NOVELAS BR [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR white] VARIADAS [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
+
+  
+ <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] NOVELAS TURCAS [/COLOR][/B] [B][COLOR red] OFF [/B] [B][COLOR yellow] ( MANUTENÇÃO ) [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
+  
+<channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] CLASSICOS [/COLOR][/B] [B][COLOR yellow] ( MANUTENÇÃO ) [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/classicos.xml</externallink>
+</channel>
+
+  
+  
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] DESENHOS [/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
@@ -49,6 +82,11 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/desenhos.xml</externallink>
 </channel>
 
+
+
+
+
+  
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TOKUSATSU [/COLOR][/B]</name>
 <thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu/two%20addonsTOKUSATSU.jpg</thumbnail>
@@ -57,6 +95,9 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/tokusatsu.xml</externallink>
 </channel>
 
+
+
+  
 <channel>
 <name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] RADIO GOSPEL [/COLOR][/B]</name>
 <thumbnail>https://ia601503.us.archive.org/18/items/two-addons-gospel/two%20addons%20GOSPEL.jpg</thumbnail>
