@@ -1,57 +1,51 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 
 
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR silver][B] PATOS CAM [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36C43A836DA84B377E6684D91BFB0D0660A136C7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/2KPvdtGjeFT8IwxUkUWmifokXG0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1280/2KPvdtGjeFT8IwxUkUWmifokXG0.jpg</fanart>
+<info>Na nova comédia da Illumination, o pai de uma família de Patos é convencido a passar por Nova York e ir até as Bahamas durante a migração de inverno.</info>
 </item>
 
 
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR silver][B] FERRARI CAM [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CFCEED62500955C40F5A70FF1A19F95FDBDA1E0E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/nNMoJMDCeF4Q5wpWvKuh5b8K2sX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1280/nNMoJMDCeF4Q5wpWvKuh5b8K2sX.jpg</fanart>
+<info>Baseada no livro ‘Enzo Ferrari: The Man, the Cars, the Races’, a trama se passará entre os anos 1945 e 1980 ao contar a história do piloto e engenheiro que redefiniu o potente carro esportivo italiano e, quase sozinho, criou a corrida de Fórmula Um.Enzo Ferrari morreu em 1988, aos 90 anos.</info>
 </item>
 
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR silver][B] CRIPTOFRAUDE [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBFYFGJ3BMGYKEGAWES7H7X3SGJWSUSB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1280/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg</fanart>
+<info> Neste documentário sobre um crime real, três homens exploram o mercado de criptomoedas para aplicar golpes em investidores e bancar uma vida de luxo.</info>
 </item>
 
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-
-
-<item>
-<title>[COLOR silver][B]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR silver][B] MAIS UM TIRO CERTO [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1489d21acdbd800e61e964a559554b31ed066b4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/zkHkMLoC41euiPZG62wslcHLreH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1280/zkHkMLoC41euiPZG62wslcHLreH.jpg</fanart>
+<info>Segue um líder de esquadrão Navy SEAL que está escoltando um suspeito de terrorismo de um local secreto quando ele é atacado por um grupo de mercenários.</info>
 </item>
 
 
 
 
+
+
+<items>
