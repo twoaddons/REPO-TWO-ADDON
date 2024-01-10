@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 UHD PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/86630.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 UHD 4K PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 UHD 4K PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/86631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panda Kids PT" tvg-logo="https://picon-13398.kxcdn.com/pandakidspt.jpg" group-title="Live: Portugal",Panda Kids PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/90912.m3u8
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/rtp1.jpg" group-title="Live: Portugal",RTP 1 HD PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/22983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews PT" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="Live: Portugal",Euronews PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/95334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito PT" tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Live: Portugal",Cartoonito PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/126051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha PT" tvg-logo="https://picon-13398.kxcdn.com/casaecozinhapt.jpg" group-title="Live: Portugal",Casa e Cozinha PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/126052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break PT" tvg-logo="https://picon-13398.kxcdn.com/amcbreakpt.jpg" group-title="Live: Portugal",AMC Break PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/126054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca PT" tvg-logo="https://picon-13398.kxcdn.com/tracetocapt.jpg" group-title="Live: Portugal",Trace Toca PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/126056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S+ PT" tvg-logo="https://picon-13398.kxcdn.com/spluspt.jpg" group-title="Live: Portugal",S+ PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/126057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids PT" tvg-logo="https://picon-13398.kxcdn.com/lollykidsuk.jpg" group-title="Live: Portugal",Lolly Kids PT
+http://clientportal.link:80/live/aPCfGya713/KDTQVA25/126053.m3u8
