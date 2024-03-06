@@ -78,384 +78,331 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/233447
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo SP HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35907
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35755
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo SP SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35906
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35760
-#EXTINF:-1 tvg-name="Globo RJ HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RJ HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35970
-#EXTINF:-1 tvg-name="Globo RJ SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35761
-#EXTINF:-1 tvg-name="Globo RJ SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RJ SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35915
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="Globo TV Tem Bauru SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Bauru SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/168265
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="Globo TV Tem Bauru HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Bauru HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/168264
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="Globo TV Tem Sorocaba HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Sorocaba HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/168262
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="Globo TV Tem Sorocaba FHD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Sorocaba FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/168261
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Globo AM Manaus FHD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo AM Manaus FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122238
-#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="Globo AM Manaus HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo AM Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122237
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Globo AM Manaus HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo AM Manaus HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/61340
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Globo AM Manaus SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo AM Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35762
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Globo AM Manaus SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo AM Manaus SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35929
-#EXTINF:-1 tvg-id="tv.asa.branca.br" tvg-name="Globo Asa Branca HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Asa Branca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122169
-#EXTINF:-1 tvg-id="tv.asa.branca.br" tvg-name="Globo Asa Branca HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Asa Branca HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/68103
-#EXTINF:-1 tvg-id="tv.asa.branca.br" tvg-name="Globo Asa Branca SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Asa Branca SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122168
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasilia HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35778
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasilia HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Brasilia HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35948
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasilia SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35779
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasilia SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Brasilia SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35947
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo EPTV Araraquara SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Araraquara SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35777
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35775
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35776
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="Globo EPTV Campinas SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Campinas SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35944
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Ribeirão Preto HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35774
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="Globo EPTV Ribeirão Preto HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Ribeirão Preto HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35409
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Ribeirão Preto SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35773
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="Globo EPTV Ribeirão Preto SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Ribeirão Preto SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35941
-#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122148
-#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122147
-#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="Globo EPTV Sul Minas HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Sul Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/95641
-#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="Globo EPTV Sul Minas SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV Sul Minas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35939
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV São Carlos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122226
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo EPTV São Carlos SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV São Carlos SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35772
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo EPTV São Carlos SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo EPTV São Carlos SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35940
-#EXTINF:-1 tvg-id="inter.alto.litoral.br" tvg-name="Globo Inter TV Alto Litoral RJ HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Alto Litoral RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35701
-#EXTINF:-1 tvg-id="inter.alto.litoral.br" tvg-name="Globo Inter TV Alto Litoral RJ SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Alto Litoral RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35700
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Cabugi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122235
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122236
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Globo Inter TV Cabugi HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Cabugi HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35946
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/121441
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Inter TV Dos Vales HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35698
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Inter TV Dos Vales SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Dos Vales SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35697
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35695
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter TV Grande Minas HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Grande Minas HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/96870
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter TV Grande Minas SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35694
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter TV Grande Minas SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Grande Minas SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35934
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Inter TV Natal SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Natal SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35771
-#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35692
-#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Globo Inter TV Serra Mar SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35691
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="Globo Minas HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35769
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="Globo Minas HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Minas HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35408
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="Globo Minas SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Minas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35770
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="Globo Minas SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Minas SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35927
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35767
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Nordeste HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/6896
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35768
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Nordeste SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35923
-#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Blumenau HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35689
-#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Blumenau SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35688
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Centro-Oeste HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Centro-Oeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122160
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Centro-Oeste SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Centro-Oeste SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122159
-#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV Chapeco HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Chapeco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35737
-#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Chapeco SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35736
-#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="Globo NSC TV Criciuma HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Criciuma HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122157
-#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="Globo NSC TV Criciuma SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Criciuma SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122156
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35765
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Florianopolis SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35766
-#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="Globo NSC TV Joinville HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Joinville HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35683
-#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="Globo NSC TV Joinville SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo NSC TV Joinville SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35682
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Paraiba HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Paraiba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/67019
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Caxias do Sul HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35686
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="Globo RBS TV Caxias do Sul SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Caxias do Sul SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35685
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Tv Passo Fundo HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS Tv Passo Fundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122222
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Tv Passo Fundo SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS Tv Passo Fundo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122223
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Pelotas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35680
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Pelotas SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Pelotas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35679
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35763
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS TV Porto Alegre HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Porto Alegre HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35407
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35764
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS TV Porto Alegre SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Porto Alegre SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/61628
-#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Santa Maria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122163
-#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS TV Santa Maria SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RBS TV Santa Maria SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122162
-#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ Cabo Frio HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RJ Cabo Frio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/63848
-#EXTINF:-1 tvg-id="rpc.cascavel.br" tvg-name="Globo RPC Cascavel HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Cascavel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122210
-#EXTINF:-1 tvg-id="rpc.cascavel.br" tvg-name="Globo RPC Cascavel SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Cascavel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122211
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35757
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35758
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Curitiba SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35914
-#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz Do Iguacu HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Foz Do Iguacu HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35733
-#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz Do Iguacu SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Foz Do Iguacu SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35735
-#EXTINF:-1 tvg-id="rpc.londrina.br" tvg-name="Globo RPC Londrina HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Londrina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122219
-#EXTINF:-1 tvg-id="rpc.londrina.br" tvg-name="Globo RPC Londrina SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Londrina SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122220
-#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Maringa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/189282
-#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Maringa SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/189283
-#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="Globo RPC Paranavai HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Paranavai HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122172
-#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="Globo RPC Paranavai HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Paranavai HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/118367
-#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="Globo RPC Paranavai SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC Paranavai SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122171
-#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="Globo RPC TV Ponta Grossa HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC TV Ponta Grossa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122166
-#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="Globo RPC TV Ponta Grossa SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo RPC TV Ponta Grossa SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122165
-#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo Salvador HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Salvador HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/112783
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Anhanguera HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35751
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Anhanguera SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35752
-#EXTINF:-1 tvg-id="tv.bahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35749
-#EXTINF:-1 tvg-id="tv.bahia.br" tvg-name="Globo TV Bahia SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35750
-#EXTINF:-1 tvg-id="tv.bahia.br" tvg-name="Globo TV Bahia SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Bahia SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35950
-#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="Globo TV C.América Cuiaba HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV C.América Cuiaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122241
-#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="Globo TV C.América Cuiaba SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV C.América Cuiaba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35748
-#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="Globo TV C.América Cuiaba SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV C.América Cuiaba SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35945
-#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="Globo TV Cabo Branco HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Cabo Branco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35677
-#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="Globo TV Cabo Branco SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Cabo Branco SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35676
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Clube Piaui HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Clube Piaui HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/118373
-#EXTINF:-1 tvg-id="globo.teresina.br" tvg-name="Globo TV Clube Teresina HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Clube Teresina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35730
-#EXTINF:-1 tvg-id="globo.teresina.br" tvg-name="Globo TV Clube Teresina SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Clube Teresina SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35732
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Diário Mogi das Cruzes HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Diário Mogi das Cruzes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122195
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Diário Mogi das Cruzes SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Diário Mogi das Cruzes SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122194
-#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="Globo TV Fronteira P. Prudente HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Fronteira P. Prudente HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122186
-#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="Globo TV Fronteira P. Prudente SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Fronteira P. Prudente SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122185
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Alagoas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35706
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Alagoas SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Alagoas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35708
-#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Sul ES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35704
-#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="Globo TV Gazeta Sul ES SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Sul ES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122224
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Vitória HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35727
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Vitória SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Vitória SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35729
-#EXTINF:-1 tvg-id="tv.integracao.araxa.br" tvg-name="Globo TV Integração Araxá HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Araxá HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122151
-#EXTINF:-1 tvg-id="tv.integracao.araxa.br" tvg-name="Globo TV Integração Araxá HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Araxá HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/118332
-#EXTINF:-1 tvg-id="tv.integracao.araxa.br" tvg-name="Globo TV Integração Araxá SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Araxá SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122150
-#EXTINF:-1 tvg-id="tv.integracao.br" tvg-name="Globo TV Integração Juiz de Fora HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Juiz de Fora HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122154
-#EXTINF:-1 tvg-id="tv.integracao.br" tvg-name="Globo TV Integração Juiz de Fora SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Juiz de Fora SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122153
-#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="Globo TV Integração Uberaba HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Uberaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122204
-#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="Globo TV Integração Uberaba SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Uberaba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122205
-#EXTINF:-1 tvg-id="tv.integracao.uberlandia.br" tvg-name="Globo TV Integração Uberlândia HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Uberlândia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122180
-#EXTINF:-1 tvg-id="tv.integracao.uberlandia.br" tvg-name="Globo TV Integração Uberlândia SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Integração Uberlândia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122179
-#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Liberal Belem HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122239
-#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="Globo TV Liberal Belem SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Liberal Belem SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35747
-#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="Globo TV Liberal Belem SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Liberal Belem SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35931
-#EXTINF:-1 tvg-id="tv.mirante.cocais.br" tvg-name="Globo TV Mirante Cocais HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Mirante Cocais HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122207
-#EXTINF:-1 tvg-id="tv.mirante.cocais.br" tvg-name="Globo TV Mirante Cocais SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Mirante Cocais SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122208
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luis HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Mirante São Luis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35714
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luis SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Mirante São Luis SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35713
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Morena Campo Grande HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35711
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena Campo Grande SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Morena Campo Grande SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35710
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Globo TV Rede Amazonica Rio Branco HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazonica Rio Branco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122198
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Globo TV Rede Amazonica Rio Branco SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazonica Rio Branco SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122197
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazônica Boa Vista HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazônica Boa Vista HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122189
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazônica Boa Vista SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazônica Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122188
-#EXTINF:-1 tvg-name="Globo TV Rede Amazônica Macapá HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazônica Macapá HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122213
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo TV Rede Amazônica Macapá SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazônica Macapá SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122214
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazônica Porto Velho HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazônica Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122183
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazônica Porto Velho SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rede Amazônica Porto Velho SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122182
-#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="Globo TV Rio Sul HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rio Sul HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35674
-#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="Globo TV Rio Sul SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Rio Sul SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35673
-#EXTINF:-1 tvg-id="tv.santa.cruz.br" tvg-name="Globo TV Santa Cruz HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Santa Cruz HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35671
-#EXTINF:-1 tvg-id="tv.santa.cruz.br" tvg-name="Globo TV Santa Cruz HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Santa Cruz HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35912
-#EXTINF:-1 tvg-id="tv.santa.cruz.br" tvg-name="Globo TV Santa Cruz SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Santa Cruz SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35670
-#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35724
-#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Sergipe HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35405
-#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Sergipe SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35726
-#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Sergipe SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35911
-#EXTINF:-1 tvg-id="tv.sudoeste.br" tvg-name="Globo TV Sudoeste HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Sudoeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122201
-#EXTINF:-1 tvg-id="tv.sudoeste.br" tvg-name="Globo TV Sudoeste SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Sudoeste SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122202
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="Globo TV Tem Bauru HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122230
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="Globo TV Tem Bauru SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Bauru SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35746
-#EXTINF:-1 tvg-id="tv.tem.itapetininga.br" tvg-name="Globo TV Tem Itapetininga HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Itapetininga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122192
-#EXTINF:-1 tvg-id="tv.tem.itapetininga.br" tvg-name="Globo TV Tem Itapetininga SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Itapetininga SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122191
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Tem S. J. Do Rio Preto HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem S. J. Do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35744
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Tem S. J. Do Rio Preto SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem S. J. Do Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35743
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122228
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Sorocaba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35745
-#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="Globo TV Tem Sorocaba SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tem Sorocaba SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35909
-#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tribuna Santos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122232
-#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tribuna Santos SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35742
-#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="Globo TV Tribuna Santos SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Tribuna Santos SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35904
-#EXTINF:-1 tvg-id="globo.vanguarda.br" tvg-name="Globo TV Vanguarda S.J dos Campos HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Vanguarda S.J dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122234
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Vanguarda S.J dos Campos SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Vanguarda S.J dos Campos SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35741
-#EXTINF:-1 tvg-id="tv.vanguarda.br" tvg-name="Globo TV Vanguarda Taubaté HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Vanguarda Taubaté HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122177
-#EXTINF:-1 tvg-id="tv.vanguarda.br" tvg-name="Globo TV Vanguarda Taubaté SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Vanguarda Taubaté SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122176
-#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="Globo TV Verdes Mares Cariri HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122216
-#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="Globo TV Verdes Mares Cariri SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Verdes Mares Cariri SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122217
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/122174
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verdes Mares Fortaleza HD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/36972
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35740
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo Tv Verdes Mares Fortaleza SD²" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Globo Tv Verdes Mares Fortaleza SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/33195
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Tv Mirante HD (Globo Maranhao)" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Tv Mirante HD (Globo Maranhao)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/61338
-#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="Tv Rio Sul HD (Globo Interior RJ)" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="GLOBO",Tv Rio Sul HD (Globo Interior RJ)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/61339
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/62169
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP HD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1948
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1947
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP FHD²" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/24774
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP Alternativo HD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP Alternativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2619
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP Alternativo" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2620
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1943
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ HD" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1942
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1941
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ FHD²" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/24773
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ Alternativo HD" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ Alternativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2617
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ Alternativo" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2618
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1981
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG HD" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1933
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1932
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG FHD²" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/24775
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Alternativo HD" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG Alternativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/24776
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Alternativo " tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG Alternativo 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/24777
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Nordeste.png" group-title="Globo ",Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1982
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste HD" tvg-logo="http://prinplay.com.br/server/Globo%20Nordeste.png" group-title="Globo ",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1935
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste" tvg-logo="http://prinplay.com.br/server/Globo%20Nordeste.png" group-title="Globo ",Globo Nordeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1934
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verde Mares Fortaleza FHD" tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verde Mares Fortaleza FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39415
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verdes Mares Fortaleza HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/38904
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo TV Verdes Mares Fortaleza " tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verdes Mares Fortaleza 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/38903
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1986
+#EXTINF:-1 tvg-id="tv.bahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1953
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo TV Bahia" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Bahia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1952
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="Globo ",Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1985
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="Globo ",Globo TV Anhanguera HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1951
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="Globo ",Globo TV Anhanguera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1950
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="Globo Recife FHD " tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo Recife FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61713
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="Globo Recife HD " tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo Recife HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61714
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasília FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Bras%C3%ADlia.png" group-title="Globo ",Globo Brasília FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1979
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasília HD" tvg-logo="http://prinplay.com.br/server/Globo%20Bras%C3%ADlia.png" group-title="Globo ",Globo Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1924
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasília" tvg-logo="http://prinplay.com.br/server/Globo%20Bras%C3%ADlia.png" group-title="Globo ",Globo Brasília
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2034
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="Globo Recife " tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo Recife 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61715
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS Porto Alegre FHD " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS Porto Alegre FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/901491
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/901492
+#EXTINF:-1 tvg-id="rbs.rio.grande.br" tvg-name="Globo RBS Porto Alegre " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS Porto Alegre 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/901493
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1946
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba HD²" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1945
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1944
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba Alternativo HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba Alternativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61306
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba Alternativo" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61307
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Londrina FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/901280
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="Globo ",Globo RPC Londrina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902601
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="Globo ",Globo RPC Londrina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902604
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Globo ",Globo RPC Foz do Iguaçu FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1968
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Globo ",Globo RPC Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1969
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Globo ",Globo RPC Foz do Iguaçu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1967
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Maring%C3%A1.png" group-title="Globo ",Globo RPC Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/12729
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Maring%C3%A1.png" group-title="Globo ",Globo RPC Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/12730
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Maring%C3%A1.png" group-title="Globo ",Globo RPC Maringa 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/12731
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC Cascavel FHD " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Cascavel FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39420
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC Cascavel HD " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Cascavel HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39421
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC Cascavel " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Cascavel 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39422
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC TV Paranavai FHD " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC TV Paranavai FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39423
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC TV Paranavai HD " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC TV Paranavai HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39424
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC TV Paranavai " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC TV Paranavai 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39425
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC TV Ponta Grossa FHD " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC TV Ponta Grossa FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39434
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC TV Ponta Grossa HD " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC TV Ponta Grossa HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39435
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC TV Ponta Grossa " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC TV Ponta Grossa 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39436
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2021
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2022
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Pelotas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2023
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2015
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2016
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Caxias do Sul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2017
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV Passo Fundo FHD " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Passo Fundo FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39437
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV Passo Fundo HD " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Passo Fundo HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39438
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV Passo Fundo" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Passo Fundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39439
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS TV Santa Maria FHD " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Santa Maria FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39440
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS TV Santa Maria HD " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Santa Maria HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39441
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS TV Santa Maria" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS TV Santa Maria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39442
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1983
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1937
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="Globo NSC TV Florianopolis" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Florianopolis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1936
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2018
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2019
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="Globo NSC TV Joinville" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Joinville
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2020
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV Chapecó FHD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Chapecó FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1964
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV Chapecó HD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Chapecó HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1965
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV Chapecó" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Chapecó
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1966
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2012
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2013
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="Globo NSC TV Blumenal" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Blumenal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2014
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Criciuma FHD " tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Criciuma FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39446
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Criciuma HD " tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Criciuma HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39447
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Criciuma" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Criciuma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39448
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Centro Oeste FHD " tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Centro Oeste FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39443
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Centro Oeste HD " tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Centro Oeste HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39444
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NSC TV Centro Oeste" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="Globo ",Globo NSC TV Centro Oeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39445
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://prinplay.com.br/server/TV%20Sergipe.png" group-title="Globo ",Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1977
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe HD" tvg-logo="http://prinplay.com.br/server/TV%20Sergipe.png" group-title="Globo ",Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1978
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="Globo TV Sergipe" tvg-logo="http://prinplay.com.br/server/TV%20Sergipe.png" group-title="Globo ",Globo TV Sergipe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1976
+#EXTINF:-1 tvg-id="tv.santa.cruz.br" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://prinplay.com.br/server/TV%20Santa%20Cruz.png" group-title="Globo ",Globo TV Santa Cruz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2030
+#EXTINF:-1 tvg-id="tv.santa.cruz.br" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://prinplay.com.br/server/TV%20Santa%20Cruz.png" group-title="Globo ",Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2031
+#EXTINF:-1 tvg-id="tv.santa.cruz.br" tvg-name="Globo TV Santa Cruz" tvg-logo="http://prinplay.com.br/server/TV%20Santa%20Cruz.png" group-title="Globo ",Globo TV Santa Cruz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2032
+#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="Globo ",Globo TV Liberal Belem FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902484
+#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="Globo ",Globo TV Liberal Belem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902485
+#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo TV Liberal Belem" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="Globo ",Globo TV Liberal Belem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1955
+#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="Globo TV Rede Amazonica Manaus FHD " tvg-logo="http://s2.glbimg.com/NnbGCyELy4SUwoJgQ_nsmdA9f7U=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/03/26/rede_am.png" group-title="Globo ",Globo TV Rede Amazonica Manaus FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39457
+#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="Globo TV Rede Amazonica Manaus HD " tvg-logo="http://s2.glbimg.com/NnbGCyELy4SUwoJgQ_nsmdA9f7U=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/03/26/rede_am.png" group-title="Globo ",Globo TV Rede Amazonica Manaus HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39458
+#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="Globo TV Rede Amazonica Manaus" tvg-logo="http://s2.glbimg.com/NnbGCyELy4SUwoJgQ_nsmdA9f7U=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/03/26/rede_am.png" group-title="Globo ",Globo TV Rede Amazonica Manaus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1940
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazonica Boa Vista FHD " tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="Globo ",Globo TV Rede Amazonica Boa Vista FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39471
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazonica Boa Vista HD " tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="Globo ",Globo TV Rede Amazonica Boa Vista HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39472
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazonica Boa Vista " tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="Globo ",Globo TV Rede Amazonica Boa Vista 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39473
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazonica Porto Velho FHD " tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="Globo ",Globo TV Rede Amazonica Porto Velho FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39474
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazonica Porto Velho HD " tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="Globo ",Globo TV Rede Amazonica Porto Velho HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39475
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Rede Amazonica Porto Velho " tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="Globo ",Globo TV Rede Amazonica Porto Velho 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39476
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Asa Branca FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Asa_Branca.png" group-title="Globo ",Globo TV Asa Branca FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39459
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Asa Branca HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Asa_Branca.png" group-title="Globo ",Globo TV Asa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39460
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Asa Branca " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Asa_Branca.png" group-title="Globo ",Globo TV Asa Branca 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39461
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="Globo ",Globo TV Morena Campo Grande FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1990
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="Globo ",Globo TV Morena Campo Grande HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1991
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena Campo Grande" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="Globo ",Globo TV Morena Campo Grande
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1992
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena FHD" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="Globo ",Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902603
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luis FHD" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="Globo ",Globo TV Mirante São Luis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1987
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luis HD" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="Globo ",Globo TV Mirante São Luis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1988
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luis" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="Globo ",Globo TV Mirante São Luis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1989
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante Cocais FHD" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="Globo ",Globo TV Mirante Cocais FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902605
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante Cocais HD" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="Globo ",Globo TV Mirante Cocais HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39418
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante Cocais " tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="Globo ",Globo TV Mirante Cocais 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39419
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Vitoria FHD" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Globo ",Globo TV Gazeta Vitoria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1974
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Globo ",Globo TV Gazeta Vitoria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1975
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Vitoria" tvg-logo="https://i.postimg.cc/FKtn17LD/TV-Gazeta-Sul.png" group-title="Globo ",Globo TV Gazeta Vitoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1973
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://prinplay.com.br/server/TV%20Gazeta%20Sul.png" group-title="Globo ",Globo TV Gazeta Sul ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1997
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://prinplay.com.br/server/TV%20Gazeta%20Sul.png" group-title="Globo ",Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1998
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://prinplay.com.br/server/TV%20Gazeta%20Alagoas.png" group-title="Globo ",Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1995
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://prinplay.com.br/server/TV%20Gazeta%20Alagoas.png" group-title="Globo ",Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1996
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Gazeta Alagoas" tvg-logo="http://prinplay.com.br/server/TV%20Gazeta%20Alagoas.png" group-title="Globo ",Globo TV Gazeta Alagoas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1994
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo TV Verdes Mares Cariri FHD " tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verdes Mares Cariri FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/20724
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Verdes Mares Cariri HD " tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verdes Mares Cariri HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1962
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verde Mares Cariri " tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verde Mares Cariri 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39456
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902597
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/901123
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo Inter TV Cabugi" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV Cabugi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/902598
+#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://prinplay.com.br/server/TV%20Clube.png" group-title="Globo ",Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1971
+#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://prinplay.com.br/server/TV%20Clube.png" group-title="Globo ",Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1972
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Clube Teresina" tvg-logo="http://prinplay.com.br/server/TV%20Clube.png" group-title="Globo ",Globo TV Clube Teresina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1970
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2024
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2025
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="Globo TV Cabo Branco" tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo TV Cabo Branco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2026
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="Globo TV C. America Cuiba FHD " tvg-logo="http://prinplay.com.br/server/TV%20Centro%20Am%C3%A9rica.png" group-title="Globo ",Globo TV C. America Cuiba FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39454
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="Globo TV C. America Cuiba HD " tvg-logo="http://prinplay.com.br/server/TV%20Centro%20Am%C3%A9rica.png" group-title="Globo ",Globo TV C. America Cuiba HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39453
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="Globo TV C. America Cuiaba" tvg-logo="http://prinplay.com.br/server/TV%20Centro%20Am%C3%A9rica.png" group-title="Globo ",Globo TV C. America Cuiaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1954
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Subae FHD " tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Subae FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39449
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Subae HD " tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Subae HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39450
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Subae" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Subae
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39451
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Sudoeste FHD " tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Sudoeste FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39462
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Sudoeste HD " tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Sudoeste HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39463
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Sudoeste" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Sudoeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/39464
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2003
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2004
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo Inter TV dos Vales" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV dos Vales
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2005
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2006
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2007
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo Inter TV Grande Minas" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="Globo ",Globo Inter TV Grande Minas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2008
+#EXTINF:-1 tvg-id="tv.anhanguera.palmas.br" tvg-name="Globo Palmas TO" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="Globo ",Globo Palmas TO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/918025
+#EXTINF:-1 tvg-id="TVGloboPortugal2" tvg-name="Globo Portugal HD" tvg-logo="http://prinplay.com.br/server/Globo%20Portugal.png" group-title="Globo ",Globo Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61734
+#EXTINF:-1 tvg-id="GLOBONOWHD" tvg-name="Globo Portugal" tvg-logo="http://prinplay.com.br/server/Globo%20Now.png" group-title="Globo ",Globo Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2433
+
+
+
 
 
 
