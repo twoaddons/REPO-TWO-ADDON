@@ -7,30 +7,34 @@
 
 
 
-
-#EXTINF:-1 tvg-name="BBB 11" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/236737
-#EXTINF:-1 tvg-name="BBB 10" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/236736
-#EXTINF:-1 tvg-name="BBB 09" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/236735
-#EXTINF:-1 tvg-name="BBB 08" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/236734
-#EXTINF:-1 tvg-name="BBB 07" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/236733
-#EXTINF:-1 tvg-name="BBB 06" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/230372
-#EXTINF:-1 tvg-name="BBB 05" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/230371
-#EXTINF:-1 tvg-name="BBB 04" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/230370
-#EXTINF:-1 tvg-name="BBB 03" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/230369
-#EXTINF:-1 tvg-name="BBB 02" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/230368
-#EXTINF:-1 tvg-name="BBB 01" tvg-logo="https://fivetv.xyz/logos/bbb.png" group-title="BBB 24",BBB 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/230366
-
+#EXTINF:-1 tvg-name="BBB 24 CAM Principal" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Principal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917005
+#EXTINF:-1 tvg-name="BBB 24 CAM Principal 2" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Principal 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917454
+#EXTINF:-1 tvg-name="BBB 24 CAM Principal 3" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Principal 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917455
+#EXTINF:-1 tvg-name="BBB 24 CAM 02" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917006
+#EXTINF:-1 tvg-name="BBB 24 CAM 03" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917007
+#EXTINF:-1 tvg-name="BBB 24 CAM 04" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917008
+#EXTINF:-1 tvg-name="BBB 24 CAM 05" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917009
+#EXTINF:-1 tvg-name="BBB 24 CAM 06" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917010
+#EXTINF:-1 tvg-name="BBB 24 CAM 07" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917011
+#EXTINF:-1 tvg-name="BBB 24 CAM 08" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917012
+#EXTINF:-1 tvg-name="BBB 24 CAM 09" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917013
+#EXTINF:-1 tvg-name="BBB 24 CAM 10" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917014
+#EXTINF:-1 tvg-name="BBB 24 CAM 11" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917015
+#EXTINF:-1 tvg-name="BBB 24 CAM Mosaico" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Mosaico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/917016
 
 
 
