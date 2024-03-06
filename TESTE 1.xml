@@ -46,37 +46,65 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-name="SBT Ribeirao Preto" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT Ribeirao Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/232755
-#EXTINF:-1 tvg-name="SBT Brasilia" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT Brasilia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/217225
-#EXTINF:-1 tvg-name="SBT RN" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT RN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/216874
-#EXTINF:-1 tvg-name="SBT Parana HD²" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT Parana HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/216854
-#EXTINF:-1 tvg-name="SBT Piaui HD²" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT Piaui HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/216835
-#EXTINF:-1 tvg-name="SBT Piaui HD" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT Piaui HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/216834
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT HD" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/6494
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD²" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/10696
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/6493
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD²" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/10697
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Parana HD" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT Parana HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/150365
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP Interior" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT SP Interior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/21103
-#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT TV Aratu HD" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT TV Aratu HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/40787
-#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV Jangadeiro CE" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT TV Jangadeiro CE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/40789
-#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT Tv Serra Dourada" tvg-logo="https://fivetv.xyz/logos/sbt.png" group-title="SBT",SBT Tv Serra Dourada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://5ce.co:80/981140027/0027cris99/35388
 
+
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1900
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2212
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT SP 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2211
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP Alternativo HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT SP Alternativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1324
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP Alternativo" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT SP Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/1218
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP Interior" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT SP Interior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/2213
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/908290
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT RJ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/53001
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Paraná HD " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT Paraná HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/52131
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Paraná " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT Paraná 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/50840
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Nordeste " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT Nordeste 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/51247
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT TV Aratu BA" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Aratu BA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/20980
+#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV Jangadeiro FHD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Jangadeiro FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/905382
+#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV Jangadeiro HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Jangadeiro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/905383
+#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV Jangadeiro " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Jangadeiro 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/905384
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT TV Serra Dourada GO HD " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Serra Dourada GO HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/20984
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT TV Serra Dourada GO " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Serra Dourada GO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/72358
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Alterosa FHD " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Alterosa FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/914181
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Alterosa HD " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Alterosa HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/914182
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Alterosa" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Alterosa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/50848
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Aperipe SE " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Aperipe SE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/45753
+#EXTINF:-1 tvg-id="tv.tambau.br" tvg-name="SBT TV Tambau " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT TV Tambau 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61273
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Brasília " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT Brasília 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/52567
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Recife TV Jornal " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT Recife TV Jornal 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61716
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Rede Massa " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT Rede Massa 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/897996
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT RS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/52473
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SC" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT SC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/70107
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RN " tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="SBT",SBT RN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by two addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/pRKe5HWtGJ/wbWS40qvyV/61717
 
 
 
