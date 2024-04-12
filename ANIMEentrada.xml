@@ -23,11 +23,11 @@
 
 
   <channel>
-<name>[B][COLOR blue]TWO [B][COLOR yellow] ANIME[/COLOR] * [COLOR white]TODOS OS ANIMES ESTÃO AQUI [B][COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue]TWO [B][COLOR yellow] ANIME[/COLOR] * [COLOR white]OS ANIMES ESTÃO AQUI [B][COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://ia600306.us.archive.org/4/items/fanart_20240412/fanart.jpg</thumbnail>
 <fanart>https://ia600306.us.archive.org/4/items/fanart_20240412/fanart.jpg</fanart>
 <info>[COLOR blue]*[COLOR] animes [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/animes.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/ANIMES.xml</externallink>
 </channel>
 
 
