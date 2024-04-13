@@ -1,14 +1,9 @@
 #EXTM3U
  
 
-#EXTINF:-1,ANIME TV LEGENDADO
-https://alanza.iptv2022.com/ANIME_TV/tracks-v1a1/mono.m3u8 
-
 #EXTINF:-1, 24HS RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
 
-#EXTINF:-1,24HS CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-480p.m3u8
 
 #EXTINF:-1, 24HS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -17,20 +12,13 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1, 24HS JETSONS
 https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1, 24HS GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
+
 #EXTINF:-1, 24HS BOB ESPONJA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-
-#EXTINF:-1, 24HS TOM & JERRY legendado 
-http://milka99.xyz:80/097543511553/726840449033/70960
-
-#EXTINF:-1, 24HS TOM & JERRY Mix
-http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/713
-
-
 
 #EXTINF:-1, 24HS CHAVES
 http://168.205.87.198:8555/live/1431/123456/159.m3u8
@@ -41,38 +29,6 @@ http://milka99.xyz:80/097543511553/726840449033/72711
 #EXTINF:-1, NARUTO UZUMAKI 24HS
 http://milka99.xyz:80/097543511553/726840449033/73422
 
-
-
-#EXTINF:-1,PERNALONGA  24HS
-http://milka99.xyz:80/097543511553/726840449033/70961
-
-#EXTINF:-1, PICA-PAU 24HS
-http://milka99.xyz:80/097543511553/726840449033/62879
-
-#EXTINF:-1,TICO E TECO  24HS
-http://milka99.xyz:80/097543511553/726840449033/70959
-
-#EXTINF:-1,JIRAYA  24HS
-http://milka99.xyz:80/653555120756/077032534215/72710
-
-#EXTINF:-1, TURMA DO BAIRRO 24HS
-http://milka99.xyz:80/653555120756/077032534215/72706
-
-#EXTINF:-1,POPEYE  24HS
-http://milka99.xyz/653555120756/077032534215/62860
-
-#EXTINF:-1,BEN 10  24HS
-http://milka99.xyz/653555120756/077032534215/65049
-
-#EXTINF:-1, DRAKE E JOSH 24HS
-http://milka99.xyz/653555120756/077032534215/87732
-
-
-#EXTINF:-1, UM MALUCO NO PEDAÇO 24HS
-http://milka99.xyz/097543511553/726840449033/62854
-
-#EXTINF:-1, YUYU HAKUSHO 24HS
-http://milka99.xyz/097543511553/726840449033/90090
 
 #EXTINF:-1, AS AVENTURA DE JACKIE CHAN 24HS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
