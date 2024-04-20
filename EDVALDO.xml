@@ -732,11 +732,6 @@ http://195.128.248.216:8080/rodrigoduarte/mrtv01xx/115834
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL FHD²" tvg-logo="http://7vnx.xyz/logos/cnnbrasilfhd.png" group-title="EDVALDO CANAIS  | NOTÍCIAS",CNN BRASIL FHD²
 http://195.128.248.216:8080/rodrigoduarte/mrtv01xx/18641
 #EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL FHD¹" tvg-logo="http://7vnx.xyz/logos/cnnbrasilfhd.png" group-title="EDVALDO CANAIS  | NOTÍCIAS",CNN BRASIL FHD¹
@@ -811,6 +806,96 @@ http://195.128.248.216:8080/rodrigoduarte/mrtv01xx/126621
 
 
 
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV FHD" tvg-logo="https://canais.asrv.io/babytv.png" group-title="EDVALDO CANAIS | INFANTIL",BABYTV FHD
+http://meumd.com:80/5511949680652/551194dd/204838
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV HD" tvg-logo="https://canais.asrv.io/babytv.png" group-title="EDVALDO CANAIS | INFANTIL",BABYTV HD
+http://meumd.com:80/5511949680652/551194dd/204837
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV SD" tvg-logo="https://canais.asrv.io/babytv.png" group-title="EDVALDO CANAIS | INFANTIL",BABYTV SD
+http://meumd.com:80/5511949680652/551194dd/110159
+#EXTINF:-1 tvg-name="BOOMBERANG SD" tvg-logo="https://canais.asrv.io/boomerang.png" group-title="EDVALDO CANAIS | INFANTIL",BOOMBERANG SD
+http://meumd.com:80/5511949680652/551194dd/108685
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://canais.asrv.io/boomerang.png" group-title="EDVALDO CANAIS | INFANTIL",BOOMERANG FHD
+http://meumd.com:80/5511949680652/551194dd/110158
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD dual audio" tvg-logo="https://canais.asrv.io/boomerang.png" group-title="EDVALDO CANAIS | INFANTIL",BOOMERANG FHD dual audio
+http://meumd.com:80/5511949680652/551194dd/186349
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://canais.asrv.io/boomerang.png" group-title="EDVALDO CANAIS | INFANTIL",BOOMERANG HD
+http://meumd.com:80/5511949680652/551194dd/110155
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://canais.asrv.io/boomerang.png" group-title="EDVALDO CANAIS | INFANTIL",BOOMERANG SD
+http://meumd.com:80/5511949680652/551194dd/110154
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/Yoyi6Fe.png" group-title="EDVALDO CANAIS | INFANTIL",CARTOON NETWORK FHD
+http://meumd.com:80/5511949680652/551194dd/108681
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK  HD" tvg-logo="https://i.imgur.com/Yoyi6Fe.png" group-title="EDVALDO CANAIS | INFANTIL",CARTOON NETWORK  HD
+http://meumd.com:80/5511949680652/551194dd/186348
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/Yoyi6Fe.png" group-title="EDVALDO CANAIS | INFANTIL",CARTOON NETWORK SD
+http://meumd.com:80/5511949680652/551194dd/186347
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://canais.asrv.io/discoverykids.png" group-title="EDVALDO CANAIS | INFANTIL",DISCOVERY KIDS FHD
+http://meumd.com:80/5511949680652/551194dd/186346
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD." tvg-logo="https://canais.asrv.io/discoverykids.png" group-title="EDVALDO CANAIS | INFANTIL",DISCOVERY KIDS HD.
+http://meumd.com:80/5511949680652/551194dd/108678
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://canais.asrv.io/discoverykids.png" group-title="EDVALDO CANAIS | INFANTIL",DISCOVERY KIDS SD
+http://meumd.com:80/5511949680652/551194dd/108679
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel 4k" tvg-logo="https://canais.asrv.io/disney.png" group-title="EDVALDO CANAIS | INFANTIL",Disney Channel 4k
+http://meumd.com:80/5511949680652/551194dd/239042
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://canais.asrv.io/disney.png" group-title="EDVALDO CANAIS | INFANTIL",DISNEY CHANNEL FHD
+http://meumd.com:80/5511949680652/551194dd/108676
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://canais.asrv.io/disney.png" group-title="EDVALDO CANAIS | INFANTIL",DISNEY CHANNEL HD
+http://meumd.com:80/5511949680652/551194dd/186341
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://canais.asrv.io/disney.png" group-title="EDVALDO CANAIS | INFANTIL",DISNEY CHANNEL SD
+http://meumd.com:80/5511949680652/551194dd/108670
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY SD" tvg-logo="https://canais.asrv.io/disney.png" group-title="EDVALDO CANAIS | INFANTIL",DISNEY SD
+http://meumd.com:80/5511949680652/551194dd/186342
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://canais.asrv.io/gloob.png" group-title="EDVALDO CANAIS | INFANTIL",GLOOB FHD
+http://meumd.com:80/5511949680652/551194dd/135171
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://canais.asrv.io/gloob.png" group-title="EDVALDO CANAIS | INFANTIL",GLOOB HD
+http://meumd.com:80/5511949680652/551194dd/135170
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://canais.asrv.io/gloobinho.png" group-title="EDVALDO CANAIS | INFANTIL",GLOOBINHO FHD
+http://meumd.com:80/5511949680652/551194dd/110130
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://canais.asrv.io/gloobinho.png" group-title="EDVALDO CANAIS | INFANTIL",GLOOBINHO HD
+http://meumd.com:80/5511949680652/551194dd/110128
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://canais.asrv.io/gloobinho.png" group-title="EDVALDO CANAIS | INFANTIL",GLOOBINHO SD
+http://meumd.com:80/5511949680652/551194dd/110127
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://canais.asrv.io/gloob.png" group-title="EDVALDO CANAIS | INFANTIL",GLOOB SD
+http://meumd.com:80/5511949680652/551194dd/135172
+#EXTINF:-1 tvg-name="LOADING FHD" tvg-logo="https://canais.asrv.io/loading.png" group-title="EDVALDO CANAIS | INFANTIL",LOADING FHD
+http://meumd.com:80/5511949680652/551194dd/130702
+#EXTINF:-1 tvg-name="LOADING HD" tvg-logo="https://canais.asrv.io/loading.png" group-title="EDVALDO CANAIS | INFANTIL",LOADING HD
+http://meumd.com:80/5511949680652/551194dd/130700
+#EXTINF:-1 tvg-name="LOADING SD" tvg-logo="https://canais.asrv.io/loading.png" group-title="EDVALDO CANAIS | INFANTIL",LOADING SD
+http://meumd.com:80/5511949680652/551194dd/108336
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://canais.asrv.io/nick.png" group-title="EDVALDO CANAIS | INFANTIL",NICKELODEON
+http://meumd.com:80/5511949680652/551194dd/108657
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="https://canais.asrv.io/nick.png" group-title="EDVALDO CANAIS | INFANTIL",NICKELODEON FHD
+http://meumd.com:80/5511949680652/551194dd/110118
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://canais.asrv.io/nick.png" group-title="EDVALDO CANAIS | INFANTIL",NICKELODEON HD
+http://meumd.com:80/5511949680652/551194dd/110115
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://canais.asrv.io/nick.png" group-title="EDVALDO CANAIS | INFANTIL",NICKELODEON SD
+http://meumd.com:80/5511949680652/551194dd/110114
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://canais.asrv.io/nickjr.png" group-title="EDVALDO CANAIS | INFANTIL",NICK JR FHD
+http://meumd.com:80/5511949680652/551194dd/186339
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://canais.asrv.io/nickjr.png" group-title="EDVALDO CANAIS | INFANTIL",NICK JR HD
+http://meumd.com:80/5511949680652/551194dd/186337
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://canais.asrv.io/nickjr.png" group-title="EDVALDO CANAIS | INFANTIL",NICK JR SD
+http://meumd.com:80/5511949680652/551194dd/186338
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKLODEON HD" tvg-logo="https://canais.asrv.io/nick.png" group-title="EDVALDO CANAIS | INFANTIL",NICKLODEON HD
+http://meumd.com:80/5511949680652/551194dd/108654
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://canais.asrv.io/tooncast.png" group-title="EDVALDO CANAIS | INFANTIL",TOONCAST FHD
+http://meumd.com:80/5511949680652/551194dd/127897
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://canais.asrv.io/tooncast.png" group-title="EDVALDO CANAIS | INFANTIL",TOONCAST HD
+http://meumd.com:80/5511949680652/551194dd/186335
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://canais.asrv.io/tooncast.png" group-title="EDVALDO CANAIS | INFANTIL",TOONCAST SD
+http://meumd.com:80/5511949680652/551194dd/108653
+#EXTINF:-1 tvg-name="TV GLOBINHO HD" tvg-logo="http://mundoplay.store/canais/gloobinho.png" group-title="EDVALDO CANAIS | INFANTIL",TV GLOBINHO HD
+http://meumd.com:80/5511949680652/551194dd/206978
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://i.imgur.com/jzXtBCP.png" group-title="EDVALDO CANAIS | INFANTIL",TV RA TIM BUM FHD
+http://meumd.com:80/5511949680652/551194dd/110113
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://i.imgur.com/jzXtBCP.png" group-title="EDVALDO CANAIS | INFANTIL",TV RA TIM BUM HD
+http://meumd.com:80/5511949680652/551194dd/110111
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://i.imgur.com/jzXtBCP.png" group-title="EDVALDO CANAIS | INFANTIL",TV RA TIM BUM SD
+http://meumd.com:80/5511949680652/551194dd/110110
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMoO HD" tvg-logo="https://canais.asrv.io/zoomoo.png" group-title="EDVALDO CANAIS | INFANTIL",ZOOMoO HD
+http://meumd.com:80/5511949680652/551194dd/186336
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://canais.asrv.io/zoomoo.png" group-title="EDVALDO CANAIS | INFANTIL",ZOOMOO SD
+http://meumd.com:80/5511949680652/551194dd/108647
 
 
 
