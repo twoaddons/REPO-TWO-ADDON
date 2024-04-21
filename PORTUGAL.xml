@@ -227,353 +227,138 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/2
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/3
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_2_HD.png" group-title="PORTUGAL HD",RTP 2ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/4
-#EXTINF:-1 tvg-id="SIC" tvg-name="SICᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL HD",SICᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/5
-#EXTINF:-1 tvg-id="SIC" tvg-name="SICᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL HD",SICᶠᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/6
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVIᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_HD.png" group-title="PORTUGAL HD",TVIᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/7
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVIᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/TVI_HD.png" group-title="PORTUGAL HD",TVIᶠᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CMTV_HD.png" group-title="PORTUGAL HD",CMTVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/278
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTVᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/CMTV_HD.png" group-title="PORTUGAL HD",CMTVᶠᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/10
-#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGALᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL_HD.png" group-title="PORTUGAL HD",CNN PORTUGALᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/13
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_3..png" group-title="PORTUGAL HD",RTP 3ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/14
-#EXTINF:-1 tvg-id="SICNOTICIASHD" tvg-name="SIC NOTICIASᴴᴰ" tvg-logo="https://directlogos.dotsi.pt/EuropaHD/SIC%20NOTICIAS%20HD.png" group-title="PORTUGAL HD",SIC NOTICIASᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/12
-#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV + ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV+HD.png" group-title="PORTUGAL HD",SPORT TV + ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA TVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV_HD.png" group-title="PORTUGAL HD",A BOLA TVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/15
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11.png" group-title="PORTUGAL HD",CANAL 11ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/17
-#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE +ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJUGOvZgIE1AAh5FEezdR1XlhMe4eCQK5rGXT4oik&s" group-title="PORTUGAL HD",TVCINE +ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36261
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL HD",TVCINE TOPᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/19
-#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL HD",TVCINE EDITIONᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21
-#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL HD",TVCINE EMOTIONᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/23
-#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE ACTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action%20HD.png" group-title="PORTUGAL HD",TVCINE ACTIONᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/25
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL HD",NOS STUDIOSᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/27
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL HD",HOLLYWOODᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/30
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL HD",AXN MOVIESᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/37
-#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL HD",STAR MOVIESᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/29
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL HD",CINEMUNDOᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/28
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL HD",AMCᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/31
-#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK_HD.png" group-title="PORTUGAL HD",AMC BREAKᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/41472
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIMEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_CRIME.png" group-title="PORTUGAL HD",AMC CRIMEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/41471
-#EXTINF:-1 tvg-id="DIZI" tvg-name="DIZI CHANNEL " tvg-logo="https://picons.my-ott.com/picons/DIZI.png" group-title="PORTUGAL HD",DIZI CHANNEL 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38020
-#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL HD",SYFYᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_HD.png" group-title="PORTUGAL HD",AXNᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL HD",AXN WHITEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38
-#EXTINF:-1 tvg-id="FOX Full HD" tvg-name="STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL HD",STARᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/39
-#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL HD",STAR CRIMEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/40
-#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL HD",STAR COMEDYᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/41
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL HD",STAR LIFEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/42
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL HD",SPORT TV 1ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62440
-#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62439
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᴴᴰ2k" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ2k
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62442
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62441
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1280" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1280
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43353
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1BIT" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1BIT
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62438
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 UHD" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 UHD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21640
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/54
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/56
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/57
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/59
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/60
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/63
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/65
-#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/37967
-#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/40698
-#EXTINF:-1 tvg-id="SportTVNBA" tvg-name="Sport TV NBAᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL HD",Sport TV NBAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/66
-#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV.png" group-title="PORTUGAL HD",BTVˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/67
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/68
-#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/70
-#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV  EXPERIENCEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTV  EXPERIENCEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/63252
-#EXTINF:-1 tvg-id="WSPORT FHD" tvg-name="W-Sport ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/WSPORT.png" group-title="PORTUGAL HD",W-Sport ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/47404
-#EXTINF:-1 tvg-id="WSPORT FHD" tvg-name="W-Sport ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/WSPORT.png" group-title="PORTUGAL HD",W-Sport ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/47403
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18230
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/73
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16052
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/75
-#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/76
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/77
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38244
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/78
-#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38245
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/79
-#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᶠᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38246
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/80
-#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6ᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᶠᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38247
-#EXTINF:-1 tvg-id="[Low] Baby TV" tvg-name="BABY TVˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/BABY%20TV.png" group-title="PORTUGAL HD",BABY TVˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/82
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Juniorˢᵈ" tvg-logo="https://picons.my-ott.com/picons/nickjr.png" group-title="PORTUGAL HD",Nick Juniorˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/83
-#EXTINF:-1 tvg-id="Nicke" tvg-name="NICKELODEONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Nickelodeon.png" group-title="PORTUGAL HD",NICKELODEONˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/85
-#EXTINF:-1 tvg-id="SIC" tvg-name="NICK+ ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/nickpng-9.png" group-title="PORTUGAL HD",NICK+ ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/45613
-#EXTINF:-1 tvg-id="SIC K" tvg-name="Sic Kidsᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_K.png" group-title="PORTUGAL HD",Sic Kidsᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/91
-#EXTINF:-1 tvg-id="Panda KIDS HD" tvg-name="Panda Kids HD" tvg-logo="https://picons.my-ott.com/picons/panda_kidsHD.png" group-title="PORTUGAL HD",Panda Kids HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/63489
-#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="PANDA BIGGSˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/PANDA%20BIGGS.png" group-title="PORTUGAL HD",PANDA BIGGSˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/92
-#EXTINF:-1 tvg-id="PANDA" tvg-name="CANAL PANDAᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL HD",CANAL PANDAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38250
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON  NETWORK HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/CARTOON%20NETWORK.png" group-title="PORTUGAL HD",CARTOON  NETWORK HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/63488
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="CARTOONITO HD" tvg-logo="https://picons.my-ott.com/picons/CARTOONITO.png" group-title="PORTUGAL HD",CARTOONITO HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/63487
-#EXTINF:-1 tvg-name="DISNEY +ᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img924/9562/4Qq79e.png" group-title="PORTUGAL HD",DISNEY +ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21879
-#EXTINF:-1 tvg-name="DISNEY PIXARᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img924/5025/wEN6Ej.png" group-title="PORTUGAL HD",DISNEY PIXARᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21877
-#EXTINF:-1 tvg-name="DISNEY MARVELᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img923/74/FA3qlQ.png" group-title="PORTUGAL HD",DISNEY MARVELᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21878
-#EXTINF:-1 tvg-name="DISNEY STAR WARSᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img922/9357/ShYiup.png" group-title="PORTUGAL HD",DISNEY STAR WARSᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21880
-#EXTINF:-1 tvg-id="DISNEY JUNIOR HD" tvg-name="DISNEY JUNIORᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL HD",DISNEY JUNIORᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38248
-#EXTINF:-1 tvg-id="DISNEY CHANNEL HD" tvg-name="DISNEY CHANELᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL HD",DISNEY CHANELᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38249
-#EXTINF:-1 tvg-name="PATRULHA PATA ᴴᴰ" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/5f/PAW_Patrol_Logo.png/revision/latest?cb=20160312130228&path-prefix=de" group-title="PORTUGAL HD",PATRULHA PATA ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/45777
-#EXTINF:-1 tvg-name="SANTIAGO DOS MARES ᴴᴰ " tvg-logo="https://pixel.disco.skyshowtime.com/uuid/d7d82502-4c67-3f15-8db8-5bb4a60144f3/LOGO_TITLE_WIDE?language=pt-PT&proposition=SKYSHOWTIME&version=0d6206be-fdcb-34ec-9713-57e9a8ecfcb2" group-title="PORTUGAL HD",SANTIAGO DOS MARES ᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/45778
-#EXTINF:-1 tvg-name="FIREMAN SAM ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Fireman_Sam_logo.png" group-title="PORTUGAL HD",FIREMAN SAM ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/45779
-#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIAᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ODISSEIA_HD.png" group-title="PORTUGAL HD",ODISSEIAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/140
-#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIAᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HISTORIA_HD.png" group-title="PORTUGAL HD",HISTORIAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/141
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discoveryᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ID_HD.png" group-title="PORTUGAL HD",ID Investigation Discoveryᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/139
-#EXTINF:-1 tvg-id="NGC" tvg-name="National geographicᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="PORTUGAL HD",National geographicᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/136
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geographic wildᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD%20HD.png" group-title="PORTUGAL HD",National Geographic wildᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/137
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNELᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Discovery%20Channel%20HD.png" group-title="PORTUGAL HD",DISCOVERY CHANNELᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/138
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/DISCOVERY_TURBO.png" group-title="PORTUGAL HD",DISCOVERY TURBOᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36737
-#EXTINF:-1 tvg-id="Caça Vision" tvg-name="Cacavisionˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CACAVISION.png" group-title="PORTUGAL HD",Cacavisionˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/146
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça & Pescaᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CACA_E_PESCA.png" group-title="PORTUGAL HD",Caça & Pescaᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/148
-#EXTINF:-1 tvg-name="ONETORO HD" tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="PORTUGAL HD",ONETORO HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53644
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Realityᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_REALITY_HD.png" group-title="PORTUGAL HD",TVI Realityᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/116
-#EXTINF:-1 tvg-id="TVI Reality - Mosaico" tvg-name="TVI REALITY MOSAICO " tvg-logo="https://picons.my-ott.com/picons/TVI_REALITY_MOSAICO.png" group-title="PORTUGAL HD",TVI REALITY MOSAICO 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22917
-#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name="TVI FICCAOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_FICCAO_HD.png" group-title="PORTUGAL HD",TVI FICCAOᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/115
-#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="TV GLOBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/GLOBO_HD.png" group-title="PORTUGAL HD",TV GLOBOᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/117
-#EXTINF:-1 tvg-id="TVRECORDHD2" tvg-name="TV RECORDᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record%20HD.png" group-title="PORTUGAL HD",TV RECORDᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/119
-#EXTINF:-1 tvg-id="SAUDEMAISHD" tvg-name="SAUDE +ᴴᴰ" tvg-logo="https://www.omd.pt/content/uploads/sites/4/2019/11/LOGOTIPO_S_rgb-360x360.png" group-title="PORTUGAL HD",SAUDE +ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22638
-#EXTINF:-1 tvg-id="SICCARASHD" tvg-name="SIC Carasᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SiC%20CARAS%20HD.png" group-title="PORTUGAL HD",SIC Carasᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/120
-#EXTINF:-1 tvg-id="SIC MULHER HD" tvg-name="SIC MULHERᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER%20HD.png" group-title="PORTUGAL HD",SIC MULHERᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/121
-#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC RADICALᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20RADICAL%20HD.png" group-title="PORTUGAL HD",SIC RADICALᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/122
-#EXTINF:-1 tvg-name="SIC NOVELAS" tvg-logo="https://picons.my-ott.com/picons/SICNovelas2.png" group-title="PORTUGAL HD",SIC NOVELAS
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/48642
-#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 KITCHENᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/24_KITCHEN_HD.png" group-title="PORTUGAL HD",24 KITCHENᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/125
-#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="KURIAKOS TVᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Kuriakos%20TV%20HD.png" group-title="PORTUGAL HD",KURIAKOS TVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/152
-#EXTINF:-1 tvg-id="Lolly kids HD" tvg-name="Lolly Kidsᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Lolly_Kids.png" group-title="PORTUGAL HD",Lolly Kidsᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/30916
-#EXTINF:-1 tvg-id="STINGRAY INCONCERTS HD" tvg-name="STINGRAY INCONCERTSᴴᴰ" tvg-logo="https://picon.pp.ua/iconcerts.png" group-title="PORTUGAL HD",STINGRAY INCONCERTSᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36267
-#EXTINF:-1 tvg-id="TV GALICIA HD" tvg-name="TV Galicia ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Galicia.png" group-title="PORTUGAL HD",TV Galicia ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43840
-#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoriaˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20MEMORIA.png" group-title="PORTUGAL HD",RTP Memoriaˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/134
-#EXTINF:-1 tvg-id="CANAL 180" tvg-name="CANAL 180ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/180hd.png" group-title="PORTUGAL HD",CANAL 180ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36564
-#EXTINF:-1 tvg-id="LOCALVISÃO HD" tvg-name="Local visãoᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Localvisao%20HD.png" group-title="PORTUGAL HD",Local visãoᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22943
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLCᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/2560px-TLC-HD-Logo_2016.svg.png" group-title="PORTUGAL HD",TLCᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/156
-#EXTINF:-1 tvg-name="HGTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HGTV.png" group-title="PORTUGAL HD",HGTVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/42585
-#EXTINF:-1 tvg-id="CASA E COZINHA HD" tvg-name="CASA COZINHAᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL HD",CASA COZINHAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18592
-#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="FOOD NETWORKᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Food%20Network%20HD.png" group-title="PORTUGAL HD",FOOD NETWORKᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/126
-#EXTINF:-1 tvg-id="EENTER" tvg-name="E! ENTERTAINMENTᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/E!%20ENTERTAINMENT%20HD.png" group-title="PORTUGAL HD",E! ENTERTAINMENTᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/127
-#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="FUEL TVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/FUEL_TV_HD.png" group-title="PORTUGAL HD",FUEL TVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/99
-#EXTINF:-1 tvg-id="CanalQB" tvg-name="CANAL Qˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/CANAL%20Q.png" group-title="PORTUGAL HD",CANAL Qˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/129
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFCˢᵈ" tvg-logo="https://picons.my-ott.com/picons/PFC.png" group-title="PORTUGAL HD",PFCˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/101
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TVᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/SPORTING_TV_HD.png" group-title="PORTUGAL HD",SPORTING TVᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/71
-#EXTINF:-1 tvg-id="PORTOCANALHD" tvg-name="PORTO CANALᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/PORTO_CANAL_HD.png" group-title="PORTUGAL HD",PORTO CANALᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/128
-#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1ᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/EUROSPORT_1_HD.png" group-title="PORTUGAL HD",EUROSPORT 1ᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/96
-#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2ᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/EUROSPORT_2_HD.png" group-title="PORTUGAL HD",EUROSPORT 2ᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/97
-#EXTINF:-1 tvg-id="TOROS TV FHD" tvg-name="CAMPO PEQUENO TVᴴᴰ" tvg-logo="https://www.campopequeno.com/img/campopequenotv_logo.png?ass" group-title="PORTUGAL HD",CAMPO PEQUENO TVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/105
-#EXTINF:-1 tvg-name="WRC-RALLY TV ᴴᴰ" tvg-logo="https://images.saasworthy.com/rallyvideo_8940_logo_1595417470_jlcdg.png" group-title="PORTUGAL HD",WRC-RALLY TV ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/56452
-#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION TVᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/MOTORVISION%20HD.png" group-title="PORTUGAL HD",MOTORVISION TVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/104
-#EXTINF:-1 tvg-id="FIGHT NETWORK HD" tvg-name="WWEᴴᴰ" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-symbol-png-10.png" group-title="PORTUGAL HD",WWEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/756
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Networkᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/fightnetwork.png" group-title="PORTUGAL HD",Fight Networkᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20921
-#EXTINF:-1 tvg-name="UFC FIGTH PASSᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946" group-title="PORTUGAL HD",UFC FIGTH PASSᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/760
-#EXTINF:-1 tvg-name="NFL Networkᴴᴰ" tvg-logo="https://img2.gratispng.com/20180405/kee/kisspng-nfl-preseason-nfl-network-television-logo-bet-5ac5a980898739.0749219315229034245633.jpg" group-title="PORTUGAL HD",NFL Networkᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22900
-#EXTINF:-1 tvg-id="GINX HD" tvg-name="Ginxᴴᴰ " tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png" group-title="PORTUGAL HD",Ginxᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/112
-#EXTINF:-1 tvg-id="Gametoon HD" tvg-name="Gametoonᴴᴰ " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gametoon_HD.svg/revision/latest?cb=20171210220825" group-title="PORTUGAL HD",Gametoonᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/24520
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP ARENAᴴᴰ" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/rtpArena_vertical_positivo.png" group-title="PORTUGAL HD",RTP ARENAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36858
-#EXTINF:-1 tvg-id="ZAPVIVAHD" tvg-name="Zap Vivaˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="PORTUGAL HD",Zap Vivaˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/167
-#EXTINF:-1 tvg-name="TVAᴴᴰ" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6be9b133-ed05-44be-b633-de7511d2a72e/ddqzwme-335892be-4def-46fe-967a-9fef940f8c5c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiZTliMTMzLWVkMDUtNDRiZS1iNjMzLWRlNzUxMWQyYTcyZVwvZGRxendtZS0zMzU4OTJiZS00ZGVmLTQ2ZmUtOTY3YS05ZmVmOTQwZjhjNWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9x64PqObMhy4FznZKr61Q5QbIKnJZeR5ohLpnU5Mzvk" group-title="PORTUGAL HD",TVAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/42584
-#EXTINF:-1 tvg-id="TPA" tvg-name="TPA INTERNACIONALˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TPA%20INTERNACIONAL.png" group-title="PORTUGAL HD",TPA INTERNACIONALˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/15845
-#EXTINF:-1 tvg-name="TCV CABO VERDE" tvg-logo="https://rtc.cv/upload/img/programas/logotipo_tcv.png" group-title="PORTUGAL HD",TCV CABO VERDE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/47499
-#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="ALMA LUSA  HD" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL HD",ALMA LUSA  HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/24447
-#EXTINF:-1 tvg-id="Afro Music" tvg-name="AFRO MUSICˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AFRO%20MUSIC.png" group-title="PORTUGAL HD",AFRO MUSICˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/173
-#EXTINF:-1 tvg-name="BOMSOMᴴᴰ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/BOMSOM_TV.png" group-title="PORTUGAL HD",BOMSOMᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/42583
-#EXTINF:-1 tvg-id="ClubbingTV" tvg-name="CLUBBING TVˢᵈ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="PORTUGAL HD",CLUBBING TVˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/24448
-#EXTINF:-1 tvg-name="Stingray Retro HD" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/retro-thumbnails.png?itok=8NARpR9e" group-title="PORTUGAL HD",Stingray Retro HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/67882
-#EXTINF:-1 tvg-name="Stingray Loud HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Stingray_Loud.svg/2560px-Stingray_Loud.svg.png" group-title="PORTUGAL HD",Stingray Loud HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/67883
-#EXTINF:-1 tvg-name="UNiFÉ HD" tvg-logo="https://picons.my-ott.com/picons/UNIFE.png" group-title="PORTUGAL HD",UNiFÉ HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/45544
-#EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="Canção Novaᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CANCAO_NOVA.png" group-title="PORTUGAL HD",Canção Novaᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/153
-#EXTINF:-1 tvg-id="TRACE TOCA" tvg-name="TRACE TOCAˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Trace_Toca.png/1200px-Trace_Toca.png" group-title="PORTUGAL HD",TRACE TOCAˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/32208
-#EXTINF:-1 tvg-id="TRACEURBAN.HD" tvg-name="TRACE URBANᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TRACE_URBAN_HD.png" group-title="PORTUGAL HD",TRACE URBANᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/178
-#EXTINF:-1 tvg-name="TRACE AFRICAᴴᴰ" tvg-logo="https://www.nicepng.com/png/full/28-287899_trace-africa-2013-trace-africa-logo-png.png" group-title="PORTUGAL HD",TRACE AFRICAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36561
-#EXTINF:-1 tvg-name="TRACE LATINAᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png" group-title="PORTUGAL HD",TRACE LATINAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36562
-#EXTINF:-1 tvg-name="MUSIC BOXᴴᴰ" tvg-logo="https://logowik.com/content/uploads/images/musicbox2123.logowik.com.webp" group-title="PORTUGAL HD",MUSIC BOXᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36277
-#EXTINF:-1 tvg-id="MCM TOP" tvg-name="MCM TOPˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/MCM%20TOP.png" group-title="PORTUGAL HD",MCM TOPˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36590
-#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM Popˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/MCM%20POP.png" group-title="PORTUGAL HD",MCM Popˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/180
-#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-name="Mezzo Liveᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img922/2641/23bKUj.png" group-title="PORTUGAL HD",Mezzo Liveᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/177
-#EXTINF:-1 tvg-id="MTVDance" tvg-name="MTV LIVEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Mtv_live_2021_wide.png" group-title="PORTUGAL HD",MTV LIVEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/758
-#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV PORTUGALᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/MTV_PORTUGAL_HD.png" group-title="PORTUGAL HD",MTV PORTUGALᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/174
-#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00sˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="PORTUGAL HD",MTV 00sˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/172
-#EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-name="MTV 90sˢᵈ" tvg-logo="https://imagizer.imageshack.com/img922/8593/zlSySw.png" group-title="PORTUGAL HD",MTV 90sˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36699
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV HITSˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png" group-title="PORTUGAL HD",MTV HITSˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/36698
-#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="TRAVEL CHANNELᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TRAVEL%20CHANNEL%20HD.png" group-title="PORTUGAL HD",TRAVEL CHANNELᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/30920
-#EXTINF:-1 tvg-id="TRAVELXP HD" tvg-name="TRAVELXP HD" tvg-logo="https://picons.my-ott.com/picons/TRAVELXP_HD.png" group-title="PORTUGAL HD",TRAVELXP HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43744
-#EXTINF:-1 tvg-id="DOG TV" tvg-name="DOG TV HD" tvg-logo="https://directlogos.dotsi.pt/EuropaHD/DOG%20TV%20HD.png" group-title="PORTUGAL HD",DOG TV HD
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/47298
+#EXTINF:-1 tvg-id="RTP 1 LOW" tvg-name="RTP 1 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/RTP%201%20LOW%20BITRATE.png" group-title="Mobile",RTP 1 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73460
+#EXTINF:-1 tvg-id="RTP 2 LOW" tvg-name="RTP 2 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="Mobile",RTP 2 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73461
+#EXTINF:-1 tvg-id="SIC LOW" tvg-name="SIC ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20LOW%20BITRATE.png" group-title="Mobile",SIC ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73462
+#EXTINF:-1 tvg-id="TVI LOW" tvg-name="TVI ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="Mobile",TVI ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73463
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC NOTICIAS ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20NOTICIAS%20LOW%20BITRATE.png" group-title="Mobile",SIC NOTICIAS ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73464
+#EXTINF:-1 tvg-id="RTP 3 LOW" tvg-name="RTP 3 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/RTP%203%20LOW%20BITRATE.png" group-title="Mobile",RTP 3 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73465
+#EXTINF:-1 tvg-id="CMTV LOW" tvg-name="CMTV ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/CMTV%20LOW%20BITRATE.png" group-title="Mobile",CMTV ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73466
+#EXTINF:-1 tvg-id="CNN Portugal LOW" tvg-name="CNN PORTUGAL ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/CNN.png" group-title="Mobile",CNN PORTUGAL ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73467
+#EXTINF:-1 tvg-id="PORTO CANAL LOW" tvg-name="PORTO CANAL ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.png" group-title="Mobile",PORTO CANAL ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73468
+#EXTINF:-1 tvg-id="SIC MULHER LOW" tvg-name="SIC Mulher ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20MULHER.png" group-title="Mobile",SIC Mulher ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73469
+#EXTINF:-1 tvg-id="SIC RADICAL LOW" tvg-name="SIC RADICAL ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20Radical.png" group-title="Mobile",SIC RADICAL ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73470
+#EXTINF:-1 tvg-id="TVI FICÇÃO LOW" tvg-name="TVI FICCAO ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/TVI%20FICCAO.png" group-title="Mobile",TVI FICCAO ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73472
+#EXTINF:-1 tvg-id="GLOBO LOW" tvg-name="GLOBO ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/TV%20GLOBO%20Portugal.png" group-title="Mobile",GLOBO ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73473
+#EXTINF:-1 tvg-id="A BOLA LOW" tvg-name="A BOLA TV ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/A%20BOLA.png" group-title="Mobile",A BOLA TV ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73474
+#EXTINF:-1 tvg-id="EUROSPORT 1 LOW" tvg-name="EUROSPORT 1 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Eurosport%201%20LOW%20BITRATE.png" group-title="Mobile",EUROSPORT 1 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73475
+#EXTINF:-1 tvg-id="EUROSPORT 2 LOW" tvg-name="EUROSPORT 2 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/EUROSPORT%202.png" group-title="Mobile",EUROSPORT 2 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73476
+#EXTINF:-1 tvg-id="CANAL 11 LOW" tvg-name="CANAL 11 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Canal%2011.png" group-title="Mobile",CANAL 11 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73477
+#EXTINF:-1 tvg-id="SPORT TV+ LOW" tvg-name="SPORT TV + ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV+.png" group-title="Mobile",SPORT TV + ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73478
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="Mobile",SPORT TV 1 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/113472
+#EXTINF:-1 tvg-id="SPORT TV 2 LOW" tvg-name="SPORT TV 2 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SportTV%202%20LOW%20BITRATE.png" group-title="Mobile",SPORT TV 2 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73480
+#EXTINF:-1 tvg-id="SPORT TV 3 LOW" tvg-name="SPORT TV 3 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SportTV%203%20LOW%20BITRATE.png" group-title="Mobile",SPORT TV 3 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73481
+#EXTINF:-1 tvg-id="SPORT TV 4 LOW" tvg-name="SPORT TV 4 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SportTV%204%20LOW%20BITRATE.png" group-title="Mobile",SPORT TV 4 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73482
+#EXTINF:-1 tvg-id="SPORT TV 5 LOW" tvg-name="SPORT TV 5 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SportTV%205%20LOW%20BITRATE.png" group-title="Mobile",SPORT TV 5 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73483
+#EXTINF:-1 tvg-id="SPORT TV 6 LOW" tvg-name="SPORT TV 6 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="Mobile",SPORT TV 6 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/115732
+#EXTINF:-1 tvg-id="BTV LOW" tvg-name="BENFICA TV ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Benfica%20TV%201.png" group-title="Mobile",BENFICA TV ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73485
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 LOW" tvg-name="ELEVEN SPORTS 1 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.png" group-title="Mobile",ELEVEN SPORTS 1 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73486
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 LOW" tvg-name="ELEVEN SPORTS 2 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="Mobile",ELEVEN SPORTS 2 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73487
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 LOW" tvg-name="ELEVEN SPORTS 3 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="Mobile",ELEVEN SPORTS 3 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73488
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 LOW" tvg-name="ELEVEN SPORTS 4 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.png" group-title="Mobile",ELEVEN SPORTS 4 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73489
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 LOW" tvg-name="ELEVEN SPORTS 5 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.png" group-title="Mobile",ELEVEN SPORTS 5 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73490
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 LOW" tvg-name="ELEVEN SPORTS 6 ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.png" group-title="Mobile",ELEVEN SPORTS 6 ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73491
+#EXTINF:-1 tvg-id="SPORTING TV LOW" tvg-name="SPORTING TV ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Sporting%20TV%20LOW%20BITRATE.png" group-title="Mobile",SPORTING TV ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73492
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOP ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="Mobile",TVCINE TOP ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73494
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCINE EDITION ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.png" group-title="Mobile",TVCINE EDITION ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73495
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCINE EMOTION ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="Mobile",TVCINE EMOTION ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73496
+#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCINE ACTION ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="Mobile",TVCINE ACTION ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73497
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS STUDIOS ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="Mobile",NOS STUDIOS ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73498
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Hollywood.png" group-title="Mobile",HOLLYWOOD ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73499
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/AXN%20LOW%20BITRATE.png" group-title="Mobile",AXN ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73500
+#EXTINF:-1 tvg-id="AXN WHITE LOW" tvg-name="AXN WHITE ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/AXN%20White%20LOW%20BITRATE.png" group-title="Mobile",AXN WHITE ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73501
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN MOVIES ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="Mobile",AXN MOVIES ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73502
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="CINEMUNDO ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="Mobile",CINEMUNDO ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73503
+#EXTINF:-1 tvg-id="FOX PT" tvg-name="FOX ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="Mobile",FOX ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73504
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX MOVIES ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/FOX%20MOVIES.png" group-title="Mobile",FOX MOVIES ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73505
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/FOX%20LIFE%20LOW%20BITRATE.png" group-title="Mobile",FOX LIFE ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73506
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX CRIME ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/FOX%20CRIME.png" group-title="Mobile",FOX CRIME ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73507
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Fox%20Comedy%20LOW%20BITRATE.png" group-title="Mobile",FOX COMEDY ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73508
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/AMC%20LOW%20BITRATE.png" group-title="Mobile",AMC ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73509
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Syfy.png" group-title="Mobile",SYFY ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73510
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BABY%20TV.png" group-title="Mobile",BABY TV ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73511
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Channel.png" group-title="Mobile",DISNEY CHANNEL ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73513
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Junior.png" group-title="Mobile",DISNEY JUNIOR ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73514
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nickelodeon.png" group-title="Mobile",NICKELODEON ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73515
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JUNIOR ᴹᵒᵇⁱˡᵉ" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nick%20Jr..png" group-title="Mobile",NICK JUNIOR ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73516
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/CanalPanda.png" group-title="Mobile",CANAL PANDA ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73517
+#EXTINF:-1 tvg-id="BIGGS" tvg-name="PANDA BIGGS ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Biggs.png" group-title="Mobile",PANDA BIGGS ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73519
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NAT GEO ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/NatGeo.png" group-title="Mobile",NAT GEO ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73521
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/NatGeoWild.png" group-title="Mobile",NAT GEO WILD ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73522
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL LOW" tvg-name="DISCOVERY CHANNEL ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="Mobile",DISCOVERY CHANNEL ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73523
+#EXTINF:-1 tvg-id="RTP MEMÓRIA LOW" tvg-name="RTP MEMORIA ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Memoria.png" group-title="Mobile",RTP MEMORIA ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73527
+#EXTINF:-1 tvg-id="HISTÓRIA LOW" tvg-name="HISTORIA ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/Historia.png" group-title="Mobile",HISTORIA ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73529
+#EXTINF:-1 tvg-id="TLC LOW" tvg-name="TLC ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/TLC.png" group-title="Mobile",TLC ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73530
+#EXTINF:-1 tvg-id="24 KITCHEN LOW" tvg-name="24 KITCHEN ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/24Kitchen.png" group-title="Mobile",24 KITCHEN ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73532
+#EXTINF:-1 tvg-id="MTV PORTUGAL LOW" tvg-name="MTV PORTUGAL ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/MTV00s.png" group-title="Mobile",MTV PORTUGAL ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73536
+#EXTINF:-1 tvg-id="CAÇA E PESCA LOW" tvg-name="CACA E PESCA ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/CazaPesca.png" group-title="Mobile",CACA E PESCA ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73540
+#EXTINF:-1 tvg-id="TVI REALITY LOW" tvg-name="TVI REALITY ᴹᵒᵇⁱˡᵉ" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="Mobile",TVI REALITY ᴹᵒᵇⁱˡᵉ
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73548
 
 
 
@@ -585,395 +370,389 @@ http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/47298
 
 
 
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/1
+#EXTINF:-1 tvg-id="RTP 1 FHD" tvg-name="RTP 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/3
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/4
+#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/5
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/9142
+#EXTINF:-1 tvg-id="SIC FHD" tvg-name="SIC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/9
+#EXTINF:-1 tvg-id="TVI FHD" tvg-name="TVI (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/225
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/11
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22158
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC Noticias" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/24
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS FHD" tvg-name="SIC Noticias (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/25
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN Portugal" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/26
+#EXTINF:-1 tvg-id="CNN Portugal FHD" tvg-name="CNN Portugal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/269
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22
+#EXTINF:-1 tvg-id="CMTV FHD" tvg-name="CMTV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/23
+#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="Porto Canal" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.png" group-title="VIP PORTUGAL",Porto Canal
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/65
+#EXTINF:-1 tvg-id="PORTO CANAL FHD" tvg-name="Porto Canal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.1080p.png" group-title="VIP PORTUGAL",Porto Canal (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/23281
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC Mulher" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/17
+#EXTINF:-1 tvg-id="SIC MULHER FHD" tvg-name="SIC Mulher (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/24261
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC Radical" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/16
+#EXTINF:-1 tvg-id="SIC RADICAL FHD" tvg-name="SIC Radical (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22165
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC Caras" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.png" group-title="VIP PORTUGAL",SIC Caras
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/18
+#EXTINF:-1 tvg-id="SIC CARAS FHD" tvg-name="SIC Caras (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.1080p.png" group-title="VIP PORTUGAL",SIC Caras (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30029
+#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI Ficção" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.png" group-title="VIP PORTUGAL",TVI Ficção
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/21
+#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name="TVI Ficção (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.1080p.png" group-title="VIP PORTUGAL",TVI Ficção (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/20843
+#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="RTP Africa" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Africa.png" group-title="VIP PORTUGAL",RTP Africa
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/12
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Madeira.png" group-title="VIP PORTUGAL",RTP Madeira
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/15
+#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP Açores" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Acores.png" group-title="VIP PORTUGAL",RTP Açores
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/13
+#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP Memória" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Memoria.png" group-title="VIP PORTUGAL",RTP Memória
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/14
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/20
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/21593
+#EXTINF:-1 tvg-id="TVI REALITY MOSAICO" tvg-name="TVI Reality ✬Mosaico✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Mosaico.png" group-title="VIP PORTUGAL",TVI Reality ✬Mosaico✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30330
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-name="TVI Reality ✬Camera 1✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam1.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 1✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30331
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-name="TVI Reality ✬Camera 2✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam2.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 2✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30332
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-name="TVI Reality ✬Camera 3✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam3.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 3✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30333
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-name="TVI Reality ✬Camera 4✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam4.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 4✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/76344
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo" tvg-logo="http://mylogos.xyz/LogosPT/Globo.png" group-title="VIP PORTUGAL",Globo
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/164
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/27
+#EXTINF:-1 tvg-id="A BOLA FHD" tvg-name="A Bola TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22167
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",CANAL 11
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/23282
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",Canal 11 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="Sport TV+" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV+.png" group-title="VIP PORTUGAL",Sport TV+
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/34
+#EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-name="Sport TV+ (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportTV+.png" group-title="VIP PORTUGAL",Sport TV+ (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/35
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="Sport TV 1" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/36
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="Sport TV 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/49
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.1080p.png" group-title="VIP PORTUGAL",Sport TV 1 ✬Alternativa✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31013
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.H265.png" group-title="VIP PORTUGAL",Sport TV 1 ✬H265✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22171
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="Sport TV 2" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/37
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="Sport TV 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/50
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="Sport TV 3" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/38
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="Sport TV 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/51
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="Sport TV 4" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/39
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="Sport TV 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/14143
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="Sport TV 5" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.png" group-title="VIP PORTUGAL",Sport TV 5
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/40
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="Sport TV 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.1080P.png" group-title="VIP PORTUGAL",Sport TV 5 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/283
+#EXTINF:-1 tvg-id="SPORT TV 6" tvg-name="Sport TV 6" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73258
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="Sport TV 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73259
+#EXTINF:-1 tvg-id="SPORT TV NBA FHD" tvg-name="Sport TV NBA" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV.NBA.1080P.png" group-title="VIP PORTUGAL",Sport TV NBA
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/41
+#EXTINF:-1 tvg-id="BTV" tvg-name="Benfica TV" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.png" group-title="VIP PORTUGAL",Benfica TV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/29
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="Benfica TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV ✬Alternativa✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31016
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.H265.png" group-title="VIP PORTUGAL",Benfica TV ✬H265✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22169
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="Eleven Sports 1" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.png" group-title="VIP PORTUGAL",Eleven Sports 1
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/52
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD" tvg-name="Eleven Sports 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 1 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/54
+#EXTINF:-1 tvg-id="eleven.1.pt" tvg-name="Eleven Sports 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.H265.png" group-title="VIP PORTUGAL",Eleven Sports 1 ✬H265✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/24166
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/55
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-name="Eleven Sports 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/57
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.H265.png" group-title="VIP PORTUGAL",Eleven Sports 2 ✬H265✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/24167
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="Eleven Sports 3" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/58
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-name="Eleven Sports 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/60
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="Eleven Sports 4" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.png" group-title="VIP PORTUGAL",Eleven Sports 4
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/284
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-name="Eleven Sports 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 4 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/61
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="Eleven Sports 5" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.png" group-title="VIP PORTUGAL",Eleven Sports 5
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/286
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="Eleven Sports 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 5 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/62
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="Eleven Sports 6" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.png" group-title="VIP PORTUGAL",Eleven Sports 6
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/289
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 FHD" tvg-name="Eleven Sports 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 6 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/63
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="Sporting TV" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.png" group-title="VIP PORTUGAL",Sporting TV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/64
+#EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-name="Sporting TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.1080p.png" group-title="VIP PORTUGAL",Sporting TV (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/23285
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="Eurosport 1" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.png" group-title="VIP PORTUGAL",Eurosport 1
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/70
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-name="Eurosport 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.1080p.png" group-title="VIP PORTUGAL",Eurosport 1 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/71
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/72
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-name="Eurosport 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2 (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/73
+#EXTINF:-1 tvg-name="Play ✬Kids✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Kids.png" group-title="VIP PORTUGAL",Play ✬Kids✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31158
+#EXTINF:-1 tvg-name="Play ✬Disney✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Disney.png" group-title="VIP PORTUGAL",Play ✬Disney✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31159
+#EXTINF:-1 tvg-name="Play ✬Pixar✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Pixar.png" group-title="VIP PORTUGAL",Play ✬Pixar✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/42316
+#EXTINF:-1 tvg-name="Play ✬DreamWorks✬" tvg-logo="http://mylogos.xyz/LogosPT/Play.Dreamworks.png" group-title="VIP PORTUGAL",Play ✬DreamWorks✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/43227
+#EXTINF:-1 tvg-name="Play ✬Luccas Neto✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.LucasNeto.png" group-title="VIP PORTUGAL",Play ✬Luccas Neto✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31163
+#EXTINF:-1 tvg-name="Play ✬Artista da Semana✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.ArtistaDaSemana.png" group-title="VIP PORTUGAL",Play ✬Artista da Semana✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32074
+#EXTINF:-1 tvg-name="Play ✬Cinema✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Cinema.png" group-title="VIP PORTUGAL",Play ✬Cinema✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32138
+#EXTINF:-1 tvg-name="Play ✬Acção✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Accao.png" group-title="VIP PORTUGAL",Play ✬Acção✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31166
+#EXTINF:-1 tvg-name="Play ✬Comédias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Comedias.png" group-title="VIP PORTUGAL",Play ✬Comédias✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32978
+#EXTINF:-1 tvg-name="Play ✬Dramas✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Dramas.png" group-title="VIP PORTUGAL",Play ✬Dramas✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31165
+#EXTINF:-1 tvg-name="Play ✬Ficção e Fantasia✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.FiccaoFantasia.png" group-title="VIP PORTUGAL",Play ✬Ficção e Fantasia✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32137
+#EXTINF:-1 tvg-name="Play ✬Marvel✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel1.png" group-title="VIP PORTUGAL",Play ✬Marvel✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32076
+#EXTINF:-1 tvg-name="Play ✬Marvel 2✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel2.png" group-title="VIP PORTUGAL",Play ✬Marvel 2✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/43300
+#EXTINF:-1 tvg-name="Play ✬DC Comics✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.DCcomics.png" group-title="VIP PORTUGAL",Play ✬DC Comics✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32979
+#EXTINF:-1 tvg-name="Play ✬Sagas e Trilogias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Sagas.png" group-title="VIP PORTUGAL",Play ✬Sagas e Trilogias✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32152
+#EXTINF:-1 tvg-name="Play ✬Western✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Western.2021.png" group-title="VIP PORTUGAL",Play ✬Western✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32151
+#EXTINF:-1 tvg-name="Play ✬Terror✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Terror.png" group-title="VIP PORTUGAL",Play ✬Terror✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/33009
+#EXTINF:-1 tvg-name="Play ✬Cinema Português✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.CinemaTuga.png" group-title="VIP PORTUGAL",Play ✬Cinema Português✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/113486
+#EXTINF:-1 tvg-name="Play ✬Documentários✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Documentarios.png" group-title="VIP PORTUGAL",Play ✬Documentários✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/82513
+#EXTINF:-1 tvg-name="Play ✬Tomorrowland✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Tomorrowland.png" group-title="VIP PORTUGAL",Play ✬Tomorrowland✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32139
+#EXTINF:-1 tvg-name="Play ✬Dj´s✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Djs.png" group-title="VIP PORTUGAL",Play ✬Dj´s✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/32136
+#EXTINF:-1 tvg-name="Play ✬Music✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Music.png" group-title="VIP PORTUGAL",Play ✬Music✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31160
+#EXTINF:-1 tvg-name="Play ✬Concerts✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Concerts.png" group-title="VIP PORTUGAL",Play ✬Concerts✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/31161
+#EXTINF:-1 tvg-name="Play ✬The Voice✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.TheVoice.png" group-title="VIP PORTUGAL",Play ✬The Voice✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/33010
+#EXTINF:-1 tvg-name="Play ✬Stand-Up Comedy✬" tvg-logo="http://mylogos.xyz/LogosPlay/PlayStandup.png" group-title="VIP PORTUGAL",Play ✬Stand-Up Comedy✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/48741
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine Top" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/83
+#EXTINF:-1 tvg-id="TVCine TOP FHD" tvg-name="TVCine Top (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/84
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCine Edition" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.png" group-title="VIP PORTUGAL",TVCine Edition
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/85
+#EXTINF:-1 tvg-id="TVCine EDITION FHD" tvg-name="TVCine Edition (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.1080p.png" group-title="VIP PORTUGAL",TVCine Edition (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/86
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/87
+#EXTINF:-1 tvg-id="TVCine EMOTION FHD" tvg-name="TVCine Emotion (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/88
+#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCine Action" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/89
+#EXTINF:-1 tvg-id="TVCine ACTION FHD" tvg-name="TVCine Action (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/90
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS Studios" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",NOS Studios
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/14142
+#EXTINF:-1 tvg-id="NOS STUDIOS FHD" tvg-name="Nos studios (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",Nos studios (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/100
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/97
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="Cinemundo (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22183
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="Hollywood" tvg-logo="http://mylogos.xyz/LogosPT/hollywood.png" group-title="VIP PORTUGAL",Hollywood
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/95
+#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="Hollywood (FullHD)" tvg-logo="http://naoadianta696969.live:80/images/b0bac411b0b17f4e7538dd0f42023d02.png" group-title="VIP PORTUGAL",Hollywood (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/96
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/104
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/105
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://mylogos.xyz/LogosPT/axn.png" group-title="VIP PORTUGAL",AXN
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/106
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.1080p.png" group-title="VIP PORTUGAL",AXN (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/107
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.png" group-title="VIP PORTUGAL",AXN White
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/110
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.1080p.png" group-title="VIP PORTUGAL",AXN White (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/111
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN Movies" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/108
+#EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-name="AXN Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/109
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/112
+#EXTINF:-1 tvg-id="FOX PT" tvg-name="FOX (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/113
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX Life" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/116
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX Life (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/117
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX Crime" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/115
+#EXTINF:-1 tvg-id="FOX CRIME FHD" tvg-name="FOX Crime (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/101
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX Movies" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/102
+#EXTINF:-1 tvg-id="FOX MOVIES FHD" tvg-name="FOX Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/25830
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX Comedy" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/114
+#EXTINF:-1 tvg-id="FOX COMEDY FHD" tvg-name="FOX Comedy (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/29332
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://mylogos.xyz/LogosPT/Syfy.png" group-title="VIP PORTUGAL",SYFY
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/93
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Channel.png" group-title="VIP PORTUGAL",Disney Channel
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/124
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="Disney Junior" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Junior.png" group-title="VIP PORTUGAL",Disney Junior
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/123
+#EXTINF:-1 tvg-id="BIGGS" tvg-name="Biggs" tvg-logo="http://mylogos.xyz/LogosPT/Biggs.png" group-title="VIP PORTUGAL",Biggs
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/120
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20K.png" group-title="VIP PORTUGAL",SIC K
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/128
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/CARTOON%20NETWORK.png" group-title="VIP PORTUGAL",Cartoon Network
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/122
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nickelodeon.png" group-title="VIP PORTUGAL",Nickelodeon
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/125
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr." tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nick%20Jr..png" group-title="VIP PORTUGAL",Nick Jr.
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/126
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BABY%20TV.png" group-title="VIP PORTUGAL",Baby TV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/118
+#EXTINF:-1 tvg-id="Panda KIDS" tvg-name="Panda Kids" tvg-logo="http://mylogos.xyz/LogosPT/Panda.Kids.png" group-title="VIP PORTUGAL",Panda Kids
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/76617
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Canal%20Panda.png" group-title="VIP PORTUGAL",Canal Panda
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/121
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Boomerang.png" group-title="VIP PORTUGAL",Boomerang
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/119
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="Nat Geo" tvg-logo="http://mylogos.xyz/LogosPT/NatGeo.png" group-title="VIP PORTUGAL",Nat Geo
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30057
+#EXTINF:-1 tvg-id="NAT GEO WILD FHD" tvg-name="Nat Geo Wild" tvg-logo="http://mylogos.xyz/LogosPT/NatGeoWild.png" group-title="VIP PORTUGAL",Nat Geo Wild
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/140
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/134
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-name="Discovery Channel (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel (FullHD)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/136
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="Investigation Discovery" tvg-logo="http://mylogos.xyz/LogosPT/InvestigationDiscovery.png" group-title="VIP PORTUGAL",Investigation Discovery
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/30061
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime Investigation" tvg-logo="http://mylogos.xyz/LogosPT/CrimeInvestigation.png" group-title="VIP PORTUGAL",Crime Investigation
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/133
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL FHD" tvg-name="Travel Channel" tvg-logo="http://mylogos.xyz/LogosPT/Travel.Channel.png" group-title="VIP PORTUGAL",Travel Channel
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/152
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="Odisseia" tvg-logo="http://mylogos.xyz/LogosPT/Odisseia.png" group-title="VIP PORTUGAL",Odisseia
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/146
+#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="História" tvg-logo="http://mylogos.xyz/LogosPT/Historia.png" group-title="VIP PORTUGAL",História
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/148
+#EXTINF:-1 tvg-id="CANAL Q" tvg-name="Canal Q" tvg-logo="http://mylogos.xyz/LogosPT/CanalQ.png" group-title="VIP PORTUGAL",Canal Q
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/169
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://mylogos.xyz/LogosPT/TLC.png" group-title="VIP PORTUGAL",TLC
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/151
+#EXTINF:-1 tvg-id="CASA E COZINHA FHD" tvg-name="Casa e Cozinha" tvg-logo="http://mylogos.xyz/LogosPT/CasaCozinha.png" group-title="VIP PORTUGAL",Casa e Cozinha
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/22238
+#EXTINF:-1 tvg-id="24 KITCHEN FHD" tvg-name="24 Kitchen" tvg-logo="http://mylogos.xyz/LogosPT/24Kitchen.png" group-title="VIP PORTUGAL",24 Kitchen
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/129
+#EXTINF:-1 tvg-id="FOOD NETWORK FHD" tvg-name="Food Network" tvg-logo="http://mylogos.xyz/LogosPT/FoodNetwork.1080p.png" group-title="VIP PORTUGAL",Food Network
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/29358
+#EXTINF:-1 tvg-id="FUEL TV FHD" tvg-name="Fuel TV" tvg-logo="http://mylogos.xyz/LogosPT/FuelTV.png" group-title="VIP PORTUGAL",Fuel TV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/69
+#EXTINF:-1 tvg-id="MOTORVISION FHD" tvg-name="Motorvision" tvg-logo="http://mylogos.xyz/LogosPT/MotorvisionTV.png" group-title="VIP PORTUGAL",Motorvision
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/82
+#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="Caça e Pesca" tvg-logo="http://mylogos.xyz/LogosPT/CazaPesca.png" group-title="VIP PORTUGAL",Caça e Pesca
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/132
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="Caçavision" tvg-logo="http://mylogos.xyz/LogosPT/Cazavision.png" group-title="VIP PORTUGAL",Caçavision
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/131
+#EXTINF:-1 tvg-id="TOROS TV" tvg-name="Toros TV" tvg-logo="http://mylogos.xyz/LogosPT/TorosTv.png" group-title="VIP PORTUGAL",Toros TV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/80
+#EXTINF:-1 tvg-name="Mundotoro TV" tvg-logo="http://boxlogos.top/LogosPT/MundotoroTV.png" group-title="VIP PORTUGAL",Mundotoro TV
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/114300
+#EXTINF:-1 tvg-id="FIGHT NETWORK FHD" tvg-name="Fight Network" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/fight_netowrk.png" group-title="VIP PORTUGAL",Fight Network
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/29357
+#EXTINF:-1 tvg-id="Cancao Nova PT" tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="VIP PORTUGAL",Canção Nova
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/25555
+#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="Afro Music" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/AFRO%20MUSIC.png" group-title="VIP PORTUGAL",Afro Music
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/171
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM Pop" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MCM%20POP.png" group-title="VIP PORTUGAL",MCM Pop
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/174
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="MTV Portugal" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Portugal.png" group-title="VIP PORTUGAL",MTV Portugal
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/173
+#EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-name="MTV Live" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Live.png" group-title="VIP PORTUGAL",MTV Live
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/29240
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="MTV 00's" tvg-logo="http://mylogos.xyz/LogosPT/MTV00s.png" group-title="VIP PORTUGAL",MTV 00's
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/181
+#EXTINF:-1 tvg-id="MEZZO Live FHD" tvg-name="Mezzo Live" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MEZZO%20HD.png" group-title="VIP PORTUGAL",Mezzo Live
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/29361
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="Blaze" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Blaze%20HD.png" group-title="VIP PORTUGAL",Blaze
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/15353
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV Record" tvg-logo="http://mylogos.xyz/LogosPT/RecordTV.png" group-title="VIP PORTUGAL",TV Record
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/162
+#EXTINF:-1 tvg-id="ZAPVIVA" tvg-name="ZAP Viva" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/zapviva.png" group-title="VIP PORTUGAL",ZAP Viva
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/26293
+#EXTINF:-1 tvg-id="Euronews PT" tvg-name="EURONEWS ✬Portugal✬" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/euronews.png" group-title="VIP PORTUGAL",EURONEWS ✬Portugal✬
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/29067
+#EXTINF:-1 tvg-id="BBC ENTERTAINMENT" tvg-name="BBC Entertainment" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BBC%20Entertainment.png" group-title="VIP PORTUGAL",BBC Entertainment
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/156
+#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="TPA (Angola)" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/TPA%20INTERNACIONAL.png" group-title="VIP PORTUGAL",TPA (Angola)
+http://rafadnsvip.live:8080/F7aYi18AM6/N9g4D5tXUe/26294
 
 
 
 
 
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%201.png" group-title="PORTUGAL SMART-HVEC",RTP 1ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/274
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%201.png" group-title="PORTUGAL SMART-HVEC",RTP 1 Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16496
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="[hevc] RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] RTP 1ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21690
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%202.png" group-title="PORTUGAL SMART-HVEC",RTP 2ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/275
-#EXTINF:-1 tvg-id="RTP 2 HD" tvg-name="RTP 2 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%202.png" group-title="PORTUGAL SMART-HVEC",RTP 2 Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21592
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="[hevc] RTP 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_2_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] RTP 2ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21688
-#EXTINF:-1 tvg-id="SIC" tvg-name="SICˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC.png" group-title="PORTUGAL SMART-HVEC",SICˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/276
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC.png" group-title="PORTUGAL SMART-HVEC",SIC Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16497
-#EXTINF:-1 tvg-id="SIC" tvg-name="[hevc] SICᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SICᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21689
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVIˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI.png" group-title="PORTUGAL SMART-HVEC",TVIˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/277
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI.png" group-title="PORTUGAL SMART-HVEC",TVI Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16498
-#EXTINF:-1 tvg-id="TVI" tvg-name="[hevc] TVIᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVIᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21644
-#EXTINF:-1 tvg-name="✦ ✦ ✦ Smart INFORMACÃO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦ Smart INFORMACÃO✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21636
-#EXTINF:-1 tvg-id="EURON" tvg-name="EURONEWS" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Euronews.png" group-title="PORTUGAL SMART-HVEC",EURONEWS
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20307
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL SMART-HVEC",CMTV Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16499
-#EXTINF:-1 tvg-id="CMTV" tvg-name="[hevc] CMTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CMTV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CMTVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21646
-#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGALˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL.png" group-title="PORTUGAL SMART-HVEC",CNN PORTUGALˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/280
-#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGAL Mobile" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL.png" group-title="PORTUGAL SMART-HVEC",CNN PORTUGAL Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16500
-#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="[hevc] CNN PORTUGALᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CNN PORTUGALᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21687
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2560px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL SMART-HVEC",RTP 3ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22843
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2560px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL SMART-HVEC",RTP 3 Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16508
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIASˢᵈ" tvg-logo="https://picons.my-ott.com/picons/SIC_NOTICIAS.png" group-title="PORTUGAL SMART-HVEC",SIC NOTICIASˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/279
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias Mobile" tvg-logo="https://picons.my-ott.com/picons/SIC_NOTICIAS.png" group-title="PORTUGAL SMART-HVEC",SIC Noticias Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16503
-#EXTINF:-1 tvg-id="SICN" tvg-name="[hevc] SIC NOTICIASᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_NOTICIAS_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC NOTICIASᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21648
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11_SD.png" group-title="PORTUGAL SMART-HVEC",CANAL 11ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22696
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11 Mobile" tvg-logo="https://picons.my-ott.com/picons/CANAL_11_SD.png" group-title="PORTUGAL SMART-HVEC",CANAL 11 Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21624
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="[hevc] CANAL 11ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11.png" group-title="PORTUGAL SMART-HVEC",[hevc] CANAL 11ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22695
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV.png" group-title="PORTUGAL SMART-HVEC",A Bola TVˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21618
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV Mobile" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV.png" group-title="PORTUGAL SMART-HVEC",A Bola TV Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16510
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="[hevc] A BOLA  TVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] A BOLA  TVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21649
-#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV +ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV+.png" group-title="PORTUGAL SMART-HVEC",SPORT TV +ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/343
-#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV + Mobile" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_+.png" group-title="PORTUGAL SMART-HVEC",SPORT TV + Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18228
-#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="[hevc] SPORT TV +ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV +ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21651
-#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANALˢᵈ " tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC",PORTO CANALˢᵈ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/282
-#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANAL Mobile" tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC",PORTO CANAL Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21606
-#EXTINF:-1 tvg-id="PORTO" tvg-name=" [hevc] PORTO CANALᴴᴰ " tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC", [hevc] PORTO CANALᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22654
-#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="AR TV " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TV%20PARLAMENTO.png" group-title="PORTUGAL SMART-HVEC",AR TV 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20676
-#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP AFRICAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20Africa.png" group-title="PORTUGAL SMART-HVEC",RTP AFRICAˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/294
-#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP MADEIRAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20MADEIRA.png" group-title="PORTUGAL SMART-HVEC",RTP MADEIRAˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/133
-#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Açoresˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20ACORES.png" group-title="PORTUGAL SMART-HVEC",RTP Açoresˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/131
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart DESPORTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DESPORTO✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21633
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 1 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16511
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="[hevc] SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 1ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62437
-#EXTINF:-1 tvg-id="SPTV2" tvg-name="SPORT TV 2 MOBILE" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_2.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 2 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16512
-#EXTINF:-1 tvg-id="SPTV2" tvg-name="[hevc] SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV2.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 2 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21654
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV3.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 3 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16513
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="[hevc] Sport Tv 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] Sport Tv 3 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21691
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV4.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 4 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21608
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="[hevc] SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 4 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21656
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV5.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 5 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21609
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="[hevc] SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 5 ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21657
-#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV6.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 6 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/37971
-#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="Sport TV NBAˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/NBA.png" group-title="PORTUGAL SMART-HVEC",Sport TV NBAˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21697
-#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name=" [hevc] SPORT TV NBAᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL SMART-HVEC", [hevc] SPORT TV NBAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22635
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",BTVˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/384
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV Mobile" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",BTV Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16516
-#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="[hevc] BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] BTVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21658
-#EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="SPORTING TVˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/SPORTING%20TV.png" group-title="PORTUGAL SMART-HVEC",SPORTING TVˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/328
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/SPORTING%20TV.png" group-title="PORTUGAL SMART-HVEC",SPORTING TV Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21613
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="[hevc] SPORTING TVᴴᴰ " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORTING%20TV%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORTING TVᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22714
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 1ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38238
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 1 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16534
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="[hevc] ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ELEVEN SPORTS 1ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21659
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN2_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 2ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38239
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN2_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 2 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16535
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="[hevc] ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ELEVEN SPORTS 2ᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21661
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN3_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 3ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38240
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN3_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 3 MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21597
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN4_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 4ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38241
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4  MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN4_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 4  MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21602
-#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="ELEVEN SPORTS 5ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN5_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 5ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38242
-#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="ELEVEN SPORTS 6ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN6_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 6ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38243
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart DIVERSIDADE DESPORTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DIVERSIDADE DESPORTO✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21632
-#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%201.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 1ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/329
-#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%201.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 1 Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21595
-#EXTINF:-1 tvg-name="[hevc] EUROSPORT 1ᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/EUROSPORT_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] EUROSPORT 1ᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22710
-#EXTINF:-1 tvg-id="EUROS2" tvg-name="EUROSPORT 2ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%202.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 2ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/330
-#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%202.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 2 Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21596
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FUELˢᵈ" tvg-logo="http://ghost-x99.uno:8080/images/644228de21be373bc844b785f6bb9574.png" group-title="PORTUGAL SMART-HVEC",FUELˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22699
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart FILMES✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart FILMES✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21635
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top.png" group-title="PORTUGAL SMART-HVEC",TVCINE TOPˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/347
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine TOP Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top.png" group-title="PORTUGAL SMART-HVEC",TVCine TOP Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16517
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="[hevc] TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE TOPᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21663
-#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE ACTIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action.png" group-title="PORTUGAL SMART-HVEC",TVCINE ACTIONˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/346
-#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCine Action Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action.png" group-title="PORTUGAL SMART-HVEC",TVCine Action Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16520
-#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="[hevc] TVCINE ACTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE ACTIONᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21669
-#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCINE EMOTIONˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/345
-#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCine Emotion Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16519
-#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="[hevc] TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE EMOTIONᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21667
-#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCINE EDITIONˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/344
-#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCine Edition Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16518
-#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="[hevc] TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE EDITIONᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21665
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSˢᵈ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS.png" group-title="PORTUGAL SMART-HVEC",NOS STUDIOSˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16285
-#EXTINF:-1 tvg-id="NOSSTUDIOS" tvg-name="Nos Studios Mobile" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS.png" group-title="PORTUGAL SMART-HVEC",Nos Studios Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16521
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="[hevc] NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] NOS STUDIOSᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21680
-#EXTINF:-1 tvg-id="Hollywood Low" tvg-name="HOLLYWOODˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Hollywood.png" group-title="PORTUGAL SMART-HVEC",HOLLYWOODˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/304
-#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Hollywood.png" group-title="PORTUGAL SMART-HVEC",Hollywood Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16522
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="[hevc] HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] HOLLYWOODᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21681
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="STAR MOVIESˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL SMART-HVEC",STAR MOVIESˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/305
-#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIES Mobile" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" group-title="PORTUGAL SMART-HVEC",STAR MOVIES Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18226
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="[hevc] STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR MOVIESᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21677
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name=" AXN MOVIES Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="PORTUGAL SMART-HVEC", AXN MOVIES Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18225
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="[hevc] AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXN MOVIESᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21676
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CINEMUNDO.png" group-title="PORTUGAL SMART-HVEC",CINEMUNDOˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/270
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo Mobile" tvg-logo="https://picons.my-ott.com/picons/CINEMUNDO.png" group-title="PORTUGAL SMART-HVEC",Cinemundo Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16523
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="[hevc] CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CINEMUNDOᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21682
-#EXTINF:-1 tvg-id="AMCLOW" tvg-name="AMCˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AMC.png" group-title="PORTUGAL SMART-HVEC",AMCˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/310
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AMC.png" group-title="PORTUGAL SMART-HVEC",AMC Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16533
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="[hevc] AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AMCᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21685
-#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKˢᵈ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK.png" group-title="PORTUGAL SMART-HVEC",AMC BREAKˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43381
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart SERIES✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart SERIES✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21634
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXNˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN.png" group-title="PORTUGAL SMART-HVEC",AXNˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21620
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Mobile" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="PORTUGAL SMART-HVEC",AXN Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16524
-#EXTINF:-1 tvg-id="AXN" tvg-name="[hevc] AXNᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXNᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21671
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="PORTUGAL SMART-HVEC",AXN WHITEˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21623
-#EXTINF:-1 tvg-id="AXN WHITE HD (LOW BITRATE)" tvg-name="AXN WHITE MOBILE" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN%20WHITE.png" group-title="PORTUGAL SMART-HVEC",AXN WHITE MOBILE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22703
-#EXTINF:-1 tvg-id="AXN White" tvg-name="[hevc] AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXN WHITEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21675
-#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYˢᵈ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL SMART-HVEC",SYFYˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/309
-#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY Mobile" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL SMART-HVEC",SYFY Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21604
-#EXTINF:-1 tvg-id="SyFy" tvg-name="[hevc] SYFYᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="PORTUGAL SMART-HVEC",[hevc] SYFYᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22704
-#EXTINF:-1 tvg-id="FOX" tvg-name="STARˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",STARˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21622
-#EXTINF:-1 tvg-id="FOX LOW" tvg-name="STAR Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",STAR Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16525
-#EXTINF:-1 tvg-id="FOX" tvg-name="[hevc] STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STARᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21673
-#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",STAR CRIMEˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21619
-#EXTINF:-1 tvg-id="FOXCRIMELOWOUHD" tvg-name="STAR CRIME Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",STAR CRIME Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18227
-#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="[hevc] STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR CRIMEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21678
-#EXTINF:-1 tvg-id="FOX COMEDY LOW" tvg-name="STAR COMEDYˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",STAR COMEDYˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/313
-#EXTINF:-1 tvg-id="FX" tvg-name="STAR COMEDY Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",STAR COMEDY Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21607
-#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="[hevc] STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR COMEDYᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21679
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC",STAR LIFEˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21625
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR life Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC",STAR life Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21626
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name=" [hevc] STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC", [hevc] STAR LIFEᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22705
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart INFANTIL✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart INFANTIL✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21627
-#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIORˢᵈ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL SMART-HVEC",DISNEY JUNIORˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/90
-#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR Mobile" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL SMART-HVEC",DISNEY JUNIOR Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21599
-#EXTINF:-1 tvg-id="DISNEY CHANNEL LOW" tvg-name="DISNEY CHANNELˢᵈ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL SMART-HVEC",DISNEY CHANNELˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/88
-#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL Mobile" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL SMART-HVEC",DISNEY CHANNEL Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21601
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Junior Mobile" tvg-logo="https://img2.gratispng.com/20181111/cvh/kisspng-logo-nick-jr-television-pop-max-tiny-pop-nick-jr-5be824cdedd9d5.9032510315419404299743.jpg" group-title="PORTUGAL SMART-HVEC",Nick Junior Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21598
-#EXTINF:-1 tvg-id="SIC K" tvg-name="Sic Kids  Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20K.png" group-title="PORTUGAL SMART-HVEC",Sic Kids  Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21600
-#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="PANDA BIGGS Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/PANDA%20BIGGS.png" group-title="PORTUGAL SMART-HVEC",PANDA BIGGS Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21605
-#EXTINF:-1 tvg-id="PANDA" tvg-name="CANAL PANDAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL SMART-HVEC",CANAL PANDAˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/86
-#EXTINF:-1 tvg-id="CANAL PANDA LOW" tvg-name="Canal Panda Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL SMART-HVEC",Canal Panda Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16526
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart ENTRETENIMENTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart ENTRETENIMENTO✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21631
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITYˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI%20REALITY.png" group-title="PORTUGAL SMART-HVEC",TVI REALITYˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/283
-#EXTINF:-1 tvg-name="TVI REALITY  CAM1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY  CAM1
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53640
-#EXTINF:-1 tvg-name="TVI REALITY CAM2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM2
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53641
-#EXTINF:-1 tvg-name="TVI REALITY CAM3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM3
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53642
-#EXTINF:-1 tvg-name="TVI REALITY CAM4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM4
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53643
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITY Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI%20REALITY.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21614
-#EXTINF:-1 tvg-id="TVI Ficçao HD" tvg-name="TVI FICCAOˢᵈ" tvg-logo="https://imageshack.com/a/img922/858/hO27YZ.jpg" group-title="PORTUGAL SMART-HVEC",TVI FICCAOˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21056
-#EXTINF:-1 tvg-id="TVI Ficçao HD" tvg-name="TVI FICCAO Mobile" tvg-logo="https://imageshack.com/a/img922/858/hO27YZ.jpg" group-title="PORTUGAL SMART-HVEC",TVI FICCAO Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21612
-#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name=" [hevc] TVI FICCAOᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/TVI_FICCAO_HD.png" group-title="PORTUGAL SMART-HVEC", [hevc] TVI FICCAOᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22636
-#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Tv Globoˢᵈ" tvg-logo="https://picons.my-ott.com/picons/GLOBO.png" group-title="PORTUGAL SMART-HVEC",Tv Globoˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/289
-#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Tv Globo Mobile" tvg-logo="https://picons.my-ott.com/picons/GLOBO.png" group-title="PORTUGAL SMART-HVEC",Tv Globo Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16531
-#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="[hevc] TV GLOBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/GLOBO_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TV GLOBOᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21650
-#EXTINF:-1 tvg-id="TVRECORDHD2" tvg-name="TV RECORDˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record.png" group-title="PORTUGAL SMART-HVEC",TV RECORDˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/290
-#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="TV RECORD Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record.png" group-title="PORTUGAL SMART-HVEC",TV RECORD Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21611
-#EXTINF:-1 tvg-name="[hevc] TV RECORDᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TV RECORDᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22713
-#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC RADICALˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20Radical.png" group-title="PORTUGAL SMART-HVEC",SIC RADICALˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43780
-#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="[hevc] SIC RADICALᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20RADICAL%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC RADICALᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43779
-#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARASˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20CARAS.png" group-title="PORTUGAL SMART-HVEC",SIC CARASˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/284
-#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20CARAS.png" group-title="PORTUGAL SMART-HVEC",SIC CARAS Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21615
-#EXTINF:-1 tvg-id="SICCARASHD" tvg-name="[hevc] SIC CARASᴴᴰ" tvg-logo="http://ghost-x99.uno:8080/images/e40b49b87db8df4314485ea3c1da6948.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC CARASᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21686
-#EXTINF:-1 tvg-id="SICM" tvg-name="SIC MULHERˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER.png" group-title="PORTUGAL SMART-HVEC",SIC MULHERˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/273
-#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER.png" group-title="PORTUGAL SMART-HVEC",SIC Mulher Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16502
-#EXTINF:-1 tvg-id="SicMulherHDFHD" tvg-name="[hevc] SIC MULHERᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC MULHERᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22708
-#EXTINF:-1 tvg-id="Casa e Cozinha HD" tvg-name="CASA COZINHA Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL SMART-HVEC",CASA COZINHA Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21617
-#EXTINF:-1 tvg-id="Casa e Cozinha HD" tvg-name="[hevc]  CASA COZINHAᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL SMART-HVEC",[hevc]  CASA COZINHAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21684
-#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 KITCHENˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/24%20KITCHEN.png" group-title="PORTUGAL SMART-HVEC",24 KITCHENˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/287
-#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="FOOD NETWORKˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/Food%20Network.png" group-title="PORTUGAL SMART-HVEC",FOOD NETWORKˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/288
-#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name=" FOOD NETWORK  Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/Food%20Network.png" group-title="PORTUGAL SMART-HVEC", FOOD NETWORK  Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21621
-#EXTINF:-1 tvg-id="EENTER" tvg-name="E! ENTERTAINMENTˢᵈ" tvg-logo="https://e7.pngegg.com/pngimages/466/7/png-clipart-e-television-channel-television-show-logo-tv-x-letter-television-angle.png" group-title="PORTUGAL SMART-HVEC",E! ENTERTAINMENTˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/322
-#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLCˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/TLC.png" group-title="PORTUGAL SMART-HVEC",TLCˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/321
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart DOCUMENTÃRIOS✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DOCUMENTÃRIOS✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21630
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channelˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Discovery%20Channel.png" group-title="PORTUGAL SMART-HVEC",Discovery Channelˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/39102
-#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographicˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC.png" group-title="PORTUGAL SMART-HVEC",National Geographicˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20372
-#EXTINF:-1 tvg-id="NGC" tvg-name="[hevc]  National geographicᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc]  National geographicᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21683
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="National Geographic wildˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD.png" group-title="PORTUGAL SMART-HVEC",National Geographic wildˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20373
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[hevc] National Geographic wildᴴᴰ " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] National Geographic wildᴴᴰ 
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21593
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discovery Mobile" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/ID_Logo_Screen_Reverse.png" group-title="PORTUGAL SMART-HVEC",ID Investigation Discovery Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21616
-#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Odisseia.png" group-title="PORTUGAL SMART-HVEC",ODISSEIAˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/326
-#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIA Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Odisseia.png" group-title="PORTUGAL SMART-HVEC",ODISSEIA Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21594
-#EXTINF:-1 tvg-id="ODIS" tvg-name="[hevc] ODISSEIAᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ODISSEIA_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ODISSEIAᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22709
-#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20de%20Historia.png" group-title="PORTUGAL SMART-HVEC",HISTORIAˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/325
-#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIA Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20de%20Historia.png" group-title="PORTUGAL SMART-HVEC",HISTORIA Mobile
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21610
-#EXTINF:-1 tvg-name="✦ ✦ ✦Smart MUSICA✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart MUSICA✦ ✦ ✦
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21628
-#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBANˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="PORTUGAL SMART-HVEC",TRACE URBANˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/334
-#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="KURIAKOS KIDS TVᴴᴰ" tvg-logo="https://imgur.com/Gj2RM4c.png" group-title="PORTUGAL SMART-HVEC",KURIAKOS KIDS TVᴴᴰ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20306
-#EXTINF:-1 tvg-name="CNBC EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="PORTUGAL SMART-HVEC",CNBC EUROPE
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/44040
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Bloomberg.png" group-title="PORTUGAL SMART-HVEC",BLOOMBERG
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/44039
-#EXTINF:-1 tvg-id="CART" tvg-name="CARTOON  NETWORKˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/CARTOON%20NETWORK.png" group-title="PORTUGAL SMART-HVEC",CARTOON  NETWORKˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/94
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="CARTOONITO ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CARTOONITO.png" group-title="PORTUGAL SMART-HVEC",CARTOONITO ˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22947
-#EXTINF:-1 tvg-id="PANDA" tvg-name="PANDA KIDSˢᵈ" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9.png" group-title="PORTUGAL SMART-HVEC",PANDA KIDSˢᵈ
-http://pharay.club:8080/Mk72XvBv3PZD/X8NRg3KQqv56/37582
+
+
+
+
+
+
+
+
 
