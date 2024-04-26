@@ -1,5 +1,30 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="A GRANDE CONQUISTA 01 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title=" TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 01 ALTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468781
+#EXTINF:-1 tvg-name="A GRANDE CONQUISTA 02 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 02 ALTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468780
+#EXTINF:-1 tvg-name="A GRANDE CONQUISTA 03 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 03 ALTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468779
+#EXTINF:-1 tvg-name="A GRANDE CONQUISTA 04 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 04 ALTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468778
+#EXTINF:-1 tvg-name="A Grande Conquista 01" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A Grande Conquista 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468777
+#EXTINF:-1 tvg-name="A Grande Conquista 02" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A Grande Conquista 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468776
+#EXTINF:-1 tvg-name="A Grande Conquista 03" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A Grande Conquista 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468775
+#EXTINF:-1 tvg-name="A Grande Conquista 04" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A Grande Conquista 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468774
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="USL - STARZ ENCORE CLASSIC" group-title=" TWO BR CANAIS | USA",USL - STARZ ENCORE CLASSIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by TWO ADDON VIP [COLOR yellow](11) 9 6270-0455 canais sem travamentos [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/69754975202130/207456968574/427215
 #EXTINF:-1 tvg-name="USL - STARZ ENCORE FAMILY" group-title=" TWO BR CANAIS | USA",USL - STARZ ENCORE FAMILY
