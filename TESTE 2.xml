@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-name="A GRANDE CONQUISTA 01 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title=" TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 01 ALTER
+#EXTINF:-1 tvg-name="A GRANDE CONQUISTA 01 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 01 ALTER
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468781
 #EXTINF:-1 tvg-name="A GRANDE CONQUISTA 02 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 02 ALTER
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468780
