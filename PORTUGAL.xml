@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-name="PT: Eleven Sport 6 HD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 6 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327912
 #EXTINF:-1 tvg-name="PT: Eleven Sport 6 FHD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 6 FHD
