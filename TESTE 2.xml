@@ -7,6 +7,10 @@ https://embed-cloudfront.wistia.com/deliveries/19617370fd1185387e967980dc34e431d
 #EXTINF:-1 tvg-id="GARFIELD FORA DE CASA" tvg-name="GARFIELD FORA DE CASA" tvg-logo="https://image.tmdb.org/t/p/w1280/ucoJl92PSH36AU0zWCmSfzO4Uw2.jpg" group-title="TWO BR FILMES LANÇAMENTOS 2024",GARFIELD FORA DE CASA
 https://embed-cloudfront.wistia.com/deliveries/7cafcf420496ebd8212fb1a53de3c4439bf45bd7.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-name="A GRANDE CONQUISTA 01 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 01 ALTER
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/1468781
 #EXTINF:-1 tvg-name="A GRANDE CONQUISTA 02 ALTER" tvg-logo="http://fortestes.stvc.shop/imagem66.jpeg" group-title="TWO BR- A GRANDE CONQUISTA",A GRANDE CONQUISTA 02 ALTER
@@ -26,72 +30,76 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-name="PT: Eleven Sport 6 HD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327912
-#EXTINF:-1 tvg-name="PT: Eleven Sport 6 FHD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327911
-#EXTINF:-1 tvg-name="PT: Eleven Sport 2 HD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327910
-#EXTINF:-1 tvg-name="PT: Eleven Sport 3 HD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327909
-#EXTINF:-1 tvg-name="PT: Eleven Sport 4 FHD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327908
-#EXTINF:-1 tvg-name="PT: Eleven Sport 4" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327907
-#EXTINF:-1 tvg-name="PT: Eleven Sport 3" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327906
-#EXTINF:-1 tvg-name="PT: Eleven Sport 2 FHD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327905
-#EXTINF:-1 tvg-name="PT: Eleven Sport 1 HD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327904
-#EXTINF:-1 tvg-name="PT: Eleven Sport 1 FHD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327903
-#EXTINF:-1 tvg-name="PT: Eleven Sport 1 SD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327902
-#EXTINF:-1 tvg-name="PT: Eleven Sport 5 HD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Eleven Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327901
-#EXTINF:-1 tvg-name="PT: Record TV Europa" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Record TV Europa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327900
-#EXTINF:-1 tvg-name="PT: Canal 11" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327899
-#EXTINF:-1 tvg-name="PT: Sporting TV" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327898
-#EXTINF:-1 tvg-name="PT: A BOLA" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: A BOLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327897
-#EXTINF:-1 tvg-name="PT: W Sport" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: W Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327896
-#EXTINF:-1 tvg-name="PT: SPORT TV HD +" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: SPORT TV HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327895
-#EXTINF:-1 tvg-name="PT: EUROSPORTS 2" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: EUROSPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327894
-#EXTINF:-1 tvg-name="PT: EUROSPORTS 1" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: EUROSPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327893
-#EXTINF:-1 tvg-name="PT: SPORT TV HD 6" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: SPORT TV HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327892
-#EXTINF:-1 tvg-name="PT: SPORT TV HD 5" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: SPORT TV HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327891
-#EXTINF:-1 tvg-name="PT: SPORT TV HD 4" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: SPORT TV HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327890
-#EXTINF:-1 tvg-name="PT: SPORT TV HD 3" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: SPORT TV HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327889
-#EXTINF:-1 tvg-name="PT: SPORT TV HD 2" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: SPORT TV HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327888
-#EXTINF:-1 tvg-name="PT: SPORT TV HD 1" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: SPORT TV HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327887
-#EXTINF:-1 tvg-name="PT: Fuel TV" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327886
-#EXTINF:-1 tvg-name="PT: ELEVEN EXTRA 4" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: ELEVEN EXTRA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327885
-#EXTINF:-1 tvg-name="PT: ELEVEN EXTRA 3" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: ELEVEN EXTRA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327884
-#EXTINF:-1 tvg-name="PT: ELEVEN EXTRA 2" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: ELEVEN EXTRA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327883
-#EXTINF:-1 tvg-name="PT: ELEVEN EXTRA 1" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT: ELEVEN EXTRA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327882
-#EXTINF:-1 tvg-name="PT1: BENFICA TV HD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT1: BENFICA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327881
-#EXTINF:-1 tvg-name="PT1: BENFICA TV SD" tvg-logo="http://ci.stvc.pro/Portugal.png" group-title="☑️ PORTUGAL",PT1: BENFICA TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327880
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327172
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT ARATU BAHIA HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT ARATU BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327173
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327174
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="SBT CAMPINAS FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327175
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="SBT CAMPINAS HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327176
+#EXTINF:-1 tvg-id="sbt.natal.br" tvg-name="SBT NATAL HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT NATAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327400
+#EXTINF:-1 tvg-id="sbt.natal.br" tvg-name="SBT NATAL SD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT NATAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327401
+#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="SBT PR FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT PR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327177
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PR HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT PR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327178
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327179
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327180
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ SD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327181
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RS HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327182
+#EXTINF:-1 tvg-id="sbt.sergipe.br" tvg-name="SBT SERGIPE HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327183
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA FHD (H265)" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SERRA DOURADA FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327184
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SERRA DOURADA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327185
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327186
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD (H265)" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327187
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327188
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327189
+#EXTINF:-1 tvg-id="tv.cidade.verde.br" tvg-name="SBT TV CIDADE VERDE (PI) HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV CIDADE VERDE (PI) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327192
+#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV JANGADEIRO HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV JANGADEIRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327193
+#EXTINF:-1 tvg-id="sbt.sergipe.br" tvg-name="SBT TV JORNAL (PE) HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV JORNAL (PE) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327194
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA MG FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV ALTEROSA MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327190
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA MG HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV ALTEROSA MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327191
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -464,60 +472,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327172
-#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT ARATU BAHIA HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT ARATU BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327173
-#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327174
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="SBT CAMPINAS FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327175
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="SBT CAMPINAS HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327176
-#EXTINF:-1 tvg-id="sbt.natal.br" tvg-name="SBT NATAL HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT NATAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327400
-#EXTINF:-1 tvg-id="sbt.natal.br" tvg-name="SBT NATAL SD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT NATAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327401
-#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="SBT PR FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT PR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327177
-#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PR HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT PR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327178
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327179
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327180
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ SD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327181
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RS HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327182
-#EXTINF:-1 tvg-id="sbt.sergipe.br" tvg-name="SBT SERGIPE HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SERGIPE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327183
-#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA FHD (H265)" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SERRA DOURADA FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327184
-#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SERRA DOURADA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327185
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327186
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD (H265)" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP FHD (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327187
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327188
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327189
-#EXTINF:-1 tvg-id="tv.cidade.verde.br" tvg-name="SBT TV CIDADE VERDE (PI) HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV CIDADE VERDE (PI) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327192
-#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV JANGADEIRO HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV JANGADEIRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327193
-#EXTINF:-1 tvg-id="sbt.sergipe.br" tvg-name="SBT TV JORNAL (PE) HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV JORNAL (PE) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327194
-#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA MG FHD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV ALTEROSA MG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327190
-#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA MG HD" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT",SBT TV ALTEROSA MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topserver.tech:80/jeferson03/w5ttet/327191
 
 
 
@@ -1636,6 +1590,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327545
 #EXTINF:-1 tvg-name="Breaking Bad 24hs" tvg-logo="http://ci.stvc.pro/24h.png" group-title="✅ 24 HORAS",Breaking Bad 24hs
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by NANDO TWO ADDON  [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://stvc.top:80/720528503/317897661/327549
+
+
+
+
+
+
+
+
 
 
 
