@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
- 
+
+
+
+<item>
+<title>[COLOR silver][B] X-MEN '97 DESENHO [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2XH33CIWKD2KK4WUFJSMIUNTFAJUCI77$$lsname=X-MEN '97 EP 1E2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5MSCDYS3QTL6JFW3PXBWYBPWW3FKBENZ$$lsname=X-MEN '97 EP 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3Y2HQS6I7NZGN6H2K5ZWZDL4IX4L2OG6$$lsname=X-MEN '97 EP 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I43DA4HVV7UKLJPQ3I5YE6ZGA2VU4UZG$$lsname=X-MEN '97 EP 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVKWEYMJG3SHHF5DRWIIHEHI56E7GGC6$$lsname=X-MEN '97 EP 6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ZSZYA6S7FIGIGPRX4GBS2PSYMSIX3C3$$lsname=X-MEN '97 EP 7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUU5ELISLL32BU3FNJQHCWQUI5CCP5TL$$lsname=X-MEN '97 EP 8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TYDWTJS45CTK4RGUVAMGDEVD2VO75LGF$$lsname=X-MEN '97 EP 9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/4KUVuewdHUx2hPzBTbgehHnWpjA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1280/4KUVuewdHUx2hPzBTbgehHnWpjA.jpg</fanart>
+<info>Como o nome indica, a história começa em 1997, ano em que a animação original terminou. Entre os últimos acontecimentos de X-Men: The Animated Series, o professor Charles Xavier se despede do grupo de mutantes após ser gravemente ferido e parte do planeta Terra para buscar a sobrevivência no império Shiar.</info>
+</item>
+
 
 
 <item>
@@ -100,19 +117,6 @@
 <info> Ye Wenjie é uma astrofísica que viu seu pai ser brutalmente assassinado durante a Revolução Cultural Chinesa. Após o assassinato de seu pai, ela foi posteriormente recrutada por causa de sua formação científica e enviada para uma base de radar secreta em uma região remota da China. Sua decisão fatídica na década de 1960 ecoa no espaço e no tempo para um grupo de cientistas nos dias atuais, forçando-os a enfrentar a maior ameaça da humanidade.</info>
 </item>
 
-
-
-<item>
-<title>[COLOR silver][B] X-MEN '97 DESENHO [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2XH33CIWKD2KK4WUFJSMIUNTFAJUCI77$$lsname=X-MEN '97 EP 1E2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5MSCDYS3QTL6JFW3PXBWYBPWW3FKBENZ$$lsname=X-MEN '97 EP 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3Y2HQS6I7NZGN6H2K5ZWZDL4IX4L2OG6$$lsname=X-MEN '97 EP 4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I43DA4HVV7UKLJPQ3I5YE6ZGA2VU4UZG$$lsname=X-MEN '97 EP 5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVKWEYMJG3SHHF5DRWIIHEHI56E7GGC6$$lsname=X-MEN '97 EP 6</link>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/4KUVuewdHUx2hPzBTbgehHnWpjA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w1280/4KUVuewdHUx2hPzBTbgehHnWpjA.jpg</fanart>
-<info>Como o nome indica, a história começa em 1997, ano em que a animação original terminou. Entre os últimos acontecimentos de X-Men: The Animated Series, o professor Charles Xavier se despede do grupo de mutantes após ser gravemente ferido e parte do planeta Terra para buscar a sobrevivência no império Shiar.</info>
-</item>
 
 
 
