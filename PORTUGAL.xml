@@ -1,1 +1,343 @@
+#EXTM3U
 
+
+#EXTINF:-1 tvg-name="PT1: 24 KITCHEN HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130173
+#EXTINF:-1 tvg-name="PT1: A BOLA TV" group-title="TWO BR CANAIS | PORTUGAL",PT1: A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130174
+#EXTINF:-1 tvg-name="PT1: AXN WHITE HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130188
+#EXTINF:-1 tvg-name="PT1: BENFICA 4K" group-title="TWO BR CANAIS | PORTUGAL",PT1: BENFICA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130197
+#EXTINF:-1 tvg-name="PT1: BENFICA TV FHD" group-title="TWO BR CANAIS | PORTUGAL",PT1: BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130199
+#EXTINF:-1 tvg-name="PT1: BENFICA TV SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: BENFICA TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130200
+#EXTINF:-1 tvg-name="PT1: CANAL HISTORIA HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CANAL HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130208
+#EXTINF:-1 tvg-name="PT1: CANAL HISTORIA SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CANAL HISTORIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130209
+#EXTINF:-1 tvg-name="PT1: CANAL Q" group-title="TWO BR CANAIS | PORTUGAL",PT1: CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130213
+#EXTINF:-1 tvg-name="PT1: CARTOON NETWORK" tvg-logo="https://i.imgur.com/uMdTdEQ.png" group-title="TWO BR CANAIS | PORTUGAL",PT1: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130215
+#EXTINF:-1 tvg-name="PT1: CAÇA E PESCA" group-title="TWO BR CANAIS | PORTUGAL",PT1: CAÇA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130217
+#EXTINF:-1 tvg-name="PT1: CAÇA E PESCA HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CAÇA E PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130218
+#EXTINF:-1 tvg-name="PT1: CAÇA E PESCA SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CAÇA E PESCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130219
+#EXTINF:-1 tvg-name="PT1: CAÇAVISION" group-title="TWO BR CANAIS | PORTUGAL",PT1: CAÇAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130220
+#EXTINF:-1 tvg-name="PT1: CBS REALITY" group-title="TWO BR CANAIS | PORTUGAL",PT1: CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130222
+#EXTINF:-1 tvg-name="PT1: CINEMUNDO HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130225
+#EXTINF:-1 tvg-name="PT1: CINEMUNDO SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CINEMUNDO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130226
+#EXTINF:-1 tvg-name="PT1: CMTV HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130228
+#EXTINF:-1 tvg-name="PT1: CMTV SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: CMTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130229
+#EXTINF:-1 tvg-name="PT1: CRIME INVESTIGATION" group-title="TWO BR CANAIS | PORTUGAL",PT1: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130233
+#EXTINF:-1 tvg-name="PT1: ELEVEN SPORTS 6²" group-title="TWO BR CANAIS | PORTUGAL",PT1: ELEVEN SPORTS 6²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130259
+#EXTINF:-1 tvg-name="PT1: FOX CRIME HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130278
+#EXTINF:-1 tvg-name="PT1: FOX HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130281
+#EXTINF:-1 tvg-name="PT1: FOX LIFE HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130284
+#EXTINF:-1 tvg-name="PT1: FOX LIFE SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: FOX LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130285
+#EXTINF:-1 tvg-name="PT1: FOX MOVIES HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130288
+#EXTINF:-1 tvg-name="PT1: FOX MOVIES SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: FOX MOVIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130289
+#EXTINF:-1 tvg-name="PT1: FOX SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: FOX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130290
+#EXTINF:-1 tvg-name="PT1: FUEL TV" group-title="TWO BR CANAIS | PORTUGAL",PT1: FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130293
+#EXTINF:-1 tvg-name="PT1: GLOBO" group-title="TWO BR CANAIS | PORTUGAL",PT1: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130295
+#EXTINF:-1 tvg-name="PT1: GLOBO NOW" group-title="TWO BR CANAIS | PORTUGAL",PT1: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130298
+#EXTINF:-1 tvg-name="PT1: HOLLYWOOD HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130301
+#EXTINF:-1 tvg-name="PT1: HOLLYWOOD SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: HOLLYWOOD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130302
+#EXTINF:-1 tvg-name="PT1: JIMJAM" group-title="TWO BR CANAIS | PORTUGAL",PT1: JIMJAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130306
+#EXTINF:-1 tvg-name="PT1: MOTORVISION TV" group-title="TWO BR CANAIS | PORTUGAL",PT1: MOTORVISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130313
+#EXTINF:-1 tvg-name="PT1: MTV PORTUGAL" group-title="TWO BR CANAIS | PORTUGAL",PT1: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130315
+#EXTINF:-1 tvg-name="PT1: NAT GEO WILD" group-title="TWO BR CANAIS | PORTUGAL",PT1: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130317
+#EXTINF:-1 tvg-name="PT1: NICKELODEON" group-title="TWO BR CANAIS | PORTUGAL",PT1: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130323
+#EXTINF:-1 tvg-name="PT1: NICKELODEON JUNIOR" group-title="TWO BR CANAIS | PORTUGAL",PT1: NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130324
+#EXTINF:-1 tvg-name="PT1: NOS STUDIOS HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130326
+#EXTINF:-1 tvg-name="PT1: ODISSEIA" group-title="TWO BR CANAIS | PORTUGAL",PT1: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130328
+#EXTINF:-1 tvg-name="PT1: PANDA BIGS" group-title="TWO BR CANAIS | PORTUGAL",PT1: PANDA BIGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130329
+#EXTINF:-1 tvg-name="PT1: PORTO CANAL" group-title="TWO BR CANAIS | PORTUGAL",PT1: PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130333
+#EXTINF:-1 tvg-name="PT1: RTP 1 SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130337
+#EXTINF:-1 tvg-name="PT1: RTP 2 HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130340
+#EXTINF:-1 tvg-name="PT1: RTP 2 SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130341
+#EXTINF:-1 tvg-name="PT1: RTP 3" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130343
+#EXTINF:-1 tvg-name="PT1: RTP ACORES" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130344
+#EXTINF:-1 tvg-name="PT1: RTP AFRICA" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130346
+#EXTINF:-1 tvg-name="PT1: RTP MADEIRA" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130349
+#EXTINF:-1 tvg-name="PT1: RTP MEMORIA" group-title="TWO BR CANAIS | PORTUGAL",PT1: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130351
+#EXTINF:-1 tvg-name="PT1: SIC CARAS" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130352
+#EXTINF:-1 tvg-name="PT1: SIC HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130354
+#EXTINF:-1 tvg-name="PT1: SIC K" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130356
+#EXTINF:-1 tvg-name="PT1: SIC MULHER" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130357
+#EXTINF:-1 tvg-name="PT1: SIC NOTÍCIAS HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC NOTÍCIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130359
+#EXTINF:-1 tvg-name="PT1: SIC NOTÍCIAS SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC NOTÍCIAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130360
+#EXTINF:-1 tvg-name="PT1: SIC RADICAL" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130362
+#EXTINF:-1 tvg-name="PT1: SIC SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: SIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130364
+#EXTINF:-1 tvg-name="PT1: SKY NEWS" group-title="TWO BR CANAIS | PORTUGAL",PT1: SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130366
+#EXTINF:-1 tvg-name="PT1: SPORTING TV" group-title="TWO BR CANAIS | PORTUGAL",PT1: SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130388
+#EXTINF:-1 tvg-name="PT1: SYFY" group-title="TWO BR CANAIS | PORTUGAL",PT1: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130389
+#EXTINF:-1 tvg-name="PT1: TPA INTERNACIONAL" group-title="TWO BR CANAIS | PORTUGAL",PT1: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130394
+#EXTINF:-1 tvg-name="PT1: TRACE TOCA" group-title="TWO BR CANAIS | PORTUGAL",PT1: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130396
+#EXTINF:-1 tvg-name="PT1: TRACE URBAN" group-title="TWO BR CANAIS | PORTUGAL",PT1: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130398
+#EXTINF:-1 tvg-name="PT1: TRAVEL CHANNEL HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130400
+#EXTINF:-1 tvg-name="PT1: TV RECORD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130402
+#EXTINF:-1 tvg-name="PT1: TVCine EDITION HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVCine EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130410
+#EXTINF:-1 tvg-name="PT1: TVCINE EDITION SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVCINE EDITION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130411
+#EXTINF:-1 tvg-name="PT1: TVCine EMOTION HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVCine EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130414
+#EXTINF:-1 tvg-name="PT1: TVCINE EMOTION SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVCINE EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130415
+#EXTINF:-1 tvg-name="PT1: TVCine TOP HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVCine TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130418
+#EXTINF:-1 tvg-name="PT1: TVCINE TOP SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVCINE TOP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130419
+#EXTINF:-1 tvg-name="PT1: TVI FICÇAO" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI FICÇAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130424
+#EXTINF:-1 tvg-name="PT1: TVI HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130426
+#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 1" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI Reality Camara 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130428
+#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 2" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI Reality Camara 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130429
+#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 3" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI Reality Camara 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130430
+#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 4" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI Reality Camara 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130431
+#EXTINF:-1 tvg-name="PT1: TVI REALITY HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI REALITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130433
+#EXTINF:-1 tvg-name="PT1: TVI REALITY SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI REALITY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130434
+#EXTINF:-1 tvg-name="PT1: TVI SD" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130435
+#EXTINF:-1 tvg-name="PT1: TVI24" group-title="TWO BR CANAIS | PORTUGAL",PT1: TVI24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130437
+#EXTINF:-1 tvg-name="PT1: VH1 MUSIC" group-title="TWO BR CANAIS | PORTUGAL",PT1: VH1 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130438
+#EXTINF:-1 tvg-name="PT: 24 KITCHEN" group-title="TWO BR CANAIS | PORTUGAL",PT: 24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130171
+#EXTINF:-1 tvg-name="PT: 24 KITCHEN HD" group-title="TWO BR CANAIS | PORTUGAL",PT: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130172
+#EXTINF:-1 tvg-name="PT: Afro Music" group-title="TWO BR CANAIS | PORTUGAL",PT: Afro Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130176
+#EXTINF:-1 tvg-name="PT: AMC" group-title="TWO BR CANAIS | PORTUGAL",PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130178
+#EXTINF:-1 tvg-name="PT: AR TV" group-title="TWO BR CANAIS | PORTUGAL",PT: AR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130181
+#EXTINF:-1 tvg-name="PT: AXN" group-title="TWO BR CANAIS | PORTUGAL",PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130182
+#EXTINF:-1 tvg-name="PT: AXN BLACK" group-title="TWO BR CANAIS | PORTUGAL",PT: AXN BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130183
+#EXTINF:-1 tvg-name="PT: CACA E PESCA" group-title="TWO BR CANAIS | PORTUGAL",PT: CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130203
+#EXTINF:-1 tvg-name="PT: CACAVISION" group-title="TWO BR CANAIS | PORTUGAL",PT: CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130204
+#EXTINF:-1 tvg-name="PT: CANAL 11 FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130207
+#EXTINF:-1 tvg-name="PT: CANAL 11¹" group-title="TWO BR CANAIS | PORTUGAL",PT: CANAL 11¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130205
+#EXTINF:-1 tvg-name="PT: CANAL Q¹" group-title="TWO BR CANAIS | PORTUGAL",PT: CANAL Q¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130212
+#EXTINF:-1 tvg-name="PT: CBS REALITY¹" group-title="TWO BR CANAIS | PORTUGAL",PT: CBS REALITY¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130221
+#EXTINF:-1 tvg-name="PT: CINEMUNDO" group-title="TWO BR CANAIS | PORTUGAL",PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130223
+#EXTINF:-1 tvg-name="PT: CINEMUNDO FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130224
+#EXTINF:-1 tvg-name="PT: CNBC EUROPE" group-title="TWO BR CANAIS | PORTUGAL",PT: CNBC EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130230
+#EXTINF:-1 tvg-name="PT: CNN Portugal FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: CNN Portugal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130231
+#EXTINF:-1 tvg-name="PT: CRIME INVESTIGATION¹" group-title="TWO BR CANAIS | PORTUGAL",PT: CRIME INVESTIGATION¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130232
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" group-title="TWO BR CANAIS | PORTUGAL",PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130236
+#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" group-title="TWO BR CANAIS | PORTUGAL",PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130237
+#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR¹" group-title="TWO BR CANAIS | PORTUGAL",PT: DISNEY JUNIOR¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130239
+#EXTINF:-1 tvg-name="PT: DOG TV HD" group-title="TWO BR CANAIS | PORTUGAL",PT: DOG TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130241
+#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" group-title="TWO BR CANAIS | PORTUGAL",PT: E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130243
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3²" group-title="TWO BR CANAIS | PORTUGAL",PT: ELEVEN SPORTS 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130251
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4²" group-title="TWO BR CANAIS | PORTUGAL",PT: ELEVEN SPORTS 4²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130254
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5²" group-title="TWO BR CANAIS | PORTUGAL",PT: ELEVEN SPORTS 5²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130256
+#EXTINF:-1 tvg-name="PT: FOX COMEDY" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130272
+#EXTINF:-1 tvg-name="PT: FOX COMEDY FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX COMEDY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130273
+#EXTINF:-1 tvg-name="PT: FOX CRIME" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130276
+#EXTINF:-1 tvg-name="PT: FOX CRIME FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130277
+#EXTINF:-1 tvg-name="PT: FOX FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130280
+#EXTINF:-1 tvg-name="PT: FOX LIFE" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130282
+#EXTINF:-1 tvg-name="PT: FOX LIFE FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130283
+#EXTINF:-1 tvg-name="PT: FOX MOVIES FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: FOX MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130287
+#EXTINF:-1 tvg-name="PT: GLOBO" group-title="TWO BR CANAIS | PORTUGAL",PT: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130294
+#EXTINF:-1 tvg-name="PT: Globo Backup 2" group-title="TWO BR CANAIS | PORTUGAL",PT: Globo Backup 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130296
+#EXTINF:-1 tvg-name="PT: GLOBO NOW" group-title="TWO BR CANAIS | PORTUGAL",PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130297
+#EXTINF:-1 tvg-name="PT: HISTORIA" group-title="TWO BR CANAIS | PORTUGAL",PT: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130299
+#EXTINF:-1 tvg-name="PT: HOLLYWOOD FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130300
+#EXTINF:-1 tvg-name="PT: ID INVESTIGATION DISCOVERY" group-title="TWO BR CANAIS | PORTUGAL",PT: ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130303
+#EXTINF:-1 tvg-name="PT: JIM JAM" group-title="TWO BR CANAIS | PORTUGAL",PT: JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130305
+#EXTINF:-1 tvg-name="PT: MEZZO" group-title="TWO BR CANAIS | PORTUGAL",PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130309
+#EXTINF:-1 tvg-name="PT: MOTORVISION" group-title="TWO BR CANAIS | PORTUGAL",PT: MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130311
+#EXTINF:-1 tvg-name="PT: MOTORVISION FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: MOTORVISION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130312
+#EXTINF:-1 tvg-name="PT: MTV PORTUGAL" group-title="TWO BR CANAIS | PORTUGAL",PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130314
+#EXTINF:-1 tvg-name="PT: NAT GEO WILD" group-title="TWO BR CANAIS | PORTUGAL",PT: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130316
+#EXTINF:-1 tvg-name="PT: NICKELODEON" group-title="TWO BR CANAIS | PORTUGAL",PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130322
+#EXTINF:-1 tvg-name="PT: NOS STUDIOS FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130325
+#EXTINF:-1 tvg-name="PT: ODISSEIA" group-title="TWO BR CANAIS | PORTUGAL",PT: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130327
+#EXTINF:-1 tvg-name="PT: PFC" group-title="TWO BR CANAIS | PORTUGAL",PT: PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130330
+#EXTINF:-1 tvg-name="PT: RTP 1 FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130335
+#EXTINF:-1 tvg-name="PT: RTP 2 FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130338
+#EXTINF:-1 tvg-name="PT: RTP 2 HD" group-title="TWO BR CANAIS | PORTUGAL",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130339
+#EXTINF:-1 tvg-name="PT: RTP AFRICA" group-title="TWO BR CANAIS | PORTUGAL",PT: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130345
+#EXTINF:-1 tvg-name="PT: RTP AÇORES" group-title="TWO BR CANAIS | PORTUGAL",PT: RTP AÇORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130347
+#EXTINF:-1 tvg-name="PT: RTP MADEIRA" group-title="TWO BR CANAIS | PORTUGAL",PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130348
+#EXTINF:-1 tvg-name="PT: RTP MEMORIA" group-title="TWO BR CANAIS | PORTUGAL",PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130350
+#EXTINF:-1 tvg-name="PT: SIC FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130353
+#EXTINF:-1 tvg-name="PT: SIC K" group-title="TWO BR CANAIS | PORTUGAL",PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130355
+#EXTINF:-1 tvg-name="PT: SIC NOTICIAS HD" group-title="TWO BR CANAIS | PORTUGAL",PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130358
+#EXTINF:-1 tvg-name="PT: SIC RADICAL" group-title="TWO BR CANAIS | PORTUGAL",PT: SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130361
+#EXTINF:-1 tvg-name="PT: SIC RADICAL FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130363
+#EXTINF:-1 tvg-name="PT: SKY NEWS" group-title="TWO BR CANAIS | PORTUGAL",PT: SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130365
+#EXTINF:-1 tvg-name="PT: SPORTING TV" group-title="TWO BR CANAIS | PORTUGAL",PT: SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130387
+#EXTINF:-1 tvg-name="PT: SYFY FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130390
+#EXTINF:-1 tvg-name="PT: TPA INTERNACIONAL" group-title="TWO BR CANAIS | PORTUGAL",PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130393
+#EXTINF:-1 tvg-name="PT: TRACE TOCA" group-title="TWO BR CANAIS | PORTUGAL",PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130395
+#EXTINF:-1 tvg-name="PT: TRACE URBAN" group-title="TWO BR CANAIS | PORTUGAL",PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130397
+#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL" group-title="TWO BR CANAIS | PORTUGAL",PT: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130399
+#EXTINF:-1 tvg-name="PT: TV GALICIA" group-title="TWO BR CANAIS | PORTUGAL",PT: TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130401
+#EXTINF:-1 tvg-name="PT: TV RECORD FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: TV RECORD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130403
+#EXTINF:-1 tvg-name="PT: TVCINE Action" group-title="TWO BR CANAIS | PORTUGAL",PT: TVCINE Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130404
+#EXTINF:-1 tvg-name="PT: TVCINE Edition" group-title="TWO BR CANAIS | PORTUGAL",PT: TVCINE Edition
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130408
+#EXTINF:-1 tvg-name="PT: TVCINE Edition HD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVCINE Edition HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130409
+#EXTINF:-1 tvg-name="PT: TVCINE Emotion" group-title="TWO BR CANAIS | PORTUGAL",PT: TVCINE Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130412
+#EXTINF:-1 tvg-name="PT: TVCINE Emotion FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVCINE Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130413
+#EXTINF:-1 tvg-name="PT: TVCINE Top FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVCINE Top FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130416
+#EXTINF:-1 tvg-name="PT: TVCINE Top HD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVCINE Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130417
+#EXTINF:-1 tvg-name="PT: TVE INTERNACIONAL" group-title="TWO BR CANAIS | PORTUGAL",PT: TVE INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130420
+#EXTINF:-1 tvg-name="PT: TVI FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130421
+#EXTINF:-1 tvg-name="PT: TVI FICCAO" group-title="TWO BR CANAIS | PORTUGAL",PT: TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130422
+#EXTINF:-1 tvg-name="PT: TVI FICCAO HD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVI FICCAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130423
+#EXTINF:-1 tvg-name="PT: TVI HD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130425
+#EXTINF:-1 tvg-name="PT: TVI REALITY" group-title="TWO BR CANAIS | PORTUGAL",PT: TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130427
+#EXTINF:-1 tvg-name="PT: TVI Reality FHD" group-title="TWO BR CANAIS | PORTUGAL",PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130432
+#EXTINF:-1 tvg-name="PT: ZAP VIVA" group-title="TWO BR CANAIS | PORTUGAL",PT: ZAP VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130439
