@@ -18,7 +18,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130209
 #EXTINF:-1 tvg-name="PT1: CANAL Q" group-title="TWO BR CANAIS | PORTUGAL",PT1: CANAL Q
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130213
-#EXTINF:-1 tvg-name="PT1: CARTOON NETWORK" tvg-logo="https://i.imgur.com/uMdTdEQ.png" group-title="TWO BR CANAIS | PORTUGAL",PT1: CARTOON NETWORK
+#EXTINF:-1 tvg-name="PT1: CARTOON NETWORK"  group-title="TWO BR CANAIS | PORTUGAL",PT1: CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130215
 #EXTINF:-1 tvg-name="PT1: CAÇA E PESCA" group-title="TWO BR CANAIS | PORTUGAL",PT1: CAÇA E PESCA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130217
