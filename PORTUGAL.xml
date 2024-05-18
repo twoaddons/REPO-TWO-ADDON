@@ -975,3 +975,72 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261122.ts
 #EXTINF:-1 tvg-name="PT: SPORT TV NBA" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV NBA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261123.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: 24 Kitchen HD" group-title="TWO BR - 4 | PORTUGAL",PT: 24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78426
+#EXTINF:-1 tvg-name="PT: Canal Panda" group-title="TWO BR - 4 | PORTUGAL",PT: Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78446
+#EXTINF:-1 tvg-name="PT: CMTV" group-title="TWO BR - 4 | PORTUGAL",PT: CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78441
+#EXTINF:-1 tvg-name="PT: National Geographic Wild" group-title="TWO BR - 4 | PORTUGAL",PT: National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78425
+#EXTINF:-1 tvg-name="PT: RTP 2 HD" group-title="TWO BR - 4 | PORTUGAL",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78493
+#EXTINF:-1 tvg-name="PT: SIC" group-title="TWO BR - 4 | PORTUGAL",PT: SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78501
+#EXTINF:-1 tvg-name="PT: Sport TV 1" group-title="TWO BR - 4 | PORTUGAL",PT: Sport TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78513
+#EXTINF:-1 tvg-name="PT: TVI" group-title="TWO BR - 4 | PORTUGAL",PT: TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/78526
+#EXTINF:-1 tvg-name="PT BENFICA TV HD  (P)" group-title="TWO BR - 4 | PORTUGAL",PT BENFICA TV HD  (P)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/136726
+#EXTINF:-1 tvg-name="PT: RTP 1 FHD" group-title="TWO BR - 4 | PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164792
+#EXTINF:-1 tvg-name="PT: CNN HD" group-title="TWO BR - 4 | PORTUGAL",PT: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164802
+#EXTINF:-1 tvg-name="PT: TV CINE EMOTION HD" group-title="TWO BR - 4 | PORTUGAL",PT: TV CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164808
+#EXTINF:-1 tvg-name="PT: TV CINE ACTION FHD" group-title="TWO BR - 4 | PORTUGAL",PT: TV CINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164809
+#EXTINF:-1 tvg-name="PT: NOS STUDIOS FHD" group-title="TWO BR - 4 | PORTUGAL",PT: NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164811
+#EXTINF:-1 tvg-name="PT: HOLLYWOOD FHD" group-title="TWO BR - 4 | PORTUGAL",PT: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164813
+#EXTINF:-1 tvg-name="PT: AXN WHITE FHD" group-title="TWO BR - 4 | PORTUGAL",PT: AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164815
+#EXTINF:-1 tvg-name="PT: AXN MOVIES  HD" group-title="TWO BR - 4 | PORTUGAL",PT: AXN MOVIES  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164818
+#EXTINF:-1 tvg-name="PT: SYFY FHD" group-title="TWO BR - 4 | PORTUGAL",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164821
+#EXTINF:-1 tvg-name="PT: TV GLOBO HD" group-title="TWO BR - 4 | PORTUGAL",PT: TV GLOBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164824
+#EXTINF:-1 tvg-name="PT: SIC RADICAL FHD" group-title="TWO BR - 4 | PORTUGAL",PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/164826
+#EXTINF:-1 tvg-name="PT: SPORT TV 1 FHD" group-title="TWO BR - 4 | PORTUGAL",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167742
+#EXTINF:-1 tvg-name="PT: SPORT TV 2 HD" group-title="TWO BR - 4 | PORTUGAL",PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167743
+#EXTINF:-1 tvg-name="PT: SPORT TV 3 HD" group-title="TWO BR - 4 | PORTUGAL",PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167744
+#EXTINF:-1 tvg-name="PT: SPORT TV 4 FHD" group-title="TWO BR - 4 | PORTUGAL",PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167745
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2 HD" group-title="TWO BR - 4 | PORTUGAL",PT: ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167747
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3 HD" group-title="TWO BR - 4 | PORTUGAL",PT: ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167748
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 HD" group-title="TWO BR - 4 | PORTUGAL",PT: ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167749
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5 HD" group-title="TWO BR - 4 | PORTUGAL",PT: ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fortv.cc:8080/4T4Df8/969875/167750
