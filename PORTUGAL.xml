@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-name="PT1: 24 KITCHEN HD" group-title="TWO BR CANAIS | PORTUGAL",PT1: 24 KITCHEN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/Clecio0028k/QSGHBCVZJDM8/130173
 #EXTINF:-1 tvg-name="PT1: A BOLA TV" group-title="TWO BR CANAIS | PORTUGAL",PT1: A BOLA TV
