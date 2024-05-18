@@ -705,279 +705,276 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-name="PT: FOX CRIME" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX CRIME
+#EXTINF:-1 tvg-name="PT: FOX CRIME" http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX CRIME
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260989.ts
-#EXTINF:-1 tvg-name="PT: FOX COMEDY" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX COMEDY
+#EXTINF:-1 tvg-name="PT: FOX COMEDY" http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX COMEDY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260990.ts
-#EXTINF:-1 tvg-name="PT: FOX" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX
+#EXTINF:-1 tvg-name="PT: FOX" http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260991.ts
-#EXTINF:-1 tvg-name="PT: FATIMA TV" tvg-logo="https://rochagalaxia.live/logos/FATIMA TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: FATIMA TV
+#EXTINF:-1 tvg-name="PT: FATIMA TV" https://rochagalaxia.live/logos/FATIMA TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: FATIMA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260992.ts
-#EXTINF:-1 tvg-name="PT: FASHION TV" tvg-logo="https://rochagalaxia.live/logos/FashionTV2019novo.png" group-title="TWO BR - 3 | PORTUGAL",PT: FASHION TV
+#EXTINF:-1 tvg-name="PT: FASHION TV" https://rochagalaxia.live/logos/FashionTV2019novo.png" group-title="TWO BR - 3 | PORTUGAL",PT: FASHION TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260993.ts
-#EXTINF:-1 tvg-name="PT: EUROSPORT 2" tvg-logo="https://rochagalaxia.live/logos/EUROSPORT.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: EUROSPORT 2
+#EXTINF:-1 tvg-name="PT: EUROSPORT 2" https://rochagalaxia.live/logos/EUROSPORT.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: EUROSPORT 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260994.ts
-#EXTINF:-1 tvg-name="PT: EUROSPORT 1" tvg-logo="https://rochagalaxia.live/logos/EUROSPORT.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: EUROSPORT 1
+#EXTINF:-1 tvg-name="PT: EUROSPORT 1" https://rochagalaxia.live/logos/EUROSPORT.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: EUROSPORT 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260995.ts
-#EXTINF:-1 tvg-name="PT: EURONEWS" tvg-logo="https://rochagalaxia.live/logos/EURONEWS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: EURONEWS
+#EXTINF:-1 tvg-name="PT: EURONEWS" https://rochagalaxia.live/logos/EURONEWS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: EURONEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260996.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 6
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6" http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260997.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 5
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5" http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260998.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 4
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4" http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/260999.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 3
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3" http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261000.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 2
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2" http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261001.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 1
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1" http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ELEVEN SPORTS 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261002.ts
-#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="TWO BR - 3 | PORTUGAL",PT: E! ENTERTAINMENT
+#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" http://www.rochagalaxia.live/logos/e!250.png" group-title="TWO BR - 3 | PORTUGAL",PT: E! ENTERTAINMENT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261003.ts
-#EXTINF:-1 tvg-name="PT: DOG TV" tvg-logo="https://rochagalaxia.live/logos/dogtv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: DOG TV
+#EXTINF:-1 tvg-name="PT: DOG TV" https://rochagalaxia.live/logos/dogtv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: DOG TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261004.ts
-#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://dstr.ddns.net:80/images/930ce580a02936bdd20b02e8b222bf5a.png" group-title="TWO BR - 3 | PORTUGAL",PT: DISNEY JUNIOR
+#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR" http://dstr.ddns.net:80/images/930ce580a02936bdd20b02e8b222bf5a.png" group-title="TWO BR - 3 | PORTUGAL",PT: DISNEY JUNIOR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261005.ts
-#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="TWO BR - 3 | PORTUGAL",PT: DISNEY CHANNEL
+#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="TWO BR - 3 | PORTUGAL",PT: DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261006.ts
-#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="TWO BR - 3 | PORTUGAL",PT: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="TWO BR - 3 | PORTUGAL",PT: DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261007.ts
-#EXTINF:-1 tvg-name="PT: CRIME + INVESTIGATION" tvg-logo="https://rochagalaxia.live/logos/CRIME-&-INVESTIGATION250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CRIME + INVESTIGATION
+#EXTINF:-1 tvg-name="PT: CRIME + INVESTIGATION" https://rochagalaxia.live/logos/CRIME-&-INVESTIGATION250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CRIME + INVESTIGATION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261008.ts
-#EXTINF:-1 tvg-name="PT: CNN" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="TWO BR - 3 | PORTUGAL",PT: CNN
+#EXTINF:-1 tvg-name="PT: CNN" https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="TWO BR - 3 | PORTUGAL",PT: CNN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261009.ts
-#EXTINF:-1 tvg-name="PT: CNBC EUROPE" tvg-logo="http://dstr.ddns.net:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="TWO BR - 3 | PORTUGAL",PT: CNBC EUROPE
+#EXTINF:-1 tvg-name="PT: CNBC EUROPE" http://dstr.ddns.net:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="TWO BR - 3 | PORTUGAL",PT: CNBC EUROPE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261010.ts
-#EXTINF:-1 tvg-name="PT: CMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="TWO BR - 3 | PORTUGAL",PT: CMTV
+#EXTINF:-1 tvg-name="PT: CMTV" https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="TWO BR - 3 | PORTUGAL",PT: CMTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261011.ts
-#EXTINF:-1 tvg-name="PT: CLUBBING TV" tvg-logo="https://rochagalaxia.live/logos/CLUBBING TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CLUBBING TV
+#EXTINF:-1 tvg-name="PT: CLUBBING TV" https://rochagalaxia.live/logos/CLUBBING TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CLUBBING TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261012.ts
-#EXTINF:-1 tvg-name="PT: CINEMUNDO" tvg-logo="https://rochagalaxia.live/logos/CINEMUNDO.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CINEMUNDO
+#EXTINF:-1 tvg-name="PT: CINEMUNDO" https://rochagalaxia.live/logos/CINEMUNDO.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CINEMUNDO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261013.ts
-#EXTINF:-1 tvg-name="PT: CBS REALITY" tvg-logo="http://dstr.ddns.net:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="TWO BR - 3 | PORTUGAL",PT: CBS REALITY
+#EXTINF:-1 tvg-name="PT: CBS REALITY" http://dstr.ddns.net:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="TWO BR - 3 | PORTUGAL",PT: CBS REALITY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261014.ts
-#EXTINF:-1 tvg-name="PT: CASA E COZINHA" tvg-logo="https://rochagalaxia.live/logos/CASA E COZINHA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CASA E COZINHA
+#EXTINF:-1 tvg-name="PT: CASA E COZINHA" https://rochagalaxia.live/logos/CASA E COZINHA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CASA E COZINHA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261015.ts
-#EXTINF:-1 tvg-name="PT: CARTOON NETWORK" tvg-logo="https://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: CARTOON NETWORK
+#EXTINF:-1 tvg-name="PT: CARTOON NETWORK" https://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261016.ts
-#EXTINF:-1 tvg-name="PT: CANCAO NOVA" tvg-logo="http://www.rochagalaxia.live/logos/cancaonova.png" group-title="TWO BR - 3 | PORTUGAL",PT: CANCAO NOVA
+#EXTINF:-1 tvg-name="PT: CANCAO NOVA" http://www.rochagalaxia.live/logos/cancaonova.png" group-title="TWO BR - 3 | PORTUGAL",PT: CANCAO NOVA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261017.ts
-#EXTINF:-1 tvg-name="PT: CANAL Q" tvg-logo="https://rochagalaxia.live/logos/CANAL Q.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CANAL Q
+#EXTINF:-1 tvg-name="PT: CANAL Q" https://rochagalaxia.live/logos/CANAL Q.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CANAL Q
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261018.ts
-#EXTINF:-1 tvg-name="PT: Canal 180" tvg-logo="https://rochagalaxia.live/logos/Canal 180.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: Canal 180
+#EXTINF:-1 tvg-name="PT: Canal 180" https://rochagalaxia.live/logos/Canal 180.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: Canal 180
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261019.ts
-#EXTINF:-1 tvg-name="PT: CANAL 11" tvg-logo="https://rochagalaxia.live/logos/CANAL 11.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CANAL 11
+#EXTINF:-1 tvg-name="PT: CANAL 11" https://rochagalaxia.live/logos/CANAL 11.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CANAL 11
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261020.ts
-#EXTINF:-1 tvg-name="PT: CACAVISION" tvg-logo="https://rochagalaxia.live/logos/CACAVISION.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CACAVISION
+#EXTINF:-1 tvg-name="PT: CACAVISION" https://rochagalaxia.live/logos/CACAVISION.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CACAVISION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261021.ts
-#EXTINF:-1 tvg-name="PT: CACA E PESCA" tvg-logo="https://rochagalaxia.live/logos/CACA E PESCA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CACA E PESCA
+#EXTINF:-1 tvg-name="PT: CACA E PESCA" https://rochagalaxia.live/logos/CACA E PESCA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: CACA E PESCA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261022.ts
-#EXTINF:-1 tvg-name="PT: BTV" tvg-logo="https://rochagalaxia.live/logos/BTV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BTV
+#EXTINF:-1 tvg-name="PT: BTV" https://rochagalaxia.live/logos/BTV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261023.ts
-#EXTINF:-1 tvg-name="PT: BOOMERANG" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="TWO BR - 3 | PORTUGAL",PT: BOOMERANG
+#EXTINF:-1 tvg-name="PT: BOOMERANG" http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="TWO BR - 3 | PORTUGAL",PT: BOOMERANG
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261024.ts
-#EXTINF:-1 tvg-name="PT: BLOOMBERG" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="TWO BR - 3 | PORTUGAL",PT: BLOOMBERG
+#EXTINF:-1 tvg-name="PT: BLOOMBERG" http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="TWO BR - 3 | PORTUGAL",PT: BLOOMBERG
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261025.ts
-#EXTINF:-1 tvg-name="PT: BLAZE" tvg-logo="https://rochagalaxia.live/logos/THE BLAZE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BLAZE
+#EXTINF:-1 tvg-name="PT: BLAZE" https://rochagalaxia.live/logos/THE BLAZE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BLAZE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261026.ts
-#EXTINF:-1 tvg-name="PT: BIGGS" tvg-logo="https://rochagalaxia.live/logos/BIGGS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BIGGS
+#EXTINF:-1 tvg-name="PT: BIGGS" https://rochagalaxia.live/logos/BIGGS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BIGGS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261027.ts
-#EXTINF:-1 tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png" group-title="TWO BR - 3 | PORTUGAL",PT: BBC WORLD NEWS
+#EXTINF:-1 tvg-name="PT: BBC WORLD NEWS" https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png" group-title="TWO BR - 3 | PORTUGAL",PT: BBC WORLD NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261028.ts
-#EXTINF:-1 tvg-name="PT: BBC ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BBC_Entertainment_Logo.svg/583px-BBC_Entertainment_Logo.svg.png" group-title="TWO BR - 3 | PORTUGAL",PT: BBC ENTERTAINMENT
+#EXTINF:-1 tvg-name="PT: BBC ENTERTAINMENT" https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BBC_Entertainment_Logo.svg/583px-BBC_Entertainment_Logo.svg.png" group-title="TWO BR - 3 | PORTUGAL",PT: BBC ENTERTAINMENT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261029.ts
-#EXTINF:-1 tvg-name="PT: BABY TV" tvg-logo="https://rochagalaxia.live/logos/BABY TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BABY TV
+#EXTINF:-1 tvg-name="PT: BABY TV" https://rochagalaxia.live/logos/BABY TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261030.ts
-#EXTINF:-1 tvg-name="PT: AXN WHITE" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AXN WHITE
+#EXTINF:-1 tvg-name="PT: AXN WHITE" http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AXN WHITE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261031.ts
-#EXTINF:-1 tvg-name="PT: AXN MOVIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AXN MOVIES
+#EXTINF:-1 tvg-name="PT: AXN MOVIES" http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AXN MOVIES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261032.ts
-#EXTINF:-1 tvg-name="PT: AXN" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AXN
+#EXTINF:-1 tvg-name="PT: AXN" http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AXN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261033.ts
-#EXTINF:-1 tvg-name="PT: AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AMC
+#EXTINF:-1 tvg-name="PT: AMC" http://www.rochagalaxia.live/logos/AMC.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261034.ts
-#EXTINF:-1 tvg-name="PT: ALMA LUSA" tvg-logo="https://rochagalaxia.live/logos/ALMA LUSA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ALMA LUSA
+#EXTINF:-1 tvg-name="PT: ALMA LUSA" https://rochagalaxia.live/logos/ALMA LUSA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ALMA LUSA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261035.ts
-#EXTINF:-1 tvg-name="PT: AL JAZEERA" tvg-logo="https://rochagalaxia.live/logos/AL JAZEERA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: AL JAZEERA
+#EXTINF:-1 tvg-name="PT: AL JAZEERA" https://rochagalaxia.live/logos/AL JAZEERA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: AL JAZEERA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261036.ts
-#EXTINF:-1 tvg-name="PT: AFRO MUSIC" tvg-logo="https://rochagalaxia.live/logos/AFRO MUSIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: AFRO MUSIC
+#EXTINF:-1 tvg-name="PT: AFRO MUSIC" https://rochagalaxia.live/logos/AFRO MUSIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: AFRO MUSIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261037.ts
-#EXTINF:-1 tvg-name="PT: A BOLA TV" tvg-logo="https://rochagalaxia.live/logos/A BOLA TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: A BOLA TV
+#EXTINF:-1 tvg-name="PT: A BOLA TV" https://rochagalaxia.live/logos/A BOLA TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: A BOLA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261038.ts
-#EXTINF:-1 tvg-name="PT: 24 KITCHEN" tvg-logo="https://rochagalaxia.live/logos/24 KITCHEN.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: 24 KITCHEN
+#EXTINF:-1 tvg-name="PT: 24 KITCHEN" https://rochagalaxia.live/logos/24 KITCHEN.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: 24 KITCHEN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261039.ts
-#EXTINF:-1 tvg-name="PT: PANDA" tvg-logo="https://rochagalaxia.live/logos/PANDA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: PANDA
+#EXTINF:-1 tvg-name="PT: PANDA" https://rochagalaxia.live/logos/PANDA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: PANDA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261040.ts
-#EXTINF:-1 tvg-name="PT: ODISSEIA" tvg-logo="https://rochagalaxia.live/logos/ODISSEIA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ODISSEIA
+#EXTINF:-1 tvg-name="PT: ODISSEIA" https://rochagalaxia.live/logos/ODISSEIA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ODISSEIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261041.ts
-#EXTINF:-1 tvg-name="PT: NOS STUDIOS" tvg-logo="https://rochagalaxia.live/logos/NOS STUDIOS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: NOS STUDIOS
+#EXTINF:-1 tvg-name="PT: NOS STUDIOS" https://rochagalaxia.live/logos/NOS STUDIOS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: NOS STUDIOS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261042.ts
-#EXTINF:-1 tvg-name="PT: NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="TWO BR - 3 | PORTUGAL",PT: NICKELODEON
+#EXTINF:-1 tvg-name="PT: NICKELODEON" http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="TWO BR - 3 | PORTUGAL",PT: NICKELODEON
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261043.ts
-#EXTINF:-1 tvg-name="PT: NICK JR" tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="TWO BR - 3 | PORTUGAL",PT: NICK JR
+#EXTINF:-1 tvg-name="PT: NICK JR" http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="TWO BR - 3 | PORTUGAL",PT: NICK JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261044.ts
-#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC" https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261045.ts
-#EXTINF:-1 tvg-name="PT: NAT GEO WILD" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: NAT GEO WILD
+#EXTINF:-1 tvg-name="PT: NAT GEO WILD" https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: NAT GEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261046.ts
-#EXTINF:-1 tvg-name="PT: MTV LIVE" tvg-logo="https://www.rochagalaxia.live/logos/mtvLIVE.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: MTV LIVE
+#EXTINF:-1 tvg-name="PT: MTV LIVE" https://www.rochagalaxia.live/logos/mtvLIVE.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: MTV LIVE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261047.ts
-#EXTINF:-1 tvg-name="PT: MTV" tvg-logo="http://www.rochagalaxia.live/logos/MTV.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: MTV
+#EXTINF:-1 tvg-name="PT: MTV" http://www.rochagalaxia.live/logos/MTV.jpg" group-title="TWO BR - 3 | PORTUGAL",PT: MTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261048.ts
-#EXTINF:-1 tvg-name="PT: MOTORVISION" tvg-logo="https://rochagalaxia.live/logos/MOTORVISION.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MOTORVISION
+#EXTINF:-1 tvg-name="PT: MOTORVISION" https://rochagalaxia.live/logos/MOTORVISION.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MOTORVISION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261049.ts
-#EXTINF:-1 tvg-name="PT: MEZZO" tvg-logo="https://rochagalaxia.live/logos/MEZZO.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MEZZO
+#EXTINF:-1 tvg-name="PT: MEZZO" https://rochagalaxia.live/logos/MEZZO.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MEZZO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261050.ts
-#EXTINF:-1 tvg-name="PT: MCM TOP" tvg-logo="https://rochagalaxia.live/logos/MCM.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MCM TOP
+#EXTINF:-1 tvg-name="PT: MCM TOP" https://rochagalaxia.live/logos/MCM.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MCM TOP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261051.ts
-#EXTINF:-1 tvg-name="PT: MCM POP" tvg-logo="https://rochagalaxia.live/logos/MCM.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MCM POP
+#EXTINF:-1 tvg-name="PT: MCM POP" https://rochagalaxia.live/logos/MCM.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: MCM POP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261052.ts
-#EXTINF:-1 tvg-name="PT: LOLLY KIDS" tvg-logo="https://rochagalaxia.live/logos/LOLLY KIDS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: LOLLY KIDS
+#EXTINF:-1 tvg-name="PT: LOLLY KIDS" https://rochagalaxia.live/logos/LOLLY KIDS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: LOLLY KIDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261053.ts
-#EXTINF:-1 tvg-name="PT: LOCALVISAO" tvg-logo="https://rochagalaxia.live/logos/LOCALVISAO.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: LOCALVISAO
+#EXTINF:-1 tvg-name="PT: LOCALVISAO" https://rochagalaxia.live/logos/LOCALVISAO.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: LOCALVISAO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261054.ts
-#EXTINF:-1 tvg-name="PT: KURIAKOS TV" tvg-logo="https://rochagalaxia.live/logos/KURIAKOS TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: KURIAKOS TV
+#EXTINF:-1 tvg-name="PT: KURIAKOS TV" https://rochagalaxia.live/logos/KURIAKOS TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: KURIAKOS TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261055.ts
-#EXTINF:-1 tvg-name="PT: JIM JAM" tvg-logo="https://rochagalaxia.live/logos/JIM JAM.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: JIM JAM
+#EXTINF:-1 tvg-name="PT: JIM JAM" https://rochagalaxia.live/logos/JIM JAM.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: JIM JAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261056.ts
-#EXTINF:-1 tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="TWO BR - 3 | PORTUGAL",PT: INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-name="PT: INVESTIGATION DISCOVERY" http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="TWO BR - 3 | PORTUGAL",PT: INVESTIGATION DISCOVERY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261057.ts
-#EXTINF:-1 tvg-name="PT: HOLLYWOOD" tvg-logo="https://rochagalaxia.live/logos/HOLLYWOOD.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: HOLLYWOOD
+#EXTINF:-1 tvg-name="PT: HOLLYWOOD" https://rochagalaxia.live/logos/HOLLYWOOD.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: HOLLYWOOD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261058.ts
-#EXTINF:-1 tvg-name="PT: HISTORIA" tvg-logo="https://rochagalaxia.live/logos/HISTORIA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: HISTORIA
+#EXTINF:-1 tvg-name="PT: HISTORIA" https://rochagalaxia.live/logos/HISTORIA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: HISTORIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261059.ts
-#EXTINF:-1 tvg-name="PT: GLOBO NOW" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TWO BR - 3 | PORTUGAL",PT: GLOBO NOW
+#EXTINF:-1 tvg-name="PT: GLOBO NOW" http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TWO BR - 3 | PORTUGAL",PT: GLOBO NOW
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261060.ts
-#EXTINF:-1 tvg-name="PT: GLOBO" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TWO BR - 3 | PORTUGAL",PT: GLOBO
+#EXTINF:-1 tvg-name="PT: GLOBO" http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TWO BR - 3 | PORTUGAL",PT: GLOBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261061.ts
-#EXTINF:-1 tvg-name="PT: FUEL TV" tvg-logo="https://rochagalaxia.live/logos/FUEL TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: FUEL TV
+#EXTINF:-1 tvg-name="PT: FUEL TV" https://rochagalaxia.live/logos/FUEL TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: FUEL TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261062.ts
-#EXTINF:-1 tvg-name="PT: FOX MOVIES" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX MOVIES
+#EXTINF:-1 tvg-name="PT: FOX MOVIES" http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX MOVIES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261063.ts
-#EXTINF:-1 tvg-name="PT: FOX LIFE" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX LIFE
+#EXTINF:-1 tvg-name="PT: FOX LIFE" http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 3 | PORTUGAL",PT: FOX LIFE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261064.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 6" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 6
+#EXTINF:-1 tvg-name="PT: SPORT TV 6" http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261065.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 5" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 5
+#EXTINF:-1 tvg-name="PT: SPORT TV 5" http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261066.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 4" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 4
+#EXTINF:-1 tvg-name="PT: SPORT TV 4" http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261067.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 3" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 3
+#EXTINF:-1 tvg-name="PT: SPORT TV 3" http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261068.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 2" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 2
+#EXTINF:-1 tvg-name="PT: SPORT TV 2" http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261069.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV +" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV +
+#EXTINF:-1 tvg-name="PT: SPORT TV +" http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV +
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261070.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV
+#EXTINF:-1 tvg-name="PT: SPORT TV" http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261071.ts
-#EXTINF:-1 tvg-name="PT: SKY NEWS" tvg-logo="https://rochagalaxia.live/logos/SKY NEWS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SKY NEWS
+#EXTINF:-1 tvg-name="PT: SKY NEWS" https://rochagalaxia.live/logos/SKY NEWS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SKY NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261072.ts
-#EXTINF:-1 tvg-name="PT: SIC RADICAL" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC RADICAL
+#EXTINF:-1 tvg-name="PT: SIC RADICAL" https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC RADICAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261073.ts
-#EXTINF:-1 tvg-name="PT: SIC NOTICIAS" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC NOTICIAS
+#EXTINF:-1 tvg-name="PT: SIC NOTICIAS" https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC NOTICIAS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261074.ts
-#EXTINF:-1 tvg-name="PT: SIC MULHER" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC MULHER
+#EXTINF:-1 tvg-name="PT: SIC MULHER" https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC MULHER
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261075.ts
-#EXTINF:-1 tvg-name="PT: SIC K" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC K
+#EXTINF:-1 tvg-name="PT: SIC K" https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC K
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261076.ts
-#EXTINF:-1 tvg-name="PT: SIC CARAS" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC CARAS
+#EXTINF:-1 tvg-name="PT: SIC CARAS" https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC CARAS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261077.ts
-#EXTINF:-1 tvg-name="PT: SIC" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC
+#EXTINF:-1 tvg-name="PT: SIC" https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261078.ts
-#EXTINF:-1 tvg-name="PT: S+" tvg-logo="https://rochagalaxia.live/logos/S+.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: S+
+#EXTINF:-1 tvg-name="PT: S+" https://rochagalaxia.live/logos/S+.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: S+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261079.ts
-#EXTINF:-1 tvg-name="PT: RTP MEMORIA" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP MEMORIA
+#EXTINF:-1 tvg-name="PT: RTP MEMORIA" https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP MEMORIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261080.ts
-#EXTINF:-1 tvg-name="PT: RTP MADEIRA" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP MADEIRA
+#EXTINF:-1 tvg-name="PT: RTP MADEIRA" https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP MADEIRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261081.ts
-#EXTINF:-1 tvg-name="PT: RTP AFRICA" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP AFRICA
+#EXTINF:-1 tvg-name="PT: RTP AFRICA" https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP AFRICA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261082.ts
-#EXTINF:-1 tvg-name="PT: RTP ACORES" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP ACORES
+#EXTINF:-1 tvg-name="PT: RTP ACORES" https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP ACORES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261083.ts
-#EXTINF:-1 tvg-name="PT: RTP 3" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP 3
+#EXTINF:-1 tvg-name="PT: RTP 3" https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261084.ts
-#EXTINF:-1 tvg-name="PT: RTP 2" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP 2
+#EXTINF:-1 tvg-name="PT: RTP 2" https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261085.ts
-#EXTINF:-1 tvg-name="PT: RTP 1" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP 1
+#EXTINF:-1 tvg-name="PT: RTP 1" https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RTP 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261086.ts
-#EXTINF:-1 tvg-name="PT: RED BULL TV" tvg-logo="http://rochagalaxia.live/logos/redebulltv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RED BULL TV
+#EXTINF:-1 tvg-name="PT: RED BULL TV" http://rochagalaxia.live/logos/redebulltv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: RED BULL TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261087.ts
-#EXTINF:-1 tvg-name="PT: RECORD TV" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="TWO BR - 3 | PORTUGAL",PT: RECORD TV
+#EXTINF:-1 tvg-name="PT: RECORD TV" http://rochagalaxia.live/logos/logorecord.png" group-title="TWO BR - 3 | PORTUGAL",PT: RECORD TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261088.ts
-#EXTINF:-1 tvg-name="PT: RECORD NEWS" tvg-logo="http://www.rochagalaxia.live/logos/RECORDNEWS.png" group-title="TWO BR - 3 | PORTUGAL",PT: RECORD NEWS
+#EXTINF:-1 tvg-name="PT: RECORD NEWS" http://www.rochagalaxia.live/logos/RECORDNEWS.png" group-title="TWO BR - 3 | PORTUGAL",PT: RECORD NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261089.ts
-#EXTINF:-1 tvg-name="PT: PORTO CANAL" tvg-logo="https://rochagalaxia.live/logos/PORTO CANAL.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: PORTO CANAL
+#EXTINF:-1 tvg-name="PT: PORTO CANAL" https://rochagalaxia.live/logos/PORTO CANAL.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: PORTO CANAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261090.ts
-#EXTINF:-1 tvg-name="PT: PFC" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="TWO BR - 3 | PORTUGAL",PT: PFC
+#EXTINF:-1 tvg-name="PT: PFC" http://rochagalaxia.live/logos/logopremiere.png" group-title="TWO BR - 3 | PORTUGAL",PT: PFC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261091.ts
-#EXTINF:-1 tvg-name="PT: PANDA KIDS" tvg-logo="https://rochagalaxia.live/logos/PANDA KIDS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: PANDA KIDS
+#EXTINF:-1 tvg-name="PT: PANDA KIDS" https://rochagalaxia.live/logos/PANDA KIDS.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: PANDA KIDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261092.ts
-#EXTINF:-1 tvg-name="PT: ZAP VIVA" tvg-logo="https://rochagalaxia.live/logos/ZAP VIVA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ZAP VIVA
+#EXTINF:-1 tvg-name="PT: ZAP VIVA" https://rochagalaxia.live/logos/ZAP VIVA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: ZAP VIVA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261093.ts
-#EXTINF:-1 tvg-name="PT: VH1" tvg-logo="http://www.rochagalaxia.live/logos/br_vh1-megahits_m.png" group-title="TWO BR - 3 | PORTUGAL",PT: VH1
+#EXTINF:-1 tvg-name="PT: VH1" http://www.rochagalaxia.live/logos/br_vh1-megahits_m.png" group-title="TWO BR - 3 | PORTUGAL",PT: VH1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261094.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY MOSAICO
+#EXTINF:-1 tvg-name="PT: TVI REALITY MOSAICO" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY MOSAICO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261095.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 4" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 4
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 4" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261096.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 3" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 3
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 3" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261097.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 2" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 2
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 2" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261098.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 1" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 1
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 1" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY CAM 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261099.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY
+#EXTINF:-1 tvg-name="PT: TVI REALITY" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI REALITY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261100.ts
-#EXTINF:-1 tvg-name="PT: TVI FICCAO" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI FICCAO
+#EXTINF:-1 tvg-name="PT: TVI FICCAO" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI FICCAO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261101.ts
-#EXTINF:-1 tvg-name="PT: TVI 24" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI 24
+#EXTINF:-1 tvg-name="PT: TVI 24" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI 24
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261102.ts
-#EXTINF:-1 tvg-name="PT: TVI" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI
+#EXTINF:-1 tvg-name="PT: TVI" https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVI
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261103.ts
-#EXTINF:-1 tvg-name="PT: TVE INTERNACIONAL" tvg-logo="https://www.rochagalaxia.live/logos/tve250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVE INTERNACIONAL
+#EXTINF:-1 tvg-name="PT: TVE INTERNACIONAL" https://www.rochagalaxia.live/logos/tve250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVE INTERNACIONAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261104.ts
-#EXTINF:-1 tvg-name="PT: TVE 24H" tvg-logo="https://www.rochagalaxia.live/logos/tve250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVE 24H
+#EXTINF:-1 tvg-name="PT: TVE 24H" https://www.rochagalaxia.live/logos/tve250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVE 24H
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261105.ts
-#EXTINF:-1 tvg-name="PT: TVCINE TOP" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE TOP
+#EXTINF:-1 tvg-name="PT: TVCINE TOP" https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE TOP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261106.ts
-#EXTINF:-1 tvg-name="PT: TVCINE EMOTION" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE EMOTION
+#EXTINF:-1 tvg-name="PT: TVCINE EMOTION" https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE EMOTION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261107.ts
-#EXTINF:-1 tvg-name="PT: TVCINE EDITION" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE EDITION
+#EXTINF:-1 tvg-name="PT: TVCINE EDITION" https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE EDITION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261108.ts
-#EXTINF:-1 tvg-name="PT: TVCINE ACTION" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE ACTION
+#EXTINF:-1 tvg-name="PT: TVCINE ACTION" https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TVCINE ACTION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261109.ts
-#EXTINF:-1 tvg-name="PT: TV5 MONDE" tvg-logo="https://www.rochagalaxia.live/logos/tv5-monde250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TV5 MONDE
+#EXTINF:-1 tvg-name="PT: TV5 MONDE" https://www.rochagalaxia.live/logos/tv5-monde250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TV5 MONDE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261110.ts
-#EXTINF:-1 tvg-name="PT: TV GALICIA" tvg-logo="https://rochagalaxia.live/logos/TV GALICIA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TV GALICIA
+#EXTINF:-1 tvg-name="PT: TV GALICIA" https://rochagalaxia.live/logos/TV GALICIA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TV GALICIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261111.ts
-#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://rochagalaxia.live/logos/TRAVEL.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TRAVEL CHANNEL
+#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL" https://rochagalaxia.live/logos/TRAVEL.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TRAVEL CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261112.ts
-#EXTINF:-1 tvg-name="PT: TRACE URBAN" tvg-logo="https://rochagalaxia.live/logos/TRACE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TRACE URBAN
+#EXTINF:-1 tvg-name="PT: TRACE URBAN" https://rochagalaxia.live/logos/TRACE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TRACE URBAN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261113.ts
-#EXTINF:-1 tvg-name="PT: TRACE TOCA" tvg-logo="https://rochagalaxia.live/logos/TRACE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TRACE TOCA
+#EXTINF:-1 tvg-name="PT: TRACE TOCA" https://rochagalaxia.live/logos/TRACE.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TRACE TOCA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261114.ts
-#EXTINF:-1 tvg-name="PT: TPA" tvg-logo="https://rochagalaxia.live/logos/TPA.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TPA
+#EXTINF:-1 tvg-name="PT: TPA" " group-title="TWO BR - 3 | PORTUGAL",PT: TPA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261115.ts
-#EXTINF:-1 tvg-name="PT: TOROS TV" tvg-logo="https://rochagalaxia.live/logos/TOROS TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TOROS TV
+#EXTINF:-1 tvg-name="PT: TOROS TV"  group-title="TWO BR - 3 | PORTUGAL",PT: TOROS TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261116.ts
-#EXTINF:-1 tvg-name="PT: TLC" tvg-logo="http://dstr.ddns.net:80/images/30fdf594eb592b1e59c1b8e12f2e62af.png" group-title="TWO BR - 3 | PORTUGAL",PT: TLC
+#EXTINF:-1 tvg-name="PT: TLC" group-title="TWO BR - 3 | PORTUGAL",PT: TLC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261117.ts
-#EXTINF:-1 tvg-name="PT: THE QYOU" tvg-logo="https://rochagalaxia.live/logos/THE QYOU.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: THE QYOU
+#EXTINF:-1 tvg-name="PT: THE QYOU"  group-title="TWO BR - 3 | PORTUGAL",PT: THE QYOU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261118.ts
-#EXTINF:-1 tvg-name="PT: THE FOOD NETWORK" tvg-logo="http://www.rochagalaxia.live/logos/FOODNETWORK.png" group-title="TWO BR - 3 | PORTUGAL",PT: THE FOOD NETWORK
+#EXTINF:-1 tvg-name="PT: THE FOOD NETWORK"  group-title="TWO BR - 3 | PORTUGAL",PT: THE FOOD NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261119.ts
-#EXTINF:-1 tvg-name="PT: TCV INTERNACTIONAL" tvg-logo="https://rochagalaxia.live/logos/TCV INTERNACTIONAL.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: TCV INTERNACTIONAL
+#EXTINF:-1 tvg-name="PT: TCV INTERNACTIONAL"  group-title="TWO BR - 3 | PORTUGAL",PT: TCV INTERNACTIONAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261120.ts
-#EXTINF:-1 tvg-name="PT: SYFY" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="TWO BR - 3 | PORTUGAL",PT: SYFY
+#EXTINF:-1 tvg-name="PT: SYFY" tvg-logo= group-title="TWO BR - 3 | PORTUGAL",PT: SYFY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261121.ts
-#EXTINF:-1 tvg-name="PT: SPORTING TV" tvg-logo="https://rochagalaxia.live/logos/SPORTING TV.250x250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORTING TV
+#EXTINF:-1 tvg-name="PT: SPORTING TV"  group-title="TWO BR - 3 | PORTUGAL",PT: SPORTING TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261122.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV NBA" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV NBA
+#EXTINF:-1 tvg-name="PT: SPORT TV NBA"  group-title="TWO BR - 3 | PORTUGAL",PT: SPORT TV NBA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/737945/key5f0e5x0L/261123.ts
-
-
-
 
 
 
