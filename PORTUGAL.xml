@@ -1211,7 +1211,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://elitemaster.space:8080/calu/jasilva/36497
 #EXTINF:-1 tvg-id="BTV1hd" tvg-name="Benfica TV 4K UHD" "http://novaera4.club/logo/BenficaTV4k.png" group-title="TWO BR - 5 | PORTUGAL",Benfica TV 4K UHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://elitemaster.space:8080/calu/jasilva/16974
-#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TV	" "http://novaera4.club/logo/BTV.png" group-title="TWO BR - 5 | PORTUGAL",Benfica TV	
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TV	" "http://novaera4.club/logo/BTV.png" group-title="TWO BR - 5 | PORTUGAL",Benfica TV	 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://elitemaster.space:8080/calu/jasilva/124
 #EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TVᴴᴰ" "http://novaera4.club/logo/BenficaTV4k.png" group-title="TWO BR - 5 | PORTUGAL",Benfica TVᴴᴰ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@by Nando Two Addon[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://elitemaster.space:8080/calu/jasilva/122
