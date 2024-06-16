@@ -3,273 +3,632 @@
 
 
 
-#EXTINF:-1 tvg-name="PT: 24 KITCHEN" tvg-logo="https://rochagalaxia.live/logos/24 KITCHEN.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261039.ts
-#EXTINF:-1 tvg-name="PT: A BOLA TV" tvg-logo="https://rochagalaxia.live/logos/A BOLA TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261038.ts
-#EXTINF:-1 tvg-name="PT: AFRO MUSIC" tvg-logo="https://rochagalaxia.live/logos/AFRO MUSIC.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: AFRO MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261037.ts
-#EXTINF:-1 tvg-name="PT: AL JAZEERA" tvg-logo="https://rochagalaxia.live/logos/AL JAZEERA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: AL JAZEERA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261036.ts
-#EXTINF:-1 tvg-name="PT: ALMA LUSA" tvg-logo="https://rochagalaxia.live/logos/ALMA LUSA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ALMA LUSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261035.ts
-#EXTINF:-1 tvg-name="PT: AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261034.ts
-#EXTINF:-1 tvg-name="PT: AXN" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261033.ts
-#EXTINF:-1 tvg-name="PT: AXN MOVIES" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: AXN MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261032.ts
-#EXTINF:-1 tvg-name="PT: AXN WHITE" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261031.ts
-#EXTINF:-1 tvg-name="PT: BABY TV" tvg-logo="https://rochagalaxia.live/logos/BABY TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261030.ts
-#EXTINF:-1 tvg-name="PT: BBC ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BBC_Entertainment_Logo.svg/583px-BBC_Entertainment_Logo.svg.png" group-title="TWO BR - 1 | PORTUGAL",PT: BBC ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261029.ts
-#EXTINF:-1 tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png" group-title="TWO BR - 1 | PORTUGAL",PT: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261028.ts
-#EXTINF:-1 tvg-name="PT: BIGGS" tvg-logo="https://rochagalaxia.live/logos/BIGGS.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261027.ts
-#EXTINF:-1 tvg-name="PT: BLAZE" tvg-logo="https://rochagalaxia.live/logos/THE BLAZE.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261026.ts
-#EXTINF:-1 tvg-name="PT: BLOOMBERG" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="TWO BR - 1 | PORTUGAL",PT: BLOOMBERG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261025.ts
-#EXTINF:-1 tvg-name="PT: BOOMERANG" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="TWO BR - 1 | PORTUGAL",PT: BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261024.ts
-#EXTINF:-1 tvg-name="PT: BTV" tvg-logo="https://rochagalaxia.live/logos/BTV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261023.ts
-#EXTINF:-1 tvg-name="PT: CACA E PESCA" tvg-logo="https://rochagalaxia.live/logos/CACA E PESCA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CACA E PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261022.ts
-#EXTINF:-1 tvg-name="PT: CACAVISION" tvg-logo="https://rochagalaxia.live/logos/CACAVISION.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CACAVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261021.ts
-#EXTINF:-1 tvg-name="PT: CANAL 11" tvg-logo="https://rochagalaxia.live/logos/CANAL 11.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261020.ts
-#EXTINF:-1 tvg-name="PT: Canal 180" tvg-logo="https://rochagalaxia.live/logos/Canal 180.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: Canal 180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261019.ts
-#EXTINF:-1 tvg-name="PT: CANAL Q" tvg-logo="https://rochagalaxia.live/logos/CANAL Q.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261018.ts
-#EXTINF:-1 tvg-name="PT: CANCAO NOVA" tvg-logo="http://www.rochagalaxia.live/logos/cancaonova.png" group-title="TWO BR - 1 | PORTUGAL",PT: CANCAO NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261017.ts
-#EXTINF:-1 tvg-name="PT: CARTOON NETWORK" tvg-logo="https://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261016.ts
-#EXTINF:-1 tvg-name="PT: CASA E COZINHA" tvg-logo="https://rochagalaxia.live/logos/CASA E COZINHA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CASA E COZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261015.ts
-#EXTINF:-1 tvg-name="PT: CBS REALITY" tvg-logo="http://dstr.ddns.net:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="TWO BR - 1 | PORTUGAL",PT: CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261014.ts
-#EXTINF:-1 tvg-name="PT: CINEMUNDO" tvg-logo="https://rochagalaxia.live/logos/CINEMUNDO.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CINEMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261013.ts
-#EXTINF:-1 tvg-name="PT: CLUBBING TV" tvg-logo="https://rochagalaxia.live/logos/CLUBBING TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CLUBBING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261012.ts
-#EXTINF:-1 tvg-name="PT: CMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="TWO BR - 1 | PORTUGAL",PT: CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261011.ts
-#EXTINF:-1 tvg-name="PT: CNBC EUROPE" tvg-logo="http://dstr.ddns.net:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="TWO BR - 1 | PORTUGAL",PT: CNBC EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261010.ts
-#EXTINF:-1 tvg-name="PT: CNN" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="TWO BR - 1 | PORTUGAL",PT: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261009.ts
-#EXTINF:-1 tvg-name="PT: CRIME + INVESTIGATION" tvg-logo="https://rochagalaxia.live/logos/CRIME-&-INVESTIGATION250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: CRIME + INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261008.ts
-#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="TWO BR - 1 | PORTUGAL",PT: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261007.ts
-#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="TWO BR - 1 | PORTUGAL",PT: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261006.ts
-#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://dstr.ddns.net:80/images/930ce580a02936bdd20b02e8b222bf5a.png" group-title="TWO BR - 1 | PORTUGAL",PT: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261005.ts
-#EXTINF:-1 tvg-name="PT: DOG TV" tvg-logo="https://rochagalaxia.live/logos/dogtv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: DOG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261004.ts
-#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="TWO BR - 1 | PORTUGAL",PT: E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261003.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261002.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261001.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261000.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260999.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260998.ts
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260997.ts
-#EXTINF:-1 tvg-name="PT: EURONEWS" tvg-logo="https://rochagalaxia.live/logos/EURONEWS.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260996.ts
-#EXTINF:-1 tvg-name="PT: EUROSPORT 1" tvg-logo="https://rochagalaxia.live/logos/EUROSPORT.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260995.ts
-#EXTINF:-1 tvg-name="PT: EUROSPORT 2" tvg-logo="https://rochagalaxia.live/logos/EUROSPORT.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260994.ts
-#EXTINF:-1 tvg-name="PT: FASHION TV" tvg-logo="https://rochagalaxia.live/logos/FashionTV2019novo.png" group-title="TWO BR - 1 | PORTUGAL",PT: FASHION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260993.ts
-#EXTINF:-1 tvg-name="PT: FATIMA TV" tvg-logo="https://rochagalaxia.live/logos/FATIMA TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: FATIMA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260992.ts
-#EXTINF:-1 tvg-name="PT: FOX" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 1 | PORTUGAL",PT: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260991.ts
-#EXTINF:-1 tvg-name="PT: FOX COMEDY" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 1 | PORTUGAL",PT: FOX COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260990.ts
-#EXTINF:-1 tvg-name="PT: FOX CRIME" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 1 | PORTUGAL",PT: FOX CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/260989.ts
-#EXTINF:-1 tvg-name="PT: FOX LIFE" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 1 | PORTUGAL",PT: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261064.ts
-#EXTINF:-1 tvg-name="PT: FOX MOVIES" tvg-logo="http://dstr.ddns.net:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="TWO BR - 1 | PORTUGAL",PT: FOX MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261063.ts
-#EXTINF:-1 tvg-name="PT: FUEL TV" tvg-logo="https://rochagalaxia.live/logos/FUEL TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261062.ts
-#EXTINF:-1 tvg-name="PT: GLOBO" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TWO BR - 1 | PORTUGAL",PT: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261061.ts
-#EXTINF:-1 tvg-name="PT: GLOBO NOW" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TWO BR - 1 | PORTUGAL",PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261060.ts
-#EXTINF:-1 tvg-name="PT: HISTORIA" tvg-logo="https://rochagalaxia.live/logos/HISTORIA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261059.ts
-#EXTINF:-1 tvg-name="PT: HOLLYWOOD" tvg-logo="https://rochagalaxia.live/logos/HOLLYWOOD.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261058.ts
-#EXTINF:-1 tvg-name="PT: INVESTIGATION DISCOVERY" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="TWO BR - 1 | PORTUGAL",PT: INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261057.ts
-#EXTINF:-1 tvg-name="PT: JIM JAM" tvg-logo="https://rochagalaxia.live/logos/JIM JAM.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: JIM JAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261056.ts
-#EXTINF:-1 tvg-name="PT: KURIAKOS TV" tvg-logo="https://rochagalaxia.live/logos/KURIAKOS TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: KURIAKOS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261055.ts
-#EXTINF:-1 tvg-name="PT: LOCALVISAO" tvg-logo="https://rochagalaxia.live/logos/LOCALVISAO.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: LOCALVISAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261054.ts
-#EXTINF:-1 tvg-name="PT: LOLLY KIDS" tvg-logo="https://rochagalaxia.live/logos/LOLLY KIDS.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: LOLLY KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261053.ts
-#EXTINF:-1 tvg-name="PT: MCM POP" tvg-logo="https://rochagalaxia.live/logos/MCM.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: MCM POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261052.ts
-#EXTINF:-1 tvg-name="PT: MCM TOP" tvg-logo="https://rochagalaxia.live/logos/MCM.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261051.ts
-#EXTINF:-1 tvg-name="PT: MEZZO" tvg-logo="https://rochagalaxia.live/logos/MEZZO.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261050.ts
-#EXTINF:-1 tvg-name="PT: MOTORVISION" tvg-logo="https://rochagalaxia.live/logos/MOTORVISION.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261049.ts
-#EXTINF:-1 tvg-name="PT: MTV" tvg-logo="http://www.rochagalaxia.live/logos/MTV.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261048.ts
-#EXTINF:-1 tvg-name="PT: MTV LIVE" tvg-logo="https://www.rochagalaxia.live/logos/mtvLIVE.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: MTV LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261047.ts
-#EXTINF:-1 tvg-name="PT: NAT GEO WILD" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261046.ts
-#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="TWO BR - 1 | PORTUGAL",PT: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261045.ts
-#EXTINF:-1 tvg-name="PT: NICK JR" tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="TWO BR - 1 | PORTUGAL",PT: NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261044.ts
-#EXTINF:-1 tvg-name="PT: NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="TWO BR - 1 | PORTUGAL",PT: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261043.ts
-#EXTINF:-1 tvg-name="PT: NOS STUDIOS" tvg-logo="https://rochagalaxia.live/logos/NOS STUDIOS.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: NOS STUDIOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261042.ts
-#EXTINF:-1 tvg-name="PT: ODISSEIA" tvg-logo="https://rochagalaxia.live/logos/ODISSEIA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261041.ts
-#EXTINF:-1 tvg-name="PT: PANDA" tvg-logo="https://rochagalaxia.live/logos/PANDA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261040.ts
-#EXTINF:-1 tvg-name="PT: PANDA KIDS" tvg-logo="https://rochagalaxia.live/logos/PANDA KIDS.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: PANDA KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261092.ts
-#EXTINF:-1 tvg-name="PT: PFC" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="TWO BR - 1 | PORTUGAL",PT: PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261091.ts
-#EXTINF:-1 tvg-name="PT: PORTO CANAL" tvg-logo="https://rochagalaxia.live/logos/PORTO CANAL.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261090.ts
-#EXTINF:-1 tvg-name="PT: RECORD NEWS" tvg-logo="http://www.rochagalaxia.live/logos/RECORDNEWS.png" group-title="TWO BR - 1 | PORTUGAL",PT: RECORD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261089.ts
-#EXTINF:-1 tvg-name="PT: RECORD TV" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="TWO BR - 1 | PORTUGAL",PT: RECORD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261088.ts
-#EXTINF:-1 tvg-name="PT: RED BULL TV" tvg-logo="http://rochagalaxia.live/logos/redebulltv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RED BULL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261087.ts
-#EXTINF:-1 tvg-name="PT: RTP 1" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261086.ts
-#EXTINF:-1 tvg-name="PT: RTP 2" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261085.ts
-#EXTINF:-1 tvg-name="PT: RTP 3" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261084.ts
-#EXTINF:-1 tvg-name="PT: RTP ACORES" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RTP ACORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261083.ts
-#EXTINF:-1 tvg-name="PT: RTP AFRICA" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261082.ts
-#EXTINF:-1 tvg-name="PT: RTP MADEIRA" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261081.ts
-#EXTINF:-1 tvg-name="PT: RTP MEMORIA" tvg-logo="https://rochagalaxia.live/logos/RTP.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261080.ts
-#EXTINF:-1 tvg-name="PT: S+" tvg-logo="https://rochagalaxia.live/logos/S+.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: S+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261079.ts
-#EXTINF:-1 tvg-name="PT: SIC" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261078.ts
-#EXTINF:-1 tvg-name="PT: SIC CARAS" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SIC CARAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261077.ts
-#EXTINF:-1 tvg-name="PT: SIC K" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261076.ts
-#EXTINF:-1 tvg-name="PT: SIC MULHER" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261075.ts
-#EXTINF:-1 tvg-name="PT: SIC NOTICIAS" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261074.ts
-#EXTINF:-1 tvg-name="PT: SIC RADICAL" tvg-logo="https://rochagalaxia.live/logos/SIC.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261073.ts
-#EXTINF:-1 tvg-name="PT: SKY NEWS" tvg-logo="https://rochagalaxia.live/logos/SKY NEWS.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SKY NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261072.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261071.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV +" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261070.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 2" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261069.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 3" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261068.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 4" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261067.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 5" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261066.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV 6" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261065.ts
-#EXTINF:-1 tvg-name="PT: SPORT TV NBA" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORT TV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261123.ts
-#EXTINF:-1 tvg-name="PT: SPORTING TV" tvg-logo="https://rochagalaxia.live/logos/SPORTING TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261122.ts
-#EXTINF:-1 tvg-name="PT: SYFY" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="TWO BR - 1 | PORTUGAL",PT: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261121.ts
-#EXTINF:-1 tvg-name="PT: TCV INTERNACTIONAL" tvg-logo="https://rochagalaxia.live/logos/TCV INTERNACTIONAL.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TCV INTERNACTIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261120.ts
-#EXTINF:-1 tvg-name="PT: THE FOOD NETWORK" tvg-logo="http://www.rochagalaxia.live/logos/FOODNETWORK.png" group-title="TWO BR - 1 | PORTUGAL",PT: THE FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261119.ts
-#EXTINF:-1 tvg-name="PT: THE QYOU" tvg-logo="https://rochagalaxia.live/logos/THE QYOU.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: THE QYOU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261118.ts
-#EXTINF:-1 tvg-name="PT: TLC" tvg-logo="http://dstr.ddns.net:80/images/30fdf594eb592b1e59c1b8e12f2e62af.png" group-title="TWO BR - 1 | PORTUGAL",PT: TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261117.ts
-#EXTINF:-1 tvg-name="PT: TOROS TV" tvg-logo="https://rochagalaxia.live/logos/TOROS TV.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261116.ts
-#EXTINF:-1 tvg-name="PT: TPA" tvg-logo="https://rochagalaxia.live/logos/TPA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261115.ts
-#EXTINF:-1 tvg-name="PT: TRACE TOCA" tvg-logo="https://rochagalaxia.live/logos/TRACE.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261114.ts
-#EXTINF:-1 tvg-name="PT: TRACE URBAN" tvg-logo="https://rochagalaxia.live/logos/TRACE.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261113.ts
-#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://rochagalaxia.live/logos/TRAVEL.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261112.ts
-#EXTINF:-1 tvg-name="PT: TV GALICIA" tvg-logo="https://rochagalaxia.live/logos/TV GALICIA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261111.ts
-#EXTINF:-1 tvg-name="PT: TV5 MONDE" tvg-logo="https://www.rochagalaxia.live/logos/tv5-monde250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TV5 MONDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261110.ts
-#EXTINF:-1 tvg-name="PT: TVCINE ACTION" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVCINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261109.ts
-#EXTINF:-1 tvg-name="PT: TVCINE EDITION" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVCINE EDITION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261108.ts
-#EXTINF:-1 tvg-name="PT: TVCINE EMOTION" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVCINE EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261107.ts
-#EXTINF:-1 tvg-name="PT: TVCINE TOP" tvg-logo="https://rochagalaxia.live/logos/TVCINE.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVCINE TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261106.ts
-#EXTINF:-1 tvg-name="PT: TVE 24H" tvg-logo="https://www.rochagalaxia.live/logos/tve250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVE 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261105.ts
-#EXTINF:-1 tvg-name="PT: TVE INTERNACIONAL" tvg-logo="https://www.rochagalaxia.live/logos/tve250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261104.ts
-#EXTINF:-1 tvg-name="PT: TVI" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261103.ts
-#EXTINF:-1 tvg-name="PT: TVI 24" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261102.ts
-#EXTINF:-1 tvg-name="PT: TVI FICCAO" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI FICCAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261101.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261100.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 1" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI REALITY CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261099.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 2" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI REALITY CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261098.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 3" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI REALITY CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261097.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 4" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI REALITY CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261096.ts
-#EXTINF:-1 tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="https://rochagalaxia.live/logos/TVI.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261095.ts
-#EXTINF:-1 tvg-name="PT: VH1" tvg-logo="http://www.rochagalaxia.live/logos/br_vh1-megahits_m.png" group-title="TWO BR - 1 | PORTUGAL",PT: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261094.ts
-#EXTINF:-1 tvg-name="PT: ZAP VIVA" tvg-logo="https://rochagalaxia.live/logos/ZAP VIVA.250x250.png" group-title="TWO BR - 1 | PORTUGAL",PT: ZAP VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://conexaoonline.top:80/686028/key5f0e5x0L/261093.ts
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" group-title="TWO BR ABERTOS",BAND MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/481
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" group-title="TWO BR ABERTOS",BAND NORDESTE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/483
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" group-title="TWO BR ABERTOS",BAND SP 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/484
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" group-title="TWO BR ABERTOS",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/485
+#EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="TWO BR ABERTOS",CANAL BOI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/486
+#EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" group-title="TWO BR ABERTOS",EPTV RIBEIRAO PRETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1011
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TWO BR ABERTOS",GLOBO BAHIA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/488
+#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TWO BR ABERTOS",GLOBO BRASILIA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/490
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K" group-title="TWO BR ABERTOS",GLOBO EPTV CAMPINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/780
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" group-title="TWO BR ABERTOS",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/491
+#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="TWO BR ABERTOS",GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1012
+#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="TWO BR ABERTOS",GLOBO INTEGRAÇÃO JUIZ DE FORA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/494
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI 4K" group-title="TWO BR ABERTOS",GLOBO INTER TV CABUGI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/514
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI HD" group-title="TWO BR ABERTOS",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/495
+#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS 4K" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TWO BR ABERTOS",GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/497
+#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS HD" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TWO BR ABERTOS",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/772
+#EXTINF:-1 tvg-name="GLOBO NORDESTE 4K" group-title="TWO BR ABERTOS",GLOBO NORDESTE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1248
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TWO BR ABERTOS",GLOBO NSC BLUMENAU 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/515
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" group-title="TWO BR ABERTOS",GLOBO RBS PORTO ALEGRE 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/501
+#EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" group-title="TWO BR ABERTOS",GLOBO REDE AMAZONICA MANAUS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/530
+#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TWO BR ABERTOS",GLOBO RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/504
+#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" group-title="TWO BR ABERTOS",GLOBO RPC CURITIBA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/505
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TWO BR ABERTOS",GLOBO RPC FOZ DO IGUAÇU 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/506
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" group-title="TWO BR ABERTOS",GLOBO RPC MARINGA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/507
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" group-title="TWO BR ABERTOS",GLOBO RPC MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/817
+#EXTINF:-1 tvg-name="GLOBO SERGIPE 4K" group-title="TWO BR ABERTOS",GLOBO SERGIPE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1160
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TWO BR ABERTOS",GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/511
+#EXTINF:-1 tvg-id="5b5e8f6070df962a62d591d616dcdf46" tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="TWO BR ABERTOS",GLOBO TV ANHANGUERA GOIAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/849
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="GLOBO TV CENTRO AMERICA CUIABA 4K" group-title="TWO BR ABERTOS",GLOBO TV CENTRO AMERICA CUIABA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1102
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" group-title="TWO BR ABERTOS",GLOBO TV LIBERAL BELEM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/554
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM HD" group-title="TWO BR ABERTOS",GLOBO TV LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/773
+#EXTINF:-1 tvg-id="9d031a9597550c5a95f4b8d32e0bcc0e" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TWO BR ABERTOS",GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/968
+#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="GLOBO TV TEM SOROCABA 4K" group-title="TWO BR ABERTOS",GLOBO TV TEM SOROCABA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/563
+#EXTINF:-1 tvg-id="3b220cc065f34810b98141ad412a1076" tvg-name="RBI 4K" group-title="TWO BR ABERTOS",RBI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/517
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="RBS TV PORTO ALEGRE" group-title="TWO BR ABERTOS",RBS TV PORTO ALEGRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/519
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" group-title="TWO BR ABERTOS",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/520
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD" group-title="TWO BR ABERTOS",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/521
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD DF HD" group-title="TWO BR ABERTOS",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/522
+#EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD HD" group-title="TWO BR ABERTOS",RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/523
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MANAUS HD" group-title="TWO BR ABERTOS",RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/524
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS UHD" group-title="TWO BR ABERTOS",RECORD MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/525
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" group-title="TWO BR ABERTOS",RECORD PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/526
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" group-title="TWO BR ABERTOS",RECORD RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/766
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" group-title="TWO BR ABERTOS",RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/527
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" group-title="TWO BR ABERTOS",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/529
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" group-title="TWO BR ABERTOS",RECORD SP INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/528
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" group-title="TWO BR ABERTOS",REDE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/531
+#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" group-title="TWO BR ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/532
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" group-title="TWO BR ABERTOS",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/534
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" group-title="TWO BR ABERTOS",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/540
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" group-title="TWO BR ABERTOS",SBT RJ UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/537
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" group-title="TWO BR ABERTOS",SBT SERRA DOURADA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/538
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 2 HD" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TWO BR ABERTOS",TV BRASIL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1101
+#EXTINF:-1 tvg-name="TV BRASIL 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TWO BR ABERTOS",TV BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1100
+#EXTINF:-1 tvg-name="TV CAMARA HD" group-title="TWO BR ABERTOS",TV CAMARA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1165
+#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA UHD" group-title="TWO BR ABERTOS",TV CULTURA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/547
+#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" group-title="TWO BR ABERTOS",TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/548
+#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="TWO BR ABERTOS",TV GAZETA  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/551
+#EXTINF:-1 tvg-name="TV Gazeta Vitoria ES 4K" tvg-logo="https://images.app.goo.gl/5CThNRXf4qrqwQzv6" group-title="TWO BR ABERTOS",TV Gazeta Vitoria ES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1089
+#EXTINF:-1 tvg-id="45b2a4dbd9c2837985683683d668e565" tvg-name="TV JUSTICA" group-title="TWO BR ABERTOS",TV JUSTICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/553
+#EXTINF:-1 tvg-name="TV MORENA 4K" group-title="TWO BR ABERTOS",TV MORENA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1099
+#EXTINF:-1 tvg-name="TV SANTA CRUZ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logotipo_TV_Santa_Cruz.png" group-title="TWO BR ABERTOS",TV SANTA CRUZ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1055
+#EXTINF:-1 tvg-name="TV SENADO HD" group-title="TWO BR ABERTOS",TV SENADO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1164
+#EXTINF:-1 tvg-id="ccc9131a347fd67a65ad45b2cad2f650" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TWO BR ABERTOS",TV TEM SAO JOSE DO RIO PRETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/983
+#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" group-title="TWO BR ABERTOS",TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/562
+#EXTINF:-1 tvg-id="bab8afec1121f433e170442e67a28718" tvg-name="TV TRIBUNA SANTOS" group-title="TWO BR ABERTOS",TV TRIBUNA SANTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/564
+#EXTINF:-1 tvg-id="41e59e63dd5e9830e7a35e2cf89d6992" tvg-name="TV VANGUARDA S. J. DOS CAMPOS" group-title="TWO BR ABERTOS",TV VANGUARDA S. J. DOS CAMPOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/565
+#EXTINF:-1 tvg-id="TV Verdes Mares - tvverdesmares" tvg-name="TV VERDES MARES FORTALEZA 4K" group-title="TWO BR ABERTOS",TV VERDES MARES FORTALEZA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/566
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="TWO BR INFANTIS",AGRO+ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/852
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" group-title="TWO BR INFANTIS",BAND NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/482
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" group-title="TWO BR INFANTIS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/432
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" group-title="TWO BR INFANTIS",CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/433
+#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" group-title="TWO BR INFANTIS",CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/436
+#EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" group-title="TWO BR INFANTIS",CNN INTERNACIONAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/438
+#EXTINF:-1 tvg-id="3c2effed104e917c89f95c827816efe0" tvg-name="CNT HD" group-title="TWO BR INFANTIS",CNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/444
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" group-title="TWO BR INFANTIS",GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/498
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" group-title="TWO BR INFANTIS",GLOBO NEWS DF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/445
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="TWO BR INFANTIS",JOVEM PAN NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/847
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="TWO BR INFANTIS",JOVEM PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/846
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK 4K" group-title="TWO BR INFANTIS",NHK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/449
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK HD" group-title="TWO BR INFANTIS",NHK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/450
+#EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" group-title="TWO BR INFANTIS",RAI ITALIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/428
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" group-title="TWO BR INFANTIS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/452
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" group-title="TWO BR INFANTIS",RECORD NEWS U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/451
+#EXTINF:-1 tvg-id="238c688748855e63046d6e54b0f9278f" tvg-name="TVE HD" group-title="TWO BR INFANTIS",TVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/455
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="TWO BR INFANTIS",BABY TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/767
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="TWO BR INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/342
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="TWO BR INFANTIS",CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/346
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="TWO BR INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/347
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="TWO BR INFANTIS",CARTOONITO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/344
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="TWO BR INFANTIS",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/345
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="TWO BR INFANTIS",DISCOVERY KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/348
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="TWO BR INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/349
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="TWO BR INFANTIS",DISNEY CHANNEL  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/351
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="TWO BR INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/352
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="TWO BR INFANTIS",GLOOB 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/357
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="TWO BR INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/358
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="TWO BR INFANTIS",GLOOBINHO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/359
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="TWO BR INFANTIS",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/360
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="TWO BR INFANTIS",NICK JR 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/363
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="TWO BR INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/364
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="TWO BR INFANTIS",NICKELODEON 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/365
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="TWO BR INFANTIS",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/768
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="TWO BR INFANTIS",TOONCAST 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/367
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="TWO BR INFANTIS",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/368
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="TWO BR INFANTIS",TV RA TIM BUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/369
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="TWO BR INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/557
+#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="http://185.53.90.49:41001/logos/zoomoo.png" group-title="TWO BR INFANTIS",ZOOMOO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/370
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" group-title="TWO BR ESPORTES",BAND SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/120
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" group-title="TWO BR ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/121
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" group-title="TWO BR ESPORTES",COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/122
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" group-title="TWO BR ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/123
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" group-title="TWO BR ESPORTES",ESPN  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/130
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" group-title="TWO BR ESPORTES",ESPN  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/131
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="TWO BR ESPORTES",ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/129
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="TWO BR ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/135
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="TWO BR ESPORTES",ESPN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/127
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="TWO BR ESPORTES",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/126
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="TWO BR ESPORTES",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/142
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="TWO BR ESPORTES",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/143
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HDR" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="TWO BR ESPORTES",ESPN 4 HDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/899
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 4K" group-title="TWO BR ESPORTES",ESPN 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/133
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" group-title="TWO BR ESPORTES",ESPN 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/134
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="ESPN 5 4K" group-title="TWO BR ESPORTES",ESPN 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/139
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="ESPN 5 HD" group-title="TWO BR ESPORTES",ESPN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/140
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE 1 4K" group-title="TWO BR ESPORTES",PREMIERE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/148
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 4K" group-title="TWO BR ESPORTES",PREMIERE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/149
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 HD" group-title="TWO BR ESPORTES",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/150
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 4K" group-title="TWO BR ESPORTES",PREMIERE 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/153
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 HD" group-title="TWO BR ESPORTES",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/152
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" group-title="TWO BR ESPORTES",PREMIERE 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/155
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 HD" group-title="TWO BR ESPORTES",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/154
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 4K" group-title="TWO BR ESPORTES",PREMIERE 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/157
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 HD" group-title="TWO BR ESPORTES",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/156
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 4K" group-title="TWO BR ESPORTES",PREMIERE 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/159
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 HD" group-title="TWO BR ESPORTES",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/158
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 4K" group-title="TWO BR ESPORTES",PREMIERE 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/161
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 HD" group-title="TWO BR ESPORTES",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/160
+#EXTINF:-1 tvg-id="5e16411ef98f27297132cd8064f0acaf" tvg-name="PREMIERE 8 HD" group-title="TWO BR ESPORTES",PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/162
+#EXTINF:-1 tvg-id="87652b56da39ead9ade0fcb2ee883ccb" tvg-name="PREMIERE 9 HD" group-title="TWO BR ESPORTES",PREMIERE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/163
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES 4K" group-title="TWO BR ESPORTES",PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/165
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" group-title="TWO BR ESPORTES",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/164
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4K" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="TWO BR ESPORTES",SPORTV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/183
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HDR" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="TWO BR ESPORTES",SPORTV 1 HDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/178
+#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 4K" tvg-logo="http://xplussport.com:8080/images/ee67489938d900ebacc1bddfd70c1622.png" group-title="TWO BR ESPORTES",SPORTV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/172
+#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="TWO BR ESPORTES",SPORTV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/175
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="AMAZON ESPORTES 1" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="TWO BR PPV",AMAZON ESPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1067
+#EXTINF:-1 tvg-name="AMAZON ESPORTES 2" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="TWO BR PPV",AMAZON ESPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1010
+#EXTINF:-1 tvg-name="AMAZON ESPORTES 3" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="TWO BR PPV",AMAZON ESPORTES 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1158
+#EXTINF:-1 tvg-name="AMAZON ESPORTES 4" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="TWO BR PPV",AMAZON ESPORTES 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1159
+#EXTINF:-1 tvg-name="CAZE TV" group-title="TWO BR PPV",CAZE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1145
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="TWO BR PPV",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/206
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="TWO BR PPV",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/821
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="TWO BR PPV",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/205
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="TWO BR PPV",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/822
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="TWO BR PPV",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/823
+#EXTINF:-1 tvg-name="DAZN 4 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="TWO BR PPV",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/824
+#EXTINF:-1 tvg-name="FURACÃO LIVE 4K " tvg-logo="https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg" group-title="TWO BR PPV",FURACÃO LIVE 4K 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/818
+#EXTINF:-1 tvg-name="HBO MAX 1 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="TWO BR PPV",HBO MAX 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/832
+#EXTINF:-1 tvg-name="HBO MAX 2 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="TWO BR PPV",HBO MAX 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/833
+#EXTINF:-1 tvg-name="HBO MAX 3 HD" tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="TWO BR PPV",HBO MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/834
+#EXTINF:-1 tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="TWO BR PPV",HBO MAX 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/835
+#EXTINF:-1 tvg-name="NBA 1 4K" group-title="TWO BR PPV",NBA 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1156
+#EXTINF:-1 tvg-name="NBA 2 4K" group-title="TWO BR PPV",NBA 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1157
+#EXTINF:-1 tvg-name="NFL 1" group-title="TWO BR PPV",NFL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1123
+#EXTINF:-1 tvg-name="NFL 2" group-title="TWO BR PPV",NFL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1124
+#EXTINF:-1 tvg-name="NFL 3" group-title="TWO BR PPV",NFL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1125
+#EXTINF:-1 tvg-name="NFL 4" group-title="TWO BR PPV",NFL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1126
+#EXTINF:-1 tvg-name="NFL 5" group-title="TWO BR PPV",NFL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1127
+#EXTINF:-1 tvg-name="NFL 6" group-title="TWO BR PPV",NFL 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1128
+#EXTINF:-1 tvg-name="NFL NETWORK USA" group-title="TWO BR PPV",NFL NETWORK USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1129
+#EXTINF:-1 tvg-name="NFL REDZONE USA" group-title="TWO BR PPV",NFL REDZONE USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1130
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 1" group-title="TWO BR PPV",NOSSO FUTEBOL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1131
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 2" group-title="TWO BR PPV",NOSSO FUTEBOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1132
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 3" group-title="TWO BR PPV",NOSSO FUTEBOL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1133
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 4" group-title="TWO BR PPV",NOSSO FUTEBOL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1134
+#EXTINF:-1 tvg-name="NSPORTS 1 HD" group-title="TWO BR PPV",NSPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1068
+#EXTINF:-1 tvg-name="NSPORTS 2 HD" group-title="TWO BR PPV",NSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1069
+#EXTINF:-1 tvg-name="PARAMOUNT+ 1 4K" group-title="TWO BR PPV",PARAMOUNT+ 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1151
+#EXTINF:-1 tvg-name="PARAMOUNT+ 2 4K" group-title="TWO BR PPV",PARAMOUNT+ 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1152
+#EXTINF:-1 tvg-name="PARAMOUNT+ 3 4K" group-title="TWO BR PPV",PARAMOUNT+ 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1153
+#EXTINF:-1 tvg-name="PARAMOUNT+ 4 4K" group-title="TWO BR PPV",PARAMOUNT+ 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1154
+#EXTINF:-1 tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="TWO BR PPV",STAR+ 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/829
+#EXTINF:-1 tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="TWO BR PPV",STAR+ 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/826
+#EXTINF:-1 tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="TWO BR PPV",STAR+ 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/827
+#EXTINF:-1 tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="TWO BR PPV",STAR+ 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/828
+#EXTINF:-1 tvg-name="STAR+ 5 HD" group-title="TWO BR PPV",STAR+ 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1147
+#EXTINF:-1 tvg-name="STAR+ 6 HD" group-title="TWO BR PPV",STAR+ 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1148
+#EXTINF:-1 tvg-name="STAR+ 7 HD" group-title="TWO BR PPV",STAR+ 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1149
+#EXTINF:-1 tvg-name="STAR+ 8 HD" group-title="TWO BR PPV",STAR+ 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1150
+#EXTINF:-1 tvg-name="UFC FIGHT PASS" group-title="TWO BR PPV",UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1121
+#EXTINF:-1 tvg-name="UFC PPV" group-title="TWO BR PPV",UFC PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1122
+#EXTINF:-1 tvg-name="GOAT TV 2 4K" group-title="TWO BR PPV",GOAT TV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1264
+#EXTINF:-1 tvg-name="GOAT TV 1 4K" group-title="TWO BR PPV",GOAT TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1263
+#EXTINF:-1 tvg-name="CAZE 1 4K" group-title="TWO BR PPV",CAZE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1265
+#EXTINF:-1 tvg-name="CAZE 2 4K" group-title="TWO BR PPV",CAZE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1266
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="TWO BR FILMES & SERIES",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/225
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" group-title="TWO BR FILMES & SERIES",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/228
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" group-title="TWO BR FILMES & SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/229
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="TWO BR FILMES & SERIES",ARTE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/231
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="TWO BR FILMES & SERIES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/232
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="TWO BR FILMES & SERIES",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/233
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" group-title="TWO BR FILMES & SERIES",CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/236
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" group-title="TWO BR FILMES & SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/237
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="TWO BR FILMES & SERIES",CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/239
+#EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="TWO BR FILMES & SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/240
+#EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAADLCAMAAAB04a46AAAAwFBMVEX////hGzIjHyDgDSrhEy3pbHflS1j98fP97vDfAB3rcXzhGDAfGhsgHB0bFhg2MzTQz9D3vMNaWFhMSUr29vYAAADqZ3RCQEB9e3wWEBH53N6WlJSlpKT+9vf61NnfABjgACHf39++vb0vKywMAANwbW7qeILnXWniJTvwoKfPzs7kMEbeAAD4z9Pzr7XfABFdW1vvi5bkPE7uhpL3wcjnUmL75efwmqLyqbHm5eVpZWeNi4uAfn+2tbXlP1PxnKWd2YmGAAAHQklEQVR4nO2Z/Veyvh+Hwc0HBB/QJKHQVUoUtxaiZHXf9v//V59tgIDV+Xa0zPM9r+uHDowNudj23nukKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4EepR7RdYLH/bW2k0GT0+Y/O3vbk4UXfQ9d2Sb0c7OXGdacRX+Z+flf8G8evhY6/3eKko0x7npasoQ3Hw2N1HXGcknDUajXgWEW1v9S80PFj8/nxgt9vtyVBR+vzAPr9XlJ44uLnfQ5z6T/mFdUD3Nf958W7HrghsIW5UKoYUb1cqrc4ePa6XY+1ssY85CdfrdfgubnyzeE96G/bgW8TpunzJZHuIjx3ecjT+WfHngezu8+nLhaJ0BpybA8TpZvfaPoP9KOKXE+7dHp6VS/cVZ/OkJI6iODkK9+jyo4hfiJFuXO6U7is+TnQbt5rmufLQ1D54Zv2TZT4t/0j8fZPvEK98Qfz5/vr+Kju5Kp4UxB/qsmC0ocRK3sFsV1wnGvMDn4wZ3ZZwuBYR5eLsjxT/w0vzJmqgauXM4BDx6XAo4lml0hsOh9eK8soLhq9XufjZJS+ZXpwpV397553z/lSucN1h/7zT6U//vROXfaUorsdYmFybl4c617JMJ45jZ/a20aS6vvCiyAsoWy3j2Az8MPLEO4tFqaigM99bOk7sOGaTke8RH7TbLbmWGW3b5sHtfLuOZ+JDXmXSO7u07bZhtAy7dSkGiW20Wi1e9eV5R5yli3hjlY50xSondXqznv/8UkY+YjW45kqV4WG2KIbHBpOJgZsXWPmIP0i8kmNcfLCcnQ35TDAeLyatrFbl+mKQnVQmLzvidJE+ZBraFKfU4br6Vvp9Z0O34sk6OFssyuK6XvYLt0ndQeKDQZq98KNPxVudCu/riS192/1WpWVPJnKGVAb3ZXGVls3caqnDSSTfi2PO50vZ83M9E0/X/9EiiJ2RqOWOHGdJ1GTKuMv53JQvs7EdQoeId7tXf6X561W3+/yZeKXF1/mLy9dKO+lzu/P676Iv29nTHXG2cIreT6WkWw9monRd81U1sEbiFaxoIl7nrvGbFzV9tVYLxD2coFbb8IEtjuNqoKr+SprOff1wcWUnqn8iXrFfxdWrc9nNRk/E8+epeA1G/6wortPbuHDvekT4k+ezkliiK01CRSGrCl/eUoqLcp8Swoc+pQ8yqj/wPTefO+KGIRNNSCDeVbw4nrjRL9Y1kr3LfaclKj8XxEsbFF7ss/LaSy3HcWZpZbJyRPjfii/H2xyvsI7TjRA3qVzIiBV5XnTEHp+k69Y/0eOtTnJyllS+ysVpMC/durFg1blkkzrxddr3k7FBZIZTEN/kuW1BPBnqynrFd7u6StIV/1jigzRXub7hndzuKXnlVkn8aefeMz95NjcbnSL/4uOZjTV/dSd0c/FZIRoUMzd2J28Rj9bVQGPFDOYYPV4Sf0lbyjoFcVp7d/M4TeS22adO9OA2Wjt1N1n2cvGnwmamKK6TbbR0Y97x9FvW8X3Ek0D+gbiWDfRGsxTiFGW7pum+tX1at9zjEflYXKXqvHC3WdU/4lD/mvg4zcnqlkY8t/ATThbX9SwJi0dLMwxLc9z7TJz3+epumXf7doU8GXGSls/5TCZh4Se2TrQpvOtrb7UJ9LH3RXHejvmrZmgmq567oicmruXi/FHzp1pnXaSr4rNUw6KE8plKviaebN14SKR+UJVjfs1OTDzdiyuuRZiaz/I8rdN9cW4+JO+BRMoXxOnK87xmIJrwnMcXs8kZn5h4uvDw07uneWGOO7V0bOqBOM0+yZC7r4gnN82i48PoFMXp6pOfGKVLUNrjcheua1Y5qpfERUrv/qE6T+TlNnZJ5LsjtKHk33RORlxXP3sSc6wn4jI2zwPGND9MxkQ4pu/Fk4XxbRHwTYov54zJkxfGVnKPk3X/yYjzDGb0yY/cJQsaTWN9Y9TIrriOx96Jy+kvrzKVVJPD+shJP+IdM1f/mrhKbmfFWzfW2Ytwo0S89N+GZRL/Iu2duB6kKYH4AqO9FXMCZZlFjIPFB+223c7EbcNoJ/9C4gedey4+MQwjz9X5SS4u63QL4irZ3G2/LLmmpVlZz7pV+bh085SVjCI/6ddQq7o74nxmJ2+wzkQw9/LX5YTBtt6B4v8eXzjXycljh9PjLlNx0Oc9/nrDD24y8XNx8jdt+SLrFHtc5Je1yHTchmNGK5/vKGq3Kek2heq1cD2bmeHtgscrazla3m1oICoEpR0sDVbNyGveyjjIT8L5bMRbWQuap/Qn9m9iSrTxw8NYIzKUU5Ki59eZNk62WXxryo+oKjZsu/9SlmUkWwcp07TxuLw5OzXx4wFxiB9fvMrI8Xn4ffH6k1U9Ptbsfz/ZT+PWf4PftgYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP9L/gPfz+DRyt26hQAAAABJRU5ErkJggg==" group-title="TWO BR FILMES & SERIES",FILM & ARTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/242
+#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" group-title="TWO BR FILMES & SERIES",FUTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/243
+#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" group-title="TWO BR FILMES & SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/244
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" group-title="TWO BR FILMES & SERIES",HBO + 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/246
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" group-title="TWO BR FILMES & SERIES",HBO + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/245
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" group-title="TWO BR FILMES & SERIES",HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/247
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" group-title="TWO BR FILMES & SERIES",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/248
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="TWO BR FILMES & SERIES",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/251
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" group-title="TWO BR FILMES & SERIES",HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/252
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" group-title="TWO BR FILMES & SERIES",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/253
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="TWO BR FILMES & SERIES",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/255
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="TWO BR FILMES & SERIES",HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/256
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="TWO BR FILMES & SERIES",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/257
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS 4K" group-title="TWO BR FILMES & SERIES",HBO PLUS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/258
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" group-title="TWO BR FILMES & SERIES",HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/259
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="TWO BR FILMES & SERIES",HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/260
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="TWO BR FILMES & SERIES",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/261
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="TWO BR FILMES & SERIES",HBO SIGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/264
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="TWO BR FILMES & SERIES",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/262
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="TWO BR FILMES & SERIES",HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/266
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="TWO BR FILMES & SERIES",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/267
+#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" group-title="TWO BR FILMES & SERIES",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/269
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="TWO BR FILMES & SERIES",MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/270
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="TWO BR FILMES & SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/271
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" group-title="TWO BR FILMES & SERIES",OFF 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/273
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" group-title="TWO BR FILMES & SERIES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/274
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" group-title="TWO BR FILMES & SERIES",PARAMOUNT CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/275
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" group-title="TWO BR FILMES & SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/276
+#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" group-title="TWO BR FILMES & SERIES",PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/277
+#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" group-title="TWO BR FILMES & SERIES",SONY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/238
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE 4K" group-title="TWO BR FILMES & SERIES",SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/278
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="TWO BR FILMES & SERIES",STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/281
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="TWO BR FILMES & SERIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/282
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" group-title="TWO BR FILMES & SERIES",STUDIO UNIVERSAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/289
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS 4K" group-title="TWO BR FILMES & SERIES",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/290
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" group-title="TWO BR FILMES & SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/291
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" group-title="TWO BR FILMES & SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/292
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" group-title="TWO BR FILMES & SERIES",TCM UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/293
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="TWO BR FILMES & SERIES",TELECINE ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/294
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="TWO BR FILMES & SERIES",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/295
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="TWO BR FILMES & SERIES",TELECINE CULT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/297
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="TWO BR FILMES & SERIES",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/298
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="TWO BR FILMES & SERIES",TELECINE FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/300
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="TWO BR FILMES & SERIES",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/301
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="TWO BR FILMES & SERIES",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/303
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="TWO BR FILMES & SERIES",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/304
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="TWO BR FILMES & SERIES",TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/306
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="TWO BR FILMES & SERIES",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/307
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="TWO BR FILMES & SERIES",TELECINE TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/309
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="TWO BR FILMES & SERIES",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/310
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="TWO BR FILMES & SERIES",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/312
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="TWO BR FILMES & SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/313
+#EXTINF:-1 tvg-name="TNT NOVELA 4K" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/05/tnt-novelas.png" group-title="TWO BR FILMES & SERIES",TNT NOVELA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1167
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="TWO BR FILMES & SERIES",TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/314
+#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" group-title="TWO BR FILMES & SERIES",TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/541
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="TWO BR FILMES & SERIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/319
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" group-title="TWO BR FILMES & SERIES",WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/783
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" group-title="TWO BR FILMES & SERIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/320
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" group-title="TWO BR VARIEDADES",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/99
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" group-title="TWO BR VARIEDADES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/98
+#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" group-title="TWO BR VARIEDADES",CURTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/100
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DOG TV HD " tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="TWO BR VARIEDADES",DOG TV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/879
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" group-title="TWO BR VARIEDADES",E! 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/101
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="TWO BR VARIEDADES",E! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/102
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="TWO BR VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/103
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="TWO BR VARIEDADES",FASHION TV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/878
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" group-title="TWO BR VARIEDADES",FOOD NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/104
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" group-title="TWO BR VARIEDADES",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/105
+#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="GLOBOSAT + UHD" group-title="TWO BR VARIEDADES",GLOBOSAT + UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/106
+#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="TWO BR VARIEDADES",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/107
+#EXTINF:-1 tvg-name="SABOR & ARTE HD " tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="TWO BR VARIEDADES",SABOR & ARTE HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/877
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" group-title="TWO BR VARIEDADES",VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/114
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" group-title="TWO BR VARIEDADES",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/117
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" group-title="TWO BR RELIGIOSO",CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/96
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA UHD" group-title="TWO BR RELIGIOSO",CANCAO NOVA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/97
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" group-title="TWO BR RELIGIOSO",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/556
+#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="TWO BR RELIGIOSO",PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/939
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://xplussport.com:8080/images/6c3e8a9085b35db0146aa1dd57d26b3b.png" group-title="TWO BR RELIGIOSO",REDE GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1052
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="REDE SUPER" tvg-logo="http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png" group-title="TWO BR RELIGIOSO",REDE SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1054
+#EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD" group-title="TWO BR RELIGIOSO",REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/113
+#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" group-title="TWO BR RELIGIOSO",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/542
+#EXTINF:-1 tvg-name="TV EVANGELIZAR HD " group-title="TWO BR RELIGIOSO",TV EVANGELIZAR HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1051
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="TV NOVO TEMPO" tvg-logo="http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png" group-title="TWO BR RELIGIOSO",TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://178.162.225.116:2082/Tourobox1-qUipDIHnWw/VFGRJ3iuGB/1053
