@@ -1,1 +1,443 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-name="CAZE TV 1¹" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 1¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601515
+#EXTINF:-1 tvg-name="CAZE TV 1²" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601516
+#EXTINF:-1 tvg-name="CAZE TV 2¹" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 2¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601517
+#EXTINF:-1 tvg-name="CAZE TV 2²" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601518
+#EXTINF:-1 tvg-name="CAZE TV 3²" tvg-logo="https://prostore.app/logos/cazetv1.png" group-title="CANAIS | ESPORTES PPV",CAZE TV 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601520
+#EXTINF:-1 tvg-name="ZAPPING SERIE C 01" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608549
+#EXTINF:-1 tvg-name="ZAPPING SERIE C 01¹" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 01¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/609784
+#EXTINF:-1 tvg-name="ZAPPING SERIE C 01³" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 01³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/609785
+#EXTINF:-1 tvg-name="ZAPPING SERIE C 02³" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 02³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/609786
+#EXTINF:-1 tvg-name="ZAPPING SERIE C 02" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608550
+#EXTINF:-1 tvg-name="ZAPPING SERIE C 03³" tvg-logo="http://www.fontedoscanais.com/logos/canais/zappingsports.png" group-title="CANAIS | ESPORTES PPV",ZAPPING SERIE C 03³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/609787
+#EXTINF:-1 tvg-name="HBO MAX 1¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 1¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/97351
+#EXTINF:-1 tvg-name="HBO MAX 1²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608181
+#EXTINF:-1 tvg-name="HBO MAX 2¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 2¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/97352
+#EXTINF:-1 tvg-name="HBO MAX 2²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608182
+#EXTINF:-1 tvg-name="HBO MAX 3¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 3¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/97353
+#EXTINF:-1 tvg-name="HBO MAX 3²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608183
+#EXTINF:-1 tvg-name="HBO MAX 4¹" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 4¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/97354
+#EXTINF:-1 tvg-name="HBO MAX 4²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 4²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608184
+#EXTINF:-1 tvg-name="HBO MAX 5²" tvg-logo="https://prostore.app/logos/hbomax.png" group-title="CANAIS | ESPORTES PPV",HBO MAX 5²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608185
+#EXTINF:-1 tvg-name="FURACAO TV¹" tvg-logo="https://prostore.app/logos/furacao.png" group-title="CANAIS | ESPORTES PPV",FURACAO TV¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/111349
+#EXTINF:-1 tvg-name="FURACAO TV²" tvg-logo="https://prostore.app/logos/furacao.png" group-title="CANAIS | ESPORTES PPV",FURACAO TV²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/113278
+#EXTINF:-1 tvg-id="golf.br" tvg-name="GOLF CHANNEL HD¹" tvg-logo="https://e7.pngegg.com/pngimages/90/727/png-clipart-golf-channel-on-nbc-logo-trademark-golf-player-game-trademark.png" group-title="CANAIS | ESPORTES PPV",GOLF CHANNEL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/111739
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 01¹" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129967
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 01²" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129968
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 02¹" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 02¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129970
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 02²" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 02²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129971
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 03¹" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 03¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129973
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 03²" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 03²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129974
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 04¹" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 04¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129976
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 04²" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 04²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/129977
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="PARAMOUNT+ 1¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 1¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131198
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="PARAMOUNT+ 1²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131199
+#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="PARAMOUNT+ 2¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 2¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131200
+#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="PARAMOUNT+ 2²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131201
+#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="PARAMOUNT+ 3¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 3¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131202
+#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="PARAMOUNT+ 3²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131203
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="PARAMOUNT+ 4¹" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 4¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131204
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="PARAMOUNT+ 4²" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="CANAIS | ESPORTES PPV",PARAMOUNT+ 4²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/131205
+#EXTINF:-1 tvg-name="ONEFOOTBALL 01" tvg-logo="https://prostore.app/logos/onefootebol.png" group-title="CANAIS | ESPORTES PPV",ONEFOOTBALL 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/141924
+#EXTINF:-1 tvg-name="ONEFOOTBALL 02" tvg-logo="https://prostore.app/logos/onefootebol.png" group-title="CANAIS | ESPORTES PPV",ONEFOOTBALL 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/141925
+#EXTINF:-1 tvg-name="ONEFOOTBALL 03²" tvg-logo="https://prostore.app/logos/onefootebol.png" group-title="CANAIS | ESPORTES PPV",ONEFOOTBALL 03²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/141926
+#EXTINF:-1 tvg-name="ONEFOOTBALL 04²" tvg-logo="https://prostore.app/logos/onefootebol.png" group-title="CANAIS | ESPORTES PPV",ONEFOOTBALL 04²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/141927
+#EXTINF:-1 tvg-name="APPLE TV 1" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466222
+#EXTINF:-1 tvg-name="APPLE TV 2" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466224
+#EXTINF:-1 tvg-name="APPLE TV 3" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466226
+#EXTINF:-1 tvg-name="APPLE TV 4" tvg-logo="https://prostore.app/logos/appletv.png" group-title="CANAIS | ESPORTES PPV",APPLE TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466227
+#EXTINF:-1 tvg-name="DAZN 1¹" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 1¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466228
+#EXTINF:-1 tvg-name="DAZN 1²" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466229
+#EXTINF:-1 tvg-name="DAZN 2¹" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 2¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466230
+#EXTINF:-1 tvg-name="DAZN 2²" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466231
+#EXTINF:-1 tvg-name="DAZN 3¹" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 3¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466232
+#EXTINF:-1 tvg-name="DAZN 3²" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466233
+#EXTINF:-1 tvg-name="DAZN 4¹" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 4¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466234
+#EXTINF:-1 tvg-name="DAZN 4²" tvg-logo="https://prostore.app/logos/Danz.png" group-title="CANAIS | ESPORTES PPV",DAZN 4²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/466235
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 01²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Elevensports.png/593px-Elevensports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 01²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/469449
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 02²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Elevensports.png/593px-Elevensports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 02²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/469450
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 03²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Elevensports.png/593px-Elevensports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 03²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/469451
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 04²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Elevensports.png/593px-Elevensports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 04²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/469452
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 05²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Elevensports.png/593px-Elevensports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 05²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/469453
+#EXTINF:-1 tvg-name="CANAL GOAT 1²" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | ESPORTES PPV",CANAL GOAT 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601511
+#EXTINF:-1 tvg-name="CANAL GOAT 2²" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | ESPORTES PPV",CANAL GOAT 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601512
+#EXTINF:-1 tvg-name="CANAL GOAT 3²" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | ESPORTES PPV",CANAL GOAT 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601513
+#EXTINF:-1 tvg-name="STAR+ 1¹" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 1¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601524
+#EXTINF:-1 tvg-name="STAR+ 1²" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601525
+#EXTINF:-1 tvg-name="STAR+ 2¹" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 2¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601526
+#EXTINF:-1 tvg-name="STAR+ 2²" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601527
+#EXTINF:-1 tvg-name="STAR+ 3¹" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 3¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601528
+#EXTINF:-1 tvg-name="STAR+ 3²" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601529
+#EXTINF:-1 tvg-name="STAR+ 4¹" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 4¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601530
+#EXTINF:-1 tvg-name="STAR+ 4²" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 4²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601531
+#EXTINF:-1 tvg-name="STAR+ 5¹" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 5¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601532
+#EXTINF:-1 tvg-name="STAR+ 5²" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 5²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601533
+#EXTINF:-1 tvg-name="STAR+ 6¹" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 6¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601534
+#EXTINF:-1 tvg-name="STAR+ 6²" tvg-logo="https://images2.imgbox.com/c0/9b/Yhc7NgSV_o.png" group-title="CANAIS | ESPORTES PPV",STAR+ 6²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601535
+
+
+
+
+
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD¹" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602671
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD²" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602672
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD¹" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601538
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD²" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/601539
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD¹" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602673
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD²" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602674
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD H265¹" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="CANAIS | ESPORTE",ESPN FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608172
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602677
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD²" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602678
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602679
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD²" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602680
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602681
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD²" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602682
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H265¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608173
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 SD¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602683
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 SD²" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602684
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602685
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD²" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602686
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 FHD¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602687
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 FHD²" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602688
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 FHD H265¹" tvg-logo="https://images2.imgbox.com/5a/90/VuKcjdBl_o.png" group-title="CANAIS | ESPORTE",ESPN 3 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608174
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602689
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD²" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602690
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602691
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD²" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602692
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602693
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/602694
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD H265¹" tvg-logo="https://images2.imgbox.com/af/84/VMRDO4s8_o.png" group-title="CANAIS | ESPORTE",ESPN 4 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608175
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 SD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608158
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 SD²" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608159
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608160
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD²" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608161
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608162
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD²" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608163
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD H265" tvg-logo="https://static.b2pteam.com/logos/esportes/foxsports2.png" group-title="CANAIS | ESPORTE",ESPN 5 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608164
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 SD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608165
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 SD²" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608166
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 HD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608167
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 HD²" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608168
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608169
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD²" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608170
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD H265¹" tvg-logo="https://static.b2pteam.com/logos/esportes/espnextra.png" group-title="CANAIS | ESPORTE",ESPN 6 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608171
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608049
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608050
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608055
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608051
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608052
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608053
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265¹" tvg-logo="https://prostore.app/logos/Combate.png" group-title="CANAIS | ESPORTE",COMBATE FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608054
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD¹" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608056
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608057
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608058
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608059
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD¹" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608060
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608061
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H265¹" tvg-logo="https://prostore.app/logos/bandsports.png" group-title="CANAIS | ESPORTE",BAND SPORTS FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608062
+#EXTINF:-1 tvg-name="UFC FIGGT PASS 01¹" tvg-logo="https://images2.imgbox.com/3a/7a/E7ZSNlMB_o.png" group-title="CANAIS | ESPORTE",UFC FIGGT PASS 01¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608132
+#EXTINF:-1 tvg-name="UFC FIGGT PASS 01²" tvg-logo="https://images2.imgbox.com/3a/7a/E7ZSNlMB_o.png" group-title="CANAIS | ESPORTE",UFC FIGGT PASS 01²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608133
+#EXTINF:-1 tvg-name="UFC FIGGT PASS 02¹" tvg-logo="https://images2.imgbox.com/3a/7a/E7ZSNlMB_o.png" group-title="CANAIS | ESPORTE",UFC FIGGT PASS 02¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608134
+#EXTINF:-1 tvg-name="UFC FIGGT PASS 02²" tvg-logo="https://images2.imgbox.com/3a/7a/E7ZSNlMB_o.png" group-title="CANAIS | ESPORTE",UFC FIGGT PASS 02²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608135
+#EXTINF:-1 tvg-name="UFC FIGGT PASS 03¹" tvg-logo="https://images2.imgbox.com/3a/7a/E7ZSNlMB_o.png" group-title="CANAIS | ESPORTE",UFC FIGGT PASS 03¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608136
+#EXTINF:-1 tvg-name="UFC FIGGT PASS 03²" tvg-logo="https://images2.imgbox.com/3a/7a/E7ZSNlMB_o.png" group-title="CANAIS | ESPORTE",UFC FIGGT PASS 03²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608137
+
+
+
+
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD¹" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608028
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608029
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608030
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608031
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD¹" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608032
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD²" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608033
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H265¹" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608034
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608035
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608036
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608037
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608038
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608039
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608040
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H265¹" tvg-logo="https://prostore.app/logos/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608041
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608042
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608043
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608044
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608045
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD¹" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608046
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608047
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H265¹" tvg-logo="https://prostore.app/logos/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608048
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="premiere.fc.br" tvg-name="PREMIERE MOSAICO" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608075
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608076
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608077
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608078
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608079
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608080
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608081
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608082
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608083
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608084
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608085
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608086
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608087
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608088
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD H265¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608089
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608090
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608091
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608092
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608093
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608094
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608095
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD H265¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608096
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608097
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608098
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608099
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608100
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608101
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608102
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD H265¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608103
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608104
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608105
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608106
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608107
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608108
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608109
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD H265¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608110
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608117
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608118
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608119
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608120
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608121
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608122
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD H265¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608123
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608124
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608125
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608126
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608127
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608128
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD²" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608129
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD H265¹" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608130
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://51.79.39.236:80/jwgfzyle/je118881/608131
+
+
+
+
+
 
