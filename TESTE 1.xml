@@ -2,6 +2,36 @@
 
 
 
+
+#EXTINF:-1 tvg-name="CAMERA 11" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403530
+#EXTINF:-1 tvg-name="CAMERA 10" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403529
+#EXTINF:-1 tvg-name="CAMERA 9" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403528
+#EXTINF:-1 tvg-name="CAMERA 8" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403527
+#EXTINF:-1 tvg-name="CAMERA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403526
+#EXTINF:-1 tvg-name="CAMERA 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403525
+#EXTINF:-1 tvg-name="CAMERA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403524
+#EXTINF:-1 tvg-name="CAMERA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403523
+#EXTINF:-1 tvg-name="CAMERA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403522
+#EXTINF:-1 tvg-name="CAMERA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403521
+#EXTINF:-1 tvg-name="CAMERA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/70/Estrela_da_Casa_-_Globo.jpg/800px-Estrela_da_Casa_-_Globo.jpg" group-title="TWO BR CANAIS | ESTRELA DA CASA ",CAMERA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://meumd.com:80/05183314248/fe5nasUk/27403520
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Agro+" tvg-name="AGRO+ FHD" group-title="TWO BR ABERTOS",AGRO+ FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/962081239/567243977/6.ts
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="TWO BR ABERTOS",CANAL BRASIL FHD
