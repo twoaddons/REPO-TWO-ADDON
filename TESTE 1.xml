@@ -2,18 +2,17 @@
 
 
 
-
-
 #EXTINF:-1 tvg-name="A FAZENDA PRINCIPAL" tvg-logo="http://69.197.159.50:80/images/a51e55904bd57504f628c1b219a96e06.jpg" group-title="TWO BR REALITY A FAZENDA 16",A FAZENDA PRINCIPAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://http://cdn.pthdtv.top:80/962081239/567243977/3782364
+http://cdn.pthdtv.top:80/962081239/567243977/3782364
 #EXTINF:-1 tvg-name="A FAZENDA 2" tvg-logo="http://69.197.159.50:80/images/a51e55904bd57504f628c1b219a96e06.jpg" group-title="TWO BR REALITY A FAZENDA 16",A FAZENDA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://http://cdn.pthdtv.top:80/962081239/567243977/3782365
+http://cdn.pthdtv.top:80/962081239/567243977/3782365
 #EXTINF:-1 tvg-name="A FAZENDA 3" tvg-logo="http://69.197.159.50:80/images/a51e55904bd57504f628c1b219a96e06.jpg" group-title="TWO BR REALITY A FAZENDA 16",A FAZENDA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://http://cdn.pthdtv.top:80/962081239/567243977/3782366
+http://cdn.pthdtv.top:80/962081239/567243977/3782366
 #EXTINF:-1 tvg-name="A FAZENDA 4" tvg-logo="http://69.197.159.50:80/images/a51e55904bd57504f628c1b219a96e06.jpg" group-title="TWO BR REALITY A FAZENDA 16",A FAZENDA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://http://cdn.pthdtv.top:80/962081239/567243977/3782367
+http://cdn.pthdtv.top:80/962081239/567243977/3782367
 #EXTINF:-1 tvg-name="A FAZENDA 5" tvg-logo="http://69.197.159.50:80/images/a51e55904bd57504f628c1b219a96e06.jpg" group-title="TWO BR REALITY A FAZENDA 16",A FAZENDA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://http://cdn.pthdtv.top:80/962081239/567243977/3782368
+http://cdn.pthdtv.top:80/962081239/567243977/3782368
+
 
 
 
