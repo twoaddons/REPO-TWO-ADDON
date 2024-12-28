@@ -1,66 +1,67 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="ARATUHD" tvg-name="TWO BR ARATU HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT ARATU HD
+
+#EXTINF:-1 tvg-id="ARATUHD" tvg-name="TWO BR ARATU HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT ARATU HD
 http://cdn.pthdtv.top:80/962081239/567243977/173157
-#EXTINF:-1 tvg-name="TWO BR BAHIA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT BAHIA FHD
+#EXTINF:-1 tvg-name="TWO BR BAHIA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT BAHIA FHD
 http://cdn.pthdtv.top:80/962081239/567243977/173158
-#EXTINF:-1 tvg-id="TWO BR" tvg-name="TWO BR BAHIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT BAHIA HD
+#EXTINF:-1 tvg-id="TWO BR" tvg-name="TWO BR BAHIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT BAHIA HD
 http://cdn.pthdtv.top:80/962081239/567243977/778
-#EXTINF:-1 tvg-id="TWO BR HD" tvg-name="TWO BR BRASILIA" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT BRASILIA
+#EXTINF:-1 tvg-id="TWO BR HD" tvg-name="TWO BR BRASILIA" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT BRASILIA
 http://cdn.pthdtv.top:80/962081239/567243977/779
-#EXTINF:-1 tvg-name="TWO BR DF BRASILIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT DF BRASILIA HD
+#EXTINF:-1 tvg-name="TWO BR DF BRASILIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT DF BRASILIA HD
 http://cdn.pthdtv.top:80/962081239/567243977/173159
-#EXTINF:-1 tvg-name="TWO BR GO SERRA DOURADA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT GO SERRA DOURADA HD
+#EXTINF:-1 tvg-name="TWO BR GO SERRA DOURADA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT GO SERRA DOURADA HD
 http://cdn.pthdtv.top:80/962081239/567243977/173160
-#EXTINF:-1 tvg-name="TWO BR JANGADEIRO CEARA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT JANGADEIRO CEARA FHD
+#EXTINF:-1 tvg-name="TWO BR JANGADEIRO CEARA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT JANGADEIRO CEARA FHD
 http://cdn.pthdtv.top:80/962081239/567243977/173161
-#EXTINF:-1 tvg-name="TWO BR JORNAL PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT JORNAL PE HD
+#EXTINF:-1 tvg-name="TWO BR JORNAL PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT JORNAL PE HD
 http://cdn.pthdtv.top:80/962081239/567243977/173176
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="TWO BR PARANA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT PARANA HD
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="TWO BR PARANA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT PARANA HD
 http://cdn.pthdtv.top:80/962081239/567243977/173162
-#EXTINF:-1 tvg-id="TWO BR FHD [Alter]" tvg-name="TWO BR PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT PE HD
+#EXTINF:-1 tvg-id="TWO BR FHD [Alter]" tvg-name="TWO BR PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT PE HD
 http://cdn.pthdtv.top:80/962081239/567243977/781
-#EXTINF:-1 tvg-name="TWO BR PI FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT PI FHD
+#EXTINF:-1 tvg-name="TWO BR PI FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT PI FHD
 http://cdn.pthdtv.top:80/962081239/567243977/173163
-#EXTINF:-1 tvg-name="TWO BR PI HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT PI HD
+#EXTINF:-1 tvg-name="TWO BR PI HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT PI HD
 http://cdn.pthdtv.top:80/962081239/567243977/173164
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TWO BR RJ FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT RJ FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TWO BR RJ FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT RJ FHD
 http://cdn.pthdtv.top:80/962081239/567243977/173166
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TWO BR RJ HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT RJ HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TWO BR RJ HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT RJ HD
 http://cdn.pthdtv.top:80/962081239/567243977/783
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="TWO BR RJ SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT RJ SD
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="TWO BR RJ SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT RJ SD
 http://cdn.pthdtv.top:80/962081239/567243977/173169
-#EXTINF:-1 tvg-name="TWO BR RN FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT RN FHD
+#EXTINF:-1 tvg-name="TWO BR RN FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT RN FHD
 http://cdn.pthdtv.top:80/962081239/567243977/173170
-#EXTINF:-1 tvg-id="ZYB618" tvg-name="TWO BR RS FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT RS FHD
+#EXTINF:-1 tvg-id="ZYB618" tvg-name="TWO BR RS FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT RS FHD
 http://cdn.pthdtv.top:80/962081239/567243977/784
-#EXTINF:-1 tvg-id="TWO BRrs.br" tvg-name="TWO BR RS HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT RS HD
+#EXTINF:-1 tvg-id="TWO BRrs.br" tvg-name="TWO BR RS HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT RS HD
 http://cdn.pthdtv.top:80/962081239/567243977/173171
-#EXTINF:-1 tvg-name="TWO BR SCC FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT SCC FHD
+#EXTINF:-1 tvg-name="TWO BR SCC FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT SCC FHD
 http://cdn.pthdtv.top:80/962081239/567243977/1387569
-#EXTINF:-1 tvg-id="TWO BRsp.br" tvg-name="TWO BR SP 4K" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT SP 4K
+#EXTINF:-1 tvg-id="TWO BRsp.br" tvg-name="TWO BR SP 4K" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT SP 4K
 http://cdn.pthdtv.top:80/962081239/567243977/369728
-#EXTINF:-1 tvg-id="TWO BR SD" tvg-name="TWO BR SP 4K²" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT SP 4K²
+#EXTINF:-1 tvg-id="TWO BR SD" tvg-name="TWO BR SP 4K²" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT SP 4K²
 http://cdn.pthdtv.top:80/962081239/567243977/4137013
-#EXTINF:-1 tvg-id="TWO BR HD" tvg-name="TWO BR SP FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT SP FHD
+#EXTINF:-1 tvg-id="TWO BR HD" tvg-name="TWO BR SP FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT SP FHD
 http://cdn.pthdtv.top:80/962081239/567243977/171879
-#EXTINF:-1 tvg-id="TWO BRsp.br" tvg-name="TWO BR SP H265" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT SP H265
+#EXTINF:-1 tvg-id="TWO BRsp.br" tvg-name="TWO BR SP H265" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT SP H265
 http://cdn.pthdtv.top:80/962081239/567243977/4137012
-#EXTINF:-1 tvg-id="TWO BR 4K" tvg-name="TWO BR SP HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT SP HD
+#EXTINF:-1 tvg-id="TWO BR 4K" tvg-name="TWO BR SP HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT SP HD
 http://cdn.pthdtv.top:80/962081239/567243977/173174
-#EXTINF:-1 tvg-id="TWO BR HD" tvg-name="TWO BR SP SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT SP SD
+#EXTINF:-1 tvg-id="TWO BR HD" tvg-name="TWO BR SP SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT SP SD
 http://cdn.pthdtv.top:80/962081239/567243977/785
-#EXTINF:-1 tvg-id="redemassa.br" tvg-name="TWO BR TRIBUNA REDE MASSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT TRIBUNA REDE MASSA FHD
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="TWO BR TRIBUNA REDE MASSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT TRIBUNA REDE MASSA FHD
 http://cdn.pthdtv.top:80/962081239/567243977/1387205
-#EXTINF:-1 tvg-id="redemassa.br" tvg-name="TWO BR TRIBUNA REDE MASSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT TRIBUNA REDE MASSA HD
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="TWO BR TRIBUNA REDE MASSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT TRIBUNA REDE MASSA HD
 http://cdn.pthdtv.top:80/962081239/567243977/173165
-#EXTINF:-1 tvg-name="TWO BR TV ALTEROSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT TV ALTEROSA FHD
+#EXTINF:-1 tvg-name="TWO BR TV ALTEROSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT TV ALTEROSA FHD
 http://cdn.pthdtv.top:80/962081239/567243977/1387204
-#EXTINF:-1 tvg-name="TWO BR TV ALTEROSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT TV ALTEROSA HD
+#EXTINF:-1 tvg-name="TWO BR TV ALTEROSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT TV ALTEROSA HD
 http://cdn.pthdtv.top:80/962081239/567243977/947206
-#EXTINF:-1 tvg-id="TWO BR.br" tvg-name="TWO BR TV DIFUSORA MARANHÃO HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR",SBT TV DIFUSORA MARANHÃO HD
-http://cdn.pthdtv.top:80/962081239/567243977/173172
+#EXTINF:-1 tvg-id="TWO BR.br" tvg-name="TWO BR TV DIFUSORA MARANHÃO HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT TV DIFUSORA MARANHÃO HD
+
 
 
 
