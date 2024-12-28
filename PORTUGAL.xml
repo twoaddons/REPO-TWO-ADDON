@@ -1,212 +1,202 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PT1: CAÇAVISION" group-title="TWO BR | PORTUGAL",PT1: CAÇAVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130220
-#EXTINF:-1 tvg-name="PT1: CBS REALITY" group-title="TWO BR | PORTUGAL",PT1: CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130222
-#EXTINF:-1 tvg-name="PT1: CINEMUNDO SD" group-title="TWO BR | PORTUGAL",PT1: CINEMUNDO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130226
-#EXTINF:-1 tvg-name="PT1: CMTV HD" group-title="TWO BR | PORTUGAL",PT1: CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130228
-#EXTINF:-1 tvg-name="PT1: CMTV SD" group-title="TWO BR | PORTUGAL",PT1: CMTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130229
-#EXTINF:-1 tvg-name="PT1: CRIME INVESTIGATION" group-title="TWO BR | PORTUGAL",PT1: CRIME INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130233
-#EXTINF:-1 tvg-name="PT1: ELEVEN SPORTS 6²" group-title="TWO BR | PORTUGAL",PT1: ELEVEN SPORTS 6²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130259
-#EXTINF:-1 tvg-name="PT1: FOX CRIME HD" group-title="TWO BR | PORTUGAL",PT1: FOX CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130278
-#EXTINF:-1 tvg-name="PT1: FOX HD" group-title="TWO BR | PORTUGAL",PT1: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130281
-#EXTINF:-1 tvg-name="PT1: FOX LIFE HD" group-title="TWO BR | PORTUGAL",PT1: FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130284
-#EXTINF:-1 tvg-name="PT1: FOX LIFE SD" group-title="TWO BR | PORTUGAL",PT1: FOX LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130285
-#EXTINF:-1 tvg-name="PT1: FOX MOVIES HD" group-title="TWO BR | PORTUGAL",PT1: FOX MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130288
-#EXTINF:-1 tvg-name="PT1: FOX MOVIES SD" group-title="TWO BR | PORTUGAL",PT1: FOX MOVIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130289
-#EXTINF:-1 tvg-name="PT1: FOX SD" group-title="TWO BR | PORTUGAL",PT1: FOX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130290
-#EXTINF:-1 tvg-name="PT1: FUEL TV" group-title="TWO BR | PORTUGAL",PT1: FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130293
-#EXTINF:-1 tvg-name="PT1: GLOBO" group-title="TWO BR | PORTUGAL",PT1: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130295
-#EXTINF:-1 tvg-name="PT1: GLOBO NOW" group-title="TWO BR | PORTUGAL",PT1: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130298
-#EXTINF:-1 tvg-name="PT1: HOLLYWOOD HD" group-title="TWO BR | PORTUGAL",PT1: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130301
-#EXTINF:-1 tvg-name="PT1: HOLLYWOOD SD" group-title="TWO BR | PORTUGAL",PT1: HOLLYWOOD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130302
-#EXTINF:-1 tvg-name="PT1: JIMJAM" group-title="TWO BR | PORTUGAL",PT1: JIMJAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130306
-#EXTINF:-1 tvg-name="PT1: MOTORVISION TV" group-title="TWO BR | PORTUGAL",PT1: MOTORVISION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130313
-#EXTINF:-1 tvg-name="PT1: MTV PORTUGAL" group-title="TWO BR | PORTUGAL",PT1: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130315
-#EXTINF:-1 tvg-name="PT1: NAT GEO WILD" group-title="TWO BR | PORTUGAL",PT1: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130317
-#EXTINF:-1 tvg-name="PT1: NICKELODEON" group-title="TWO BR | PORTUGAL",PT1: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130323
-#EXTINF:-1 tvg-name="PT1: NICKELODEON JUNIOR" group-title="TWO BR | PORTUGAL",PT1: NICKELODEON JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130324
-#EXTINF:-1 tvg-name="PT1: NOS STUDIOS HD" group-title="TWO BR | PORTUGAL",PT1: NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130326
-#EXTINF:-1 tvg-name="PT1: ODISSEIA" group-title="TWO BR | PORTUGAL",PT1: ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130328
-#EXTINF:-1 tvg-name="PT1: PANDA BIGS" group-title="TWO BR | PORTUGAL",PT1: PANDA BIGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130329
-#EXTINF:-1 tvg-name="PT1: PORTO CANAL" group-title="TWO BR | PORTUGAL",PT1: PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130333
-#EXTINF:-1 tvg-name="PT1: RTP 1 SD" group-title="TWO BR | PORTUGAL",PT1: RTP 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130337
-#EXTINF:-1 tvg-name="PT1: RTP 2 HD" group-title="TWO BR | PORTUGAL",PT1: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130340
-#EXTINF:-1 tvg-name="PT1: RTP 2 SD" group-title="TWO BR | PORTUGAL",PT1: RTP 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130341
-#EXTINF:-1 tvg-name="PT1: RTP 3" group-title="TWO BR | PORTUGAL",PT1: RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130343
-#EXTINF:-1 tvg-name="PT1: RTP AFRICA" group-title="TWO BR | PORTUGAL",PT1: RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130346
-#EXTINF:-1 tvg-name="PT1: RTP MADEIRA" group-title="TWO BR | PORTUGAL",PT1: RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130349
-#EXTINF:-1 tvg-name="PT1: SIC K" group-title="TWO BR | PORTUGAL",PT1: SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130356
-#EXTINF:-1 tvg-name="PT1: TPA INTERNACIONAL" group-title="TWO BR | PORTUGAL",PT1: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130394
-#EXTINF:-1 tvg-name="PT1: TRACE TOCA" group-title="TWO BR | PORTUGAL",PT1: TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130396
-#EXTINF:-1 tvg-name="PT1: TRACE URBAN" group-title="TWO BR | PORTUGAL",PT1: TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130398
-#EXTINF:-1 tvg-name="PT1: TRAVEL CHANNEL HD" group-title="TWO BR | PORTUGAL",PT1: TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130400
-#EXTINF:-1 tvg-name="PT1: TV RECORD" group-title="TWO BR | PORTUGAL",PT1: TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130402
-#EXTINF:-1 tvg-name="PT1: TVCine EDITION HD" group-title="TWO BR | PORTUGAL",PT1: TVCine EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130410
-#EXTINF:-1 tvg-name="PT1: TVCINE EDITION SD" group-title="TWO BR | PORTUGAL",PT1: TVCINE EDITION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130411
-#EXTINF:-1 tvg-name="PT1: TVCine EMOTION HD" group-title="TWO BR | PORTUGAL",PT1: TVCine EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130414
-#EXTINF:-1 tvg-name="PT1: TVCINE EMOTION SD" group-title="TWO BR | PORTUGAL",PT1: TVCINE EMOTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130415
-#EXTINF:-1 tvg-name="PT1: TVCine TOP HD" group-title="TWO BR | PORTUGAL",PT1: TVCine TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130418
-#EXTINF:-1 tvg-name="PT1: TVCINE TOP SD" group-title="TWO BR | PORTUGAL",PT1: TVCINE TOP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130419
-#EXTINF:-1 tvg-name="PT1: TVI FICÇAO" group-title="TWO BR | PORTUGAL",PT1: TVI FICÇAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130424
-#EXTINF:-1 tvg-name="PT1: TVI HD" group-title="TWO BR | PORTUGAL",PT1: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130426
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 1" group-title="TWO BR | PORTUGAL",PT1: TVI Reality Camara 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130428
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 2" group-title="TWO BR | PORTUGAL",PT1: TVI Reality Camara 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130429
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 4" group-title="TWO BR | PORTUGAL",PT1: TVI Reality Camara 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130431
-#EXTINF:-1 tvg-name="PT1: TVI REALITY HD" group-title="TWO BR | PORTUGAL",PT1: TVI REALITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130433
-#EXTINF:-1 tvg-name="PT1: TVI REALITY SD" group-title="TWO BR | PORTUGAL",PT1: TVI REALITY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130434
-#EXTINF:-1 tvg-name="PT1: TVI SD" group-title="TWO BR | PORTUGAL",PT1: TVI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130435
-#EXTINF:-1 tvg-name="PT1: VH1 MUSIC" group-title="TWO BR | PORTUGAL",PT1: VH1 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130438
-#EXTINF:-1 tvg-name="PT: CINEMUNDO" group-title="TWO BR | PORTUGAL",PT: CINEMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130223
-#EXTINF:-1 tvg-name="PT: CINEMUNDO FHD" group-title="TWO BR | PORTUGAL",PT: CINEMUNDO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130224
-#EXTINF:-1 tvg-name="PT: CNBC EUROPE" group-title="TWO BR | PORTUGAL",PT: CNBC EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130230
-#EXTINF:-1 tvg-name="PT: CNN Portugal FHD" group-title="TWO BR | PORTUGAL",PT: CNN Portugal FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130231
-#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" group-title="TWO BR | PORTUGAL",PT: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130236
-#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" group-title="TWO BR | PORTUGAL",PT: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130237
-#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR¹" group-title="TWO BR | PORTUGAL",PT: DISNEY JUNIOR¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130239
-#EXTINF:-1 tvg-name="PT: DOG TV HD" group-title="TWO BR | PORTUGAL",PT: DOG TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130241
-#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" group-title="TWO BR | PORTUGAL",PT: E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130243
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 3²" group-title="TWO BR | PORTUGAL",PT: ELEVEN SPORTS 3²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130251
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4²" group-title="TWO BR | PORTUGAL",PT: ELEVEN SPORTS 4²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130254
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5²" group-title="TWO BR | PORTUGAL",PT: ELEVEN SPORTS 5²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130256
-#EXTINF:-1 tvg-name="PT: FOX CRIME" group-title="TWO BR | PORTUGAL",PT: FOX CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130276
-#EXTINF:-1 tvg-name="PT: FOX CRIME FHD" group-title="TWO BR | PORTUGAL",PT: FOX CRIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130277
-#EXTINF:-1 tvg-name="PT: FOX FHD" group-title="TWO BR | PORTUGAL",PT: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130280
-#EXTINF:-1 tvg-name="PT: FOX LIFE FHD" group-title="TWO BR | PORTUGAL",PT: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130283
-#EXTINF:-1 tvg-name="PT: FOX MOVIES FHD" group-title="TWO BR | PORTUGAL",PT: FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130287
-#EXTINF:-1 tvg-name="PT: GLOBO" group-title="TWO BR | PORTUGAL",PT: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130294
-#EXTINF:-1 tvg-name="PT: Globo Backup 2" group-title="TWO BR | PORTUGAL",PT: Globo Backup 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130296
-#EXTINF:-1 tvg-name="PT: GLOBO NOW" group-title="TWO BR | PORTUGAL",PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130297
-#EXTINF:-1 tvg-name="PT: HISTORIA" group-title="TWO BR | PORTUGAL",PT: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130299
-#EXTINF:-1 tvg-name="PT: HOLLYWOOD FHD" group-title="TWO BR | PORTUGAL",PT: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130300
-#EXTINF:-1 tvg-name="PT: ID INVESTIGATION DISCOVERY" group-title="TWO BR | PORTUGAL",PT: ID INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130303
-#EXTINF:-1 tvg-name="PT: JIM JAM" group-title="TWO BR | PORTUGAL",PT: JIM JAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130305
-#EXTINF:-1 tvg-name="PT: MEZZO" group-title="TWO BR | PORTUGAL",PT: MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130309
-#EXTINF:-1 tvg-name="PT: MOTORVISION" group-title="TWO BR | PORTUGAL",PT: MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130311
-#EXTINF:-1 tvg-name="PT: MOTORVISION FHD" group-title="TWO BR | PORTUGAL",PT: MOTORVISION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130312
-#EXTINF:-1 tvg-name="PT: MTV PORTUGAL" group-title="TWO BR | PORTUGAL",PT: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130314
-#EXTINF:-1 tvg-name="PT: NAT GEO WILD" group-title="TWO BR | PORTUGAL",PT: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130316
-#EXTINF:-1 tvg-name="PT: NICKELODEON" group-title="TWO BR | PORTUGAL",PT: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130322
-#EXTINF:-1 tvg-name="PT: NOS STUDIOS FHD" group-title="TWO BR | PORTUGAL",PT: NOS STUDIOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130325
-#EXTINF:-1 tvg-name="PT: ODISSEIA" group-title="TWO BR | PORTUGAL",PT: ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130327
-#EXTINF:-1 tvg-name="PT: PFC" group-title="TWO BR | PORTUGAL",PT: PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130330
-#EXTINF:-1 tvg-name="PT: RTP 1 FHD" group-title="TWO BR | PORTUGAL",PT: RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130335
-#EXTINF:-1 tvg-name="PT: RTP 2 HD" group-title="TWO BR | PORTUGAL",PT: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130339
-#EXTINF:-1 tvg-name="PT: RTP MEMORIA" group-title="TWO BR | PORTUGAL",PT: RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130350
-#EXTINF:-1 tvg-name="PT: SIC NOTICIAS HD" group-title="TWO BR | PORTUGAL",PT: SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130358
-#EXTINF:-1 tvg-name="PT: SYFY FHD" group-title="TWO BR | PORTUGAL",PT: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130390
-#EXTINF:-1 tvg-name="PT: TPA INTERNACIONAL" group-title="TWO BR | PORTUGAL",PT: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130393
-#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL" group-title="TWO BR | PORTUGAL",PT: TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130399
-#EXTINF:-1 tvg-name="PT: TVCINE Action" group-title="TWO BR | PORTUGAL",PT: TVCINE Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130404
-#EXTINF:-1 tvg-name="PT: TVCINE Edition" group-title="TWO BR | PORTUGAL",PT: TVCINE Edition
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130408
-#EXTINF:-1 tvg-name="PT: TVCINE Emotion" group-title="TWO BR | PORTUGAL",PT: TVCINE Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130412
-#EXTINF:-1 tvg-name="PT: TVCINE Emotion FHD" group-title="TWO BR | PORTUGAL",PT: TVCINE Emotion FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130413
-#EXTINF:-1 tvg-name="PT: TVCINE Top FHD" group-title="TWO BR | PORTUGAL",PT: TVCINE Top FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130416
-#EXTINF:-1 tvg-name="PT: TVI FHD" group-title="TWO BR | PORTUGAL",PT: TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130421
-#EXTINF:-1 tvg-name="PT: TVI HD" group-title="TWO BR | PORTUGAL",PT: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130425
-#EXTINF:-1 tvg-name="PT: TVI REALITY" group-title="TWO BR | PORTUGAL",PT: TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130427
-#EXTINF:-1 tvg-name="PT: TVI Reality FHD" group-title="TWO BR | PORTUGAL",PT: TVI Reality FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip nandoplaytv[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Paulogarcia/85194bfac/130432
+#EXTINF:-1 tvg-name="PT | A BOLA TV" tvg-logo="https://sport-tv-guide.live/images/stations/a798.png" group-title="TWO BR| PORTUGAL",PT | A BOLA TV
+http://cdn.pthdtv.top:80/962081239/567243977/2667309
+#EXTINF:-1 tvg-name="PT | A BOLA TV ²" tvg-logo="https://sport-tv-guide.live/images/stations/a798.png" group-title="TWO BR| PORTUGAL",PT | A BOLA TV ²
+http://cdn.pthdtv.top:80/962081239/567243977/2667310
+#EXTINF:-1 tvg-name="PT | AFRO MUSIC" tvg-logo="https://www.trzcacak.rs/myfile/full/247-2470357_afro-afro-music.png" group-title="TWO BR| PORTUGAL",PT | AFRO MUSIC
+http://cdn.pthdtv.top:80/962081239/567243977/2667311
+#EXTINF:-1 tvg-name="PT | AMC" tvg-logo="http://200.77.160.48:8090/izzi/v4/img/dummy-img/channels/aMC.png" group-title="TWO BR| PORTUGAL",PT | AMC
+http://cdn.pthdtv.top:80/962081239/567243977/2667312
+#EXTINF:-1 tvg-name="PT | ARTV" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7tr2gd5mllfe.png" group-title="TWO BR| PORTUGAL",PT | ARTV
+http://cdn.pthdtv.top:80/962081239/567243977/2667313
+#EXTINF:-1 tvg-name="PT | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" group-title="TWO BR| PORTUGAL",PT | AXN
+http://cdn.pthdtv.top:80/962081239/567243977/2667314
+#EXTINF:-1 tvg-name="PT | AXN MOVIES" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/axn_black.png?itok=Qms3FUZl" group-title="TWO BR| PORTUGAL",PT | AXN MOVIES
+http://cdn.pthdtv.top:80/962081239/567243977/2667315
+#EXTINF:-1 tvg-name="PT | AXN WHITE" tvg-logo="https://seeklogo.com/images/A/axn-white-logo-4568307513-seeklogo.com.png" group-title="TWO BR| PORTUGAL",PT | AXN WHITE
+http://cdn.pthdtv.top:80/962081239/567243977/2667316
+#EXTINF:-1 tvg-name="PT | BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="TWO BR| PORTUGAL",PT | BABY TV
+http://cdn.pthdtv.top:80/962081239/567243977/2667317
+#EXTINF:-1 tvg-name="PT | BENFICA TV" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="TWO BR| PORTUGAL",PT | BENFICA TV
+http://cdn.pthdtv.top:80/962081239/567243977/2667319
+#EXTINF:-1 tvg-name="PT | BENFICA TV ²" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="TWO BR| PORTUGAL",PT | BENFICA TV ²
+http://cdn.pthdtv.top:80/962081239/567243977/2667320
+#EXTINF:-1 tvg-name="PT | BLAZE" tvg-logo="https://image.roku.com/developer_channels/prod/e09d957355f61341352a484c6dd0fbaef06b2afc40014f8aadda14d061830fd6.png" group-title="TWO BR| PORTUGAL",PT | BLAZE
+http://cdn.pthdtv.top:80/962081239/567243977/2667321
+#EXTINF:-1 tvg-name="PT | CACA E PESCA" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="TWO BR| PORTUGAL",PT | CACA E PESCA
+http://cdn.pthdtv.top:80/962081239/567243977/2667322
+#EXTINF:-1 tvg-name="PT | CACA VISION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/CASA_Vision.png/revision/latest?cb=20141230180937" group-title="TWO BR| PORTUGAL",PT | CACA VISION
+http://cdn.pthdtv.top:80/962081239/567243977/2667323
+#EXTINF:-1 tvg-name="PT | CANAL PANDA" tvg-logo="https://image.roku.com/developer_channels/prod/d57160e099b0e72136d975fb478e2543eeca3539063d96b2271bda30ade1975f.png" group-title="TWO BR| PORTUGAL",PT | CANAL PANDA
+http://cdn.pthdtv.top:80/962081239/567243977/2667327
+#EXTINF:-1 tvg-name="PT | CANAL Q" tvg-logo="https://www.thematv.com/images/channels/canal-q.png" group-title="TWO BR| PORTUGAL",PT | CANAL Q
+http://cdn.pthdtv.top:80/962081239/567243977/2667328
+#EXTINF:-1 tvg-name="PT | CANCAO NOVA" tvg-logo="https://media.licdn.com/dms/image/C560BAQEW8baU2jVw5A/company-logo_200_200/0?e=2159024400&v=beta&t=0aYZL8eXGak8C3D4MeydQhw8FBs2N5wSCoj4J7xZqfc" group-title="TWO BR| PORTUGAL",PT | CANCAO NOVA
+http://cdn.pthdtv.top:80/962081239/567243977/2667329
+#EXTINF:-1 tvg-name="PT | CARTOON NETWORK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/buy-cheap-cartoon-network-clothing-toys-png-logo-5.png" group-title="TWO BR| PORTUGAL",PT | CARTOON NETWORK
+http://cdn.pthdtv.top:80/962081239/567243977/2667330
+#EXTINF:-1 tvg-name="PT | CBS REALITY" tvg-logo="https://hqtv.biz/tv/logos/m/cbs-reality.png" group-title="TWO BR| PORTUGAL",PT | CBS REALITY
+http://cdn.pthdtv.top:80/962081239/567243977/2667331
+#EXTINF:-1 tvg-name="PT | CINEMUNDO" tvg-logo="http://www.comandotv.com/xbmc/cinemundo.png" group-title="TWO BR| PORTUGAL",PT | CINEMUNDO
+http://cdn.pthdtv.top:80/962081239/567243977/2667332
+#EXTINF:-1 tvg-name="PT | CMTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="TWO BR| PORTUGAL",PT | CMTV
+http://cdn.pthdtv.top:80/962081239/567243977/2667333
+#EXTINF:-1 tvg-name="PT | CMTV ²" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="TWO BR| PORTUGAL",PT | CMTV ²
+http://cdn.pthdtv.top:80/962081239/567243977/2667334
+#EXTINF:-1 tvg-name="PT | CRIME + INVESTIGATION" tvg-logo="https://archive.org/download/CrimeInvestigation/CrimeInvestigation.png" group-title="TWO BR| PORTUGAL",PT | CRIME + INVESTIGATION
+http://cdn.pthdtv.top:80/962081239/567243977/2667335
+#EXTINF:-1 tvg-name="PT | DISCOVERY CHANNEL" tvg-logo="https://p.pngsee.com/uploadpng/small/109-1091126_discovery-press-world-png-logo-logo-discovery-channel.png" group-title="TWO BR| PORTUGAL",PT | DISCOVERY CHANNEL
+http://cdn.pthdtv.top:80/962081239/567243977/2667336
+#EXTINF:-1 tvg-name="PT | DISNEY CHANNEL" tvg-logo="https://www.netclipart.com/pp/m/261-2610808_disney-channel-png-disney-channel-mickey-ears.png" group-title="TWO BR| PORTUGAL",PT | DISNEY CHANNEL
+http://cdn.pthdtv.top:80/962081239/567243977/2667337
+#EXTINF:-1 tvg-name="PT | DISNEY JUNIOR" tvg-logo="http://www.throng.com.au/files/u3/disney-junior.png" group-title="TWO BR| PORTUGAL",PT | DISNEY JUNIOR
+http://cdn.pthdtv.top:80/962081239/567243977/2667338
+#EXTINF:-1 tvg-name="PT | DOG TV" tvg-logo="https://siteassets.pagecloud.com/dogtv/images/dogtvlogo-ID-b9f1e327-63e1-4d3c-9caf-da8b22a354e7.png" group-title="TWO BR| PORTUGAL",PT | DOG TV
+http://cdn.pthdtv.top:80/962081239/567243977/2667339
+#EXTINF:-1 tvg-name="PT | ELEVEN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="TWO BR| PORTUGAL",PT | ELEVEN SPORTS 1
+http://cdn.pthdtv.top:80/962081239/567243977/2667340
+#EXTINF:-1 tvg-name="PT | ELEVEN SPORTS 1 ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="TWO BR| PORTUGAL",PT | ELEVEN SPORTS 1 ²
+http://cdn.pthdtv.top:80/962081239/567243977/2667341
+#EXTINF:-1 tvg-name="PT | ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="TWO BR| PORTUGAL",PT | ELEVEN SPORTS 2
+http://cdn.pthdtv.top:80/962081239/567243977/2667342
+#EXTINF:-1 tvg-name="PT | ELEVEN SPORTS 3" group-title="TWO BR| PORTUGAL",PT | ELEVEN SPORTS 3
+http://cdn.pthdtv.top:80/962081239/567243977/2667343
+#EXTINF:-1 tvg-name="PT | ELEVEN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="TWO BR| PORTUGAL",PT | ELEVEN SPORTS 4
+http://cdn.pthdtv.top:80/962081239/567243977/2667344
+#EXTINF:-1 tvg-name="PT | ELEVEN SPORTS 5" tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="TWO BR| PORTUGAL",PT | ELEVEN SPORTS 5
+http://cdn.pthdtv.top:80/962081239/567243977/2667345
+#EXTINF:-1 tvg-name="PT | ELEVEN SPORTS 6" tvg-logo="https://sport-tv-guide.live/images/stations/a1559.png" group-title="TWO BR| PORTUGAL",PT | ELEVEN SPORTS 6
+http://cdn.pthdtv.top:80/962081239/567243977/2667346
+#EXTINF:-1 tvg-name="PT | EURONEWS" tvg-logo="http://www.userlogos.org/files/logos/Hugo/euronews1.png" group-title="TWO BR| PORTUGAL",PT | EURONEWS
+http://cdn.pthdtv.top:80/962081239/567243977/2667347
+#EXTINF:-1 tvg-name="PT | FASHION TV" tvg-logo="https://pbs.twimg.com/profile_images/377155464/FashionTV_logo.png" group-title="TWO BR| PORTUGAL",PT | FASHION TV
+http://cdn.pthdtv.top:80/962081239/567243977/2667348
+#EXTINF:-1 tvg-name="PT | FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="TWO BR| PORTUGAL",PT | FOOD NETWORK
+http://cdn.pthdtv.top:80/962081239/567243977/2667349
+#EXTINF:-1 tvg-name="PT | GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="TWO BR| PORTUGAL",PT | GLOBO
+http://cdn.pthdtv.top:80/962081239/567243977/2667355
+#EXTINF:-1 tvg-name="PT | HISTORIA" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/historia_126.jpg" group-title="TWO BR| PORTUGAL",PT | HISTORIA
+http://cdn.pthdtv.top:80/962081239/567243977/2667356
+#EXTINF:-1 tvg-name="PT | HOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="TWO BR| PORTUGAL",PT | HOLLYWOOD
+http://cdn.pthdtv.top:80/962081239/567243977/2667357
+#EXTINF:-1 tvg-name="PT | INVESTIGATION DISCOVERY" tvg-logo="https://1s7efb3dokct1y2e4q31coij-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/logo-blk-id@2x.png" group-title="TWO BR| PORTUGAL",PT | INVESTIGATION DISCOVERY
+http://cdn.pthdtv.top:80/962081239/567243977/2667358
+#EXTINF:-1 tvg-name="PT | MEZZO" tvg-logo="http://triozadig.com/wp-content/uploads/2018/01/unnamed-e1517589268840.jpg" group-title="TWO BR| PORTUGAL",PT | MEZZO
+http://cdn.pthdtv.top:80/962081239/567243977/2667359
+#EXTINF:-1 tvg-name="PT | MOTORVISION TV" tvg-logo="https://mountain.partners/media/1301/motorvisiontv.png" group-title="TWO BR| PORTUGAL",PT | MOTORVISION TV
+http://cdn.pthdtv.top:80/962081239/567243977/2667360
+#EXTINF:-1 tvg-name="PT | MTV" tvg-logo="http://pluspng.com/img-png/mtv-logo-vector-png-mtv-logo-vector-download-280.png" group-title="TWO BR| PORTUGAL",PT | MTV
+http://cdn.pthdtv.top:80/962081239/567243977/2667361
+#EXTINF:-1 tvg-name="PT | MTV DANCE" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png" group-title="TWO BR| PORTUGAL",PT | MTV DANCE
+http://cdn.pthdtv.top:80/962081239/567243977/2667362
+#EXTINF:-1 tvg-name="PT | NAT GEO WILD" tvg-logo="https://sc.dish.com/shared/images/station-logos/natgw.png" group-title="TWO BR| PORTUGAL",PT | NAT GEO WILD
+http://cdn.pthdtv.top:80/962081239/567243977/2667363
+#EXTINF:-1 tvg-name="PT | NATIONAL GEOGRAPHIC" group-title="TWO BR| PORTUGAL",PT | NATIONAL GEOGRAPHIC
+http://cdn.pthdtv.top:80/962081239/567243977/2667364
+#EXTINF:-1 tvg-name="PT | NICK JR." tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="TWO BR| PORTUGAL",PT | NICK JR.
+http://cdn.pthdtv.top:80/962081239/567243977/2667365
+#EXTINF:-1 tvg-name="PT | NICKELODEON" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-sound-png-27.png" group-title="TWO BR| PORTUGAL",PT | NICKELODEON
+http://cdn.pthdtv.top:80/962081239/567243977/2667366
+#EXTINF:-1 tvg-name="PT | NOS STUDIOS" tvg-logo="https://cdn.nos.pt/common/img/nos_opengraph.png" group-title="TWO BR| PORTUGAL",PT | NOS STUDIOS
+http://cdn.pthdtv.top:80/962081239/567243977/2667367
+#EXTINF:-1 tvg-name="PT | PFC" tvg-logo="https://www.nossagente.net/wp_new/wp-content/uploads/2013/08/PFC_LOGO_slogan2.png" group-title="TWO BR| PORTUGAL",PT | PFC
+http://cdn.pthdtv.top:80/962081239/567243977/2667368
+#EXTINF:-1 tvg-name="PT | PORTO CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_porto_canal.png" group-title="TWO BR| PORTUGAL",PT | PORTO CANAL
+http://cdn.pthdtv.top:80/962081239/567243977/2667369
+#EXTINF:-1 tvg-name="PT | RTP 1" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtp1.png" group-title="TWO BR| PORTUGAL",PT | RTP 1
+http://cdn.pthdtv.top:80/962081239/567243977/2667370
+#EXTINF:-1 tvg-name="PT | RTP 1 ²" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtp1.png" group-title="TWO BR| PORTUGAL",PT | RTP 1 ²
+http://cdn.pthdtv.top:80/962081239/567243977/2667371
+#EXTINF:-1 tvg-name="PT | RTP 2" tvg-logo="https://www.fpo.pt/www/images/fpo/comunicados/gerais/2013/16579_443615305705283_333251319_n.png" group-title="TWO BR| PORTUGAL",PT | RTP 2
+http://cdn.pthdtv.top:80/962081239/567243977/2667372
+#EXTINF:-1 tvg-name="PT | RTP 3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="TWO BR| PORTUGAL",PT | RTP 3
+http://cdn.pthdtv.top:80/962081239/567243977/2667373
+#EXTINF:-1 tvg-name="PT | RTP 3(OPCAO 2)" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="TWO BR| PORTUGAL",PT | RTP 3(OPCAO 2)
+http://cdn.pthdtv.top:80/962081239/567243977/2667374
+#EXTINF:-1 tvg-name="PT | RTP ACORES" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="TWO BR| PORTUGAL",PT | RTP ACORES
+http://cdn.pthdtv.top:80/962081239/567243977/2667375
+#EXTINF:-1 tvg-name="PT | RTP AFRICA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica.png" group-title="TWO BR| PORTUGAL",PT | RTP AFRICA
+http://cdn.pthdtv.top:80/962081239/567243977/2667376
+#EXTINF:-1 tvg-name="PT | RTP MADEIRA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Madeira.png" group-title="TWO BR| PORTUGAL",PT | RTP MADEIRA
+http://cdn.pthdtv.top:80/962081239/567243977/2667377
+#EXTINF:-1 tvg-name="PT | RTP MEMORIA" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="TWO BR| PORTUGAL",PT | RTP MEMORIA
+http://cdn.pthdtv.top:80/962081239/567243977/2667378
+#EXTINF:-1 tvg-name="PT | SIC (B)" tvg-logo="https://i.postimg.cc/cCV9Y4xY/SIC-2018.png" group-title="TWO BR| PORTUGAL",PT | SIC (B)
+http://cdn.pthdtv.top:80/962081239/567243977/2667379
+#EXTINF:-1 tvg-name="PT | SIC MULHER" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="TWO BR| PORTUGAL",PT | SIC MULHER
+http://cdn.pthdtv.top:80/962081239/567243977/2667380
+#EXTINF:-1 tvg-name="PT | SIC NOTICIAS" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="TWO BR| PORTUGAL",PT | SIC NOTICIAS
+http://cdn.pthdtv.top:80/962081239/567243977/2667381
+#EXTINF:-1 tvg-name="PT | SIC NOTICIAS ²" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="TWO BR| PORTUGAL",PT | SIC NOTICIAS ²
+http://cdn.pthdtv.top:80/962081239/567243977/2667382
+#EXTINF:-1 tvg-name="PT | SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="TWO BR| PORTUGAL",PT | SIC RADICAL
+http://cdn.pthdtv.top:80/962081239/567243977/2667383
+#EXTINF:-1 tvg-name="PT | SIC ²" tvg-logo="https://4.bp.blogspot.com/-DtY41i7UI5s/W7dU1andqXI/AAAAAAAAVOA/y7hit8JMqgc0Y9UFETekeTuuc7YipuTiACLcBGAs/s1600/Novo+Logotipo+SIC.png" group-title="TWO BR| PORTUGAL",PT | SIC ²
+http://cdn.pthdtv.top:80/962081239/567243977/2667384
+#EXTINF:-1 tvg-name="PT | SPORT TV 1" tvg-logo="https://gulf365.co/content/uploads/2019/09/20/0b06788710.jpg" group-title="TWO BR| PORTUGAL",PT | SPORT TV 1
+http://cdn.pthdtv.top:80/962081239/567243977/2667385
+#EXTINF:-1 tvg-name="PT | SPORT TV 1" tvg-logo="https://gulf365.co/content/uploads/2019/09/20/0b06788710.jpg" group-title="TWO BR| PORTUGAL",PT | SPORT TV 1
+http://cdn.pthdtv.top:80/962081239/567243977/2667386
+#EXTINF:-1 tvg-name="PT | SPORT TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAJXM-VWcZB2Xo5QO1vKhFMABazcmx9PsC0BisQsu9iG3iW-d" group-title="TWO BR| PORTUGAL",PT | SPORT TV 2
+http://cdn.pthdtv.top:80/962081239/567243977/2667387
+#EXTINF:-1 tvg-name="PT | SPORT TV 3" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="TWO BR| PORTUGAL",PT | SPORT TV 3
+http://cdn.pthdtv.top:80/962081239/567243977/2667388
+#EXTINF:-1 tvg-name="PT | SPORT TV 4" tvg-logo="https://2.bp.blogspot.com/-8iCvE3hryzY/WcfzD3DmjqI/AAAAAAAAEmA/nH61kBu8QS0adinlN8lPIDPjvacCuW8kACLcBGAs/s392/Sport-Tv-4.png" group-title="TWO BR| PORTUGAL",PT | SPORT TV 4
+http://cdn.pthdtv.top:80/962081239/567243977/2667389
+#EXTINF:-1 tvg-name="PT | SPORT TV 5" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="TWO BR| PORTUGAL",PT | SPORT TV 5
+http://cdn.pthdtv.top:80/962081239/567243977/2667390
+#EXTINF:-1 tvg-name="PT | SPORT TV 6" group-title="TWO BR| PORTUGAL",PT | SPORT TV 6
+http://cdn.pthdtv.top:80/962081239/567243977/2667391
+#EXTINF:-1 tvg-name="PT | SPORT TV+" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques-hp/sporttv+/medium_sporttv+.jpg" group-title="TWO BR| PORTUGAL",PT | SPORT TV+
+http://cdn.pthdtv.top:80/962081239/567243977/2667392
+#EXTINF:-1 tvg-name="PT | STAR" tvg-logo="https://pbs.twimg.com/profile_images/1176519394022658048/nFDAUWzR_400x400.png" group-title="TWO BR| PORTUGAL",PT | STAR
+http://cdn.pthdtv.top:80/962081239/567243977/2667350
+#EXTINF:-1 tvg-name="PT | STAR+ COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-comedy-hd_m.png" group-title="TWO BR| PORTUGAL",PT | STAR+ COMEDY
+http://cdn.pthdtv.top:80/962081239/567243977/2667351
+#EXTINF:-1 tvg-name="PT | STAR+ CRIME" tvg-logo="https://1.bp.blogspot.com/-LUcRqLO3-_w/VtCPP7a8XxI/AAAAAAAABEs/eLZ4w1mWwvw/s1600/fox_crime_asia_hd.gif" group-title="TWO BR| PORTUGAL",PT | STAR+ CRIME
+http://cdn.pthdtv.top:80/962081239/567243977/2667352
+#EXTINF:-1 tvg-name="PT | STAR+ LIFE" tvg-logo="http://kccl.tv/sites/default/files/Fox-Life-HD.png" group-title="TWO BR| PORTUGAL",PT | STAR+ LIFE
+http://cdn.pthdtv.top:80/962081239/567243977/2667353
+#EXTINF:-1 tvg-name="PT | STAR+ MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group-title="TWO BR| PORTUGAL",PT | STAR+ MOVIES
+http://cdn.pthdtv.top:80/962081239/567243977/2667354
+#EXTINF:-1 tvg-name="PT | SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/SYFY.png" group-title="TWO BR| PORTUGAL",PT | SYFY
+http://cdn.pthdtv.top:80/962081239/567243977/2667393
+#EXTINF:-1 tvg-name="PT | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Tlc.png" group-title="TWO BR| PORTUGAL",PT | TLC
+http://cdn.pthdtv.top:80/962081239/567243977/2667394
+#EXTINF:-1 tvg-name="PT | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="TWO BR| PORTUGAL",PT | TOROS TV
+http://cdn.pthdtv.top:80/962081239/567243977/2667395
+#EXTINF:-1 tvg-name="PT | TPA INTERNACIONAL" tvg-logo="http://www.semba-c.com/site/uploads/images/20151123143736_0.PNG" group-title="TWO BR| PORTUGAL",PT | TPA INTERNACIONAL
+http://cdn.pthdtv.top:80/962081239/567243977/2667396
+#EXTINF:-1 tvg-name="PT | TRACE URBAN" tvg-logo="https://pbs.twimg.com/profile_images/1101077726612676608/tS3DbFx0_400x400.png" group-title="TWO BR| PORTUGAL",PT | TRACE URBAN
+http://cdn.pthdtv.top:80/962081239/567243977/2667397
+#EXTINF:-1 tvg-name="PT | TV RECORD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEBUQEBIVFRIXGBkSFhcXFRgdFhUXFRUXFxcYGBUYHSggGBolGxUXITEiJSkrLi4uFx8zODUsNygtLisBCgoKDg0OGxAQGy0lIB8tLS0tLS0tLS0tLS0tLS8rLS0tLS0tLS0tLSstLS0tLS0tLS0rLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYDBAcCAf/EAE4QAAEDAgIGBgYGBgYIBwAAAAEAAgMEERIhBQYxQVFhEyJxgZGhBzJCcrHwI1JigsHRFDOSk7LSFzRUc6LhFRYkQ0SDw/ElNUVTlLPC/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAkEQEBAAIBBAMBAQADAAAAAAAAAQIRIQMSMUETUWEiMkJicf/aAAwDAQACEQMRAD8A7iiIgIiICIiAiIgIiICIoyt1gpYnYHzNx/UZd8n7tgLvJTJsSaKDfrET+qo6qQccEcY7+new+S+jS9Qf+Et708d/8N1PbUbTaKEOmKgbaMn3Z4yf8WFfWawb5aWpj7WMk/8Aoe8p202mkUfR6ap5ThZK3H9R12yfu32cPBSCrpIiIgIiICIiAiIgIiICIiAiIgIiICIiAiLQ0tpVkDRiDnyOyjiYMUkh4NbwzF3GwG0kBBvOcALk2AzJOwKvP1lMpLaCPp9xmccNM3skteU+4COJCj5aY1D76TmiYzMso2yjAALZzuuDM4ZZZMF9h2qRfpekADRVQgDIBrmm3KzTktJjFdtaXRrpM6yofLv6NhMUA5YGHE8cnucOSyRTRQtwQsZG3gxoaPALDLWUrv8AjIx25DxJWMUIk/Uzwye68fgStJJ7Vu/T3LpQrA7SZWpW6PqGZmNxHEZjyUS+p3LbHHG+FLanxpMrNHpUqsfpSyMqlPxxHdVqfVRyjDKxr28HtBHgVkggLM6aZ8f2HkyRH7rziYOTHNHJVqKpW9BUncVTLpfS0yWSPTeAhtUzor5CQHFA4/3lhgPJ4HIlTAKrFNXXGF2YORB2EcwkTJKfr0nXh9qmJ2DeYHH1T9g9U7sO/nyw00mSzotTRekoqiMSwuu25aQQQ5rhk5r2nNrgdoK21msIiICIiAiIgIiICIiAiIgIiIInWrTjKKjlq3jFgHVbve9xDWMvuu4gX3bdy41oao0pWl73ylgecUsvVYS0k4Yoy4glgzsAcIuTYkldAfN/pSpI/wDTqZ//AMmZuz/ltvfnlxynpXNYLMa1o4NAA8At8P59cqXlyn/UmokfaO7WDcySMvNvae4Ov3DLtW3F6O4yAJXh1tl3vda+21xls3K51jw7bu2EbQeIO0Fa9LVlzgHbTdp5uF7EDnhd4Ba8+aorsfo8pgQRhBGYIDgQRvBGxZHalEZxzOGd/XJubWvZ4t4q4CJeuiUbSq9NDpKn/VzF7Ruds8RiaNnDetw6wtf1a+lH94wW+fEdinQwrzJGD6zQfj47VHAhH6vxTDHRTh2/o35OHz2KBqoZInYJWFp57+w71Z59BRk4oiY3jMWyz7svgvT9ISMb0VdGJovr26w53/PxVpnZ+o1FYiqFv09Qtmu1bDmmaif0jN7Pbby/yULDIQbHIrWZTLwrZpZIJVKUlSQq5SyqVgeq5Yplb1fSyNeayit04A6SMmzKpjfZdwkA9V/cclO6F0rHUwiaImxuC05OY4ZOY4bnA7lEUU9jZaOk3GinOkIgegfZtYwbtzaho+sNjuI7FzZY+mkq5ovMbw4BzSC0gEEbCDmCCvSxXEREBERAREQEREBERAVP9Iulntjjoac/7RVO6MW2tYcnu5bbdmI7lcFzfVeT9N0pUaQOccQ6GHhncAj7ocf+YtOnPd9K5fS06PoGU1Oyni9Vjbe8drnHmTc960a2ZSFbIoGpkzWvTm+VcqxTSLHQxkuhP1nF490B5/6rfFa8t3EMabOcQwci42B7r3VjpqYGqIA6sTAwe87M+WDwWmd1NKTluthXsQrabGvYjXP3NNNPoV5MK3+jXwxp3J0jXQLG6PKxFxwKlDEsbolMyRpWJtHPid01I7C4Zlm4jfls/Ds2pJBDXAkAQ1Y2g5B1uPzftCsD4VE6S0XjIkj6kzdhGV+WSvKjSsiJ8byyRpa4bQfnMKUpnKRYW1beimGCpZ6rvrfn2d43qNZC5jix4s4ZEfO5azLfF8qWaSULlLU5DmlrgC1wLSDsIIsQRwsoeEqQpHLPOLRo6p1Bpqh+ipSS0DpaRx9qEnOO/Fh8r8FcFS9eKZ3Qx1sX66leJQeMZIEjTytY9xVza4EXBuOIWGf2vPp9REVFhERAREQEREBERBX9fNJdBQTPBs9w6JvvSdW47Bc9yifR5R9Fo5htYyF0p7CcLf8AC0KN9MVWcNPANhL5T90Brf4neCtlBB0dNDGPYjY3wYAttawn7VP+TT0hIoOoepPSLlC1Dl0dOcM8q3dWog6qxu9WJrpCeBPVb5F5+6rFq/GTGZXDrSuMh+8bgeFlA6HjtRyvHrTSCBp34R1fiZFc4Ig1oaNgFlh1cuavjH0NXqy9JZYtHmyWXqyWQeC1eS1ZLL4QiGBzFrywrdIXhwVpUaV3Suji7rsOGRubSOS+08gqmYXANqWDP7Q/L4X4FTUkd1CaSoHBwmiykbmCN/L5/FaS7RphjaRkRY7FtwHNI6plQL5MnGTmk2Duw/PwK+N6ps4OB4Fp/DI9yt3b8o03qprXQSNf6rmOaexwI/FNW64SwskFrSNLstmJjsDyOFzY27VWNatPdHDcerjaw3NiSXAd1vjttZZ9S5jHSUF/97LN+y8TyDzDVncf52nfK8oiLJcREQEREBERAREQci9KsuKvDdzYmDvLnk+RC6VViwtwyXMPSUP/ABB/uM/hXS5H4mNdxaHeIuunL/OLOeagNIHNQ1QVMaQ2qCrz1Xdh+C3w8M8ls0dB9HQxEbjM4X2HDi+MhVnUTBEBVMaNjILDvcB8GqWXFldt4IvqKiXxF9RB8XxfUQeCF4IWQryVKGFwWJ4WdwWJ4VohF1mjY3m7m58QSD5LWfRNGV3W4F78J7W3sVLSBQun69sMTnOOwX/y71rirVF1ynM08dNFbIiwGwOJDWCw2Z59xVm0vI2Cq0bSMybDgFu3DGPIFReomi3S1LqyUeqcQvvecgPui47XP4LHpWoMmmGn6s0TP2XNv53V7zdIdbREXI1EREBERAREQEREHJvSbDavv9aJh8HPb+AVw1ZqeloYXb2t6M9sfV+AB71DelalzgmGzrxnvs5vwctf0daQsZKZx9b6RnaBZw7xY/dK6rz05fpl4yS2kmqBrm9Vw5H4K0aTi2quVzOq7sPwWnTu4rl5XmD+tu/uWfxvUoomN3+2e9CPJ5/mUsuPJtBERVSIiIC+L6viD4V5K9FeSpHhyxOWVy1aucMbicrRFa9bOGNLiud1sr66oEcebA79o3zPYPw5FbemtJyVUnQw3LScJI9rk3lxPyLNoPRDadmEWMhyeRsH2B+Pgt5/MZ+W9o2jZDG2Nnqt38TvK5xoQ9NpONw9qcyd2Iv+AV61oruhpXuB6zh0be12XkLnuVU9G9JirQ+2UbHO7zZg8nHwUY/5tTfMjqyIi5mgiIgIiICIiAiIggtdtH9NRSNAu5v0re1mZ8Rcd65PRTuY9srDZzSHA8wu6rjesWiv0aqfFbqE44/cdsHdmO5dPQy84s+pPa909ayphErN+Tm72u3j53KFq4toVe0NpN8D8Tc2nJzdzh+BG4q0OnZK3pIzcbxvaeBC1mPbVLdpeGb6Sik2Y4zGe3C0geKsqpM0hFEyQbYJvIm//wC2q5wvDmhw2EXC5c5prjXtERZrCIiAvi+r4g+FeSkkgaLuIA5qu6Y1oYzqRXe/gNv5AcyrTG3wi3SV0jXsiaXPICo1bVz1snRxA4D3XHEn2W/HzWzFoyaoPTVLsEYzz2dw2uKlWSNa3o4G4Wbz7b+ZO4cv+y3xkx/9Ut286L0dHTjDHZ0hydJw+yzgOfyJGNakShdZtPdG0wxH6Q5OcPYB3A/W+CnVtN6Q2uWlemm6NhvHHccnOPrHyt48VavRpo7BTunIzldl7jLgeJLvJUDRtC6aZkLNrzbsG89wue5drpadsbGxsFmtAaByAsFHVuse2GHN2yoiLmaCIiAiIgIiICIiAq3rvoP9Igxxi80d3N4uHtM77XHMc1ZEU45XG7iLNuHRm4WxTzOYcTDY/HkRvVk131e6J5qoR9G43kA9hxPre6T4E81Wm5rvxymU3GNmls0JOKiGoht1nR4gPtM3992+Cm9UNKtfStDjm3qHu2eXwVJ0HXdBUMlPqg2d7pyPhe/cpKF/6LXy05yjk67OGebfC9u8rHqY82LY10Zrr5jML6qsysc31SR88F7qNZujaAbOkOwD8c9qxvTvpfuizLy94GZIHaVUv0+vl9SPCOdx+V/FeZND1ThimnDBvNwOzM4vinZPdO5YqnS0TBcuHzzKgKzXAHqwNLzs6ov4uOQWs3RdG3OSR0zuV3DzuL94WyK5jMoIGt4F+Z/ZH5q8xn0i2tEUtbU5yHomb7HO3N52dy2KampoB1AJX8fYvxLvb814qqp785Hkjgcmj7oyWlLXRt2vHdn8FfVV2kJqh8hu834DYB2DcvuMNGJxAA2knJQM+nLZRt73fkFEVdU+Q3e4ngNw7ArzFG0xpXWIkFkGQ2F+/wC6N3aq05ZCFN6qavmpku4WhYeufrHbgH48B2hTdYzaPKxejvQuBhqnjrPGGPkze7vPkOaui+NaAAALAZADYAF9XHll3XbaTUERFVIiIgIiICIiAiIgIiIPMjA4FrgCCLEHYQdoIXN9Z9WXU7jLCC6A5kb4+R4t5+PE9KXxwuLHMbFfDO41Fx2422xW5pEmelBH9YpRfnJBx5luw8iTvVn09qbcmWks07TEcmn3D7PZs7FUHiSN+WKOZmwEWOe0EHaD4Fdcymc4ZasSFNp0OpnTG92Nu4bTlls43+c1JU+noohemiu4jOST13dw9UcB5LnlbJgc7C3C14zZuBGfVvuBGzhlzNippA5jXDYQCnZPZtM1GsdQ72rdmXwstCSukJuSL8bC/iViSymYyeEbr66rk+uVidM87XO8SshC8lTpDA5pO1eHBZXLG5BiIXkhZ4oXPcGsaXOOwAXJ7lctA6l7JKrPeIwcvvkbewKuWcx8pktQGrmrclS7EbshBzdvdyZxPPYPJdNo6VkTBHG0NY0WAHzmVkYwAANAAGQAFgBwAXpcmedyazHQiIqLCIiAiIgIiICIiAiIgIiICIiAtTSOjYp24ZmB3A7HDscMwttEl0KFpz0flwJgeHfZfkf2wNvcqxT6CrKZxY6CR0d79VuIsvvBbcEea7Ii3x6+U4vKlwjk00L2+u1zfeBHxWK666Rfatd1BEdsUZ+438lM6/4j43KS5fY43Oya0u7AT8F1ZtDENkTB9xv5LOGgbAnz/h8bmVNq5VSbIi0cX9W3cc/JTdBqPvnk+6z+Y/krmipetlUzCNTR+jIYRaJgbxO1x7XHMrbRFlbtcREQEREBERAREQEREBEVI9KErmxw4XEdd2wkeyOCthj3XSLdTa7ouP6M0FW1EYlhJLCSLmW2YNjkSlVFX0Lmue6Rl9hx4mOtuIuQewrb4JvUy5U7/wAdgRUrSOm/0nREkw6rwWseAdjg9t7ciCD3qnaG0ZVVWLoHE4LYryEete208iq49Hctt1pNz+nZkXK/9T9I/M3+asujZ36OoHOqs5MZwNxXLi4DCMW4ZEngAVGXTk8XZMvuLevLJAdhB7CuPy1FbpCUtGJ+/ADaNg5gmw7TmVkqdUq2nHShnq53if1m88rHwV/gk4uXKO/6jryKnau6fmZQuqa3NjbCJ3+8k3Wtvz2HtPNVCr0jWaQlwNxOB2RMNmNH2tx7XKuPRtt/E3OOvNkB2EHsK9LkNTqfWwt6UR3tn9G4Fze4Z+F1N6ma4P6RtPVOxB3VZIfWDtzXHeDx238py6PG8bsmfOq6Gi5T6Qah7a54D3AYWZBxA9XgF8ZqppEgOANiLj6Yb+9J0ZqW3yd/OtOrouRUemKyhnwSl9hbFE91wWne03IHIhTXpIrMTaWSJzg17XuFiRcHoyL27VHw3uk35O/h0NFyCg0BXzRtliDix17HpQL2NthdxC+s0jX0MgEhkb9iQlzHDfbMjvaVb4PUvKO/8deRQOi6yOvgbKC9haS1zWusWu3g8RvB5rFpjRoiiL2vkuCBm7LMrLt51fK2/axooiPQjC0HpJcwD6/+Sx6XpDHEx8ZJMRxZm5IJz/Duuo1N62bqbRY6eYPY17dhF/Fe3Gwudm1VWfUUNoW8kslSdh6jPdHyPNTKmzSJdiIihIqN6VP1UHvu/hCvKo3pU/VQe+7+ELXo/wC4rn/lg1O1opaekbFM8h4c42DHHIuuMwFq6760w1ETYYLuGIPc4tIAsCAADnfNQB0FIaNtYzrMu5rwBmzC62Lm3jwUnqPBRSS9HUtvLe8eJ30bvs4frcjcFdFwwlubLdvDbo6J0ehJnvFuke17R9nEwA99j5KF1c1jfR48DGux4b4r5Yb7Le8ui69i2j5QPsfxtVP1Aq6aPpv0oxi+DD0gB2Y72uOxRjl3YW2b5TZqyMv9I8//ALMXi781h1+0i6UUpOQdCJiBsxP/ACt5q4f6W0Z9em/Zb+Sgte6WOop2VVKWvZFdjsGwNy4bmm3cVXC490/nSbLryntRqJsdFGWgYpB0jjxLtngLDuVgXO9SNbY4oxTVJwtBOB9sgCb4XW2Z7Dz5Kz12ttHGwu6ZrzubGcTieGWzvWXUwy7rwtjlNK96U5iG08QyaS99t12hrR5OKlfRzRtbRNkA60jnFx39V7mAdnV8yoLT9a3SNGJYm2ngOJ8e04HZOLeIyB7isWo2tTIGmnqDaO+Jj7XDSdoIG6+d+ZWtxvxds8xXc7tulrkWvlG2Ktf0eQcGy2G5zr3twzbfvXQqzWyjjYXdOx/BrDiceVhs77Lmshl0hW5CzpDa20RsGVz2DxPao6GNltvhPUsvD1rlMX1AedroYnHtdGD+KvVNrvRBjWmR1w0A/Rv2gdipev7A2tc1uxscYHYGWC1NP6Bkpi0nrRvALH2yzF8J4OHmtezHPHGVTdlumzrhphtXUtdC04Q0RtuOs84idnabAfmpDXqkMUFDE71mRuae0CO/mpj0f09E9uONn+0tHWD3XI+0wbLHja42dur6VfWp+yT/AKarMv7mM9Js/m1Y9Rv/AC+Hsd/G5ZNcKFktHKHAXa0yNP1XMF8vh3qJ1R0/SxUUUck7GvANwTmOs4qN1y1xjkidT0xLg7J77EDDva2+Zvx4LLsyvU4+19zta3ovnIqJI/ZdHiI5tcLHwcVdtZv6u7tb8VXPRnohzGPqni2MYGX+qDcu7CbW7Oases39Xd2t+KdSy9XhGP8AhJQeq3sHwX2RgILTmCLHsK+Qeq3sHwXtYNEPoJ5Y59M7aw3bzaf+4PevesFQRGIm+vIcA7Dt+Nu9Y9NN6OSOpbuOB/Np+T5LzQnpql021jOozmd58ye8LT/sp+JWkpxGxrBsAt28T4rMiLNcREQFB606vCsaxpk6PAS71b3uLcQpxFMtl3EWbRmr+iBTU4gxYwC43LbXxG9rXKr2kPR7E+UvilMTTngDLhp+ycQsOW5XRFadTKXcpcZUNV6FfLRmllnxONh0mDOzXAi7cWZy23Vb/o2H9pP7ofzK+opx6mWPiouMqhf0bD+0n90P5lZ9XNCClgMGPpAXF1y23rAC1rngpZFGXUyymrSYyeFM0x6P4pHF9O/oic8JGJndmC3zUdT+jd9/pKhob9lhJPeTl5roiK062cmtnZij9DaGhpmYIW2v6zjm5x4uPyFAab1DhlcZIXdC45kWuwnk24Le425K3oqzPKXcqbjLw51D6N5L9eoaG/ZYSfMiyuOgtAw0rS2IHEfWe7Nzu07hyClEU5dXLLi1ExkVPWHUsVU7pjOWXAbbBfYLbcQVhqdHRyQ9BKMTMIae4ZEcDldbaKtzyuvxOopVJqEYpRLDVua5pu09GCbcD1sxbI8VKaz6s/pnRYpcBYHA2ZcOLsN8i7L1ee1WFFb5Mt72jtnhQv6Nh/aT+6H8ykNF6hU0bg+RzpiNzrBne0be82VtRL1s77OyPgFshsWtpKj6WMxk2vY3tfYeC2kWculnxjbADhkvqIgxVUAkY5jthFvyK8UFIIowxudsyeJO9bCKd+jQiIoBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERB//Z" group-title="TWO BR| PORTUGAL",PT | TV RECORD
+http://cdn.pthdtv.top:80/962081239/567243977/2667398
+#EXTINF:-1 tvg-name="PT | TVCINE ACTION" tvg-logo="http://zap.cvmultimedia.cv/wp-content/uploads/2016/09/LOGOS-CANAIS-ZAP-160x160-tvc1.png" group-title="TWO BR| PORTUGAL",PT | TVCINE ACTION
+http://cdn.pthdtv.top:80/962081239/567243977/2667399
+#EXTINF:-1 tvg-name="PT | TVCINE EDITION" tvg-logo="http://jokerplanete.com/logos-portugal-tv/TVC4.png" group-title="TWO BR| PORTUGAL",PT | TVCINE EDITION
+http://cdn.pthdtv.top:80/962081239/567243977/2667402
+#EXTINF:-1 tvg-name="PT | TVCINE EMOTION" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11596_logo_tv_cine_4.png" group-title="TWO BR| PORTUGAL",PT | TVCINE EMOTION
+http://cdn.pthdtv.top:80/962081239/567243977/2667401
+#EXTINF:-1 tvg-name="PT | TVCINE TOP" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="TWO BR| PORTUGAL",PT | TVCINE TOP
+http://cdn.pthdtv.top:80/962081239/567243977/2667400
+#EXTINF:-1 tvg-name="PT | TVI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/TVI_logo.png/revision/latest?cb=20100918105531" group-title="TWO BR| PORTUGAL",PT | TVI
+http://cdn.pthdtv.top:80/962081239/567243977/2667403
+#EXTINF:-1 tvg-name="PT | TVI 24" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="TWO BR| PORTUGAL",PT | TVI 24
+http://cdn.pthdtv.top:80/962081239/567243977/2667404
+#EXTINF:-1 tvg-name="PT | TVI 24(OPCAO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="TWO BR| PORTUGAL",PT | TVI 24(OPCAO 2)
+http://cdn.pthdtv.top:80/962081239/567243977/2667405
+#EXTINF:-1 tvg-name="PT | TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png" group-title="TWO BR| PORTUGAL",PT | TVI FICCAO
+http://cdn.pthdtv.top:80/962081239/567243977/2667406
+#EXTINF:-1 tvg-name="PT | TVI FICÇÃO" tvg-logo="https://i.postimg.cc/D0HvXs4g/TVI-Ficcao.png" group-title="TWO BR| PORTUGAL",PT | TVI FICÇÃO
+http://cdn.pthdtv.top:80/962081239/567243977/2667407
+#EXTINF:-1 tvg-name="PT | TVI REALITY CAMERA 1" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="TWO BR| PORTUGAL",PT | TVI REALITY CAMERA 1
+http://cdn.pthdtv.top:80/962081239/567243977/2667408
+#EXTINF:-1 tvg-name="PT | TVI REALITY MOSAICO" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="TWO BR| PORTUGAL",PT | TVI REALITY MOSAICO
+http://cdn.pthdtv.top:80/962081239/567243977/2667409
+#EXTINF:-1 tvg-name="PT | TVI(OPCAO 2)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/TVI_logo.png/revision/latest?cb=20100918105531" group-title="TWO BR| PORTUGAL",PT | TVI(OPCAO 2)
+http://cdn.pthdtv.top:80/962081239/567243977/2667410
+#EXTINF:-1 tvg-name="PT | VH1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_8hMLqSQn1wqY2bgV_i_wO7MtcfVxPKHVBAw=s900-c-k-c0xffffffff-no-rj-mo" group-title="TWO BR| PORTUGAL",PT | VH1
+http://cdn.pthdtv.top:80/962081239/567243977/2667411
+#EXTINF:-1 tvg-name="PT | CNN" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="TWO BR| PORTUGAL",PT | CNN
+http://cdn.pthdtv.top:80/962081239/567243977/4137927
