@@ -2,7 +2,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="ARATUHD" tvg-name="SBT ARATU HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT ARATU HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ two vip 11 9 62700455 NANDOPLAYTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/962081239/567243977/173157
 #EXTINF:-1 tvg-name="SBT BAHIA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="TWO BR SBT",SBT BAHIA FHD
