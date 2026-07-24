@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Sistema Vidraçaria Offline</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="manifest.json">
+
+<style>
+
+body{
+font-family:Arial;
+background:#f4f6f9;
+margin:0;
+padding:10px;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+background:white;
+padding:15px;
+border-radius:10px;
+box-shadow:0 4px 15px rgba(0,0,0,0.2);
+border-top:5px solid #203a5c;
+position:relative;
+}
+
+/* Marca d'água */
+.marca{
+position:absolute;
+top:45%;
+left:50%;
+transform:translate(-50%,-50%);
+font-size:80px;
+color:rgba(0,0,0,0.05);
+pointer-events:none;
+font-weight:bold;
+white-space:nowrap;
+}
+
+.topo{
+background:#203a5c;
+color:white;
+padding:10px;
+display:flex;
+gap:20px;
+align-items:center;
+border-radius:10px 10px 0 0;
+}
+
+.logo img{
+height:70px;
+background:white;
+padding:5px;
+border-radius:8px;
+}
+
+.section-box{
+margin-top:8px;
+padding:8px;
+border:1px solid #ccc;
+border-radius:8px;
+background:#f9f9f9;
+}
+
+input,select,textarea{
+width:100%;
+padding:5px;
+margin-top:4px;
+border-radius:5px;
+border:1px solid #ccc;
+font-size:12px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:8px;
+}
+
+th,td{
+padding:6px;
+font-size:12px;
+}
+
+thead{
+background:#203a5c;
+color:white;
+}
+
+.total{
+text-align:right;
+font-size:16px;
+margin-top:8px;
+font-weight:bold;
+background:#203a5c;
+color:white;
+padding:6px;
+border-radius:5px;
+}
+
+button{
+background:#203a5c;
+color:white;
+border:none;
+padding:8px 15px;
+margin-top:10px;
+border-radius:5px;
+cursor:pointer;
+}
+
+.rodape{
+margin-top:15px;
+border-top:2px solid #203a5c;
+padding-top:6px;
+font-size:11px;
+text-align:center;
+}
+
+/* ================= PDF / IMPRESSÃO ================= */
+
+@page{
+size:A4 portrait;
+margin:8mm;
+}
+
+@media print{
+
+*{
+-webkit-print-color-adjust: exact !important;
+print-color-adjust: exact !important;
+}
+
+body{
+background:white;
+}
+
+button,
+.medidas,
+.tipo-modelo,
+.uploadLogo,
+.colMedida{
+display:none;
+}
+
+.container{
+box-shadow:none;
+border:none;
+transform:scale(0.92);
+transform-origin:top center;
+font-size:11px;
+}
+
+.marca{
+font-size:60px;
+}
+
+.topo,
+.total,
+thead{
+background:#203a5c !important;
+color:white !important;
+}
+
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container" id="orcamento">
+
+<div class="marca" id="marcaAgua"></div>
+
+<div class="topo">
+
+<div class="logo">
+<input type="file" class="uploadLogo" onchange="trocarLogo(event)">
+<img id="logoPreview">
+</div>
+
+<div>
+<input id="empresaNome" placeholder="Nome Empresa">
+<input id="empresaTel" placeholder="Telefone">
+<input id="empresaEnd" placeholder="Endereço Empresa">
+</div>
+
+</div>
+
+<div class="section-box">
+<input id="numeroPedido" placeholder="Pedido">
+</div>
+
+<div class="section-box">
+<h4>Cliente</h4>
+<input id="clienteNome" placeholder="Nome Cliente">
+<input id="clienteTel" placeholder="Telefone Cliente">
+<input id="clienteDoc" placeholder="CPF/CNPJ">
+<input id="clienteEnd" placeholder="Endereço">
+</div>
+
+<div class="section-box tipo-modelo">
+<select id="tipo">
+<option>Janela 2 folhas</option>
+<option>Janela 4 folhas</option>
+<option>Janela basculante</option>
+<option>Porta correr 2 folhas</option>
+<option>Porta correr 4 folhas</option>
+<option>Porta pivotante</option>
+<option>Porta balcão</option>
+<option>Box padrão</option>
+<option>Box flex</option>
+<option>Box articulado</option>
+<option>Abrigo de pia</option>
+<option>Fechamento de área</option>
+<option>Espelho</option>
+</select>
+</div>
+
+<div class="section-box medidas">
+
+<select id="unidade">
+<option value="cm">Centímetros</option>
+<option value="mm">Milímetros</option>
+</select>
+
+<input id="largura" placeholder="Largura">
+<input id="altura" placeholder="Altura">
+<input id="valorM2" placeholder="Valor m²">
+
+<button onclick="calcular()">Adicionar Item</button>
+
+</div>
+
+<table id="tabela">
+<thead>
+<tr>
+<th>Descrição</th>
+<th class="colMedida">Largura</th>
+<th class="colMedida">Altura</th>
+<th>Valor</th>
+<th>Remover</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+
+<div class="total">
+TOTAL: <span id="totalGeral">R$ 0,00</span>
+</div>
+
+<div class="section-box">
+<h4>Condições de Pagamento</h4>
+<textarea id="pagamento"></textarea>
+</div>
+
+<div class="rodape" id="rodapeEmpresa"></div>
+
+</div>
+
+<button onclick="window.print()">Imprimir</button>
+<button onclick="gerarPDF()">Salvar PDF</button>
+<button onclick="enviarWhats()">WhatsApp</button>
+
+<script>
+
+/* SERVICE WORKER */
+if ("serviceWorker" in navigator){
+navigator.serviceWorker.register("sw.js");
+}
+
+/* LOGO */
+function trocarLogo(e){
+let r=new FileReader();
+r.onload=()=>logoPreview.src=r.result;
+r.readAsDataURL(e.target.files[0]);
+}
+
+/* Empresa */
+function atualizarEmpresa(){
+marcaAgua.innerText=empresaNome.value;
+
+rodapeEmpresa.innerText=
+empresaNome.value+" | "+
+empresaTel.value+" | "+
+empresaEnd.value+
+" | Orçamento válido por 7 dias";
+}
+
+empresaNome.oninput=atualizarEmpresa;
+empresaTel.oninput=atualizarEmpresa;
+empresaEnd.oninput=atualizarEmpresa;
+
+/* Conversão */
+function converter(v){
+return unidade.value==="cm" ? v/100 : v/1000;
+}
+
+function moeda(v){
+return Number(v).toLocaleString("pt-BR",{style:"currency",currency:"BRL"});
+}
+
+/* Cálculo */
+function calcular(){
+
+let l=parseFloat(largura.value);
+let a=parseFloat(altura.value);
+let v=parseFloat(valorM2.value);
+
+if(!l || !a || !v){
+alert("Preencha todos os campos");
+return;
+}
+
+let area=converter(l)*converter(a);
+let total=area*v;
+
+let linha=`
+<tr>
+<td contenteditable="true">${tipo.value} - ${l}x${a}</td>
+<td class="colMedida">${l}</td>
+<td class="colMedida">${a}</td>
+<td>${moeda(total)}</td>
+<td><button onclick="this.parentElement.parentElement.remove();somar()">X</button></td>
+</tr>
+`;
+
+tabela.querySelector("tbody").insertAdjacentHTML("beforeend",linha);
+
+somar();
+
+largura.value="";
+altura.value="";
+valorM2.value="";
+}
+
+/* Soma */
+function somar(){
+let soma=0;
+document.querySelectorAll("#tabela tbody tr").forEach(tr=>{
+let v=tr.children[3].innerText.replace(/\D/g,"")/100;
+soma+=v;
+});
+totalGeral.innerText=moeda(soma);
+}
+
+/* WhatsApp */
+function enviarWhats(){
+
+let msg="Orçamento Vidraçaria\n";
+msg+="Pedido: "+numeroPedido.value+"\n";
+msg+="Cliente: "+clienteNome.value+"\n";
+msg+="Telefone: "+clienteTel.value+"\n\n";
+
+document.querySelectorAll("#tabela tbody tr").forEach(tr=>{
+msg+=tr.children[0].innerText+" - "+tr.children[3].innerText+"\n";
+});
+
+msg+="\nTotal: "+totalGeral.innerText;
+
+window.open("https://wa.me/?text="+encodeURIComponent(msg));
+}
+
+/* PDF */
+function gerarPDF(){
+window.print();
+}
+
+</script>
+
+</body>
+</html>
